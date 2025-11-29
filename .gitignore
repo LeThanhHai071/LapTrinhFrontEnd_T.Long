@@ -1,0 +1,80 @@
+# ===========================
+#  COMMON (FE + BE)
+# ===========================
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.*.local
+backend/.env
+frontend/.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+logs/
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+
+# ===========================
+#  FRONTEND (Vite + React)
+# ===========================
+
+# Build output
+frontend/dist/
+frontend/build/
+
+# Vite cache
+frontend/.vite/
+frontend/vite-cache/
+frontend/.cache/
+
+# TypeScript build info
+frontend/*.tsbuildinfo
+
+
+# ===========================
+#  BACKEND (Node.js + Express)
+# ===========================
+
+# Build output (nếu dùng Babel/TypeScript)
+backend/dist/
+backend/build/
+
+# Runtime files
+backend/pids/
+backend/*.pid
+backend/*.pid.lock
+
+# Debug
+backend/.eslintcache
+
+# TypeScript build info
+backend/*.tsbuildinfo
+
+
+# ===========================
+# OPTIONAL (nếu dùng)
+# ===========================
+
+# MacOS metadata
+*.DS_Store
+
+# Windows metadata
+Thumbs.db
+
+# Local dev tools
+*.local
