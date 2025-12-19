@@ -1,42 +1,42 @@
 #root {
-  max-width: 1280px;
+  max-width: 100%;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 0;
   text-align: center;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+body {
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  display: block;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.bootstrap__icon {
+  display: flex; 
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+.bootstrap__icon i {
+  font-family: "bootstrap-icons" !important;
+  font-style: normal;
+  font-weight: normal !important;
+
+  line-height: 1; /* Tránh bị lệch dòng trên/dưới */
+  color: inherit; /* Lấy màu theo cha hoặc đặt màu cụ thể */
+  display: inline-block;
 }
 
-.card {
-  padding: 2em;
+h1 {
+  margin: 0;
 }
 
-.read-the-docs {
-  color: #888;
+.hidden {
+  display: none !important;
+}
+
+* {
+    box-sizing: border-box;
 }
