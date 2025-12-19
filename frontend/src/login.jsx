@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./login.css";
 
 export default function Login() {
@@ -38,7 +39,7 @@ return (
 <div className="login-footer">
 <a href="#">Quên mật khẩu?</a>
 <span> | </span>
-<a href="#">Đăng ký</a>
+<Link to="/register">Đăng ký</Link>
 </div>
 </div>
 </div>
