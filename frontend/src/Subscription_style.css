@@ -1,0 +1,279 @@
+ body {
+    background: white;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.title_top {
+    font-size: 20px;
+    color: #4396CC;
+    line-height: 1.25;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.font_merriweather {
+    font-family: 'Merriweather', sans-serif;
+    font-weight: 900;
+}
+ .title_table{
+     background-color: #CDEAF7 !important;
+     letter-spacing: 1px;
+     text-align: center;
+ }
+
+.blue-line {
+    border: 2px solid #4396CC;
+    margin: 20px 0;
+    opacity: 1;
+}
+
+.preorder-block-wrap {
+    background: #F5F5F5;
+    border-radius: 4px;
+    padding: 40px;
+}
+
+.time-selection-wrapper {
+    background-color: #f9f9f9;
+    border-bottom: 1px solid #eee;
+}
+
+.date-input {
+    width: 200px !important;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 6px 12px;
+}
+.time-selection-wrapper span {
+    font-size: 16px;
+    color: #333;
+}
+.padding10{
+    padding: 10px;
+}
+ .table tbody td {
+     background-color: #ffffff  ;
+     color: #333333 !important;
+     border: 1px solid #dee2e6 !important;
+     text-align: center;
+ }
+ .thoi_gian{
+     background-color: #4396CC !important;
+     color: #ffffff !important;
+     text-align: center;
+ }
+
+ .payment_block {
+     margin-top: 25px;
+ }
+
+ .custom_block {
+     background: #F5F5F5;
+     padding: 30px 40px;
+     border-radius: 4px;
+     margin-bottom: 20px;
+ }
+
+ .block_title {
+     font-size: 18px;
+     font-weight: 900;
+     margin-bottom: 25px;
+     color: #333;
+     text-transform: none;
+ }
+
+ .grid_2_columns {
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     gap: 15px 30px;
+ }
+
+ .flex_row {
+     display: flex;
+     gap: 60px;
+ }
+
+ .radio_item {
+     display: flex;
+     align-items: center;
+     cursor: pointer;
+     font-size: 15px;
+     color: #444;
+     user-select: none;
+ }
+
+ .radio_item input[type="radio"] {
+     margin-right: 12px;
+     width: 18px;
+     height: 18px;
+     accent-color: #4396CC;
+ }
+
+ .radio_item span {
+     line-height: 1.2;
+ }
+
+ .summary_section {
+     background-color: #fff;
+     border: 1px solid #dee2e6;
+     margin-top: 30px;
+ }
+
+
+ .summary_row {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 12px 20px;
+ }
+
+ .summary_header {
+     background-color: #CDEAF7;
+ }
+
+ .header_text {
+     font-weight: 900;
+     font-size: 16px;
+     color: #333;
+ }
+
+ .summary_content {
+     padding: 25px 20px;
+ }
+
+ .total_label {
+     color: #4396CC;
+     font-weight: 900;
+     font-size: 18px;
+ }
+
+ .total_value {
+     color: #4396CC;
+     font-weight: 900;
+     font-size: 18px;
+ }
+
+ .button_container {
+     display: flex;
+     justify-content: center;
+     padding: 10px 0 40px 0;
+ }
+
+ .btn_submit_final {
+     background-color: #4396CC;
+     color: #fff;
+     border: none;
+     padding: 10px 40px;
+     font-size: 18px;
+     font-weight: 900;
+     border-radius: 4px;
+     cursor: pointer;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     transition: background 0.3s ease;
+ }
+
+ .arrow_icon {
+     margin-left: 10px;
+     font-size: 18px;
+ }
+
+ .btn_submit_final:hover {
+     background-color: #357a9b;
+ }
+
+
+
+
+ .company_info {
+     margin-top: 40px;
+     padding-bottom: 50px;
+ }
+
+ .addr_item {
+     background-color: #EBF7FD;
+     padding: 25px;
+     border-radius: 4px;
+     margin: 20px 0 30px 0;
+ }
+
+ .addr_item .title {
+     font-weight: 900;
+     font-family: 'Merriweather', serif;
+     margin-bottom: 20px;
+     color: #333;
+ }
+
+ .addr_item .item {
+     display: flex;
+     align-items: center;
+     margin-bottom: 15px;
+ }
+
+ .addr_item .item img {
+     margin-right: 15px;
+ }
+
+ .addr_item .item p {
+     margin: 0;
+     font-size: 15px;
+ }
+
+ .list_branch {
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     gap: 20px;
+ }
+
+ .list_branch .item {
+     border: 1px solid #eee;
+     padding: 20px;
+     border-radius: 8px;
+     background-color: #fff;
+ }
+
+ .list_branch .title {
+     font-weight: 900;
+     color: #333;
+     margin-bottom: 12px;
+     font-size: 16px;
+ }
+
+ .list_branch .name {
+     color: #888;
+     font-size: 14px;
+ }
+
+ .list_branch .value {
+     color: #333;
+     font-size: 14px;
+ }
+
+ .list_branch .infos p {
+     margin-bottom: 5px;
+ }
+ /* Thay thế đoạn .sticky-summary cũ bằng đoạn này */
+ .sticky-summary {
+     position: -webkit-sticky; /* Bắt buộc cho Safari */
+     position: sticky;         /* Chuẩn hiện đại */
+     bottom: 0;                /* Vị trí neo khi cuộn đến */
+     z-index: 1000;            /* Đảm bảo nằm trên các layer khác */
+     background-color: #ffffff;
+     box-shadow: 0 -5px 15px rgba(0,0,0,0.1); /* Đổ bóng để nổi bật trên nền nội dung */
+ }
+
+
+ /* Tùy chỉnh lại padding để khối trông gọn hơn khi nó sticky */
+ .sticky-summary .button_container {
+     padding: 15px 0;
+ }
+
+ .sticky-summary .summary_content {
+     padding: 15px 20px;
+ }
+
