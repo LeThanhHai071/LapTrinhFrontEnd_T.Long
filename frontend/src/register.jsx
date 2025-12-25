@@ -1,49 +1,57 @@
-import React from "react";
-import "./login.css"; // dùng chung CSS với login
+import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
+import { register } from "./services/authService";
+import "./login.css";
 
 export default function Register() {
-  const handleSubmit = (e) => {
+  const navigate = useNavigate();
+  const [form, setForm] = useState({
+    username: "",
+    email: "",
+    password: "",
+    confirmPassword: ""
+  });
+
+  const handleChange = (e) => {
+    setForm({ ...form, [e.target.name]: e.target.value });
+  };
+
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    // TODO: call API register
-    console.log("Register submit");
+
+    if (form.password !== form.confirmPassword) {
+      alert("Mật khẩu không khớp");
+      return;
+    }
+
+    try {
+      const res = await register(form);
+      alert(res.data.message);
+      navigate("/login");
+    } catch (err) {
+      alert(err.response?.data?.message || "Register failed");
+    }
   };
 
   return (
     <div className="login-page">
       <div className="login-card">
         <h1 className="login-title">Đăng ký</h1>
-        <p className="login-subtitle">Báo Thanh niên</p>
 
         <form className="login-form" onSubmit={handleSubmit}>
-          <div className="form-group">
-            <label>Tên đăng nhập</label>
-            <input type="text" placeholder="Nhập username" required />
-          </div>
+          <input name="username" placeholder="Username" onChange={handleChange} required />
+          <input name="email" type="email" placeholder="Email" onChange={handleChange} required />
+          <input name="password" type="password" placeholder="Password" onChange={handleChange} required />
+          <input
+            name="confirmPassword"
+            type="password"
+            placeholder="Confirm Password"
+            onChange={handleChange}
+            required
+          />
 
-          <div className="form-group">
-            <label>Email</label>
-            <input type="email" placeholder="Nhập email" required />
-          </div>
-
-          <div className="form-group">
-            <label>Mật khẩu</label>
-            <input type="password" placeholder="Nhập mật khẩu" required />
-          </div>
-
-          <div className="form-group">
-            <label>Xác nhận mật khẩu</label>
-            <input type="password" placeholder="Nhập lại mật khẩu" required />
-          </div>
-
-          <button type="submit" className="btn-login">
-            Đăng ký
-          </button>
+          <button className="btn-login">Đăng ký</button>
         </form>
-
-        <div className="login-footer">
-          <span>Đã có tài khoản? </span>
-          <a href="/login">Đăng nhập</a>
-        </div>
       </div>
     </div>
   );
