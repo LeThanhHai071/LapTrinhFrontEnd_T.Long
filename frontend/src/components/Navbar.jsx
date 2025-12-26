@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
+import { HomeIconCustom } from "./Footer_SocialIcon";
 
 const Navbar = () => {
   return (
@@ -11,18 +12,7 @@ const Navbar = () => {
             <ul className="menu-nav">
               <li>
                 <a href="/" className="nav-link home active" title="Trang chủ">
-                  <svg
-                    width="17"
-                    height="19"
-                    viewBox="0 0 17 19"
-                    fill="#007aff"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M0.311313 7.45546L7.74881 0.299432C8.16372 -0.0996478 8.83628 -0.0996478 9.25119 0.299432L16.6887 7.45546C16.8879 7.64713 17 7.9071 17 8.17821V17.9778C17 18.5424 16.5243 19.0001 15.9375 19.0001H10.625V11.8441H6.375V19.0001H1.0625C0.475703 19.0001 0 18.5424 0 17.9778V8.17821C0 7.9071 0.112041 7.64713 0.311313 7.45546Z"
-                      fill="#007aff"
-                    ></path>
-                  </svg>
+                  <HomeIconCustom />
                 </a>
               </li>
 
@@ -35,6 +25,157 @@ const Navbar = () => {
                 >
                   Chính trị
                 </a>
+                <div class="sub-menu loaded" data-zone="chinh-tri">
+                  <div class="sub-menu-flex">
+                    <div class="category">
+                      <a
+                        href="https://thanhnien.vn/chinh-tri.htm"
+                        class="title-cate"
+                      >
+                        Chính trị
+                      </a>
+                      <div class="list">
+                        <a
+                          href="https://thanhnien.vn/chinh-tri/su-kien.htm"
+                          title="Sự kiện"
+                          class="item"
+                        >
+                          Sự kiện
+                        </a>
+                        <a
+                          href="https://thanhnien.vn/chinh-tri/vuon-minh-trong-ky-nguyen-moi.htm"
+                          title="Vươn mình trong kỷ nguyên mới"
+                          class="item"
+                        >
+                          Vươn mình trong kỷ nguyên mới
+                        </a>
+                        <a
+                          href="https://thanhnien.vn/chinh-tri/thoi-luan.htm"
+                          title="Thời luận"
+                          class="item"
+                        >
+                          Thời luận
+                        </a>
+                        <a
+                          href="https://thanhnien.vn/chinh-tri/thi-dua-yeu-nuoc.htm"
+                          title="Thi đua yêu nước"
+                          class="item"
+                        >
+                          Thi đua yêu nước
+                        </a>
+                        <a
+                          href="https://thanhnien.vn/chinh-tri/chung-dong-mau-lac-hong.htm"
+                          title="Chung dòng máu Lạc Hồng"
+                          class="item"
+                        >
+                          Chung dòng máu Lạc Hồng
+                        </a>
+                        <a
+                          href="https://thanhnien.vn/chinh-tri/gop-y-van-kien-dai-hoi-dang.htm"
+                          title="Góp ý văn kiện đại hội Đảng"
+                          class="item"
+                        >
+                          Góp ý văn kiện đại hội Đảng
+                        </a>
+                      </div>
+                    </div>
+                    <div class="news">
+                      <div class="box-category-item">
+                        <a
+                          class="box-category-link-with-avatar img-resize "
+                          href="https://thanhnien.vn/tao-nguon-can-bo-nguoi-dan-toc-thieu-so-tu-hoc-sinh-xuat-sac-185251226160731383.htm"
+                          title="Tạo nguồn cán bộ người dân tộc thiểu số từ học sinh xuất sắc"
+                          data-id="185251226160731383"
+                        >
+                          <img
+                            data-type="avatar"
+                            src="https://images2.thanhnien.vn/zoom/200_125/528068263637045248/2025/12/26/tong-bi-thu-dan-toc-thieu-so-2-17667399629891521796289-194-0-1787-2549-crop-17667400183201287440506.jpg"
+                            alt="Tạo nguồn cán bộ người dân tộc thiểu số từ học sinh xuất sắc"
+                            class="box-category-avatar"
+                          />
+                        </a>
+                        <div class="box-category-content">
+                          <h3>
+                            <a
+                              data-linktype="newsdetail"
+                              data-id="185251226160731383"
+                              class="box-category-link-title"
+                              data-newstype=""
+                              href="https://thanhnien.vn/tao-nguon-can-bo-nguoi-dan-toc-thieu-so-tu-hoc-sinh-xuat-sac-185251226160731383.htm"
+                              title="Tạo nguồn cán bộ người dân tộc thiểu số từ học sinh xuất sắc"
+                            >
+                              Tạo nguồn cán bộ người dân tộc thiểu số từ học
+                              sinh xuất sắc
+                            </a>
+                          </h3>
+                        </div>
+                      </div>
+                      <div class="box-category-item">
+                        <a
+                          class="box-category-link-with-avatar img-resize "
+                          href="https://thanhnien.vn/tong-bi-thu-to-lam-moi-can-bo-dang-vien-phai-la-nhung-nguoi-truyen-cam-hung-18525122523181874.htm"
+                          title="Tổng Bí thư Tô Lâm: Mỗi cán bộ đảng viên phải là những người truyền cảm hứng
+"
+                          data-id="18525122523181874"
+                        >
+                          <img
+                            data-type="avatar"
+                            src="https://images2.thanhnien.vn/zoom/200_125/528068263637045248/2025/12/25/ho-chi-minh-hanh-trinh-khat-vong-2025-25122025-10-1766677594271922289889-106-0-1706-2560-crop-17666793719941292558133.jpg"
+                            alt="Tổng Bí thư Tô Lâm: Mỗi cán bộ đảng viên phải là những người truyền cảm hứng
+"
+                            class="box-category-avatar"
+                          />
+                        </a>
+                        <div class="box-category-content">
+                          <h3>
+                            <a
+                              data-linktype="newsdetail"
+                              data-id="18525122523181874"
+                              class="box-category-link-title"
+                              data-newstype=""
+                              href="https://thanhnien.vn/tong-bi-thu-to-lam-moi-can-bo-dang-vien-phai-la-nhung-nguoi-truyen-cam-hung-18525122523181874.htm"
+                              title="Tổng Bí thư Tô Lâm: Mỗi cán bộ đảng viên phải là những người truyền cảm hứng
+"
+                            >
+                              Tổng Bí thư Tô Lâm: Mỗi cán bộ đảng viên phải là
+                              những người truyền cảm hứng
+                            </a>
+                          </h3>
+                        </div>
+                      </div>
+                      <div class="box-category-item">
+                        <a
+                          class="box-category-link-with-avatar img-resize "
+                          href="https://thanhnien.vn/kien-quyet-dau-tranh-voi-hanh-vi-loi-dung-cong-dong-viet-kieu-de-chong-pha-dang-nha-nuoc-185251225204243772.htm"
+                          title="Kiên quyết đấu tranh với hành vi lợi dụng cộng đồng Việt kiều để chống phá Đảng, Nhà nước"
+                          data-id="185251225204243772"
+                        >
+                          <img
+                            data-type="avatar"
+                            src="https://images2.thanhnien.vn/zoom/200_125/528068263637045248/2025/12/25/itoanquoctongketcongtacdoivoinguoivietnamonuocngoai8494556-1766664430296779300398-1-0-1181-1888-crop-1766670126972445771221-0-500-868-1888-crop-1766674179352584495791.jpg"
+                            alt="Kiên quyết đấu tranh với hành vi lợi dụng cộng đồng Việt kiều để chống phá Đảng, Nhà nước"
+                            class="box-category-avatar"
+                          />
+                        </a>
+                        <div class="box-category-content">
+                          <h3>
+                            <a
+                              data-linktype="newsdetail"
+                              data-id="185251225204243772"
+                              class="box-category-link-title"
+                              data-newstype=""
+                              href="https://thanhnien.vn/kien-quyet-dau-tranh-voi-hanh-vi-loi-dung-cong-dong-viet-kieu-de-chong-pha-dang-nha-nuoc-185251225204243772.htm"
+                              title="Kiên quyết đấu tranh với hành vi lợi dụng cộng đồng Việt kiều để chống phá Đảng, Nhà nước"
+                            >
+                              Kiên quyết đấu tranh với hành vi lợi dụng cộng
+                              đồng Việt kiều để chống phá Đảng, Nhà nước
+                            </a>
+                          </h3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </li>
 
               <li>
@@ -265,7 +406,11 @@ const Navbar = () => {
                     Tin 24h
                   </a>
 
-                  <a href="/thi-truong.htm" className="item" title="Tin thị trường">
+                  <a
+                    href="/thi-truong.htm"
+                    className="item"
+                    title="Tin thị trường"
+                  >
                     <span className="icon">
                       <svg width="24" height="24">
                         <use xlink:href="#icon-thitruong"></use>
@@ -316,7 +461,11 @@ const Navbar = () => {
                     </span>
                     Tiện ích
                   </a>
-                  <a href="/ban-can-biet.htm" className="item" title="Bạn cần biết">
+                  <a
+                    href="/ban-can-biet.htm"
+                    className="item"
+                    title="Bạn cần biết"
+                  >
                     <span className="icon">
                       <svg width="20" height="20">
                         <use xlink:href="#icon-bancanbiet"></use>

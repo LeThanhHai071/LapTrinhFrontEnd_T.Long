@@ -25,47 +25,172 @@
 }
 
 .header__nav-flex .menu-nav {
-    max-width: 1120px;
-    margin: 0 auto;
-    display: flex;
-    align-items: center;
-    border-bottom: 2px solid #0098d1;
-    position: relative;
-    list-style: none;
+  max-width: 1120px;
+  margin: 0 auto;
+  width: 1120px !important;
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid #0098d1;
+  position: relative;
+  list-style: none;
+  padding-left: 0;
 }
 
-.header__nav-flex .menu-nav li:first-child .nav-link{
-    margin-left: 4px;
-    padding: 14px 0;
-    margin-right: 8.8px;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 20px;
-    color: #292929;
-    display: flex;
-    align-items: center;
+.header__nav-flex .menu-nav li:first-child .nav-link {
+  margin-left: 4px;
 }
 
 .header__nav-flex .menu-nav li .nav-link {
-    margin-right: 8.8px;
+  padding: 14px 0;
+  margin-right: 8.8px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  color: #292929;
+  display: flex;
+  align-items: center;
 }
 
 .header__nav .menu-nav li .sub-menu {
-    position: absolute;
-    top: 100%;
-    background: #fff;
-    box-shadow: 2px 4px 8px rgba(0, 0, 0, .08);
-    border-radius: 0 0 8px 8px;
-    width: 100%;
-    left: 0;
-    opacity: 0;
-    visibility: hidden;
-    height: 0%;
-    z-index: 2;
-    border-top: 2px solid #0098d1;
+  position: absolute;
+  top: 100%;
+  background: #fff;
+  box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.08);
+  border-radius: 0 0 8px 8px;
+  width: 100%;
+  left: 0;
+  opacity: 0;
+  visibility: hidden;
+  height: 0%;
+  z-index: 2;
+  border-top: 2px solid #0098d1;
+}
+
+.header__nav .menu-nav li .sub-menu .sub-menu-flex {
+  display: flex;
+  padding: 24px;
+}
+
+.header__nav-flex .menu-nav li .sub-menu .sub-menu-flex::before {
+  content: "";
+  position: absolute;
+  top: -5px;
+  width: 100%;
+  height: 5px;
+}
+
+.header__nav .menu-nav li .sub-menu .sub-menu-flex .category {
+  width: 400px;
+  padding-right: 24px;
+  border-right: 1px solid #ebebeb;
+  margin-right: 24px;
+}
+
+.header__nav .menu-nav li .sub-menu .sub-menu-flex .category .title-cate {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  color: #292929;
+  margin-bottom: 24px;
+  display: block;
+}
+
+.header__nav .menu-nav li .sub-menu .sub-menu-flex .category .list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.header__nav .menu-nav li .sub-menu .sub-menu-flex .category .list .item {
+  display: block;
+  width: calc(50% - 10px);
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  color: #454545;
+  margin-top: 0;
+}
+
+.header__nav-flex
+  .menu-nav
+  li
+  .sub-menu
+  .sub-menu-flex
+  .news
+  .box-category-item {
+  width: calc(33.33% - 16px);
+  margin-left: 0;
+}
+
+.header__nav
+  .menu-nav
+  li
+  .sub-menu
+  .sub-menu-flex
+  .news
+  .box-category-item
+  .box-category-link-with-avatar {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.header__nav
+  .menu-nav
+  li
+  .sub-menu
+  .sub-menu-flex
+  .news
+  .box-category-item
+  .box-category-link-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  color: #292929;
+  display: block;
+}
+
+.img-resize {
+  display: block;
+  position: relative;
+  height: max-content;
+}
+
+.img-resize img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  bottom: 0;
+  margin: auto;
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+}
+
+.header__nav .menu-nav li .sub-menu .sub-menu-flex .news {
+  width: calc(100% - 424px);
+  display: flex;
 }
 
 .header__mega-menu {
-    display: none;
+  display: none;
+}
+
+.header__nav-flex .menu-nav li:hover .sub-menu {
+  opacity: 1;
+  visibility: visible;
+  height: auto; 
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  transform: translateY(0); 
+}
+
+.header__nav .menu-nav li .sub-menu {
+  transform: translateY(10px); 
+  transition: all 0.3s ease;
+  overflow: hidden; 
 }
