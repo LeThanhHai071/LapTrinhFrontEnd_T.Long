@@ -1,7 +1,7 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import "./newsDetail.css";
 
-const newsDetail = () => {
+const NewsDetail = () => {
   const article = {
     title: "Quốc hội thông qua nhiều chính sách quan trọng năm 2025",
     time: "20/12/2025 - 09:30",
@@ -21,24 +21,49 @@ Nhiều đại biểu đánh giá cao tính thực tiễn và cấp thiết củ
   const [comments, setComments] = useState([]);
   const [commentText, setCommentText] = useState("");
   const [isSpeaking, setIsSpeaking] = useState(false);
+  const [voice, setVoice] = useState(null);
+
+  // ===== LOAD VIETNAMESE VOICE =====
+  useEffect(() => {
+    const loadVoices = () => {
+      const voices = window.speechSynthesis.getVoices();
+      const viVoice = voices.find((v) => v.lang === "vi-VN");
+      if (viVoice) setVoice(viVoice);
+    };
+
+    loadVoices();
+    window.speechSynthesis.onvoiceschanged = loadVoices;
+  }, []);
 
   // ===== TEXT TO SPEECH =====
   const handleSpeak = () => {
+    const synth = window.speechSynthesis;
+
     if (isSpeaking) {
-      window.speechSynthesis.cancel();
+      synth.cancel();
       setIsSpeaking(false);
       return;
     }
 
+    if (!voice) {
+      alert("Trình duyệt chưa hỗ trợ giọng đọc tiếng Việt!");
+      return;
+    }
+
     const utterance = new SpeechSynthesisUtterance(
-      article.title + ". " + article.content
+      `${article.title}. ${article.content}`
     );
+
+    utterance.voice = voice;
     utterance.lang = "vi-VN";
     utterance.rate = 1;
+    utterance.pitch = 1;
+    utterance.volume = 1;
+
     utterance.onend = () => setIsSpeaking(false);
 
     setIsSpeaking(true);
-    window.speechSynthesis.speak(utterance);
+    synth.speak(utterance);
   };
 
   // ===== ADD COMMENT =====
@@ -50,7 +75,7 @@ Nhiều đại biểu đánh giá cao tính thực tiễn và cấp thiết củ
       {
         id: Date.now(),
         text: commentText,
-        time: new Date().toLocaleString(),
+        time: new Date().toLocaleString("vi-VN"),
       },
     ]);
     setCommentText("");
@@ -67,10 +92,14 @@ Nhiều đại biểu đánh giá cao tính thực tiễn và cấp thiết củ
         </button>
       </div>
 
-      <img src={article.image} alt={article.title} className="main-image" />
+      <img
+        src={article.image}
+        alt={article.title}
+        className="main-image"
+      />
 
       <div className="content">
-        {article.content.split("\n").map((p, i) => (
+        {article.content.trim().split("\n").map((p, i) => (
           <p key={i}>{p}</p>
         ))}
       </div>
@@ -100,4 +129,4 @@ Nhiều đại biểu đánh giá cao tính thực tiễn và cấp thiết củ
   );
 };
 
-export default newsDetail;
+export default NewsDetail;
