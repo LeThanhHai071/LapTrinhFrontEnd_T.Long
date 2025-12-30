@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./TopHeader.css";
 
-const Header = () => {
+const TopHeader = ({ onOpenMenu }) => {
   return (
     <div className="header od_header">
       <div className="header__sticky">
@@ -10,7 +10,7 @@ const Header = () => {
           <div className="header__container">
             <div className="header__top-flex">
               <div className="header__tf-left">
-                <div className="header__tf-menu ">
+                <div className="header__tf-menu" onClick={onOpenMenu}>
                   <div className="bootstrap__icon">
                     <i className="bi bi-list"></i>
                   </div>
@@ -200,4 +200,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default TopHeader;
