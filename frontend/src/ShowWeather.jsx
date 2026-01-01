@@ -8,7 +8,7 @@ const ShowWeather = () => {
   const [error, setError] = useState("");
 
   const CITY_ID = 1566083; // TP.HCM
-  const API_KEY = "";
+  const API_KEY = "aed0c31b0217fdc85a1808a7652dbdfc";
 
   useEffect(() => {
     // Ngày tháng
