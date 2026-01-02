@@ -1,6 +1,43 @@
 #root {
-  width: 100%;
-  height: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+body {
+  max-width: 100%;
   margin: 0;
   padding: 0;
+  display: block;
+  background-color: white;
+  line-height: 20px;
+}
+
+.bootstrap__icon {
+  display: flex; 
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.bootstrap__icon i {
+  font-family: "bootstrap-icons" !important;
+  font-style: normal;
+  font-weight: normal !important;
+
+  line-height: 1; 
+  color: inherit; 
+  display: inline-block;
+}
+
+h1 {
+  margin: 0;
+}
+
+.hidden {
+  display: none !important;
+}
+
+* {
+    box-sizing: border-box;
 }

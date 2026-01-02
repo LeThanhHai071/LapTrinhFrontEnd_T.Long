@@ -92,16 +92,15 @@ Nhiều đại biểu đánh giá cao tính thực tiễn và cấp thiết củ
         </button>
       </div>
 
-      <img
-        src={article.image}
-        alt={article.title}
-        className="main-image"
-      />
+      <img src={article.image} alt={article.title} className="main-image" />
 
       <div className="content">
-        {article.content.trim().split("\n").map((p, i) => (
-          <p key={i}>{p}</p>
-        ))}
+        {article.content
+          .trim()
+          .split("\n")
+          .map((p, i) => (
+            <p key={i}>{p}</p>
+          ))}
       </div>
 
       {/* ===== COMMENT ===== */}
