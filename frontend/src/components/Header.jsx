@@ -7,7 +7,7 @@ import { useState } from "react";
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   return (
-    <header className="header-container">
+    <header className="header-main">
       <TopHeader onOpenMenu={() => setIsMenuOpen(true)} />
       <Navbar isOpen={isMenuOpen} onCloseMenu={() => setIsMenuOpen(false)} />
     </header>

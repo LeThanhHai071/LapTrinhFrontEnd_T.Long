@@ -2,7 +2,6 @@
   max-width: 100%;
   margin: 0 auto;
   padding: 0;
-  /* text-align: center; */
 }
 
 body {
@@ -26,8 +25,8 @@ body {
   font-style: normal;
   font-weight: normal !important;
 
-  line-height: 1; /* Tránh bị lệch dòng trên/dưới */
-  color: inherit; /* Lấy màu theo cha hoặc đặt màu cụ thể */
+  line-height: 1; 
+  color: inherit; 
   display: inline-block;
 }
 
