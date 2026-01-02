@@ -1,3 +1,8 @@
+.app-container{
+  width: inherit;
+  margin: 0 auto;
+}
+
 .header__top {
   background: #fff;
   padding: 16px 0;
@@ -96,7 +101,7 @@
   height: 81px;
 }
 
-.header__logo .logo-thuong{
+.header__logo .logo-thuong {
   width: 310px;
   height: 81px;
 }
@@ -216,7 +221,7 @@
 }
 
 .header__uc-link .item-link:last-child {
-    border-top: 1px solid #ebebeb;
-    padding-top: 16px;
-    margin-bottom: 0;
+  border-top: 1px solid #ebebeb;
+  padding-top: 16px;
+  margin-bottom: 0;
 }

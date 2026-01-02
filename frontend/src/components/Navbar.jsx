@@ -388,7 +388,6 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
         <div className={`header__mega-menu ${isOpen ? "is-active" : ""}`}>
           <div className="container">
             <div
-              href="javascript:;"
               className="header__close-menu"
               onClick={onCloseMenu}
             >
@@ -418,125 +417,6 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
             </div>
             <div className="header__mm-flex">
               <div className="header__mm-cate" id="appen__mega-menu">
-                {/* <div className="box">
-                  <a href="/chinh-tri.htm" className="title" title="Chính trị">
-                    Chính trị
-                  </a>
-                  <div className="list">
-                    <a
-                      href="/chinh-tri/su-kien.htm"
-                      className="item"
-                      title="Sự kiện"
-                    >
-                      Sự kiện
-                    </a>
-                    <a
-                      href="/chinh-tri/vuon-minh-trong-ky-nguyen-moi.htm"
-                      className="item"
-                      title="Vươn mình trong kỷ nguyên mới"
-                    >
-                      Vươn mình trong kỷ nguyên mới
-                    </a>
-                    <a
-                      href="/chinh-tri/thoi-luan.htm"
-                      className="item"
-                      title="Thời luận"
-                    >
-                      Thời luận
-                    </a>
-                    <a
-                      href="/chinh-tri/thi-dua-yeu-nuoc.htm"
-                      className="item"
-                      title="Thi đua yêu nước"
-                    >
-                      Thi đua yêu nước
-                    </a>
-                    <a
-                      href="/chinh-tri/chung-dong-mau-lac-hong.htm"
-                      className="item"
-                      title="Chung dòng máu Lạc Hồng"
-                    >
-                      Chung dòng máu Lạc Hồng
-                    </a>
-                    <a
-                      href="/chinh-tri/gop-y-van-kien-dai-hoi-dang.htm"
-                      className="item"
-                      title="Góp ý văn kiện đại hội Đảng"
-                    >
-                      Góp ý văn kiện đại hội Đảng
-                    </a>
-                  </div>
-                  <a href="javascript:;" className="view-more" title="xem thêm">
-                    xem thêm
-                  </a>
-                </div>
-
-                <div className="box">
-                  <a href="/thoi-su.htm" className="title" title="Thời sự">
-                    Thời sự
-                  </a>
-                  <div className="list">
-                    <a
-                      href="/thoi-su/phap-luat.htm"
-                      className="item"
-                      title="Pháp luật"
-                    >
-                      Pháp luật
-                    </a>
-                    <a
-                      href="/thoi-su/dan-sinh.htm"
-                      className="item"
-                      title="Dân sinh"
-                    >
-                      Dân sinh
-                    </a>
-                    <a
-                      href="/thoi-su/lao-dong-viec-lam.htm"
-                      className="item"
-                      title="Lao động - Việc làm"
-                    >
-                      Lao động - Việc làm
-                    </a>
-                    <a
-                      href="/thoi-su/quyen-duoc-biet.htm"
-                      className="item"
-                      title="Quyền được biết"
-                    >
-                      Quyền được biết
-                    </a>
-                    <a
-                      href="/thoi-su/phong-su--dieu-tra.htm"
-                      className="item"
-                      title="Phóng sự / Điều tra"
-                    >
-                      Phóng sự / Điều tra
-                    </a>
-                    <a
-                      href="/thoi-su/quoc-phong.htm"
-                      className="item"
-                      title="Quốc phòng"
-                    >
-                      Quốc phòng
-                    </a>
-                    <a
-                      href="/thoi-su/chong-tin-gia.htm"
-                      className="item"
-                      title="Chống tin giả"
-                    >
-                      Chống tin giả
-                    </a>
-                    <a
-                      href="/thoi-su/thanh-tuu-y-khoa.htm"
-                      className="item"
-                      title="Thành tựu y khoa"
-                    >
-                      Thành tựu y khoa
-                    </a>
-                  </div>
-                  <a href="javascript:;" className="view-more" title="xem thêm">
-                    xem thêm
-                  </a>
-                </div> */}
                 {menuData.map((category, index) => (
                   <CategoryBox
                     key={index}
@@ -549,8 +429,8 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
 
               <div className="header__mm-right">
                 <div className="box">
-                  <a
-                    href="/chao-ngay-moi.htm"
+                  <Link
+                    to="/weather"
                     className="item"
                     title="Chào ngày mới"
                   >
@@ -560,7 +440,7 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                       </div>
                     </span>
                     Chào ngày mới
-                  </a>
+                  </Link>
                   <a href="/tin-24h.htm" className="item" title="Tin 24h">
                     <span className="icon">
                       <div className="bootstrap__icon">
@@ -657,8 +537,8 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                     </span>
                     Thông tin toà soạn
                   </a>
-                  <a
-                    href="https://banggia.thanhnien.vn/"
+                  <Link
+                    to="/advertise"
                     className="item"
                     title="Liên hệ quảng cáo"
                   >
@@ -668,7 +548,7 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                       </div>
                     </span>
                     Liên hệ quảng cáo
-                  </a>
+                  </Link>
                 </div>
 
                 <div className="social">

@@ -21,7 +21,6 @@ const CategoryBox = ({ title, titleHref, items }) => {
       
       {items.length > LIMIT && (
         <button 
-          href="javascript:;" 
           className="view-more" 
           onClick={() => setIsExpanded(!isExpanded)}
         >
