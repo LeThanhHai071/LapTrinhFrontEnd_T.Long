@@ -1,0 +1,3 @@
+{
+  "ignore": ["final_data.json", "data_input.json", "*.json"]
+}
