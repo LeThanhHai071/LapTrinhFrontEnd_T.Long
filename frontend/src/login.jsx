@@ -20,7 +20,7 @@ export default function Login() {
       const res = await login(form);
       alert(res.data.message);
       localStorage.setItem("user", JSON.stringify(res.data.user));
-      navigate("/home");
+      window.location.href = "/"; 
     } catch (err) {
       alert(err.response?.data?.message || "Login failed");
     }
