@@ -127,11 +127,6 @@ const Home = () => {
           ))}
         </div>
       </section>
-
-      {/* ===== FOOTER ===== */}
-      <footer className="footer">
-        <p>© 2025 Báo Tin Tức Việt Nam</p>
-      </footer>
     </div>
   );
 };
