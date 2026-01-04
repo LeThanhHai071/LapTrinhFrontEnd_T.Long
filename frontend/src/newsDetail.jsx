@@ -1,79 +1,64 @@
-import React, { useEffect, useState } from "react";
-import "./newsDetail.css";
+import { useParams } from "react-router-dom";
+import { useEffect, useState } from "react";
+import { fetchAllNews } from "./services/newsService";
+import "./NewsDetail.css";
 
 const NewsDetail = () => {
-  const article = {
-    title: "Quốc hội thông qua nhiều chính sách quan trọng năm 2025",
-    time: "20/12/2025 - 09:30",
-    author: "PV Báo Tin Tức",
-    image: "https://via.placeholder.com/900x500?text=Chi+Tiet+Bai+Bao",
-    content: `
-Quốc hội sáng nay đã biểu quyết thông qua nhiều luật và nghị quyết quan trọng
-liên quan đến phát triển kinh tế – xã hội, ngân sách nhà nước và cải cách hành chính.
-
-Các chính sách mới được kỳ vọng sẽ tạo động lực tăng trưởng,
-nâng cao đời sống người dân và tăng cường hiệu quả quản lý nhà nước.
-
-Nhiều đại biểu đánh giá cao tính thực tiễn và cấp thiết của các quyết sách lần này.
-    `,
-  };
-
+  const { id } = useParams();
+  const [article, setArticle] = useState(null);
   const [comments, setComments] = useState([]);
   const [commentText, setCommentText] = useState("");
-  const [isSpeaking, setIsSpeaking] = useState(false);
-  const [voice, setVoice] = useState(null);
+  const [speaking, setSpeaking] = useState(false);
 
-  // ===== LOAD VIETNAMESE VOICE =====
   useEffect(() => {
-    const loadVoices = () => {
-      const voices = window.speechSynthesis.getVoices();
-      const viVoice = voices.find((v) => v.lang === "vi-VN");
-      if (viVoice) setVoice(viVoice);
-    };
+    fetchAllNews().then((data) => {
+      let found = null;
 
-    loadVoices();
-    window.speechSynthesis.onvoiceschanged = loadVoices;
-  }, []);
+      Object.values(data).forEach(parent =>
+        Object.values(parent).forEach(sub =>
+          sub.forEach(item => {
+            if (btoa(item.link) === id) found = item;
+          })
+        )
+      );
 
-  // ===== TEXT TO SPEECH =====
+      setArticle(found);
+    });
+  }, [id]);
+
+  /* ===== TEXT TO SPEECH ===== */
   const handleSpeak = () => {
-    const synth = window.speechSynthesis;
+    if (!article) return;
 
-    if (isSpeaking) {
-      synth.cancel();
-      setIsSpeaking(false);
+    if (speaking) {
+      window.speechSynthesis.cancel();
+      setSpeaking(false);
       return;
     }
 
-    if (!voice) {
-      alert("Trình duyệt chưa hỗ trợ giọng đọc tiếng Việt!");
-      return;
-    }
+    const text =
+      article.title + ". " +
+      article.sapo + ". " +
+      article.body
+        .filter(b => b.type === "text")
+        .map(b => b.content)
+        .join(" ");
 
-    const utterance = new SpeechSynthesisUtterance(
-      `${article.title}. ${article.content}`
-    );
-
-    utterance.voice = voice;
+    const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = "vi-VN";
-    utterance.rate = 1;
-    utterance.pitch = 1;
-    utterance.volume = 1;
+    utterance.onend = () => setSpeaking(false);
 
-    utterance.onend = () => setIsSpeaking(false);
-
-    setIsSpeaking(true);
-    synth.speak(utterance);
+    window.speechSynthesis.speak(utterance);
+    setSpeaking(true);
   };
 
-  // ===== ADD COMMENT =====
+  /* ===== COMMENT ===== */
   const handleAddComment = () => {
     if (!commentText.trim()) return;
 
     setComments([
       ...comments,
       {
-        id: Date.now(),
         text: commentText,
         time: new Date().toLocaleString("vi-VN"),
       },
@@ -81,34 +66,49 @@ Nhiều đại biểu đánh giá cao tính thực tiễn và cấp thiết củ
     setCommentText("");
   };
 
+  if (!article) return <p>⏳ Đang tải bài viết...</p>;
+
   return (
     <div className="news-detail">
       <h1 className="title">{article.title}</h1>
 
       <div className="meta">
-        <span>{article.author}</span> • <span>{article.time}</span>
+        <span>{article.publishDate}</span>
+        <span>•</span>
+        <span>{article.author}</span>
+
         <button className="speak-btn" onClick={handleSpeak}>
-          {isSpeaking ? "🔇 Dừng đọc" : "🔊 Nghe bài báo"}
+          {speaking ? "⏹ Dừng đọc" : "🔊 Đọc báo"}
         </button>
       </div>
 
-      <img src={article.image} alt={article.title} className="main-image" />
+      <p className="sapo">{article.sapo}</p>
 
       <div className="content">
-        {article.content
-          .trim()
-          .split("\n")
-          .map((p, i) => (
-            <p key={i}>{p}</p>
-          ))}
+        {article.body.map((block, i) => {
+          if (block.type === "text") {
+            return <p key={i}>{block.content}</p>;
+          }
+
+          if (block.type === "image") {
+            return (
+              <figure key={i}>
+                <img src={block.url} alt="" />
+                <figcaption>{block.caption}</figcaption>
+              </figure>
+            );
+          }
+
+          return null;
+        })}
       </div>
 
       {/* ===== COMMENT ===== */}
       <div className="comment-section">
-        <h3>Bình luận</h3>
+        <h3>💬 Bình luận</h3>
 
         <textarea
-          placeholder="Nhập bình luận của bạn..."
+          placeholder="Nhập bình luận..."
           value={commentText}
           onChange={(e) => setCommentText(e.target.value)}
         />
@@ -116,8 +116,8 @@ Nhiều đại biểu đánh giá cao tính thực tiễn và cấp thiết củ
         <button onClick={handleAddComment}>Gửi bình luận</button>
 
         <ul className="comment-list">
-          {comments.map((c) => (
-            <li key={c.id}>
+          {comments.map((c, i) => (
+            <li key={i}>
               <p>{c.text}</p>
               <small>{c.time}</small>
             </li>
