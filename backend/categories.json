@@ -1,0 +1,1016 @@
+[
+  {
+    "id": "home",
+    "name": "home",
+    "rss": "https://thanhnien.vn/rss/home.rss",
+    "parent_id": null
+  },
+  {
+    "id": "thoi-su",
+    "name": "Thời sự",
+    "rss": "https://thanhnien.vn/rss/thoi-su.rss",
+    "parent_id": null
+  },
+  {
+    "id": "thoi-su-phap-luat",
+    "name": "Pháp luật",
+    "rss": "https://thanhnien.vn/rss/thoi-su/phap-luat.rss",
+    "parent_id": "thoi-su"
+  },
+  {
+    "id": "thoi-su-dan-sinh",
+    "name": "Dân sinh",
+    "rss": "https://thanhnien.vn/rss/thoi-su/dan-sinh.rss",
+    "parent_id": "thoi-su"
+  },
+  {
+    "id": "thoi-su-lao-dong",
+    "name": "Lao động",
+    "rss": "https://thanhnien.vn/rss/thoi-su/lao-dong-viec-lam.rss",
+    "parent_id": "thoi-su"
+  },
+  {
+    "id": "thoi-su-quyen-duoc-biet",
+    "name": "Quyền được biết",
+    "rss": "https://thanhnien.vn/rss/thoi-su/quyen-duoc-biet.rss",
+    "parent_id": "thoi-su"
+  },
+  {
+    "id": "thoi-su-phong-su-dieu-tra",
+    "name": "Phóng sự / Điều tra",
+    "rss": "https://thanhnien.vn/rss/thoi-su/phong-su--dieu-tra.rss",
+    "parent_id": "thoi-su"
+  },
+  {
+    "id": "thoi-su-quoc-phong",
+    "name": "Quốc phòng",
+    "rss": "https://thanhnien.vn/rss/thoi-su/quoc-phong.rss",
+    "parent_id": "thoi-su"
+  },
+  {
+    "id": "thoi-su-chong-tin-gia",
+    "name": "Chống tin giả",
+    "rss": "https://thanhnien.vn/rss/thoi-su/chong-tin-gia.rss",
+    "parent_id": "thoi-su"
+  },
+  {
+    "id": "thoi-su-thanh-tuu-y-khoa",
+    "name": "Thành tựu y khoa",
+    "rss": "https://thanhnien.vn/rss/thoi-su/thanh-tuu-y-khoa.rss",
+    "parent_id": "thoi-su"
+  },
+  {
+    "id": "chinh-tri",
+    "name": "Chính trị",
+    "rss": "https://thanhnien.vn/rss/chinh-tri.rss",
+    "parent_id": null
+  },
+  {
+    "id": "chinh-tri-su-kien",
+    "name": "Sự kiện",
+    "rss": "https://thanhnien.vn/rss/chinh-tri/su-kien.rss",
+    "parent_id": "chinh-tri"
+  },
+  {
+    "id": "chinh-tri-vuon-minh-trong-ky-nguyen-moi",
+    "name": "Vươn mình trong kỷ nguyên mới",
+    "rss": "https://thanhnien.vn/rss/chinh-tri/vuon-minh-trong-ky-nguyen-moi.rss",
+    "parent_id": "chinh-tri"
+  },
+  {
+    "id": "chinh-tri-thoi-luan",
+    "name": "Thời luận",
+    "rss": "https://thanhnien.vn/rss/chinh-tri/thoi-luan.rss",
+    "parent_id": "chinh-tri"
+  },
+  {
+    "id": "chinh-tri-thi-dua-yeu-nuoc",
+    "name": "Thi đua yêu nước",
+    "rss": "https://thanhnien.vn/rss/chinh-tri/thi-dua-yeu-nuoc.rss",
+    "parent_id": "chinh-tri"
+  },
+  {
+    "id": "chinh-tri-chung-dong-mau-lac-hong",
+    "name": "Chung dòng máu Lạc Hồng",
+    "rss": "https://thanhnien.vn/rss/chinh-tri/chung-dong-mau-lac-hong.rss",
+    "parent_id": "chinh-tri"
+  },
+  {
+    "id": "chinh-tri-gop-y-van-kien-dai-hoi-dang",
+    "name": "Góp ý văn kiện đại hội Đảng",
+    "rss": "https://thanhnien.vn/rss/chinh-tri/gop-y-van-kien-dai-hoi-dang.rss",
+    "parent_id": "chinh-tri"
+  },
+  {
+    "id": "chao-ngay-moi",
+    "name": "Chào ngày mới",
+    "rss": "https://thanhnien.vn/rss/chao-ngay-moi.rss",
+    "parent_id": null
+  },
+  {
+    "id": "the-gioi",
+    "name": "Thế giới",
+    "rss": "https://thanhnien.vn/rss/the-gioi.rss",
+    "parent_id": null
+  },
+  {
+    "id": "the-gioi-kinh-te-the-gioi",
+    "name": "Kinh tế thế giới",
+    "rss": "https://thanhnien.vn/rss/the-gioi/kinh-te-the-gioi.rss",
+    "parent_id": "the-gioi"
+  },
+  {
+    "id": "the-gioi-quan-su",
+    "name": "Quân sự",
+    "rss": "https://thanhnien.vn/rss/the-gioi/quan-su.rss",
+    "parent_id": "the-gioi"
+  },
+  {
+    "id": "the-gioi-goc-nhin",
+    "name": "Góc nhìn",
+    "rss": "https://thanhnien.vn/rss/the-gioi/goc-nhin.rss",
+    "parent_id": "the-gioi"
+  },
+  {
+    "id": "the-gioi-ho-so",
+    "name": "Hồ sơ",
+    "rss": "https://thanhnien.vn/rss/the-gioi/ho-so.rss",
+    "parent_id": "the-gioi"
+  },
+  {
+    "id": "the-gioi-nguoi-viet-nam-chau",
+    "name": "Người Việt năm châu",
+    "rss": "https://thanhnien.vn/rss/the-gioi/nguoi-viet-nam-chau.rss",
+    "parent_id": "the-gioi"
+  },
+  {
+    "id": "the-gioi-chuyen-la",
+    "name": "Chuyện lạ",
+    "rss": "https://thanhnien.vn/rss/the-gioi/chuyen-la.rss",
+    "parent_id": "the-gioi"
+  },
+  {
+    "id": "kinh-te",
+    "name": "Kinh tế",
+    "rss": "https://thanhnien.vn/rss/kinh-te.rss",
+    "parent_id": null
+  },
+  {
+    "id": "kinh-te-kinh-te-xanh",
+    "name": "Kinh tế xanh",
+    "rss": "https://thanhnien.vn/rss/kinh-te/kinh-te-xanh.rss",
+    "parent_id": "kinh-te"
+  },
+  {
+    "id": "kinh-te-chinh-sach",
+    "name": "Chính sách",
+    "rss": "https://thanhnien.vn/rss/kinh-te/chinh-sach-phat-trien.rss",
+    "parent_id": "kinh-te"
+  },
+  {
+    "id": "kinh-te-ngan-hang",
+    "name": "Ngân hàng",
+    "rss": "https://thanhnien.vn/rss/kinh-te/ngan-hang.rss",
+    "parent_id": "kinh-te"
+  },
+  {
+    "id": "kinh-te-chung-khoan",
+    "name": "Chứng khoán",
+    "rss": "https://thanhnien.vn/rss/kinh-te/chung-khoan.rss",
+    "parent_id": "kinh-te"
+  },
+  {
+    "id": "kinh-te-doanh-nghiep",
+    "name": "Doanh nghiệp",
+    "rss": "https://thanhnien.vn/rss/kinh-te/doanh-nghiep.rss",
+    "parent_id": "kinh-te"
+  },
+  {
+    "id": "kinh-te-khat-vong-viet-nam",
+    "name": "Khát vọng Việt Nam",
+    "rss": "https://thanhnien.vn/rss/kinh-te/doanh-nhan.rss",
+    "parent_id": "kinh-te"
+  },
+  {
+    "id": "kinh-te-lam-giau",
+    "name": "Làm giàu",
+    "rss": "https://thanhnien.vn/rss/kinh-te/lam-giau.rss",
+    "parent_id": "kinh-te"
+  },
+  {
+    "id": "kinh-te-dia-oc",
+    "name": "Địa ốc",
+    "rss": "https://thanhnien.vn/rss/kinh-te/dia-oc.rss",
+    "parent_id": "kinh-te"
+  },
+  {
+    "id": "doi-song",
+    "name": "Đời sống",
+    "rss": "https://thanhnien.vn/rss/doi-song.rss",
+    "parent_id": null
+  },
+  {
+    "id": "doi-song-thanh-nien-va-toi",
+    "name": "Thanh Niên và tôi",
+    "rss": "https://thanhnien.vn/rss/doi-song/thanh-nien-va-toi.rss",
+    "parent_id": "doi-song"
+  },
+  {
+    "id": "doi-song-tet-yeu-thuong",
+    "name": "Tết yêu thương",
+    "rss": "https://thanhnien.vn/rss/doi-song/tet-yeu-thuong.rss",
+    "parent_id": "doi-song"
+  },
+  {
+    "id": "doi-song-nguoi-song-quanh-ta",
+    "name": "Người sống quanh ta",
+    "rss": "https://thanhnien.vn/rss/doi-song/nguoi-song-quanh-ta.rss",
+    "parent_id": "doi-song"
+  },
+  {
+    "id": "doi-song-gia-dinh",
+    "name": "Gia đình",
+    "rss": "https://thanhnien.vn/rss/doi-song/gia-dinh.rss",
+    "parent_id": "doi-song"
+  },
+  {
+    "id": "doi-song-am-thuc",
+    "name": "Ẩm thực",
+    "rss": "https://thanhnien.vn/rss/doi-song/am-thuc.rss",
+    "parent_id": "doi-song"
+  },
+  {
+    "id": "doi-song-cong-dong",
+    "name": "Cộng đồng",
+    "rss": "https://thanhnien.vn/rss/doi-song/cong-dong.rss",
+    "parent_id": "doi-song"
+  },
+  {
+    "id": "doi-song-mot-nua-the-gioi",
+    "name": "Một nửa thế giới",
+    "rss": "https://thanhnien.vn/rss/doi-song/mot-nua-the-gioi.rss",
+    "parent_id": "doi-song"
+  },
+  {
+    "id": "doi-song-khat-vong-nam-rong",
+    "name": "Khát vọng năm rồng",
+    "rss": "https://thanhnien.vn/rss/doi-song/khat-vong-nam-rong.rss",
+    "parent_id": "doi-song"
+  },
+  {
+    "id": "suc-khoe",
+    "name": "Sức khỏe",
+    "rss": "https://thanhnien.vn/rss/suc-khoe.rss",
+    "parent_id": null
+  },
+  {
+    "id": "suc-khoe-khoe-dep-moi-ngay",
+    "name": "Khỏe đẹp mỗi ngày",
+    "rss": "https://thanhnien.vn/rss/suc-khoe/khoe-dep-moi-ngay.rss",
+    "parent_id": "suc-khoe"
+  },
+  {
+    "id": "suc-khoe-lam-dep",
+    "name": "Làm đẹp",
+    "rss": "https://thanhnien.vn/rss/suc-khoe/lam-dep.rss",
+    "parent_id": "suc-khoe"
+  },
+  {
+    "id": "suc-khoe-gioi-tinh",
+    "name": "Giới tính",
+    "rss": "https://thanhnien.vn/rss/suc-khoe/gioi-tinh.rss",
+    "parent_id": "suc-khoe"
+  },
+  {
+    "id": "suc-khoe-y-te-thong-minh",
+    "name": "Y tế thông minh",
+    "rss": "https://thanhnien.vn/rss/suc-khoe/y-te-thong-minh.rss",
+    "parent_id": "suc-khoe"
+  },
+  {
+    "id": "suc-khoe-tham-my-an-toan",
+    "name": "Thẩm mỹ an toàn",
+    "rss": "https://thanhnien.vn/rss/suc-khoe/tham-my-an-toan.rss",
+    "parent_id": "suc-khoe"
+  },
+  {
+    "id": "suc-khoe-tin-hay-y-te",
+    "name": "Tin hay y tế",
+    "rss": "https://thanhnien.vn/rss/suc-khoe/tin-hay-y-te.rss",
+    "parent_id": "suc-khoe"
+  },
+  {
+    "id": "gioi-tre",
+    "name": "Giới trẻ",
+    "rss": "https://thanhnien.vn/rss/gioi-tre.rss",
+    "parent_id": null
+  },
+  {
+    "id": "gioi-tre-song",
+    "name": "Sống",
+    "rss": "https://thanhnien.vn/rss/gioi-tre/song-yeu-an-choi.rss",
+    "parent_id": "gioi-tre"
+  },
+  {
+    "id": "gioi-tre-tiep-suc-gen-z-mua-thi",
+    "name": "Tiếp sức gen Z mùa thi",
+    "rss": "https://thanhnien.vn/rss/gioi-tre/tiep-suc-gen-z-mua-thi.rss",
+    "parent_id": "gioi-tre"
+  },
+  {
+    "id": "gioi-tre-co-hoi-nghe-nghiep",
+    "name": "Cơ hội nghề nghiệp",
+    "rss": "https://thanhnien.vn/rss/gioi-tre/co-hoi-nghe-nghiep.rss",
+    "parent_id": "gioi-tre"
+  },
+  {
+    "id": "gioi-tre-doan",
+    "name": "Đoàn",
+    "rss": "https://thanhnien.vn/rss/gioi-tre/doan-hoi.rss",
+    "parent_id": "gioi-tre"
+  },
+  {
+    "id": "gioi-tre-ket-noi",
+    "name": "Kết nối",
+    "rss": "https://thanhnien.vn/rss/gioi-tre/ket-noi.rss",
+    "parent_id": "gioi-tre"
+  },
+  {
+    "id": "gioi-tre-khoi-nghiep",
+    "name": "Khởi nghiệp",
+    "rss": "https://thanhnien.vn/rss/gioi-tre/khoi-nghiep.rss",
+    "parent_id": "gioi-tre"
+  },
+  {
+    "id": "gioi-tre-the-gioi-mang",
+    "name": "Thế giới mạng",
+    "rss": "https://thanhnien.vn/rss/gioi-tre/the-gioi-mang.rss",
+    "parent_id": "gioi-tre"
+  },
+  {
+    "id": "gioi-tre-guong-mat-tre",
+    "name": "Gương mặt trẻ",
+    "rss": "https://thanhnien.vn/rss/gioi-tre/guong-mat-tre.rss",
+    "parent_id": "gioi-tre"
+  },
+  {
+    "id": "tieu-dung-thong-minh",
+    "name": "Tiêu dùng thông minh",
+    "rss": "https://thanhnien.vn/rss/tieu-dung-thong-minh.rss",
+    "parent_id": null
+  },
+  {
+    "id": "tieu-dung-thong-minh-moi",
+    "name": "Mới",
+    "rss": "https://thanhnien.vn/rss/tieu-dung-thong-minh/moi-moi-moi.rss",
+    "parent_id": "tieu-dung-thong-minh"
+  },
+  {
+    "id": "tieu-dung-thong-minh-mua-mot-cham",
+    "name": "Mua một chạm",
+    "rss": "https://thanhnien.vn/rss/tieu-dung-thong-minh/mua-mot-cham.rss",
+    "parent_id": "tieu-dung-thong-minh"
+  },
+  {
+    "id": "tieu-dung-thong-minh-o-dau-re",
+    "name": "Ở đâu rẻ?",
+    "rss": "https://thanhnien.vn/rss/tieu-dung-thong-minh/o-dau-re.rss",
+    "parent_id": "tieu-dung-thong-minh"
+  },
+  {
+    "id": "tieu-dung-thong-minh-goc-nguoi-tieu-dung",
+    "name": "Góc người tiêu dùng",
+    "rss": "https://thanhnien.vn/rss/tieu-dung-thong-minh/goc-nguoi-tieu-dung.rss",
+    "parent_id": "tieu-dung-thong-minh"
+  },
+  {
+    "id": "giao-duc",
+    "name": "Giáo dục",
+    "rss": "https://thanhnien.vn/rss/giao-duc.rss",
+    "parent_id": null
+  },
+  {
+    "id": "giao-duc-tuyen-sinh",
+    "name": "Tuyển sinh",
+    "rss": "https://thanhnien.vn/rss/giao-duc/tuyen-sinh.rss",
+    "parent_id": "giao-duc"
+  },
+  {
+    "id": "giao-duc-chon-nghe",
+    "name": "Chọn nghề",
+    "rss": "https://thanhnien.vn/rss/giao-duc/chon-nghe-chon-truong.rss",
+    "parent_id": "giao-duc"
+  },
+  {
+    "id": "giao-duc-du-hoc",
+    "name": "Du học",
+    "rss": "https://thanhnien.vn/rss/giao-duc/du-hoc.rss",
+    "parent_id": "giao-duc"
+  },
+  {
+    "id": "giao-duc-nha-truong",
+    "name": "Nhà trường",
+    "rss": "https://thanhnien.vn/rss/giao-duc/nha-truong.rss",
+    "parent_id": "giao-duc"
+  },
+  {
+    "id": "giao-duc-phu-huynh",
+    "name": "Phụ huynh",
+    "rss": "https://thanhnien.vn/rss/giao-duc/phu-huynh.rss",
+    "parent_id": "giao-duc"
+  },
+  {
+    "id": "giao-duc-tra-cuu-diem-thi",
+    "name": "Tra cứu điểm thi",
+    "rss": "https://thanhnien.vn/rss/giao-duc/tra-cuu-diem-thi.rss",
+    "parent_id": "giao-duc"
+  },
+  {
+    "id": "giao-duc-on-thi-tot-nghiep",
+    "name": "Ôn thi tốt nghiệp",
+    "rss": "https://thanhnien.vn/rss/giao-duc/on-thi-tot-nghiep.rss",
+    "parent_id": "giao-duc"
+  },
+  {
+    "id": "du-lich",
+    "name": "Du lịch",
+    "rss": "https://thanhnien.vn/rss/du-lich.rss",
+    "parent_id": null
+  },
+  {
+    "id": "du-lich-tin-tuc",
+    "name": "Tin tức",
+    "rss": "https://thanhnien.vn/rss/du-lich/tin-tuc-su-kien.rss",
+    "parent_id": "du-lich"
+  },
+  {
+    "id": "du-lich-choi-gi-an-dau-di-the-nao",
+    "name": "Chơi gì, ăn đâu, đi thế nào?",
+    "rss": "https://thanhnien.vn/rss/du-lich/choi-gi-an-dau-di-the-nao.rss",
+    "parent_id": "du-lich"
+  },
+  {
+    "id": "du-lich-bat-dong-san-du-lich",
+    "name": "Bất động sản du lịch",
+    "rss": "https://thanhnien.vn/rss/du-lich/bat-dong-san-du-lich.rss",
+    "parent_id": "du-lich"
+  },
+  {
+    "id": "du-lich-cau-chuyen-du-lich",
+    "name": "Câu chuyện du lịch",
+    "rss": "https://thanhnien.vn/rss/du-lich/cau-chuyen-du-lich.rss",
+    "parent_id": "du-lich"
+  },
+  {
+    "id": "du-lich-kham-pha",
+    "name": "Khám phá",
+    "rss": "https://thanhnien.vn/rss/du-lich/kham-pha.rss",
+    "parent_id": "du-lich"
+  },
+  {
+    "id": "van-hoa",
+    "name": "Văn hóa",
+    "rss": "https://thanhnien.vn/rss/van-hoa.rss",
+    "parent_id": null
+  },
+  {
+    "id": "van-hoa-song-dep",
+    "name": "Sống đẹp",
+    "rss": "https://thanhnien.vn/rss/van-hoa/song-dep.rss",
+    "parent_id": "van-hoa"
+  },
+  {
+    "id": "van-hoa-cau-chuyen-van-hoa",
+    "name": "Câu chuyện văn hóa",
+    "rss": "https://thanhnien.vn/rss/van-hoa/cau-chuyen-van-hoa.rss",
+    "parent_id": "van-hoa"
+  },
+  {
+    "id": "van-hoa-khao-cuu",
+    "name": "Khảo cứu",
+    "rss": "https://thanhnien.vn/rss/van-hoa/khao-cuu.rss",
+    "parent_id": "van-hoa"
+  },
+  {
+    "id": "van-hoa-xem",
+    "name": "Xem",
+    "rss": "https://thanhnien.vn/rss/van-hoa/xem-nghe.rss",
+    "parent_id": "van-hoa"
+  },
+  {
+    "id": "van-hoa-sach-hay",
+    "name": "Sách hay",
+    "rss": "https://thanhnien.vn/rss/van-hoa/sach-hay.rss",
+    "parent_id": "van-hoa"
+  },
+  {
+    "id": "van-hoa-mon-ngon-ha-noi",
+    "name": "Món ngon Hà Nội",
+    "rss": "https://thanhnien.vn/rss/van-hoa/mon-ngon-ha-noi.rss",
+    "parent_id": "van-hoa"
+  },
+  {
+    "id": "van-hoa-nghia-tinh-mien-tay",
+    "name": "Nghĩa tình miền Tây",
+    "rss": "https://thanhnien.vn/rss/van-hoa/nghia-tinh-mien-tay.rss",
+    "parent_id": "van-hoa"
+  },
+  {
+    "id": "van-hoa-hao-khi-mien-dong",
+    "name": "Hào khí miền Đông",
+    "rss": "https://thanhnien.vn/rss/van-hoa/hao-khi-mien-dong.rss",
+    "parent_id": "van-hoa"
+  },
+  {
+    "id": "giai-tri",
+    "name": "Giải trí",
+    "rss": "https://thanhnien.vn/rss/giai-tri.rss",
+    "parent_id": null
+  },
+  {
+    "id": "giai-tri-phim",
+    "name": "Phim",
+    "rss": "https://thanhnien.vn/rss/giai-tri/phim.rss",
+    "parent_id": "giai-tri"
+  },
+  {
+    "id": "giai-tri-truyen-hinh",
+    "name": "Truyền hình",
+    "rss": "https://thanhnien.vn/rss/giai-tri/truyen-hinh.rss",
+    "parent_id": "giai-tri"
+  },
+  {
+    "id": "giai-tri-doi-nghe-si",
+    "name": "Đời nghệ sĩ",
+    "rss": "https://thanhnien.vn/rss/giai-tri/doi-nghe-si.rss",
+    "parent_id": "giai-tri"
+  },
+  {
+    "id": "the-thao",
+    "name": "Thể thao",
+    "rss": "https://thanhnien.vn/rss/the-thao.rss",
+    "parent_id": null
+  },
+  {
+    "id": "the-thao-sea-games-33",
+    "name": "SEA Games 33",
+    "rss": "https://thanhnien.vn/rss/the-thao/sea-games-33.rss",
+    "parent_id": "the-thao"
+  },
+  {
+    "id": "the-thao-bong-da-thanh-nien-sinh-vien",
+    "name": "Bóng đá Thanh Niên Sinh viên",
+    "rss": "https://thanhnien.vn/rss/the-thao/bong-da-thanh-nien-sinh-vien.rss",
+    "parent_id": "the-thao"
+  },
+  {
+    "id": "the-thao-bong-da-viet-nam",
+    "name": "Bóng đá Việt Nam",
+    "rss": "https://thanhnien.vn/rss/the-thao/bong-da-viet-nam.rss",
+    "parent_id": "the-thao"
+  },
+  {
+    "id": "the-thao-bong-da-quoc-te",
+    "name": "Bóng đá Quốc tế",
+    "rss": "https://thanhnien.vn/rss/the-thao/bong-da-quoc-te.rss",
+    "parent_id": "the-thao"
+  },
+  {
+    "id": "the-thao-the-thao-and-cong-dong",
+    "name": "Thể thao & Cộng đồng",
+    "rss": "https://thanhnien.vn/rss/the-thao/the-thao-cong-dong.rss",
+    "parent_id": "the-thao"
+  },
+  {
+    "id": "the-thao-cac-mon-khac",
+    "name": "Các môn khác",
+    "rss": "https://thanhnien.vn/rss/the-thao/cac-mon-khac.rss",
+    "parent_id": "the-thao"
+  },
+  {
+    "id": "cong-nghe",
+    "name": "Công nghệ",
+    "rss": "https://thanhnien.vn/rss/cong-nghe.rss",
+    "parent_id": null
+  },
+  {
+    "id": "cong-nghe-tin-tuc-cong-nghe",
+    "name": "Tin tức công nghệ",
+    "rss": "https://thanhnien.vn/rss/cong-nghe/tin-tuc-cong-nghe.rss",
+    "parent_id": "cong-nghe"
+  },
+  {
+    "id": "cong-nghe-blockchain",
+    "name": "Blockchain",
+    "rss": "https://thanhnien.vn/rss/cong-nghe/blockchain.rss",
+    "parent_id": "cong-nghe"
+  },
+  {
+    "id": "cong-nghe-san-pham",
+    "name": "Sản phẩm",
+    "rss": "https://thanhnien.vn/rss/cong-nghe/san-pham.rss",
+    "parent_id": "cong-nghe"
+  },
+  {
+    "id": "cong-nghe-xu-huong",
+    "name": "Xu hướng",
+    "rss": "https://thanhnien.vn/rss/cong-nghe/xu-huong-chuyen-doi-so.rss",
+    "parent_id": "cong-nghe"
+  },
+  {
+    "id": "cong-nghe-thu-thuat",
+    "name": "Thủ thuật",
+    "rss": "https://thanhnien.vn/rss/cong-nghe/thu-thuat.rss",
+    "parent_id": "cong-nghe"
+  },
+  {
+    "id": "cong-nghe-game",
+    "name": "Game",
+    "rss": "https://thanhnien.vn/rss/cong-nghe/game.rss",
+    "parent_id": "cong-nghe"
+  },
+  {
+    "id": "xe",
+    "name": "Xe",
+    "rss": "https://thanhnien.vn/rss/xe.rss",
+    "parent_id": null
+  },
+  {
+    "id": "xe-thi-truong",
+    "name": "Thị trường",
+    "rss": "https://thanhnien.vn/rss/xe/thi-truong.rss",
+    "parent_id": "xe"
+  },
+  {
+    "id": "xe-xe-dien",
+    "name": "Xe điện",
+    "rss": "https://thanhnien.vn/rss/xe/xe-dien.rss",
+    "parent_id": "xe"
+  },
+  {
+    "id": "xe-danh-gia-xe",
+    "name": "Đánh giá xe",
+    "rss": "https://thanhnien.vn/rss/xe/danh-gia-xe.rss",
+    "parent_id": "xe"
+  },
+  {
+    "id": "xe-tu-van",
+    "name": "Tư vấn",
+    "rss": "https://thanhnien.vn/rss/xe/tu-van.rss",
+    "parent_id": "xe"
+  },
+  {
+    "id": "xe-video",
+    "name": "Video",
+    "rss": "https://thanhnien.vn/rss/xe/video.rss",
+    "parent_id": "xe"
+  },
+  {
+    "id": "xe-xe",
+    "name": "Xe",
+    "rss": "https://thanhnien.vn/rss/xe/xe-giao-thong.rss",
+    "parent_id": "xe"
+  },
+  {
+    "id": "xe-xe",
+    "name": "Xe",
+    "rss": "https://thanhnien.vn/rss/xe/xe-doi-song.rss",
+    "parent_id": "xe"
+  },
+  {
+    "id": "thoi-trang-tre",
+    "name": "Thời trang trẻ",
+    "rss": "https://thanhnien.vn/rss/thoi-trang-tre.rss",
+    "parent_id": null
+  },
+  {
+    "id": "thoi-trang-tre-thoi-trang-247",
+    "name": "Thời trang 24/7",
+    "rss": "https://thanhnien.vn/rss/thoi-trang-tre/thoi-trang-247.rss",
+    "parent_id": "thoi-trang-tre"
+  },
+  {
+    "id": "thoi-trang-tre-giu-dang",
+    "name": "Giữ dáng",
+    "rss": "https://thanhnien.vn/rss/thoi-trang-tre/giu-dang.rss",
+    "parent_id": "thoi-trang-tre"
+  },
+  {
+    "id": "thoi-trang-tre-thoi-trang-nghe-and-nghiep",
+    "name": "Thời trang nghề & nghiệp",
+    "rss": "https://thanhnien.vn/rss/thoi-trang-tre/thoi-trang-nghe-nghiep.rss",
+    "parent_id": "thoi-trang-tre"
+  },
+  {
+    "id": "thoi-trang-tre-tan-huong",
+    "name": "Tận hưởng",
+    "rss": "https://thanhnien.vn/rss/thoi-trang-tre/tan-huong.rss",
+    "parent_id": "thoi-trang-tre"
+  },
+  {
+    "id": "thoi-trang-tre-video",
+    "name": "Video",
+    "rss": "https://thanhnien.vn/rss/thoi-trang-tre/video.rss",
+    "parent_id": "thoi-trang-tre"
+  },
+  {
+    "id": "thoi-trang-tre-thu-vien-thoi-trang",
+    "name": "Thư viện thời trang",
+    "rss": "https://thanhnien.vn/rss/thoi-trang-tre/thu-vien-thoi-trang.rss",
+    "parent_id": "thoi-trang-tre"
+  },
+  {
+    "id": "ban-doc",
+    "name": "Bạn đọc",
+    "rss": "https://thanhnien.vn/rss/ban-doc.rss",
+    "parent_id": null
+  },
+  {
+    "id": "ban-doc-la-thu-tam-su",
+    "name": "Lá thư tâm sự",
+    "rss": "https://thanhnien.vn/rss/ban-doc/la-thu-tam-su.rss",
+    "parent_id": "ban-doc"
+  },
+  {
+    "id": "ban-doc-tu-don-thu-ban-doc",
+    "name": "Từ đơn thư bạn đọc",
+    "rss": "https://thanhnien.vn/rss/ban-doc/tu-don-thu-ban-doc.rss",
+    "parent_id": "ban-doc"
+  },
+  {
+    "id": "ban-doc-hoi-va-dap",
+    "name": "Hỏi và đáp",
+    "rss": "https://thanhnien.vn/rss/ban-doc/hoi-va-dap.rss",
+    "parent_id": "ban-doc"
+  },
+  {
+    "id": "ban-doc-ban-doc-viet",
+    "name": "Bạn đọc viết",
+    "rss": "https://thanhnien.vn/rss/ban-doc/ban-doc-viet.rss",
+    "parent_id": "ban-doc"
+  },
+  {
+    "id": "ban-doc-co-quan-chua-tra-loi-ban-doc",
+    "name": "Cơ quan chưa trả lời bạn đọc",
+    "rss": "https://thanhnien.vn/rss/ban-doc/co-quan-chua-tra-loi-ban-doc.rss",
+    "parent_id": "ban-doc"
+  },
+  {
+    "id": "ban-doc-tra-loi-ban-doc",
+    "name": "Trả lời bạn đọc",
+    "rss": "https://thanhnien.vn/rss/ban-doc/tra-loi-ban-doc.rss",
+    "parent_id": "ban-doc"
+  },
+  {
+    "id": "ban-doc-la-lanh-dum-la-rach",
+    "name": "Lá lành đùm lá rách",
+    "rss": "https://thanhnien.vn/rss/ban-doc/la-lanh-dum-la-rach.rss",
+    "parent_id": "ban-doc"
+  },
+  {
+    "id": "ban-doc-tam-long-vang",
+    "name": "Tấm lòng vàng",
+    "rss": "https://thanhnien.vn/rss/ban-doc/tam-long-vang.rss",
+    "parent_id": "ban-doc"
+  },
+  {
+    "id": "rao-vat",
+    "name": "Rao vặt",
+    "rss": "https://thanhnien.vn/rss/rao-vat.rss",
+    "parent_id": null
+  },
+  {
+    "id": "video",
+    "name": "Video",
+    "rss": "https://thanhnien.vn/rss/video.rss",
+    "parent_id": null
+  },
+  {
+    "id": "video-thoi-su",
+    "name": "Thời sự",
+    "rss": "https://thanhnien.vn/rss/video/thoi-su.rss",
+    "parent_id": "video"
+  },
+  {
+    "id": "video-doi-song",
+    "name": "Đời sống",
+    "rss": "https://thanhnien.vn/rss/video/doi-song.rss",
+    "parent_id": "video"
+  },
+  {
+    "id": "video-giai-tri",
+    "name": "Giải trí",
+    "rss": "https://thanhnien.vn/rss/video/giai-tri.rss",
+    "parent_id": "video"
+  },
+  {
+    "id": "video-giao-duc",
+    "name": "Giáo dục",
+    "rss": "https://thanhnien.vn/rss/video/giao-duc.rss",
+    "parent_id": "video"
+  },
+  {
+    "id": "video-suc-khoe",
+    "name": "Sức khỏe",
+    "rss": "https://thanhnien.vn/rss/video/suc-khoe.rss",
+    "parent_id": "video"
+  },
+  {
+    "id": "video-the-gioi",
+    "name": "Thế giới",
+    "rss": "https://thanhnien.vn/rss/video/the-gioi.rss",
+    "parent_id": "video"
+  },
+  {
+    "id": "video-trai-nghiem-so",
+    "name": "Trải nghiệm số",
+    "rss": "https://thanhnien.vn/rss/video/trai-nghiem-so.rss",
+    "parent_id": "video"
+  },
+  {
+    "id": "video-the-thao",
+    "name": "Thể thao",
+    "rss": "https://thanhnien.vn/rss/video/the-thao.rss",
+    "parent_id": "video"
+  },
+  {
+    "id": "video-truc-tuyen",
+    "name": "Trực tuyến",
+    "rss": "https://thanhnien.vn/rss/video/truc-tuyen.rss",
+    "parent_id": "video"
+  },
+  {
+    "id": "video-bong-da-thanh-nien-sinh-vien",
+    "name": "Bóng đá Thanh Niên Sinh viên",
+    "rss": "https://thanhnien.vn/rss/video/bong-da-thanh-nien-sinh-vien.rss",
+    "parent_id": "video"
+  },
+  {
+    "id": "video-bi-quyet-on-thi-tot-nghiep-thpt",
+    "name": "Bí quyết ôn thi tốt nghiệp THPT",
+    "rss": "https://thanhnien.vn/rss/video/bi-quyet-on-thi-tot-nghiep-thpt.rss",
+    "parent_id": "video"
+  },
+  {
+    "id": "video-phim-ngan-vietnamese",
+    "name": "Phim ngắn Vietnamese",
+    "rss": "https://thanhnien.vn/rss/video/phim-ngan-vietnamese.rss",
+    "parent_id": "video"
+  },
+  {
+    "id": "dien-dan",
+    "name": "Diễn đàn",
+    "rss": "https://thanhnien.vn/rss/dien-dan.rss",
+    "parent_id": null
+  },
+  {
+    "id": "dien-dan-van-hoa-giao-thong",
+    "name": "Văn hóa giao thông",
+    "rss": "https://thanhnien.vn/rss/dien-dan/van-hoa-giao-thong.rss",
+    "parent_id": "dien-dan"
+  },
+  {
+    "id": "podcast",
+    "name": "Podcast",
+    "rss": "https://thanhnien.vn/rss/podcast.rss",
+    "parent_id": null
+  },
+  {
+    "id": "podcast-genz",
+    "name": "GenZ",
+    "rss": "https://thanhnien.vn/rss/podcast/genz.rss",
+    "parent_id": "podcast"
+  },
+  {
+    "id": "podcast-showbiz",
+    "name": "Showbiz",
+    "rss": "https://thanhnien.vn/rss/podcast/showbiz.rss",
+    "parent_id": "podcast"
+  },
+  {
+    "id": "nhat-ky-tet-viet",
+    "name": "Nhật ký Tết Việt",
+    "rss": "https://thanhnien.vn/rss/nhat-ky-tet-viet.rss",
+    "parent_id": null
+  },
+  {
+    "id": "magazine",
+    "name": "Magazine",
+    "rss": "https://thanhnien.vn/rss/magazine.rss",
+    "parent_id": null
+  },
+  {
+    "id": "cung-con-di-tiep-cuoc-doi",
+    "name": "Cùng con đi tiếp cuộc đời",
+    "rss": "https://thanhnien.vn/rss/cung-con-di-tiep-cuoc-doi.rss",
+    "parent_id": null
+  },
+  {
+    "id": "ban-can-biet",
+    "name": "Bạn cần biết",
+    "rss": "https://thanhnien.vn/rss/ban-can-biet.rss",
+    "parent_id": null
+  },
+  {
+    "id": "ban-can-biet-mien-bac",
+    "name": "Miền Bắc",
+    "rss": "https://thanhnien.vn/rss/ban-can-biet/mien-bac.rss",
+    "parent_id": "ban-can-biet"
+  },
+  {
+    "id": "ban-can-biet-mien-nam",
+    "name": "Miền Nam",
+    "rss": "https://thanhnien.vn/rss/ban-can-biet/mien-nam.rss",
+    "parent_id": "ban-can-biet"
+  },
+  {
+    "id": "ban-can-biet-mien-trung",
+    "name": "Miền Trung",
+    "rss": "https://thanhnien.vn/rss/ban-can-biet/mien-trung.rss",
+    "parent_id": "ban-can-biet"
+  },
+  {
+    "id": "ban-can-biet-san-pham",
+    "name": "Sản phẩm",
+    "rss": "https://thanhnien.vn/rss/ban-can-biet/san-pham.rss",
+    "parent_id": "ban-can-biet"
+  },
+  {
+    "id": "ban-can-biet-dich-vu",
+    "name": "Dịch vụ",
+    "rss": "https://thanhnien.vn/rss/ban-can-biet/dich-vu.rss",
+    "parent_id": "ban-can-biet"
+  },
+  {
+    "id": "ban-can-biet-giai-thuong",
+    "name": "Giải thưởng",
+    "rss": "https://thanhnien.vn/rss/ban-can-biet/giai-thuong.rss",
+    "parent_id": "ban-can-biet"
+  },
+  {
+    "id": "ban-can-biet-thong-bao",
+    "name": "Thông báo",
+    "rss": "https://thanhnien.vn/rss/ban-can-biet/thong-bao.rss",
+    "parent_id": "ban-can-biet"
+  },
+  {
+    "id": "ban-can-biet-giai-tri",
+    "name": "Giải trí",
+    "rss": "https://thanhnien.vn/rss/ban-can-biet/giai-tri.rss",
+    "parent_id": "ban-can-biet"
+  },
+  {
+    "id": "ban-can-biet-tuyen-dung",
+    "name": "Tuyển dụng",
+    "rss": "https://thanhnien.vn/rss/ban-can-biet/tuyen-dung.rss",
+    "parent_id": "ban-can-biet"
+  },
+  {
+    "id": "cai-chinh",
+    "name": "Cải chính",
+    "rss": "https://thanhnien.vn/rss/cai-chinh.rss",
+    "parent_id": null
+  },
+  {
+    "id": "blog-phong-vien",
+    "name": "Blog phóng viên",
+    "rss": "https://thanhnien.vn/rss/blog-phong-vien.rss",
+    "parent_id": null
+  },
+  {
+    "id": "toi-viet",
+    "name": "Tôi viết",
+    "rss": "https://thanhnien.vn/rss/toi-viet.rss",
+    "parent_id": null
+  },
+  {
+    "id": "viec-lam",
+    "name": "Việc làm",
+    "rss": "https://thanhnien.vn/rss/viec-lam.rss",
+    "parent_id": null
+  },
+  {
+    "id": "tno",
+    "name": "TNO",
+    "rss": "https://thanhnien.vn/rss/tno.rss",
+    "parent_id": null
+  },
+  {
+    "id": "tin-24h",
+    "name": "Tin 24h",
+    "rss": "https://thanhnien.vn/rss/tin-24h.rss",
+    "parent_id": null
+  },
+  {
+    "id": "tin-thi-truong",
+    "name": "Tin thị trường",
+    "rss": "https://thanhnien.vn/rss/thi-truong.rss",
+    "parent_id": null
+  },
+  {
+    "id": "tin-nhanh-360",
+    "name": "Tin nhanh 360",
+    "rss": "https://thanhnien.vn/rss/tin-nhanh-360.rss",
+    "parent_id": null
+  }
+]
