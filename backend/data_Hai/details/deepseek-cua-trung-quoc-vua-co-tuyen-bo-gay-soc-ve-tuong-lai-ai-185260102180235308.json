@@ -1,0 +1,73 @@
+{
+  "title": "DeepSeek của Trung Quốc vừa có tuyên bố gây sốc về tương lai AI\n    \nDeepSeek của Trung Quốc vừa có tuyên bố gây sốc về tương lai AI",
+  "author": "Khương Nha",
+  "publishDate": "02/01/2026 19:12 GMT+7\n            \n            \n                02/01/2026 19:12 GMT+7",
+  "sapo": "Nhà sáng lập DeepSeek của Trung Quốc tuyên bố bất ngờ khi tìm cách giảm chi phí đào tạo AI (trí tuệ nhân tạo) thay vì cố gắng chạy đua về phần cứng như các đối thủ Mỹ.",
+  "body": [
+    {
+      "type": "text",
+      "content": "Nhà sáng lập DeepSeek Liang Wenfeng vừa đề xuất xem xét lại kiến trúc cơ bản để huấn luyện AI. Phương pháp mới tên là Siêu kết nối đa tạp (Manifold-Constrained Hyper-Connections - mHC). Mô hình này lập tức gây chú ý trong giới công nghệ khi có thể đảo ngược cuộc đua AI."
+    },
+    {
+      "type": "text",
+      "content": "DeepSeek từng gây sốc khi ra mắt các mô hình AI có sức mạnh tương đồng OpenAI với chi phí rẻ hơn rất nhiều. Màn ra mắt bất ngờ của DeepSeek đã thổi bay 600 tỉ USD của Nvidia khi giá cổ phiếu giảm 17% trong một ngày. Startup Trung Quốc cũng buộc các công ty Mỹ phải thay đổi chiến lược từ AI mã nguồn đóng sang mã nguồn mở. Tuyên bố lần này của Liang Wenfeng được cho là có thể mở ra một chương mới của ngành trí tuệ nhân tạo toàn cầu."
+    },
+    {
+      "type": "text",
+      "content": "Trong bài nghiên cứu được công bố hôm 1.1, 19 nhà nghiên cứu của DeepSeek cho biết họ đã thử nghiệm phương pháp mHC trên các mô hình 3 tỉ tham số, sau đó là 9 tỉ và 27 tỉ tham số. Kết quả là Siêu kết nối đa tạp có thể mở rộng quy mô mà không làm tăng quá nhiều về gánh nặng tính toán. Điều này đặc biệt quan trọng trong cuộc đua AI toàn cầu khi các công ty Mỹ đang chiếm ưu thế nhờ khả năng tiếp cận sức mạnh tính toán."
+    },
+    {
+      "type": "image",
+      "url": "https://images2.thanhnien.vn/528068263637045248/2026/1/2/ai-deepseekthanh-nien-17673521329672045118832.png",
+      "caption": "Giao diện ứng dụng DeepSeek trên điện thoại"
+    },
+    {
+      "type": "text",
+      "content": "Điều này cũng phản ánh văn hóa ngày càng cởi mở và hợp tác giữa các công ty AI của Trung Quốc, khi họ công khai ngày càng nhiều nghiên cứu ra với công chúng, thay vì giữ bí mật để tạo lợi thế cạnh tranh."
+    },
+    {
+      "type": "text",
+      "content": "Các chuyên gia trong ngành cho rằng nghiên cứu của DeepSeek thường gợi mở nhiều tín hiệu quan trọng trong việc lựa chọn kỹ thuật sẽ định hình các sản phẩm chủ lực tiếp theo của công ty."
+    },
+    {
+      "type": "text",
+      "content": "\"Kết quả thực nghiệm xác nhận mHC thực sự cho phép huấn luyện các mô hình quy mô lớn với khả năng mở rộng vượt trội so với HC (siêu kết nối) thông thường\", các nhà nghiên cứu của DeepSeek tuyên bố."
+    },
+    {
+      "type": "text",
+      "content": "Nhóm nghiên cứu lưu ý: \"Điều quan trọng là thông qua việc tối ưu hóa hiệu quả ở cấp độ cơ sở hạ tầng, mHC mang lại nhiều lợi ích vượt trội với chi phí tính toán không đáng kể\"."
+    },
+    {
+      "type": "text",
+      "content": "Báo cáo cũng cho thấy nhà sáng lập Liang vẫn tham gia mật thiết vào các nghiên cứu cốt lõi tại DeepSeek."
+    },
+    {
+      "type": "text",
+      "content": "Khái niệm siêu kết nối (HC) được các nhà nghiên cứu của ByteDance lần đầu đề xuất vào tháng 9.2024 như một sự điều chỉnh cho ResNet (mạng dư) - kiến trúc học sâu chủ đạo được giới thiệu vào năm 2015 bởi các nhà khoa học của Microsoft Research Asia, trong đó có nhà khoa học máy tính huyền thoại người Trung Quốc Hà Khai Minh."
+    },
+    {
+      "type": "text",
+      "content": "ResNet cho phép huấn luyện các mạng nơ ron rất sâu bằng cách ổn định quá trình huấn luyện, nhờ đó thông tin quan trọng được giữ lại khi số lớp tăng lên. Phương pháp này đã trở thành một phần không thể thiếu của các mô hình ngôn ngữ quy mô lớn như GPT của OpenAI cũng như hệ thống AlphaFold từng đoạt giải Nobel của Google DeepMind."
+    },
+    {
+      "type": "text",
+      "content": "Tuy nhiên, ResNet có những hạn chế đáng chú ý như khó khăn trong việc đảm bảo tín hiệu học tập truyền qua mạng nơ ron mạnh mẽ mà không bị \"sụp đổ\" thành trạng thái \"một kích cỡ phù hợp cho tất cả\"."
+    },
+    {
+      "type": "text",
+      "content": "Theo các nhà nghiên cứu của DeepSeek, giải pháp HC của ByteDance đã giải quyết thành công những vấn đề này bằng cách mở rộng luồng dư và tăng cường độ phức tạp của mạng nơ ron, mà không làm thay đổi chi phí tính toán của từng đơn vị riêng lẻ."
+    },
+    {
+      "type": "text",
+      "content": "Tuy nhiên, DeepSeek lập luận rằng phương pháp trước đó không tính đến đầy đủ chi phí bộ nhớ ngày càng tăng, khiến \"khả năng mở rộng thực tế\" bị hạn chế với việc huấn luyện các mô hình lớn. Thay vào đó, họ đề xuất một điều chỉnh bổ sung nhằm \"giới hạn\" mạng HC bằng một đa tạp cụ thể để đảm bảo hiệu quả tính toán và chi phí."
+    },
+    {
+      "type": "text",
+      "content": "\"mHC sẽ giúp giải quyết những hạn chế hiện tại và có khả năng mở ra những con đường mới cho sự phát triển của các kiến trúc nền tảng thế hệ tiếp theo\", các nhà nghiên cứu viết."
+    },
+    {
+      "type": "text",
+      "content": "Bài báo này được chính CEO của DeepSeek, Liang Wenfeng, tải lên kho lưu trữ truy cập mở arXiv. Ông cũng là người đã đăng tải nhiều bài báo kỹ thuật nổi bật khác của DeepSeek trong những năm gần đây, bao gồm cả các công trình liên quan đến các mô hình R1 và V3 của công ty."
+    }
+  ]
+}

@@ -3,87 +3,77 @@ const express = require("express");
 const cors = require("cors");
 const fs = require("fs").promises;
 const fsSync = require("fs");
-const { parseThanhNienRss } = require("./fetchNews");
 const path = require("path");
+const {
+  updateNews,
+  DATA_DIR,
+  DETAILS_DIR,
+  CATEGORIES_FILE,
+} = require("./crawl_news_from_slugJSON");
+const { syncCategories } = require("./crawl_category_rss");
 
 const app = express();
 app.use(cors());
+const PORT = 5000;
 
-const DATA_DIR = path.join(__dirname, "..", "data_Hai");
-const CATEGORIES_FILE = path.join(__dirname, "..", "categories.json");
-
-// kiem tra folder xem co ton tai hay k
-if (!fsSync.existsSync(DATA_DIR)) {
-  fsSync.mkdirSync(DATA_DIR, { recursive: true });
-}
-
-const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
-
-async function updateNews() {
+app.post("/api/sync-categories", async (req, res) => {
   try {
-    console.log(`[${new Date().toLocaleTimeString()}] Bắt đầu cập nhật...`);
-
-    const categories = JSON.parse(await fs.readFile(CATEGORIES_FILE, "utf-8"));
-    for (const cat of categories) {
-      let attempts = 0;
-      let success = false;
-      const MAX_RETRIES = 3;
-      while (attempts < MAX_RETRIES && !success) {
-        try {
-          attempts++;
-          const news = await parseThanhNienRss(cat.rss);
-
-          if (news && news.length > 0) {
-            await fs.writeFile(
-              path.join(DATA_DIR, `${cat.id}.json`),
-              JSON.stringify(news, null, 2)
-            );
-            console.log(`Đã cập nhật: ${cat.parent_id}-${cat.name}`);
-            success = true;
-          }
-        } catch (innerError) {
-          console.error(`Lỗi tại danh mục ${cat.name}:`, innerError.message);
-          if (attempts < MAX_RETRIES) {
-            console.log(`Đang thử lại sau 3 giây...`);
-            await delay(3000);
-          } else {
-            console.error(
-              `Đã thất bại sau ${MAX_RETRIES} lần thử cho danh mục: ${cat.name}`
-            );
-          }
-        }
-      }
-      await delay(2000);
-    }
-    console.log("Đã cập nhật tất cả tin tức vào bộ nhớ file!");
-  } catch (error) {
-    console.error("Lỗi nghiêm trọng trong Cron:", error.message);
-  }
-}
-
-cron.schedule("0 0 * * *", updateNews);
-
-app.get("/api/news/:id", async (req, res) => {
-  try {
-    const categoryId = req.params.id;
-    const filePath = path.join(DATA_DIR, `${categoryId}.json`);
-
-    if (!fsSync.existsSync(filePath)) {
-      return res.status(404).json({
-        message: "Dữ liệu đang được cập nhật hoặc không tồn tại",
-      });
-    }
-
-    const newsData = JSON.parse(await fs.readFile(filePath, "utf-8"));
-
+    const limit = null;
+    // const { limit } = req.body; 
+    console.log(`[API] Đang bắt đầu đồng bộ danh mục (Limit: ${limit || 'Full'})...`);
+    
+    const result = await syncCategories(limit);
+    
     res.json({
-      categoryName: categoryId,
-      articles: newsData,
+      message: "Đồng bộ danh mục thành công!",
+      info: result
     });
-  } catch (error) {
-    res.status(500).json({ error: error.message });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
   }
 });
 
-app.listen(5000, () => console.log("Server chạy tại port 5000"));
-updateNews();
+app.get("/api/categories", async (req, res) => {
+  try {
+    const data = await fs.readFile(CATEGORIES_FILE, "utf-8");
+    res.json(JSON.parse(data));
+  } catch (err) {
+    res.status(500).json({ error: "Không thể đọc file categories" });
+  }
+});
+
+app.get("/api/news/:slug", async (req, res) => {
+  try {
+    const filePath = path.join(DATA_DIR, `${req.params.slug}.json`);
+    if (fsSync.existsSync(filePath)) {
+      const data = await fs.readFile(filePath, "utf-8");
+      res.json(JSON.parse(data));
+    } else {
+      res.status(404).json({ error: "Danh mục chưa có dữ liệu" });
+    }
+  } catch (err) {
+    res.status(500).json({ error: "Lỗi Server" });
+  }
+});
+
+app.get("/api/detail/:articleId", async (req, res) => {
+  try {
+    const filePath = path.join(DETAILS_DIR, `${req.params.articleId}.json`);
+    if (fsSync.existsSync(filePath)) {
+      const data = await fs.readFile(filePath, "utf-8");
+      res.json(JSON.parse(data));
+    } else {
+      res.status(404).json({ error: "Không tìm thấy nội dung bài viết" });
+    }
+  } catch (err) {
+    res.status(500).json({ error: "Lỗi Server" });
+  }
+});
+
+app.get("/api/update", (req, res) => {
+  updateNews();
+  res.send("Đã kích hoạt tiến trình cập nhật ngầm...");
+});
+// cron.schedule("0 0 * * *", updateNews);
+
+app.listen(PORT, () => console.log(`Server listening on port ${PORT}`));
