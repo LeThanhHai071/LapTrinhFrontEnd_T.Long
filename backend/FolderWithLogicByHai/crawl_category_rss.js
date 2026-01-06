@@ -1,21 +1,14 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
-const fs = require("fs").promises; // Sử dụng promises để không block event loop
+const path = require("path");
+const fs = require("fs").promises;
 const slugify = require("slugify");
 
 const TARGET_URL = "https://thanhnien.vn/rss.html";
 const BASE_URL = "https://thanhnien.vn";
+const CATEGORIES_FILE = path.join(__dirname, "..", "categories.json");
 
-// const createSlug = (text) => {
-//     return slugify(text, {
-//         lower: true,
-//         locale: 'vi',
-//         remove: /[*+~.()'"!:@]/g,
-//         strict: true // Loại bỏ các ký tự đặc biệt lạ
-//     });
-// };
-
-const createId = (text) =>
+const createSlug = (text) =>
   slugify(text, {
     lower: true,
     locale: "vi",
@@ -23,7 +16,6 @@ const createId = (text) =>
     strict: true,
   });
 
-// Hàm bổ trợ để đảm bảo URL luôn là tuyệt đối
 const normalizeUrl = (url) => {
   if (!url) return "";
   return url.startsWith("http")
@@ -31,7 +23,7 @@ const normalizeUrl = (url) => {
     : `${BASE_URL}${url.startsWith("/") ? "" : "/"}${url}`;
 };
 
-async function crawlRssFromUrl() {
+async function syncCategories(limit = null) {
   try {
     console.log(`Đang tải nội dung từ: ${TARGET_URL}...`);
 
@@ -45,6 +37,8 @@ async function crawlRssFromUrl() {
 
     const $ = cheerio.load(response.data);
     const categories = [];
+
+    let globalIdCounter = 1;
 
     // Selector cụ thể hơn để tránh lấy nhầm dữ liệu
     const listItems = $(".cate-content > li");
@@ -61,12 +55,10 @@ async function crawlRssFromUrl() {
       let name = (mainAnchor.attr("title") || mainAnchor.text())
         .split("-")[0]
         .trim();
-
       if (!name) return;
 
-      const parentId = createId(name);
-      // const parentId = (index + 1).toString();
-
+      const parentId = globalIdCounter++;
+      const parentSlug = createSlug(name);
       let rssUrl =
         $el.find("> .linkrss").text().trim() || mainAnchor.attr("href");
       rssUrl = normalizeUrl(rssUrl);
@@ -75,6 +67,7 @@ async function crawlRssFromUrl() {
         categories.push({
           id: parentId,
           name: name,
+          slug: parentSlug,
           rss: rssUrl,
           parent_id: null,
         });
@@ -91,10 +84,13 @@ async function crawlRssFromUrl() {
         subRss = normalizeUrl(subRss);
 
         if (subName && subRss.endsWith(".rss")) {
-          const subId = `${parentId}-${createId(subName)}`;
+          const subId = globalIdCounter++;
+          const subSlug = `${parentSlug}-${createSlug(subName)}`;
+
           categories.push({
             id: subId,
             name: subName,
+            slug: subSlug,
             rss: subRss,
             parent_id: parentId,
           });
@@ -102,18 +98,21 @@ async function crawlRssFromUrl() {
       });
     });
 
+    const finalCategories = limit ? categories.slice(0, limit) : categories;
+
     // Lưu kết quả bất đồng bộ
     await fs.writeFile(
-      "categories.json",
-      JSON.stringify(categories, null, 2),
+      CATEGORIES_FILE,
+      JSON.stringify(finalCategories, null, 2),
       "utf-8"
     );
     console.log(
       `Thành công! Đã lưu ${categories.length} danh mục vào categories.json`
     );
+    return { total: categories.length, saved: finalCategories.length };
   } catch (error) {
-    console.error("Lỗi:", error.message);
+    throw new Error("Lỗi khi đồng bộ danh mục: " + error.message);
   }
 }
 
-crawlRssFromUrl();
+module.exports = { syncCategories };
