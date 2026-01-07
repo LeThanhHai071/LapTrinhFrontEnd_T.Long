@@ -1,51 +1,55 @@
 import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
-import { fetchAllNews } from "./services/newsService";
+import { fetchNewsDetail } from "./services/newsService";
 import "./NewsDetail.css";
 
 const NewsDetail = () => {
-  const { id } = useParams();
+  const { id: articleId } = useParams();
+
   const [article, setArticle] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+
   const [comments, setComments] = useState([]);
   const [commentText, setCommentText] = useState("");
   const [speaking, setSpeaking] = useState(false);
 
+  /* ===== LOAD DETAIL ===== */
   useEffect(() => {
-    fetchAllNews().then((data) => {
-      let found = null;
-
-      Object.values(data).forEach(parent =>
-        Object.values(parent).forEach(sub =>
-          sub.forEach(item => {
-            if (btoa(item.link) === id) found = item;
-          })
-        )
-      );
-
-      setArticle(found);
-    });
-  }, [id]);
+    setLoading(true);
+    fetchNewsDetail(articleId)
+      .then((data) => {
+        setArticle(data);
+        setError(null);
+      })
+      .catch(() => {
+        setError("❌ Không tìm thấy bài viết");
+      })
+      .finally(() => setLoading(false));
+  }, [articleId]);
 
   /* ===== TEXT TO SPEECH ===== */
   const handleSpeak = () => {
-    if (!article) return;
-
-    if (speaking) {
+    if (!article || speaking) {
       window.speechSynthesis.cancel();
       setSpeaking(false);
       return;
     }
 
-    const text =
-      article.title + ". " +
-      article.sapo + ". " +
-      article.body
-        .filter(b => b.type === "text")
-        .map(b => b.content)
-        .join(" ");
+    const bodyText = article.body
+      ?.filter((b) => b.type === "text")
+      .map((b) => b.content)
+      .join(" ");
+
+    const text = [
+      article.title,
+      article.sapo,
+      bodyText
+    ].join(". ");
 
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = "vi-VN";
+    utterance.rate = 1;
     utterance.onend = () => setSpeaking(false);
 
     window.speechSynthesis.speak(utterance);
@@ -56,8 +60,8 @@ const NewsDetail = () => {
   const handleAddComment = () => {
     if (!commentText.trim()) return;
 
-    setComments([
-      ...comments,
+    setComments((prev) => [
+      ...prev,
       {
         text: commentText,
         time: new Date().toLocaleString("vi-VN"),
@@ -66,7 +70,9 @@ const NewsDetail = () => {
     setCommentText("");
   };
 
-  if (!article) return <p>⏳ Đang tải bài viết...</p>;
+  /* ===== UI STATE ===== */
+  if (loading) return <p>⏳ Đang tải bài viết...</p>;
+  if (error) return <p>{error}</p>;
 
   return (
     <div className="news-detail">
@@ -74,8 +80,7 @@ const NewsDetail = () => {
 
       <div className="meta">
         <span>{article.publishDate}</span>
-        <span>•</span>
-        <span>{article.author}</span>
+        <span>• {article.author}</span>
 
         <button className="speak-btn" onClick={handleSpeak}>
           {speaking ? "⏹ Dừng đọc" : "🔊 Đọc báo"}
@@ -84,17 +89,18 @@ const NewsDetail = () => {
 
       <p className="sapo">{article.sapo}</p>
 
+      {/* ===== CONTENT ===== */}
       <div className="content">
-        {article.body.map((block, i) => {
+        {article.body?.map((block, index) => {
           if (block.type === "text") {
-            return <p key={i}>{block.content}</p>;
+            return <p key={index}>{block.content}</p>;
           }
 
           if (block.type === "image") {
             return (
-              <figure key={i}>
-                <img src={block.url} alt="" />
-                <figcaption>{block.caption}</figcaption>
+              <figure key={index}>
+                <img src={block.url} alt={block.caption || ""} />
+                {block.caption && <figcaption>{block.caption}</figcaption>}
               </figure>
             );
           }
