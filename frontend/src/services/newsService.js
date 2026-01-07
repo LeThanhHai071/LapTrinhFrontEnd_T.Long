@@ -1,9 +1,22 @@
-import axios from "axios";
+const API_BASE = "http://localhost:5000/api";
 
-const API_URL = "http://localhost:5000/api/news";
-
-// LẤY TOÀN BỘ DỮ LIỆU final_data.json
+/* ===== LẤY TOÀN BỘ TIN (HOME / LIST) ===== */
 export const fetchAllNews = async () => {
-  const response = await axios.get(API_URL);
-  return response.data;
+  const res = await fetch(`${API_BASE}/news`);
+  if (!res.ok) {
+    throw new Error("Không tải được danh sách tin");
+  }
+  return res.json();
 };
+
+/* ===== LẤY CHI TIẾT BÀI ===== */
+export const fetchNewsDetail = async (articleId) => {
+  const res = await fetch(`${API_BASE}/news/detail/${articleId}`);
+
+  if (!res.ok) {
+    throw new Error("Không tìm thấy bài viết");
+  }
+
+  return res.json();
+};
+
