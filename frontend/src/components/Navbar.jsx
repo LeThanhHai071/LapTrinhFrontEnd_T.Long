@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import axios from "axios";
 import "./Navbar.css";
 import {
   FacebookIconCustom,
@@ -8,34 +9,72 @@ import {
   ZaloIconCustom,
 } from "./Footer_SocialIcon";
 import CategoryBox from "./CategoryBox";
+import { useState } from "react";
+import { useEffect } from "react";
+import NavItem from "./CategoryBoxStickyPage";
 
 const Navbar = ({ isOpen, onCloseMenu }) => {
-  const menuData = [
-    {
-      title: "Chính trị",
-      href: "/chinh-tri.htm",
-      items: [
-        { href: "/chinh-tri/su-kien.htm", text: "Sự kiện" },
-        {
-          href: "/chinh-tri/vuon-minh.htm",
-          text: "Vươn mình trong kỷ nguyên mới",
-        },
-        { href: "/chinh-tri/thoi-luan.htm", text: "Thời luận" },
-        { href: "/chinh-tri/thi-dua.htm", text: "Thi đua yêu nước" },
-        { href: "/chinh-tri/gop-y.htm", text: "Góp ý văn kiện" },
-      ],
-    },
-    {
-      title: "Kinh tế",
-      href: "/kinh-te.htm",
-      items: [
-        { href: "/kinh-te/tai-chinh.htm", text: "Tài chính" },
-        { href: "/kinh-te/bat-dong-san.htm", text: "Bất động sản" },
-        { href: "/kinh-te/chung-khoan.htm", text: "Chứng khoán" },
-        { href: "/kinh-te/doanh-nhan.htm", text: "Doanh nhân" },
-      ],
-    },
-  ];
+  const [categories, setCategories] = useState([]);
+  const [newsData, setNewsData] = useState({});
+
+  useEffect(() => {
+    const getCategories = async () => {
+      try {
+        const response = await axios.get(
+          "http://localhost:5000/api/categories"
+        );
+        const allData = response.data;
+        const parents = allData.filter((cat) => cat.parent_id === null);
+        const EXCLUDED_SLUGS = ['video', 'podcast', 'dien-dan', 'ban-can-biet', 'tieu-dung-thong-minh'];
+
+        const treeData = parents
+        .filter(p => !EXCLUDED_SLUGS.includes(p.slug))  
+        .map((parent) => {
+            const children = allData.filter(
+              (child) => child.parent_id === parent.id
+            );
+            return {
+              id: parent.id,
+              title: parent.name,
+              slug: parent.slug,
+              items: children.map((c) => ({
+                text: c.name,
+                href: `/news/${c.slug}`,
+              })),
+              childrenCount: children.length,
+            };
+          })
+          .filter((parent) => parent.items.length > 0);
+
+        setCategories(treeData);
+
+        const mainSlugs = treeData.map((cat) => cat.slug);
+        const newsPromises = mainSlugs.map(async (slug) => {
+          try {
+            const res = await axios.get(
+              `http://localhost:5000/api/news/${slug}`
+            );
+            return { slug, data: res.data };
+          } catch (err) {
+            console.warn(`Không tìm thấy tin cho slug: ${slug}`);
+            return { slug, data: [] };
+          }
+        });
+        const allNewsResults = await Promise.all(newsPromises);
+        const formattedNews = {};
+        allNewsResults.forEach((item) => {
+          formattedNews[item.slug] = item.data;
+        });
+
+        setNewsData(formattedNews);
+      } catch (error) {
+        console.error("Không lấy được danh mục", error);
+      }
+    };
+
+    getCategories();
+  }, []);
+
   return (
     <div className="header__middle">
       <div className="header__postion">
@@ -47,8 +86,14 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                   <HomeIconCustom />
                 </a>
               </li>
-
-              <li>
+              {categories.map((cat) => (
+                <NavItem
+                  key={cat.id}
+                  category={cat}
+                  articles={newsData[cat.slug] || []}
+                />
+              ))}
+              {/* <li>
                 <a
                   href="/chinh-tri.htm"
                   data-short-url="chinh-tri"
@@ -381,16 +426,13 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                     </div>
                   </div>
                 </div>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
         <div className={`header__mega-menu ${isOpen ? "is-active" : ""}`}>
           <div className="container">
-            <div
-              className="header__close-menu"
-              onClick={onCloseMenu}
-            >
+            <div className="header__close-menu" onClick={onCloseMenu}>
               <span className="icon">
                 <svg
                   width="24"
@@ -417,23 +459,19 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
             </div>
             <div className="header__mm-flex">
               <div className="header__mm-cate" id="appen__mega-menu">
-                {menuData.map((category, index) => (
+                {categories.map((cat) => (
                   <CategoryBox
-                    key={index}
-                    title={category.title}
-                    titleHref={category.href}
-                    items={category.items}
+                    key={cat.id}
+                    title={cat.title}
+                    titleHref={`/news/${cat.slug}`}
+                    items={cat.items}
                   />
                 ))}
               </div>
 
               <div className="header__mm-right">
                 <div className="box">
-                  <Link
-                    to="/weather"
-                    className="item"
-                    title="Chào ngày mới"
-                  >
+                  <Link to="/weather" className="item" title="Chào ngày mới">
                     <span className="icon">
                       <div className="bootstrap__icon">
                         <i className="bi bi-cloud-sun-fill"></i>

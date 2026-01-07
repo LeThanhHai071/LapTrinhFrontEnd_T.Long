@@ -7,7 +7,7 @@ import Home from "./home";
 import Login from "./login";
 import Register from "./register";
 import NewsList from "./NewsList";     // ✅ THÊM
-import NewsDetail from "./NewsDetail";
+import NewsDetail from "./newsDetail";
 import Subscription from "./Subscription";
 import Advertise from "./Advertise";
 import ShowWeather from "./ShowWeather";
@@ -20,7 +20,7 @@ function App() {
           <Route index element={<Home />} />
 
           {/* ✅ DANH SÁCH TIN */}
-          <Route path="news" element={<NewsList />} />
+          <Route path="/news/:slug" element={<NewsList />} />
 
           {/* ✅ CHI TIẾT TIN */}
           <Route path="news/:id" element={<NewsDetail />} />
