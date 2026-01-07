@@ -34,6 +34,7 @@
   position: relative;
   list-style: none;
   padding-left: 0;
+  justify-content: center;
 }
 
 .header__nav-flex .menu-nav li:first-child .nav-link {
@@ -51,6 +52,8 @@
   color: #292929;
   display: flex;
   align-items: center;
+  max-width: 100px;
+  min-width: 20px;
 }
 
 .header__nav .menu-nav li .sub-menu {
@@ -369,6 +372,7 @@
   text-decoration-line: underline;
   color: #8b8b8b;
   display: block;
+  padding: 0;
 }
 
 .header__mm-cate .box .list .item {

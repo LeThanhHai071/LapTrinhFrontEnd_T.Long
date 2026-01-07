@@ -12,8 +12,8 @@ const CategoryBox = ({ title, titleHref, items }) => {
         {title}
       </a>
       <div className={`list ${isExpanded ? 'is-open' : ''}`}>
-        {displayedItems.map((item) => (
-          <a key={item.id} href={item.href} className="item" title={item.text}>
+        {displayedItems.map((item, index) => (
+          <a key={item.id || index} href={item.href} className="item" title={item.text}>
             {item.text}
           </a>
         ))}

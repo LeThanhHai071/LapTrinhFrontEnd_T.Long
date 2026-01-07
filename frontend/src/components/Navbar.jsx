@@ -10,9 +10,12 @@ import {
 } from "./Footer_SocialIcon";
 import CategoryBox from "./CategoryBox";
 import { useState } from "react";
+import { useEffect } from "react";
+import NavItem from "./CategoryBoxStickyPage";
 
 const Navbar = ({ isOpen, onCloseMenu }) => {
   const [categories, setCategories] = useState([]);
+  const [newsData, setNewsData] = useState({});
 
   useEffect(() => {
     const getCategories = async () => {
@@ -22,23 +25,48 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
         );
         const allData = response.data;
         const parents = allData.filter((cat) => cat.parent_id === null);
+        const EXCLUDED_SLUGS = ['video', 'podcast', 'dien-dan', 'ban-can-biet', 'tieu-dung-thong-minh'];
 
-        const treeData = parents.map((parent) => {
-          const children = flatData.filter(
-            (child) => child.parent_id === parent.id
-          );
-          return {
-            id: parent.id,
-            title: parent.name,
-            slug: parent.slug,
-            items: children.map((c) => ({
-              text: c.name,
-              href: `/category/${c.slug}`,
-            })),
-          };
-        });
+        const treeData = parents
+        .filter(p => !EXCLUDED_SLUGS.includes(p.slug))  
+        .map((parent) => {
+            const children = allData.filter(
+              (child) => child.parent_id === parent.id
+            );
+            return {
+              id: parent.id,
+              title: parent.name,
+              slug: parent.slug,
+              items: children.map((c) => ({
+                text: c.name,
+                href: `/news/${c.slug}`,
+              })),
+              childrenCount: children.length,
+            };
+          })
+          .filter((parent) => parent.items.length > 0);
 
         setCategories(treeData);
+
+        const mainSlugs = treeData.map((cat) => cat.slug);
+        const newsPromises = mainSlugs.map(async (slug) => {
+          try {
+            const res = await axios.get(
+              `http://localhost:5000/api/news/${slug}`
+            );
+            return { slug, data: res.data };
+          } catch (err) {
+            console.warn(`Không tìm thấy tin cho slug: ${slug}`);
+            return { slug, data: [] };
+          }
+        });
+        const allNewsResults = await Promise.all(newsPromises);
+        const formattedNews = {};
+        allNewsResults.forEach((item) => {
+          formattedNews[item.slug] = item.data;
+        });
+
+        setNewsData(formattedNews);
       } catch (error) {
         console.error("Không lấy được danh mục", error);
       }
@@ -58,8 +86,14 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                   <HomeIconCustom />
                 </a>
               </li>
-
-              <li>
+              {categories.map((cat) => (
+                <NavItem
+                  key={cat.id}
+                  category={cat}
+                  articles={newsData[cat.slug] || []}
+                />
+              ))}
+              {/* <li>
                 <a
                   href="/chinh-tri.htm"
                   data-short-url="chinh-tri"
@@ -392,7 +426,7 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                     </div>
                   </div>
                 </div>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
@@ -429,7 +463,7 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                   <CategoryBox
                     key={cat.id}
                     title={cat.title}
-                    titleHref={`/category/${cat.slug}`}
+                    titleHref={`/news/${cat.slug}`}
                     items={cat.items}
                   />
                 ))}
