@@ -1,10 +1,10 @@
 import React, { useState } from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { login } from "./services/authService";
+import { md5Hash } from "./utils/hashUtils";
 import "./login.css";
 
 export default function Login() {
-  const navigate = useNavigate();
   const [form, setForm] = useState({
     username: "",
     password: ""
@@ -16,11 +16,19 @@ export default function Login() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+
+    // MD5 password
+    const payload = {
+      username: form.username,
+      password: md5Hash(form.password)
+    };
+
     try {
-      const res = await login(form);
+      const res = await login(payload);
       alert(res.data.message);
+
       localStorage.setItem("user", JSON.stringify(res.data.user));
-      window.location.href = "/"; 
+      window.location.href = "/";
     } catch (err) {
       alert(err.response?.data?.message || "Login failed");
     }
