@@ -178,19 +178,17 @@
 }
 
 .header__user-content {
-  opacity: 1;
-  visibility: visible;
   position: absolute;
   top: 100%;
-  right: 0;
+  right: 0;       
   background: #fff;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  width: 375px;
-  z-index: 2;
-  text-align: left;
+  width: 300px;          
+  z-index: 1000;
+  text-align: right;     
   visibility: hidden;
   opacity: 0;
-  transition: 0.5s;
+  transition: 0.3s;
 }
 
 .header__uc-main {
