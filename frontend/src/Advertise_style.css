@@ -10,6 +10,7 @@
 .type-item {
     flex: 1;
     transition: all 0.3s ease;
+    border-radius: 10px;
 }
 
 
@@ -22,6 +23,9 @@
 .text_center {
     text-align: center;
 
+}
+.margin-top-90{
+    margin-top: 90px;
 }
 
 .btn-type {
@@ -38,7 +42,10 @@
 }
 
 .btn-type:hover {
-    opacity: 0.8;
+    opacity: 0.9;
+    color: #ffffff !important; /* Ép màu chữ trắng khi di chuột */
+    text-decoration: none !important;
+    filter: brightness(1.1);
 }
 
 @media (max-width: 768px) {
@@ -98,3 +105,20 @@
     margin-top: 0;
     opacity: 1;
 }
+
+.advertise-page-wrapper {
+    margin: 0 0 30px 0 !important;
+    /*min-height: 100vh;*/
+    background-color: #ffffff;
+}
+.header-advertise {
+    font-size: 50px !important;
+    color: #0098d1 !important;
+    font-weight: 700 !important;
+    margin: 30px 0 !important;
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
+}
+
+
