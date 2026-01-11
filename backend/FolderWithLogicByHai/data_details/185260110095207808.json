@@ -1,0 +1,50 @@
+{
+  "title": "Nhiều smartphone sắp không chạy được ứng dụng ngân hàng",
+  "categories": [
+    "Công nghệ",
+    "Tin tức công nghệ"
+  ],
+  "sapo": "Theo quy định mới, kể từ ngày 1.3, các ứng dụng ngân hàng bắt buộc tự động ngừng hoạt động nếu phát hiện thiết bị di động của người dùng đã bị can thiệp hệ điều hành (root/jailbreak) hoặc đang chạy trên môi trường giả lập.",
+  "publishDate": "10/01/2026 10:11 GMT+7",
+  "author": {
+    "name": "Anh Quân",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/Uploaded/authors/CTV/cong-tam_AAKV.jpeg",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Thông tin trên được quy định trong Thông tư số 77/2025/TT-NHNN, sửa đổi và bổ sung một số điều của Thông tư số 50/2024/TT-NHNN quy định về an toàn, bảo mật cho việc cung cấp dịch vụ trực tuyến trong ngành ngân hàng, do Thống đốc Ngân hàng Nhà nước (NHNN) ký ban hành. Động thái siết chặt quy định được đưa ra trong bối cảnh tội phạm công nghệ cao gia tăng chóng mặt, các đối tượng lừa đảo liên tục sử dụng mã độc, công nghệ deepfake và tài khoản \"ma\" để tấn công, chiếm quyền kiểm soát thiết bị và đánh cắp tài sản của người dùng, chủ yếu thông qua ứng dụng ngân hàng được cài đặt trên máy."
+    },
+    {
+      "type": "h2",
+      "content": "3 trường hợp ứng dụng ngân hàng buộc phải \"tự đóng\""
+    },
+    {
+      "type": "text",
+      "content": "Theo nội dung Thông tư 77, để thiết lập hàng rào phòng vệ chủ động, các ứng dụng ngân hàng số trên thiết bị di động (Mobile Banking) phải được lập trình để tự động ngắt kết nối hoặc ngừng hoạt động ngay lập tức nếu phát hiện thiết bị thuộc một trong ba nhóm rủi ro sau:"
+    },
+    {
+      "type": "h2",
+      "content": "Tăng cường trách nhiệm rà soát của ngân hàng"
+    },
+    {
+      "type": "text",
+      "content": "Không chỉ đặt ra yêu cầu với thiết bị người dùng, Thông tư 77 còn quy định trách nhiệm giám sát chặt chẽ đối với các tổ chức tín dụng. Cụ thể, định kỳ tối thiểu 3 tháng một lần, đơn vị phát hành ứng dụng Mobile Banking phải thực hiện đánh giá an toàn, bảo mật cho phiên bản đang lưu hành để kịp thời phát hiện lỗ hổng."
+    },
+    {
+      "type": "text",
+      "content": "Trong trường hợp phát hiện lỗ hổng bảo mật ở mức \"Cao\" hoặc \"Nghiêm trọng\", ngân hàng phải áp dụng biện pháp kiểm soát, bao gồm chặn giao dịch để ngăn ngừa tội phạm mạng lợi dụng tấn công."
+    },
+    {
+      "type": "text",
+      "content": "Về thời hạn khắc phục, Thông tư ấn định mốc thời gian rất gấp rút: Trong vòng 24 giờ, đơn vị phát hành phần mềm phải cập nhật phiên bản mới hoặc bản vá lỗi đối với các thành phần hệ thống có kết nối trực tiếp với internet; trong vòng 1 tháng phải thực hiện xong với các thành phần còn lại nếu lỗ hổng ở mức Nghiêm trọng. Đối với thành phần còn lại nếu lỗ hổng ở mức Cao, cần xử lý trong vòng 2 tháng."
+    },
+    {
+      "type": "text",
+      "content": "Quy định trên sẽ chính thức có hiệu lực từ ngày 1.3.2026. Do đó, người dùng đang sử dụng các thiết bị đã can thiệp hệ thống hoặc cài đặt các phần mềm giả lập cần sớm khôi phục cài đặt gốc (hoặc chuyển sang thiết bị đạt chuẩn) để đảm bảo giao dịch tài chính không bị gián đoạn."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/nhieu-smartphone-sap-khong-chay-duoc-ung-dung-ngan-hang-185260110095207808.htm",
+  "id": "185260110095207808"
+}

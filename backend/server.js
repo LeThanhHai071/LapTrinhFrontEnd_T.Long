@@ -12,20 +12,14 @@ const {
   CATEGORIES_FILE,
 } = require("./crawl_news_from_slugJSON");
 const { syncCategories } = require("./crawl_category_rss");
+const authRoute = require("./routes/auth.route");
 
 const app = express();
 app.use(cors());
 const PORT = 5000;
 app.use(express.json());
 
-app.get('/api/news', (req, res) => {
-    try {
-        const data = readInputJson('final_data.json');
-        res.json(data);
-    } catch (e) {
-        res.status(500).json({ message: "Dữ liệu đang được chuẩn bị, vui lòng thử lại sau." });
-    }
-});
+app.use("/api/auth", authRoute);
 
 app.post("/api/sync-categories", async (req, res) => {
   try {
@@ -86,5 +80,11 @@ app.get("/api/update", (req, res) => {
   res.send("Đã kích hoạt tiến trình cập nhật ngầm...");
 });
 // cron.schedule("0 0 * * *", updateNews);
+
+app.use((req, res) => {
+  res.status(404).json({
+    message: "API not found"
+  });
+});
 
 app.listen(PORT, () => console.log(`Server listening on port ${PORT}`));

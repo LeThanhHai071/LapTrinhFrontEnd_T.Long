@@ -20,10 +20,10 @@ function App() {
           <Route index element={<Home />} />
 
           {/* ✅ DANH SÁCH TIN */}
-          <Route path="/news/:slug" element={<NewsList />} />
+          {/* <Route path="/news/:slug" element={<NewsList />} /> */}
 
           {/* ✅ CHI TIẾT TIN */}
-          <Route path="news/:id" element={<NewsDetail />} />
+          <Route path="/news/:id" element={<NewsDetail />} />
 
           <Route path="login" element={<Login />} />
           <Route path="register" element={<Register />} />

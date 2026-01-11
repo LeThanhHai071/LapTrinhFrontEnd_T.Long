@@ -1,0 +1,89 @@
+{
+  "categoryId": 90,
+  "categoryName": "Truyền hình",
+  "fullSlug": "giai-tri-truyen-hinh",
+  "limitApplied": 10,
+  "lastUpdate": "2026-01-11T04:18:51.692Z",
+  "articles": [
+    {
+      "title": "Tiến Luật: Tôi cầu hôn Thu Trang bằng... bánh bao",
+      "link": "https://thanhnien.vn/tien-luat-toi-cau-hon-thu-trang-bang-banh-bao-185260111104020815.htm",
+      "pubDate": "Sun, 11 Jan 26 11:18:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/tluat-1768102275252869294865-0-192-1080-1920-crop-17681027757291570070445.jpg",
+      "description": "Trong chương trình 'Sao check', cặp đôi Thu Trang - Tiến Luật có những trải lòng về hành trình hôn nhân, đồng thời tiết lộ về những dự án phim ảnh của mình.",
+      "guid": "https://thanhnien.vn/tien-luat-toi-cau-hon-thu-trang-bang-banh-bao-185260111104020815.htm"
+    },
+    {
+      "title": "Ốc Thanh Vân đưa con gái đi quay gameshow, nhan sắc gây bất ngờ",
+      "link": "https://thanhnien.vn/oc-thanh-van-dua-con-gai-di-quay-gameshow-nhan-sac-gay-bat-ngo-185260110193350633.htm",
+      "pubDate": "Sat, 10 Jan 26 19:42:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/oc-thanh-van-5-1768048066512482229441-0-0-927-1483-crop-17680483909261247361463.jpg",
+      "description": "Ốc Thanh Vân đảm nhận vai trò dẫn dắt 'Mái ấm gia đình Việt' tại Hải Phòng. Chuyến công tác này còn có sự góp mặt của con gái lớn nữ diễn viên.",
+      "guid": "https://thanhnien.vn/oc-thanh-van-dua-con-gai-di-quay-gameshow-nhan-sac-gay-bat-ngo-185260110193350633.htm"
+    },
+    {
+      "title": "Cô gái Việt tiết lộ chuyện tình với bố đơn thân người Hàn Quốc",
+      "link": "https://thanhnien.vn/co-gai-viet-tiet-lo-chuyen-tinh-voi-bo-don-than-nguoi-han-quoc-185260110160103473.htm",
+      "pubDate": "Sat, 10 Jan 26 16:21:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/screenshot2-17680338078931513717574-0-0-551-882-crop-17680338289631139612487.jpg",
+      "description": "Tại chương trình 'Vợ chồng son', câu chuyện cô gái Việt không ngại đến với bố đơn thân người Hàn Quốc dù bị gia đình phản đối, sẵn sàng yêu thương con riêng của chồng như con ruột khiến Quốc Thuận xúc động.",
+      "guid": "https://thanhnien.vn/co-gai-viet-tiet-lo-chuyen-tinh-voi-bo-don-than-nguoi-han-quoc-185260110160103473.htm"
+    },
+    {
+      "title": "Ca sĩ bolero từng bán nhà làm album giờ ra sao?",
+      "link": "https://thanhnien.vn/ca-si-bolero-tung-ban-nha-lam-album-gio-ra-sao-185260110103700477.htm",
+      "pubDate": "Sat, 10 Jan 26 10:43:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/khanh-hoang-8-17680159372931070950256-126-0-932-1290-crop-1768016177166427961325.jpg",
+      "description": "Từng không nhận được sự ủng hộ của gia đình, Khánh Hoàng vẫn nỗ lực theo đuổi âm nhạc, đặc biệt là bolero. Anh từng gây chú ý bởi câu chuyện bán nhà để thực hiện một dự án mà bản thân tâm đắc.",
+      "guid": "https://thanhnien.vn/ca-si-bolero-tung-ban-nha-lam-album-gio-ra-sao-185260110103700477.htm"
+    },
+    {
+      "title": "Những thước phim lành mạnh trên Asia Network",
+      "link": "https://thanhnien.vn/nhung-thuoc-phim-lanh-manh-tren-asia-network-18526010916194579.htm",
+      "pubDate": "Fri, 09 Jan 26 16:12:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/1-17679502327451683606918-0-0-875-1400-crop-17679503058411424669104.jpg",
+      "description": "Yêu cung đấu hãy xem Hậu cung Chân Hoàn truyện, Mị Nguyệt truyện. Thích lịch sử - luận anh hùng hãy xem Tân Hán Sở tranh hùng. Bi kịch triều đại - tình yêu không có kết cục đón xem Long Châu truyền kỳ. Cùng rất nhiều tác phẩm xuất sắc khác hiện đang được phát hành trên nền tảng Asia Network. Cùng đón xem nhé!",
+      "guid": "https://thanhnien.vn/nhung-thuoc-phim-lanh-manh-tren-asia-network-18526010916194579.htm"
+    },
+    {
+      "title": "Cô gái hát hit Lệ Quyên gây chú ý trong 'Người kể chuyện tình'",
+      "link": "https://thanhnien.vn/co-gai-hat-hit-le-quyen-gay-chu-y-trong-nguoi-ke-chuyen-tinh-185260109140910548.htm",
+      "pubDate": "Fri, 09 Jan 26 14:50:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/n-ly-15-17679425104831854603739-0-0-689-1103-crop-1767942519700378365463.jpg",
+      "description": "Tái hiện ca khúc đình đám của Lệ Quyên, thí sinh N Ly nhận được sự góp ý từ dàn giám khảo 'Người kể chuyện tình'.",
+      "guid": "https://thanhnien.vn/co-gai-hat-hit-le-quyen-gay-chu-y-trong-nguoi-ke-chuyen-tinh-185260109140910548.htm"
+    },
+    {
+      "title": "Ca sĩ Hương Tràm: Tôi hết lòng khi yêu",
+      "link": "https://thanhnien.vn/ca-si-huong-tram-toi-het-long-khi-yeu-185260109105745571.htm",
+      "pubDate": "Fri, 09 Jan 26 11:36:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/bam-hinh-00-02-42-06-still002-17679310276182132210142-0-26-808-1319-crop-1767931031592511040859.jpg",
+      "description": "Là khách mời trong chương trình 'Sao check', ca sĩ Hương Tràm đã có những phút trải lòng về quãng thời gian đi du học, đồng thời tiết lộ cuộc sống sau khi về Việt Nam hoạt động nghệ thuật trở lại sau 5 năm.",
+      "guid": "https://thanhnien.vn/ca-si-huong-tram-toi-het-long-khi-yeu-185260109105745571.htm"
+    },
+    {
+      "title": "Lý do Bạch Công Khanh bật khóc trên truyền hình",
+      "link": "https://thanhnien.vn/ly-do-bach-cong-khanh-bat-khoc-tren-truyen-hinh-18526010800141489.htm",
+      "pubDate": "Thu, 08 Jan 26 07:55:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/mai-am-gia-dinh-viet-2-17678059870352101557857-0-8-716-1154-crop-17678060007781003515571.png",
+      "description": "Xót xa trước hoàn cảnh của em nhỏ trong 'Mái ấm gia đình Việt', diễn viên Bạch Công Khanh có những chia sẻ động viên đầy xúc động.",
+      "guid": "https://thanhnien.vn/ly-do-bach-cong-khanh-bat-khoc-tren-truyen-hinh-18526010800141489.htm"
+    },
+    {
+      "title": "Bốn gương mặt nữ chủ lực của phim truyền hình Hoa ngữ hiện tại",
+      "link": "https://thanhnien.vn/bon-guong-mat-nu-chu-luc-cua-phim-truyen-hinh-hoa-ngu-hien-tai-185260107140509485.htm",
+      "pubDate": "Wed, 07 Jan 26 14:54:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/anh-2-1767769149159817263769-279-0-879-960-crop-1767769345299111706258.jpg",
+      "description": "Đầu năm 2026, cộng đồng mạng Trung Quốc sôi nổi bàn luận về danh sách bốn nữ diễn viên hàng đầu của phim truyền hình Hoa ngữ. Tuy nhiên bảng xếp hạng này đã gây ra nhiều tranh luận trái chiều.",
+      "guid": "https://thanhnien.vn/bon-guong-mat-nu-chu-luc-cua-phim-truyen-hinh-hoa-ngu-hien-tai-185260107140509485.htm"
+    },
+    {
+      "title": "Biên tập viên VTV nghẹn ngào kể giai đoạn chống chọi với ung thư máu",
+      "link": "https://thanhnien.vn/bien-tap-vien-vtv-nghen-ngao-ke-giai-doan-chong-choi-voi-ung-thu-mau-18526010710232196.htm",
+      "pubDate": "Wed, 07 Jan 26 12:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/4364166114460777464-1-1767755325518671374889-0-363-1031-2013-crop-17677565772521213872489.jpg",
+      "description": "Đảm nhận vai trò dẫn dắt chương trình 'Bạn kể tôi nghe', biên tập viên - MC Hạnh Phúc xúc động khi nhắc lại quãng thời gian đối diện với biến cố sức khỏe.",
+      "guid": "https://thanhnien.vn/bien-tap-vien-vtv-nghen-ngao-ke-giai-doan-chong-choi-voi-ung-thu-mau-18526010710232196.htm"
+    }
+  ]
+}

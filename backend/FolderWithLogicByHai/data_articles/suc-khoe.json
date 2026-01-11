@@ -1,0 +1,89 @@
+{
+  "categoryId": 44,
+  "categoryName": "Sức khỏe",
+  "fullSlug": "suc-khoe",
+  "limitApplied": 10,
+  "lastUpdate": "2026-01-11T04:17:05.455Z",
+  "articles": [
+    {
+      "title": "Thời tiết lạnh, người mắc bệnh tim mạch cần làm gì?",
+      "link": "https://thanhnien.vn/thoi-tiet-lanh-nguoi-mac-benh-tim-mach-can-lam-gi-185260111084048503.htm",
+      "pubDate": "Sun, 11 Jan 26 09:19:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1-1768095470588412573973-0-0-450-720-crop-1768095655846618646822.jpg",
+      "description": "Theo các bác sĩ Bệnh viện đa khoa Quảng Nam (ở TP.Đà Nẵng), những bệnh nhân tim mạch cần phòng ngừa trong thời tiết lạnh để giảm nguy cơ tăng huyết áp, nhồi máu cơ tim và đột quỵ.",
+      "guid": "https://thanhnien.vn/thoi-tiet-lanh-nguoi-mac-benh-tim-mach-can-lam-gi-185260111084048503.htm"
+    },
+    {
+      "title": "Đứng lâu khi làm việc nhà có gây giãn tĩnh mạch chân?",
+      "link": "https://thanhnien.vn/dung-lau-khi-lam-viec-nha-co-gay-gian-tinh-mach-chan-185260109191137389.htm",
+      "pubDate": "Sun, 11 Jan 26 09:05:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/3-lam-viec-nha-17679599209401507508344-292-204-746-931-crop-176796058876499597979.png",
+      "description": "Quét nhà, rửa bát, nấu ăn hay ủi đồ đều là những công việc quen thuộc. Chúng có một đặc điểm chung là thường phải đứng khi làm. Phần lớn mọi người chỉ cảm thấy mỏi chân hoặc nặng chân thoáng qua rồi bỏ qua.",
+      "guid": "https://thanhnien.vn/dung-lau-khi-lam-viec-nha-co-gay-gian-tinh-mach-chan-185260109191137389.htm"
+    },
+    {
+      "title": "Hiếm gặp: Cụ ông mất hoàn toàn thị lực mắt trái vì khối u nhầy xoang bướm",
+      "link": "https://thanhnien.vn/hiem-gap-cu-ong-mat-hoan-toan-thi-luc-mat-trai-vi-khoi-u-nhay-xoang-buom-185260110161446551.htm",
+      "pubDate": "Sun, 11 Jan 26 07:04:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/1-1768036389366522008591-94-0-994-1440-crop-17680364833321984680261.jpg",
+      "description": "Các bác sĩ Bệnh viện đa khoa Quảng Nam (TP.Đà Nẵng) vừa phẫu thuật, cắt bỏ thành công khối u nhầy xoang bướm, giúp bệnh nhân lấy lại thị lực.",
+      "guid": "https://thanhnien.vn/hiem-gap-cu-ong-mat-hoan-toan-thi-luc-mat-trai-vi-khoi-u-nhay-xoang-buom-185260110161446551.htm"
+    },
+    {
+      "title": "Sau bữa ăn, chờ bao lâu mới đánh răng để không mòn men?",
+      "link": "https://thanhnien.vn/sau-bua-an-cho-bao-lau-moi-danh-rang-de-khong-mon-men-185260109190843277.htm",
+      "pubDate": "Sun, 11 Jan 26 01:38:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/2-danh-rang-17679599209241708980283-278-239-768-1023-crop-17679604209831920817517.png",
+      "description": "Men răng là mô cứng nhất trong cơ thể. Tuy nhiên, chúng không phải lúc nào cũng ở trạng thái khó bị tổn thương. Sau khi ăn các thực phẩm có tính a xít, bề mặt men răng tạm thời mềm hơn và dễ bị mài mòn.",
+      "guid": "https://thanhnien.vn/sau-bua-an-cho-bao-lau-moi-danh-rang-de-khong-mon-men-185260109190843277.htm"
+    },
+    {
+      "title": "Trứng với thịt đỏ: Loại nào tốt cho đường huyết hơn?",
+      "link": "https://thanhnien.vn/trung-voi-thit-do-loai-nao-tot-cho-duong-huyet-hon-185260109191404544.htm",
+      "pubDate": "Sun, 11 Jan 26 01:35:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/4-thit-do-1767959920965691956936-166-24-672-834-crop-17679607777491639574818.png",
+      "description": "Khi so sánh trứng và thịt đỏ về mức độ ảnh hưởng đến đường huyết, nhiều người thường nghĩ đến việc giữa 2 món này, món nào làm tăng đường nhiều hơn. Tuy nhiên, điều cần lưu ý là cả 2 món này đều không chứa đường bột.",
+      "guid": "https://thanhnien.vn/trung-voi-thit-do-loai-nao-tot-cho-duong-huyet-hon-185260109191404544.htm"
+    },
+    {
+      "title": "Đà Nẵng: Bệnh viện tuyến cơ sở cứu bệnh nhân sốc tim nguy kịch nhờ VA-ECMO",
+      "link": "https://thanhnien.vn/da-nang-benh-vien-tuyen-co-so-cuu-benh-nhan-soc-tim-nguy-kich-nho-va-ecmo-185260110174320626.htm",
+      "pubDate": "Sat, 10 Jan 26 22:58:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/a-17680413807061887696542-0-0-538-860-crop-1768041916821826734588.jpg",
+      "description": "Bệnh viện đa khoa khu vực miền núi phía Bắc Quảng Nam (ở TP.Đà Nẵng) vừa cứu sống một bệnh nhân bị viêm cơ tim cấp biến chứng sốc tim nặng nhờ ứng dụng kỹ thuật tim phổi nhân tạo VA-ECMO.",
+      "guid": "https://thanhnien.vn/da-nang-benh-vien-tuyen-co-so-cuu-benh-nhan-soc-tim-nguy-kich-nho-va-ecmo-185260110174320626.htm"
+    },
+    {
+      "title": "Nên uống nước chanh vào buổi nào trong ngày?",
+      "link": "https://thanhnien.vn/nen-uong-nuoc-chanh-vao-buoi-nao-trong-ngay-185260110141450195.htm",
+      "pubDate": "Sat, 10 Jan 26 14:14:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/nuoc-chanh-17600152095121169241651-39-0-819-1248-crop-17680292307502006510908.png",
+      "description": "Nước chanh có thể hỗ trợ bù nước, bổ sung vitamin C và cải thiện tiêu hóa ở một số người.",
+      "guid": "https://thanhnien.vn/nen-uong-nuoc-chanh-vao-buoi-nao-trong-ngay-185260110141450195.htm"
+    },
+    {
+      "title": "Dược phẩm Thái Minh 3 năm liền góp mặt trong Top 10 công ty dược uy tín ",
+      "link": "https://thanhnien.vn/duoc-pham-thai-minh-3-nam-lien-gop-mat-trong-top-10-cong-ty-duoc-uy-tin-185260110112926382.htm",
+      "pubDate": "Sat, 10 Jan 26 11:13:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/1-17680187512832070431017-0-63-776-1305-crop-17680190622321630537084.jpg",
+      "description": "Ngày 8.1.2026, lễ Công bố và vinh danh các doanh nghiệp uy tín ngành dược năm 2025, do Vietnam Report và báo Vietnamnet tổ chức đã diễn ra tại Nhà hát Hồ Gươm (Hà Nội), với sự tham dự của đại diện các cơ quan quản lý, chuyên gia y tế - dược và cộng đồng doanh nghiệp.",
+      "guid": "https://thanhnien.vn/duoc-pham-thai-minh-3-nam-lien-gop-mat-trong-top-10-cong-ty-duoc-uy-tin-185260110112926382.htm"
+    },
+    {
+      "title": "Chuyên gia chỉ ra thời điểm đi bộ tốt nhất cho mức đường huyết",
+      "link": "https://thanhnien.vn/chuyen-gia-chi-ra-thoi-diem-di-bo-tot-nhat-cho-muc-duong-huyet-185260110003755837.htm",
+      "pubDate": "Sat, 10 Jan 26 08:09:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/di-bo-chieu-17613097685151785074688-91-0-831-1184-crop-17679801043081910659020.png",
+      "description": "Đường huyết tăng và giảm trong suốt cả ngày, nhưng khi cơ thể gặp khó khăn trong việc điều chỉnh quá trình này, có thể dẫn đến tình trạng kháng insulin và các vấn đề sức khỏe khác.",
+      "guid": "https://thanhnien.vn/chuyen-gia-chi-ra-thoi-diem-di-bo-tot-nhat-cho-muc-duong-huyet-185260110003755837.htm"
+    },
+    {
+      "title": "Bữa ăn kéo dài trong bao lâu, vì sao nên ăn chậm nhai kỹ?",
+      "link": "https://thanhnien.vn/bua-an-nen-keo-dai-trong-bao-lau-vi-sao-nen-an-cham-nhai-ky-185260109084455926.htm",
+      "pubDate": "Sat, 10 Jan 26 04:05:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/bua-an-1767925430177142282930-76-0-876-1280-crop-17679254438441170578269.jpg",
+      "description": "Theo bác sĩ, ăn nhanh - nuốt vội về lâu dài sẽ gây ra nhiều tác hại cho sức khỏe, mặt khác, việc ăn chậm nhai kỹ sẽ giúp cơ thể tiêu hóa và điều hòa năng lượng hiệu quả hơn.",
+      "guid": "https://thanhnien.vn/bua-an-nen-keo-dai-trong-bao-lau-vi-sao-nen-an-cham-nhai-ky-185260109084455926.htm"
+    }
+  ]
+}

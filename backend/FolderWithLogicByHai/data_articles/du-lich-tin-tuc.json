@@ -1,0 +1,89 @@
+{
+  "categoryId": 74,
+  "categoryName": "Tin tức",
+  "fullSlug": "du-lich-tin-tuc",
+  "limitApplied": 10,
+  "lastUpdate": "2026-01-11T04:18:16.473Z",
+  "articles": [
+    {
+      "title": "Lâm Đồng có thêm khu nghỉ dưỡng cao cấp",
+      "link": "https://thanhnien.vn/lam-dong-co-them-khu-nghi-duong-cao-cap-185260111092523126.htm",
+      "pubDate": "Sun, 11 Jan 26 10:10:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/anh-man-hinh-2026-01-11-luc-091415-176809802521497699138-223-0-1354-1810-crop-17680981334771993995326.png",
+      "description": "Cách TP.HCM khoảng 2 giờ 30 phút di chuyển, khu nghỉ dưỡng Costamigo do Best Western vận hành vừa chính thức ra mắt tại Lâm Đồng, mở thêm lựa chọn lưu trú cao cấp ven biển cho du khách phía Nam.",
+      "guid": "https://thanhnien.vn/lam-dong-co-them-khu-nghi-duong-cao-cap-185260111092523126.htm"
+    },
+    {
+      "title": "Phá dỡ 5 bàn tay khổng lồ trên biển Hải Tiến",
+      "link": "https://thanhnien.vn/pha-do-5-ban-tay-khong-lo-tren-bien-hai-tien-185260110094813724.htm",
+      "pubDate": "Sat, 10 Jan 26 10:18:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/clt06308-1768012463843207774622-0-19-2400-3859-crop-1768013140359228688117.jpg",
+      "description": "5 bàn tay khổng lồ chới với trên bãi biển Hải Tiến (Thanh Hóa) từng gây nhiều tai tiếng đã được phá bỏ sau gần 3 năm xây dựng.",
+      "guid": "https://thanhnien.vn/pha-do-5-ban-tay-khong-lo-tren-bien-hai-tien-185260110094813724.htm"
+    },
+    {
+      "title": "New York Times: Việt Nam là cường quốc du lịch đang lên, top 52 điểm đến 2026",
+      "link": "https://thanhnien.vn/new-york-times-viet-nam-la-cuong-quoc-du-lich-dang-len-top-52-diem-den-2026-185260109111633521.htm",
+      "pubDate": "Fri, 09 Jan 26 11:21:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/cap-treo-hon-thom-1767931273842809343692-0-155-894-1585-crop-1767932150780811517443.jpg",
+      "description": "Việt Nam vừa được New York Times - một trong những tờ báo được đọc nhiều nhất thế giới - bình chọn là một trong 52 điểm đến cho năm 2026. Đáng chú ý, để minh họa cho du lịch Việt Nam, Ban biên tập của New York Times đã chọn cáp treo Hòn Thơm ở Phú Quốc thay vì những hình ảnh truyền thống.",
+      "guid": "https://thanhnien.vn/new-york-times-viet-nam-la-cuong-quoc-du-lich-dang-len-top-52-diem-den-2026-185260109111633521.htm"
+    },
+    {
+      "title": "Vừa ra mắt, Sun PhuQuoc Airways đã giành vị trí bay đúng giờ nhất \n",
+      "link": "https://thanhnien.vn/vua-ra-mat-sun-phuquoc-airways-da-gianh-vi-tri-bay-dung-gio-nhat-185260109085146815.htm",
+      "pubDate": "Fri, 09 Jan 26 09:04:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/sun-phuquoc-airways-6-176792341918573956322-0-0-1600-2560-crop-17679234508481561085825.jpg",
+      "description": "Với chỉ số đúng giờ (OTP) trong tháng 12.2025 đạt 93,5%, Sun PhuQuoc Airways (SPA) chính thức vươn lên vị trí dẫn đầu toàn ngành hàng không nội địa. Đây là mức rất cao so với tỷ lệ OTP trung bình toàn ngành chỉ 70,7%, đặc biệt trong mùa cao điểm cuối năm.",
+      "guid": "https://thanhnien.vn/vua-ra-mat-sun-phuquoc-airways-da-gianh-vi-tri-bay-dung-gio-nhat-185260109085146815.htm"
+    },
+    {
+      "title": "Làm gì để du khách chi tiêu nhiều hơn?: Việt Nam còn nhiều dư địa tăng doanh thu du lịch",
+      "link": "https://thanhnien.vn/lam-gi-de-du-khach-chi-tieu-nhieu-hon-viet-nam-con-nhieu-du-dia-tang-doanh-thu-du-lich-185260108222727608.htm",
+      "pubDate": "Fri, 09 Jan 26 04:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/a1-1767885866682606322773-0-0-1600-2560-crop-1767885888509254707703.jpg",
+      "description": "Nếu thành công tăng chi tiêu trung bình trên một du khách, với số lượng khách quốc tế đến VN ngày càng đông, doanh thu du lịch có thể cao hơn rất nhiều so với kế hoạch.",
+      "guid": "https://thanhnien.vn/lam-gi-de-du-khach-chi-tieu-nhieu-hon-viet-nam-con-nhieu-du-dia-tang-doanh-thu-du-lich-185260108222727608.htm"
+    },
+    {
+      "title": "Lần đầu Việt Nam có khu du lịch đạt chứng nhận quốc tế phát triển bền vững",
+      "link": "https://thanhnien.vn/lan-dau-viet-nam-co-khu-du-lich-dat-chung-nhan-quoc-te-phat-trien-ben-vung-185260108171118511.htm",
+      "pubDate": "Thu, 08 Jan 26 17:13:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/thumb-z7410270717617da8c7d14203822c2b0c289ceb471f303-1767866405338713780444-1767866604415312902105.jpg",
+      "description": "Một khu du lịch sinh thái tại Khánh Hòa vừa trở thành đơn vị đầu tiên ở Việt Nam đạt chứng nhận quốc tế Good Travel Seal, đánh dấu bước tiến mới trong thực hành du lịch bền vững.",
+      "guid": "https://thanhnien.vn/lan-dau-viet-nam-co-khu-du-lich-dat-chung-nhan-quoc-te-phat-trien-ben-vung-185260108171118511.htm"
+    },
+    {
+      "title": "Sơn máy bay hình lá xà lách kẹp ăn mừng sinh nhật 80 tuổi",
+      "link": "https://thanhnien.vn/son-may-bay-hinh-la-xa-lach-kep-an-mung-sinh-nhat-80-tuoi-185260108162441121.htm",
+      "pubDate": "Thu, 08 Jan 26 17:06:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/1-17678639310721834395853-0-114-745-1306-crop-17678640257031886126286.jpg",
+      "description": "Nhân kỷ niệm 80 năm thành lập, Cathay Pacific giới thiệu thiết kế sơn máy bay đặc biệt với biểu tượng 'lá xà lách kẹp', gợi nhắc diện mạo di sản gắn liền lịch sử phát triển của hãng.",
+      "guid": "https://thanhnien.vn/son-may-bay-hinh-la-xa-lach-kep-an-mung-sinh-nhat-80-tuoi-185260108162441121.htm"
+    },
+    {
+      "title": "Những hãng hàng không đúng giờ nhất thế giới, bất ngờ không có Nhật Bản",
+      "link": "https://thanhnien.vn/nhung-hang-hang-khong-dung-gio-nhat-the-gioi-bat-ngo-khong-co-nhat-ban-185260108075750175.htm",
+      "pubDate": "Thu, 08 Jan 26 08:49:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/1000056720-17678341530531944025492-52-0-511-735-crop-17678342090131576307492.jpg",
+      "description": "Năm 2025, ngành hàng không Mỹ hỗn loạn do chậm trễ và hủy chuyến trong suốt 43 ngày chính phủ đóng cửa và thị trường hàng không lớn nhất thế giới này chỉ có 1 hãng vào top 10 đúng giờ. Nhưng bảng xếp hạng cũng gây ngạc nhiên khi không có hãng hàng không nào của Nhật Bản, đất nước nổi tiếng với các dịch vụ vận chuyển đúng giờ.",
+      "guid": "https://thanhnien.vn/nhung-hang-hang-khong-dung-gio-nhat-the-gioi-bat-ngo-khong-co-nhat-ban-185260108075750175.htm"
+    },
+    {
+      "title": "Làm gì để du khách chi tiêu nhiều hơn?:  'Cỗ máy in tiền' vẫn chờ kích hoạt",
+      "link": "https://thanhnien.vn/lam-gi-de-du-khach-chi-tieu-nhieu-hon-co-may-in-tien-van-cho-kich-hoat-185260107220019357.htm",
+      "pubDate": "Thu, 08 Jan 26 04:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/photo-1767797669736-17677976702631919456008-8-0-408-640-crop-17677976830781619709998.png",
+      "description": "Trong khi thế giới đã thu về hàng tỉ USD từ kinh tế đêm, thì tại VN, \"cỗ máy in tiền\" này vẫn chưa được kích hoạt đúng mức, vẫn chỗ \"sáng đèn\", chỗ le lói.",
+      "guid": "https://thanhnien.vn/lam-gi-de-du-khach-chi-tieu-nhieu-hon-co-may-in-tien-van-cho-kich-hoat-185260107220019357.htm"
+    },
+    {
+      "title": "Việt Nam đánh bại Thái Lan trở thành lựa chọn hàng đầu của du khách Trung Quốc",
+      "link": "https://thanhnien.vn/viet-nam-danh-bai-thai-lan-tro-thanh-lua-chon-hang-dau-cua-du-khach-trung-quoc-185260107073009308.htm",
+      "pubDate": "Wed, 07 Jan 26 08:22:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/1000056709-1767746222224484748120-72-0-1205-1812-crop-17677465999821500238921.jpg",
+      "description": "Lượng khách du lịch Trung Quốc đến Việt Nam tăng 41% lên 5,3 triệu người, vượt con số 4,5 triệu người đến Thái Lan, nơi những lo ngại về an ninh đã làm giảm lượng khách Trung Quốc.",
+      "guid": "https://thanhnien.vn/viet-nam-danh-bai-thai-lan-tro-thanh-lua-chon-hang-dau-cua-du-khach-trung-quoc-185260107073009308.htm"
+    }
+  ]
+}

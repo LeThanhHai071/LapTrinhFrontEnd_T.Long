@@ -1,0 +1,38 @@
+{
+  "title": "SanDisk sắp tăng gấp đôi giá SSD trong quý 1/2026",
+  "categories": [
+    "Công nghệ",
+    "Tin tức công nghệ"
+  ],
+  "sapo": "SanDisk chuẩn bị tăng giá chip nhớ 3D NAND doanh nghiệp hơn 100% do nhu cầu lưu trữ phục vụ AI (trí tuệ nhân tạo) và trung tâm dữ liệu gia tăng nhanh chóng.",
+  "publishDate": "10/01/2026 09:43 GMT+7",
+  "author": {
+    "name": "Khải Minh",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/528068263637045248/2024/10/18/4626390115090904687719222236269629751881947n-17292733914391350492811.jpg",
+    "email": "-  khaiminh.hm08@gmail.com"
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Theo phân tích từ Nomura Securities, thương hiệu sản xuất bộ nhớ và lưu trữ SanDisk đang lên kế hoạch tăng gấp đôi giá bán chip nhớ 3D NAND dung lượng cao dành cho ổ cứng thể rắn (SSD) phân khúc doanh nghiệp trong quý 1/2026. Đây là phản ứng trước dự báo nhu cầu mạnh mẽ về lưu trữ máy chủ trong thời gian tới, đặc biệt từ các hệ thống hỗ trợ AI."
+    },
+    {
+      "type": "text",
+      "content": "Báo cáo từ Nomura cho biết, một số nhà cung cấp chip nhớ, bao gồm SanDisk, đang đẩy mạnh giá, với mức tăng đặc biệt cao đối với các dòng chip nhớ NAND doanh nghiệp. Cụ thể, dòng NAND dùng trong SSD doanh nghiệp của SanDisk có thể tăng hơn 100% so với quý trước. Mức tăng này dựa trên kiểm tra kênh phân phối và không loại trừ khả năng lan sang các sản phẩm NAND phổ thông dùng trong điện thoại và máy tính cá nhân, vốn cũng được sản xuất từ cùng nhà máy."
+    },
+    {
+      "type": "text",
+      "content": "Nomura cho rằng giá chip nhớ NAND tăng không chỉ do tình trạng thiếu hụt ngắn hạn, mà còn bởi nhu cầu trung hạn đến từ lĩnh vực AI, đặc biệt là các yêu cầu lưu trữ mới. Một trong những động lực chính là nền tảng ICMSP (Nền tảng lưu trữ bộ nhớ ngữ cảnh suy luận) của Nvidia, sử dụng đơn vị xử lý dữ liệu BlueField-4 kèm theo SSD 512 GB. Trong mỗi khay xử lý của hệ thống VR NVL144 có 18 đơn vị BlueField-4, tương đương 9,216 TB."
+    },
+    {
+      "type": "text",
+      "content": "Nếu Nvidia xuất xưởng 50.000 hệ thống VR NVL144 mỗi năm, công ty sẽ cần khoảng 0,439 exabyte (1 EB = 1 tỉ GB) NAND 3D/năm. Con số này chưa tính đến các đối tác khác cũng triển khai nền tảng Vera Rubin với cấu hình tương tự, có thể khiến nhu cầu bộ nhớ tăng thêm đáng kể."
+    },
+    {
+      "type": "text",
+      "content": "Tuy vậy, dù kịch bản lý tưởng có thể khiến ICMSP tiêu thụ đến 1 exabyte NAND mỗi năm vào 2026 - 2027, con số này vẫn chỉ chiếm tỷ lệ nhỏ trong tổng sản lượng toàn ngành, vốn vượt 800 exabyte mỗi năm. Tuy nhiên, tốc độ tăng trưởng của nhu cầu lưu trữ cho AI hiện tại đã bắt đầu vượt qua khả năng cung ứng, dẫn đến việc điều chỉnh giá mà SanDisk đang triển khai."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/sandisk-sap-tang-gap-doi-gia-ssd-trong-quy-1-2026-185260110000703726.htm",
+  "id": "185260110000703726"
+}

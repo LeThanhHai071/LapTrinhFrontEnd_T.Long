@@ -1,0 +1,89 @@
+{
+  "categoryId": 123,
+  "categoryName": "Từ đơn thư bạn đọc",
+  "fullSlug": "ban-doc-tu-don-thu-ban-doc",
+  "limitApplied": 10,
+  "lastUpdate": "2026-01-11T04:20:25.876Z",
+  "articles": [
+    {
+      "title": "Sạt lở bờ sông Pô Kô uy hiếp khu dân cư và trường học",
+      "link": "https://thanhnien.vn/sat-lo-bo-song-po-ko-uy-hiep-khu-dan-cu-va-truong-hoc-185260109203038862.htm",
+      "pubDate": "Sat, 10 Jan 26 11:28:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/photo-1767965128129-1767965129284926834712-84-0-1334-2000-crop-1767965143200340936098.jpeg",
+      "description": "Những đợt mưa lũ dồn dập cuối năm 2025 đã khiến bờ sông Pô Kô, đoạn qua xã Đắk Pék (Quảng Ngãi), bị sạt lở nghiêm trọng, trực tiếp đe dọa hơn 40 hộ dân cùng Trường tiểu học Kim Đồng.",
+      "guid": "https://thanhnien.vn/sat-lo-bo-song-po-ko-uy-hiep-khu-dan-cu-va-truong-hoc-185260109203038862.htm"
+    },
+    {
+      "title": "Tấm sắt đặt chênh trên đường nguy hiểm",
+      "link": "https://thanhnien.vn/tam-sat-dat-chenh-tren-duong-nguy-hiem-185260109204335729.htm",
+      "pubDate": "Sat, 10 Jan 26 09:40:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/photo-1767966016741-17679660174701040623122-0-0-640-1024-crop-17679660566981277542121.jpeg",
+      "description": "Đơn vị thi công công trình ngầm đầu hẻm 56 đường Liên khu 4 - 5 nối với đường số 1, P.Bình Tân (trước đây thuộc P.Bình Hưng Hòa B, Q.Bình Tân), TP.HCM, đặt tấm sắt trên miệng hố giữa đường bị chênh, gây khó khăn và nguy hiểm cho người đi đường.",
+      "guid": "https://thanhnien.vn/tam-sat-dat-chenh-tren-duong-nguy-hiem-185260109204335729.htm"
+    },
+    {
+      "title": "Nắp hố ga để tràn lan vỉa hè, cản trở lối đi",
+      "link": "https://thanhnien.vn/nap-ho-ga-de-tran-lan-via-he-can-tro-loi-di-185260108200032308.htm",
+      "pubDate": "Fri, 09 Jan 26 08:04:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/tu-phan-anh-ban-doc-1767876789510569850853-248-0-1848-2560-crop-1767877248332332462828.jpg",
+      "description": "",
+      "guid": "https://thanhnien.vn/nap-ho-ga-de-tran-lan-via-he-can-tro-loi-di-185260108200032308.htm"
+    },
+    {
+      "title": "Buôn bán lấn chiếm đường, gây kẹt xe",
+      "link": "https://thanhnien.vn/buon-ban-lan-chiem-duong-gay-ket-xe-185260104182947766.htm",
+      "pubDate": "Mon, 05 Jan 26 11:26:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/4/tu-phan-anh-ban-doc-17675251693301908601708-0-0-1559-2494-crop-17675260960911792992273.jpg",
+      "description": "",
+      "guid": "https://thanhnien.vn/buon-ban-lan-chiem-duong-gay-ket-xe-185260104182947766.htm"
+    },
+    {
+      "title": "Hạ tầng xuống cấp, giao thương qua Cửa khẩu quốc tế La Lay gặp khó",
+      "link": "https://thanhnien.vn/ha-tang-xuong-cap-giao-thuong-qua-cua-khau-quoc-te-la-lay-gap-kho-185251230191042005.htm",
+      "pubDate": "Wed, 31 Dec 25 08:05:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/30/la-lay-1-17670963704411476565131-0-0-875-1400-crop-1767096526977286799825.png",
+      "description": "Cửa khẩu quốc tế La Lay, điểm nối quan trọng trên tuyến Hành lang kinh tế Đông - Tây của tỉnh Quảng Trị, đang đối mặt nhiều khó khăn khi tuyến đường lên cửa khẩu xuống cấp nghiêm trọng sau mưa bão, khiến lượng phương tiện, hàng hóa thông quan sụt giảm rõ rệt.",
+      "guid": "https://thanhnien.vn/ha-tang-xuong-cap-giao-thuong-qua-cua-khau-quoc-te-la-lay-gap-kho-185251230191042005.htm"
+    },
+    {
+      "title": "Đường bong tróc nhựa, đi lại khó khăn",
+      "link": "https://thanhnien.vn/duong-bong-troc-nhua-di-lai-kho-khan-185251228181431722.htm",
+      "pubDate": "Mon, 29 Dec 25 07:43:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/28/tu-phan-anh-ban-doc-1766920359666212587560-14-0-788-1238-crop-17669204729401856388460.jpg",
+      "description": "",
+      "guid": "https://thanhnien.vn/duong-bong-troc-nhua-di-lai-kho-khan-185251228181431722.htm"
+    },
+    {
+      "title": "Hố nguy hiểm ven lộ",
+      "link": "https://thanhnien.vn/ho-nguy-hiem-ven-lo-185251223204208073.htm",
+      "pubDate": "Wed, 24 Dec 25 07:55:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/23/tu-phan-anh-ban-doc-17664965366231691261301-0-49-577-972-crop-17664971761591706832240.jpg",
+      "description": "",
+      "guid": "https://thanhnien.vn/ho-nguy-hiem-ven-lo-185251223204208073.htm"
+    },
+    {
+      "title": "Đường lún thành hố sâu",
+      "link": "https://thanhnien.vn/duong-lun-thanh-ho-sau-185251221212132834.htm",
+      "pubDate": "Mon, 22 Dec 25 07:58:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/21/phananh-1766326367289105413151-28-0-668-1024-crop-1766326727733245480784.jpg",
+      "description": "Mặt đường gần giao lộ đường số 2 - đường số 3, P.Bình Tân (trước đây thuộc P.Bình Hưng Hòa B, Q.Bình Tân), TP.HCM, bị bong tróc và lún thành hố ngay gần tim đường, gây nguy hiểm cho người tham gia giao thông.",
+      "guid": "https://thanhnien.vn/duong-lun-thanh-ho-sau-185251221212132834.htm"
+    },
+    {
+      "title": "Triều cường xâm thực làng biển, sạt lở chia cắt miền núi ở Quảng Ngãi",
+      "link": "https://thanhnien.vn/trieu-cuong-xam-thuc-lang-bien-sat-lo-chia-cat-mien-nui-o-quang-ngai-18525122121163935.htm",
+      "pubDate": "Mon, 22 Dec 25 07:58:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/21/11a1-1766326367196920590575-0-80-576-1002-crop-17663263948261068765376.jpg",
+      "description": "Những đợt triều cường cuối năm kết hợp mưa bão liên tiếp đã khiến bờ biển thôn An Hải (xã Đông Sơn) bị xâm thực nghiêm trọng. Trong khi đó, tại xã miền núi Cà Đam, mưa lớn gây sạt lở, đứt gãy nhiều tuyến đường, chia cắt thôn Tang với trung tâm xã.",
+      "guid": "https://thanhnien.vn/trieu-cuong-xam-thuc-lang-bien-sat-lo-chia-cat-mien-nui-o-quang-ngai-18525122121163935.htm"
+    },
+    {
+      "title": "Cầu gỗ bị lũ cuốn, người dân Nha Trang phải đi đường vòng hơn 15 km",
+      "link": "https://thanhnien.vn/cau-go-bi-lu-cuon-nguoi-dan-nha-trang-phai-di-duong-vong-hon-15-km-185251219184655206.htm",
+      "pubDate": "Sat, 20 Dec 25 07:40:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/19/photo-1766144283248-17661442872731592221620-0-12-1125-1812-crop-1766144378689140544916.jpeg",
+      "description": "Người dân, công chức và học sinh P.Tây Nha Trang (Khánh Hòa) đang phải đi đường vòng hơn 15 km hoặc đi thuyền qua sông để đến trung tâm phường, vì cây cầu duy nhất dẫn vào đây bị lũ cuốn trôi và dự kiến mất nhiều tháng mới được khắc phục.",
+      "guid": "https://thanhnien.vn/cau-go-bi-lu-cuon-nguoi-dan-nha-trang-phai-di-duong-vong-hon-15-km-185251219184655206.htm"
+    }
+  ]
+}

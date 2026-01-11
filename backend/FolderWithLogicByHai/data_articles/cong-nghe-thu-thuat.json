@@ -1,0 +1,89 @@
+{
+  "categoryId": 104,
+  "categoryName": "Thủ thuật",
+  "fullSlug": "cong-nghe-thu-thuat",
+  "limitApplied": 10,
+  "lastUpdate": "2026-01-11T04:19:35.024Z",
+  "articles": [
+    {
+      "title": "Hướng dẫn chọn dung lượng RAM phù hợp khi giá bộ nhớ tăng mạnh",
+      "link": "https://thanhnien.vn/huong-dan-chon-dung-luong-ram-phu-hop-khi-gia-bo-nho-tang-manh-185260111082712185.htm",
+      "pubDate": "Sun, 11 Jan 26 09:02:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/screenshot-2026-01-11-081652-17680942294121950497574-0-3-781-1253-crop-17680942359421337390946.png",
+      "description": "Tình trạng giá DRAM leo thang buộc người dùng phải cân nhắc kỹ giữa hiệu năng và chi phí khi chọn dung lượng RAM.",
+      "guid": "https://thanhnien.vn/huong-dan-chon-dung-luong-ram-phu-hop-khi-gia-bo-nho-tang-manh-185260111082712185.htm"
+    },
+    {
+      "title": "Tính năng Wi-Fi ẩn trên điện thoại Samsung nhiều người chưa từng mở",
+      "link": "https://thanhnien.vn/tinh-nang-wi-fi-an-tren-dien-thoai-samsung-nhieu-nguoi-chua-tung-mo-185260109065541101.htm",
+      "pubDate": "Fri, 09 Jan 26 16:53:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/1-17679162219832072436772-0-0-563-901-crop-176791622507225653163.jpg",
+      "description": "Nhiều người dùng điện thoại Samsung chỉ mở cài đặt Wi-Fi khi cần kết nối với mạng mới, tuy nhiên nó còn ẩn chứa một bí ẩn thú vị.",
+      "guid": "https://thanhnien.vn/tinh-nang-wi-fi-an-tren-dien-thoai-samsung-nhieu-nguoi-chua-tung-mo-185260109065541101.htm"
+    },
+    {
+      "title": "Những ứng dụng Google thêm phần mạnh mẽ nhờ Gemini",
+      "link": "https://thanhnien.vn/nhung-ung-dung-google-them-phan-manh-me-nho-gemini-1852601081416243.htm",
+      "pubDate": "Fri, 09 Jan 26 13:51:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/1-1767856036259914649278-0-0-400-640-crop-1767856441459496619128.jpg",
+      "description": "Việc tích hợp trí tuệ nhân tạo (AI) vào các ứng dụng đúng cách sẽ mang lại lợi ích đáng kể cho người dùng và loạt ứng dụng Google là một ví dụ.",
+      "guid": "https://thanhnien.vn/nhung-ung-dung-google-them-phan-manh-me-nho-gemini-1852601081416243.htm"
+    },
+    {
+      "title": "Sai lầm thường gặp của nhiều người khi đổi điện thoại mới",
+      "link": "https://thanhnien.vn/sai-lam-thuong-gap-cua-nhieu-nguoi-khi-doi-dien-thoai-moi-185260107095208927.htm",
+      "pubDate": "Thu, 08 Jan 26 20:24:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/phone-1767754420134546855732-7-0-647-1024-crop-17677547201851432616521.jpg",
+      "description": "Có những thao tác sai lầm thường thấy của nhiều người khiến chiếc điện thoại mới biến thành 'cục gạch' đời cũ.",
+      "guid": "https://thanhnien.vn/sai-lam-thuong-gap-cua-nhieu-nguoi-khi-doi-dien-thoai-moi-185260107095208927.htm"
+    },
+    {
+      "title": "Đừng để lãng phí tiền bạc chỉ vì mua iPhone 17 'theo thói quen'",
+      "link": "https://thanhnien.vn/dung-de-lang-phi-tien-bac-chi-vi-mua-iphone-17-theo-thoi-quen-185260106154015941.htm",
+      "pubDate": "Thu, 08 Jan 26 14:58:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/6/edit_photo_nsrkihxzsm-1767688481.jpg",
+      "description": "Việc chọn một chiếc iPhone giờ đây không chỉ đơn thuần là tìm kiếm mẫu mạnh nhất mà còn bao gồm tìm ra sản phẩm phù hợp với lối sống, ưu tiên và ngân sách.",
+      "guid": "https://thanhnien.vn/dung-de-lang-phi-tien-bac-chi-vi-mua-iphone-17-theo-thoi-quen-185260106154015941.htm"
+    },
+    {
+      "title": "5 cài đặt khiến màn hình cao cấp hiển thị như 'hàng chợ'",
+      "link": "https://thanhnien.vn/5-cai-dat-khien-man-hinh-cao-cap-hien-thi-nhu-hang-cho-18526010710275039.htm",
+      "pubDate": "Thu, 08 Jan 26 06:25:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/dual-monitors-1767758301664827273830-19-0-573-886-crop-1767758307215253120807.jpg",
+      "description": "5 thiết lập thừa thãi đang âm thầm phá hoại trải nghiệm hình ảnh trên màn hình máy tính.",
+      "guid": "https://thanhnien.vn/5-cai-dat-khien-man-hinh-cao-cap-hien-thi-nhu-hang-cho-18526010710275039.htm"
+    },
+    {
+      "title": "Những đánh đổi ít được nhắc đến khi mua laptop chơi game",
+      "link": "https://thanhnien.vn/nhung-danh-doi-it-duoc-nhac-den-khi-mua-laptop-choi-game-185260105130001536.htm",
+      "pubDate": "Wed, 07 Jan 26 20:05:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/5/1-17675925895581513749516-0-67-624-1065-crop-17675926868602019651622.jpg",
+      "description": "Laptop chơi game đang trở thành lựa chọn phổ biến cho những ai tìm kiếm thiết bị hiệu năng cao mà vẫn đảm bảo tính di động.",
+      "guid": "https://thanhnien.vn/nhung-danh-doi-it-duoc-nhac-den-khi-mua-laptop-choi-game-185260105130001536.htm"
+    },
+    {
+      "title": "5 lỗi thường gặp âm thầm làm hao pin laptop",
+      "link": "https://thanhnien.vn/5-loi-thuong-gap-am-tham-lam-hao-pin-laptop-18526010613051806.htm",
+      "pubDate": "Tue, 06 Jan 26 13:29:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/6/2-17675086932081937306894-0-0-765-1224-crop-17676792863121630101841.jpg",
+      "description": "Pin của laptop là một phần quan trọng, nhưng theo thời gian, nó sẽ dần xuống cấp do một số thói quen của người dùng.",
+      "guid": "https://thanhnien.vn/5-loi-thuong-gap-am-tham-lam-hao-pin-laptop-18526010613051806.htm"
+    },
+    {
+      "title": "Những thói quen cần dừng lại ngay để bảo vệ ổ SSD",
+      "link": "https://thanhnien.vn/nhung-thoi-quen-can-dung-lai-ngay-de-bao-ve-o-ssd-185260104212454467.htm",
+      "pubDate": "Mon, 05 Jan 26 10:04:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/4/1-1767535997547570992683-0-146-630-1154-crop-17675360061851385314668.jpg",
+      "description": "Mặc dù ban đầu đã có nhiều lo ngại về độ bền của ổ SSD, nhưng thực tế chứng minh rằng chúng rất đáng tin cậy.",
+      "guid": "https://thanhnien.vn/nhung-thoi-quen-can-dung-lai-ngay-de-bao-ve-o-ssd-185260104212454467.htm"
+    },
+    {
+      "title": "Hai chỉ số cần có khi mua bộ sạc nhanh USB-C",
+      "link": "https://thanhnien.vn/hai-chi-so-can-co-khi-mua-bo-sac-nhanh-usb-c-18526010508254732.htm",
+      "pubDate": "Mon, 05 Jan 26 09:17:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/5/1-1767576174629966801561-0-0-750-1200-crop-1767576217800706660424.jpg",
+      "description": "Hiện nay, việc sở hữu một điện thoại mới hay máy tính xách tay chơi game mạnh mẽ thường thu hút sự chú ý hơn so với những phụ kiện như bộ sạc.",
+      "guid": "https://thanhnien.vn/hai-chi-so-can-co-khi-mua-bo-sac-nhanh-usb-c-18526010508254732.htm"
+    }
+  ]
+}
