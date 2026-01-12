@@ -1,63 +1,82 @@
-import React, { useEffect, useState } from "react";
-import "./styles/profile.css";
+import { useEffect, useState, useRef } from "react";
+import axios from "axios";
+import "./profile.css";
+
+const EMPTY_PROFILE = {
+  fullName: "",
+  gender: "",
+  birthday: "",
+  email: "",
+  phone: "",
+  address: "",
+};
 
 const Profile = () => {
+  const user = JSON.parse(localStorage.getItem("user"));
+  const loadedRef = useRef(false); // chặn useEffect chạy lại
+
   const [isEdit, setIsEdit] = useState(false);
+  const [profile, setProfile] = useState(EMPTY_PROFILE);
 
-  const [profile, setProfile] = useState({
-    fullName: "",
-    gender: "",
-    birthday: "",
-    address: "",
-    email: "",
-    phone: "",
-  });
-
-  // Load profile từ localStorage
+  /* ================= LOAD PROFILE ================= */
   useEffect(() => {
-    const savedProfile = localStorage.getItem("userProfile");
-    if (savedProfile) {
-      setProfile(JSON.parse(savedProfile));
-    }
-  }, []);
+    if (!user?.id || loadedRef.current) return;
+    loadedRef.current = true;
 
+    axios
+      .get(`http://localhost:5000/api/profile/${user.id}`)
+      .then((res) => {
+        const data = res.data || {};
+        setProfile({ ...EMPTY_PROFILE, ...data });
+      })
+      .catch(() => {
+        setProfile(EMPTY_PROFILE);
+      });
+  }, [user?.id]);
+
+  /* ================= CHANGE ================= */
   const handleChange = (e) => {
-    setProfile({
-      ...profile,
-      [e.target.name]: e.target.value,
-    });
+    const { name, value } = e.target;
+    setProfile((prev) => ({
+      ...prev,
+      [name]: value,
+    }));
   };
 
-  const handleSave = () => {
-    localStorage.setItem("userProfile", JSON.stringify(profile));
-    setIsEdit(false);
-    alert("Cập nhật hồ sơ thành công!");
+  /* ================= SAVE ================= */
+  const handleSave = async () => {
+    try {
+      await axios.put(
+        `http://localhost:5000/api/profile/${user.id}`,
+        profile
+      );
+      alert("Cập nhật hồ sơ thành công");
+      setIsEdit(false);
+    } catch {
+      alert("Lưu hồ sơ thất bại");
+    }
   };
+
+  if (!user) {
+    return <p className="profile-error">Vui lòng đăng nhập</p>;
+  }
 
   return (
     <div className="profile-page">
       <div className="profile-card">
-        <h2 className="profile-title">
-          <i className="bi bi-person-circle"></i> Hồ sơ cá nhân
-        </h2>
+        <h2 className="profile-title">Hồ sơ cá nhân</h2>
 
         <div className="profile-form">
-          {/* Họ và tên */}
-          <div className="form-group">
-            <label>Họ và tên</label>
+          <FormGroup label="Họ và tên">
             <input
-              type="text"
               name="fullName"
               value={profile.fullName}
               onChange={handleChange}
               disabled={!isEdit}
-              placeholder="Nhập họ và tên"
             />
-          </div>
+          </FormGroup>
 
-          {/* Giới tính */}
-          <div className="form-group">
-            <label>Giới tính</label>
+          <FormGroup label="Giới tính">
             <select
               name="gender"
               value={profile.gender}
@@ -69,11 +88,9 @@ const Profile = () => {
               <option value="Nữ">Nữ</option>
               <option value="Khác">Khác</option>
             </select>
-          </div>
+          </FormGroup>
 
-          {/* Ngày sinh */}
-          <div className="form-group">
-            <label>Ngày sinh</label>
+          <FormGroup label="Ngày sinh">
             <input
               type="date"
               name="birthday"
@@ -81,66 +98,68 @@ const Profile = () => {
               onChange={handleChange}
               disabled={!isEdit}
             />
-          </div>
+          </FormGroup>
 
-          {/* Email */}
-          <div className="form-group">
-            <label>Email</label>
+          <FormGroup label="Email">
             <input
-              type="email"
               name="email"
               value={profile.email}
               onChange={handleChange}
               disabled={!isEdit}
-              placeholder="example@gmail.com"
             />
-          </div>
+          </FormGroup>
 
-          {/* Số điện thoại */}
-          <div className="form-group">
-            <label>Số điện thoại</label>
+          <FormGroup label="Số điện thoại">
             <input
-              type="text"
               name="phone"
               value={profile.phone}
               onChange={handleChange}
               disabled={!isEdit}
-              placeholder="0123456789"
             />
-          </div>
+          </FormGroup>
 
-          {/* Địa chỉ */}
-          <div className="form-group">
-            <label>Địa chỉ</label>
+          <FormGroup label="Địa chỉ">
             <textarea
               name="address"
               value={profile.address}
               onChange={handleChange}
               disabled={!isEdit}
-              placeholder="Nhập địa chỉ"
             />
-          </div>
+          </FormGroup>
+        </div>
 
-          {/* Buttons */}
-          <div className="profile-actions">
-            {isEdit ? (
-              <>
-                <button className="btn btn-save" onClick={handleSave}>ưu</button>
-                <button className="btn btn-cancel" onClick={() => setIsEdit(false)}>Hủy</button>
-              </>
-            ) : (
-              <button
-                className="btn btn-edit"
-                onClick={() => setIsEdit(true)}
-              >
-                ✏️ Chỉnh sửa
+        <div className="profile-actions">
+          {isEdit ? (
+            <>
+              <button className="btn btn-save" onClick={handleSave}>
+                Lưu
               </button>
-            )}
-          </div>
+              <button
+                className="btn btn-cancel"
+                onClick={() => setIsEdit(false)}
+              >
+                Hủy
+              </button>
+            </>
+          ) : (
+            <button
+              className="btn btn-edit"
+              onClick={() => setIsEdit(true)}
+            >
+              Chỉnh sửa hồ sơ
+            </button>
+          )}
         </div>
       </div>
     </div>
   );
 };
+
+const FormGroup = ({ label, children }) => (
+  <div className="form-group">
+    <label>{label}</label>
+    {children}
+  </div>
+);
 
 export default Profile;

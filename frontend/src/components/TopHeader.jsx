@@ -128,7 +128,7 @@ const TopHeader = ({onOpenMenu}) => {
                             >
                                 <div className="header__uc-main">
                                     <div className="header__uc-link">
-                                        <a className="item-link">Thông tin tài khoản</a>
+                                        <Link to="/profile" className="item-link" onClick={() => setOpenUser(false)}>Thông tin tài khoản</Link>
                                         <a className="item-link">Đổi mật khẩu</a>
                                         <a className="item-link">Tin đã lưu</a>
                                         <a className="item-link">Tin đã xem</a>
