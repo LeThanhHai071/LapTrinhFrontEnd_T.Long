@@ -31,7 +31,7 @@ const Profile = () => {
   const handleSave = () => {
     localStorage.setItem("userProfile", JSON.stringify(profile));
     setIsEdit(false);
-    alert("✅ Cập nhật hồ sơ thành công!");
+    alert("Cập nhật hồ sơ thành công!");
   };
 
   return (
@@ -125,15 +125,8 @@ const Profile = () => {
           <div className="profile-actions">
             {isEdit ? (
               <>
-                <button className="btn btn-save" onClick={handleSave}>
-                  💾 Lưu
-                </button>
-                <button
-                  className="btn btn-cancel"
-                  onClick={() => setIsEdit(false)}
-                >
-                  ❌ Hủy
-                </button>
+                <button className="btn btn-save" onClick={handleSave}>ưu</button>
+                <button className="btn btn-cancel" onClick={() => setIsEdit(false)}>Hủy</button>
               </>
             ) : (
               <button
