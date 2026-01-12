@@ -6,6 +6,7 @@ const fsSync = require("fs");
 const path = require("path");
 
 const authRoute = require("./routes/auth.route");
+const profileRoute = require("./routes/profile.route");
 const { readInputJson, processCategoryList, saveResultJson } = require("./scraper");
 const { updateNews, DATA_DIR, DETAILS_DIR, CATEGORIES_FILE } = require("./crawl_news_from_slugJSON");
 const { syncCategories } = require("./crawl_category_rss");
@@ -16,6 +17,7 @@ const PORT = 5000;
 app.use(cors());
 app.use(express.json());
 app.use("/api/auth", authRoute);
+app.use("/api/profile", profileRoute);
 
 /* ================= CRON JOB ================= */
 cron.schedule("0 0 * * *", async () => {
