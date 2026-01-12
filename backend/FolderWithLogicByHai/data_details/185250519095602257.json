@@ -13,6 +13,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/5/19/duc-1747624681501193535770.jpg"
+      ],
+      "caption": "Xe tăng chủ lực Leopard 2 của bộ binh Đức"
+    },
+    {
       "type": "text",
       "content": "Tân ngoại trưởng Đức Johann Wadephul trong tuần qua cho biết chính quyền Berlin đồng ý với yêu cầu của Tổng thống Mỹ Donald Trump đối với các thành viên NATO là đầu tư 5% GDP vào quân sự, theo DW. Một ngày trước đó, tân Thủ tướng Đức Friedrich Merz công bố ý định cải tổ quân đội Đức (Bundeswehr) thành lực lượng quy ước mạnh nhất châu Âu."
     },
@@ -31,6 +38,13 @@
     {
       "type": "text",
       "content": "Bundeswehr hiện có lực lượng thường trực khoảng 182.000 quân nhân. Bộ Quốc phòng muốn tăng lên ít nhất 203.000 quân vào năm 2031, với một số chuyên gia thậm chí còn đưa ra con số 240.000 người."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/5/19/phap-1747624586865273333829.png"
+      ],
+      "caption": "Tiêm kích Rafale có thể trang bị vũ khí hạt nhân của Pháp"
     },
     {
       "type": "h2",
@@ -91,6 +105,13 @@
     {
       "type": "text",
       "content": "Khí tài quân sự Anh, đặc biệt vũ khí hạt nhân trang bị trên tàu ngầm, phụ thuộc vào công nghệ Mỹ nhiều hơn các nước châu Âu khác."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/5/19/y-17476291561551049313798.jpg"
+      ],
+      "caption": "Phía Ý ăn mừng mốc ngoặt cho tiêm kích F-35 của nước này sau khi chiếc chiến đấu cơ vượt Đại Tây Dương từ Ý đến Mỹ năm 2016"
     },
     {
       "type": "h2",

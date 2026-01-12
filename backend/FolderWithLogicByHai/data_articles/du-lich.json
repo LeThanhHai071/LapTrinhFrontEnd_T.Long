@@ -3,8 +3,40 @@
   "categoryName": "Du lịch",
   "fullSlug": "du-lich",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-11T04:18:13.584Z",
+  "lastUpdate": "2026-01-12T14:03:09.218Z",
   "articles": [
+    {
+      "title": "Báo Thái: Hòn đảo này của Việt Nam đẹp như phim, đáng khám phá nhất Đông Nam Á",
+      "link": "https://thanhnien.vn/bao-thai-hon-dao-nay-cua-viet-nam-dep-nhu-phim-dang-kham-pha-nhat-dong-nama-185260112085122004.htm",
+      "pubDate": "Mon, 12 Jan 26 08:54:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/k71-175126270006681288445-1768182423244306555046-0-78-1410-2334-crop-17681826175171096472059.jpg",
+      "description": "Trong bối cảnh nhiều điểm nóng du lịch như Bangkok hay Bali đang quá tải khách, báo Khaosod English của Thái Lan vừa tổ chức bình chọn danh sách 'Top 10 điểm đến còn nguyên sơ, đáng khám phá nhất Đông Nam Á năm 2026'.",
+      "guid": "https://thanhnien.vn/bao-thai-hon-dao-nay-cua-viet-nam-dep-nhu-phim-dang-kham-pha-nhat-dong-nama-185260112085122004.htm"
+    },
+    {
+      "title": "Phát hiện 'bất thường' khi tìm kiếm máy bay mất tích MH370",
+      "link": "https://thanhnien.vn/phat-hien-bat-thuong-khi-tim-kiem-may-bay-mat-tich-mh370-185260112074152888.htm",
+      "pubDate": "Mon, 12 Jan 26 08:53:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/1000056802-17681786662681669192854-15-0-399-615-crop-17681788069521638549041.jpg",
+      "description": "Những người đang theo dõi cuộc tìm kiếm chuyến bay mất tích MH370 tin rằng các tàu đang rà soát Ấn Độ Dương có 'hành vi bất thường'.",
+      "guid": "https://thanhnien.vn/phat-hien-bat-thuong-khi-tim-kiem-may-bay-mat-tich-mh370-185260112074152888.htm"
+    },
+    {
+      "title": "Vietravel chính thức vận hành Hué Plaza, điểm đến du lịch độc đáo",
+      "link": "https://thanhnien.vn/vietravel-chinh-thuc-van-hanh-hue-plaza-diem-den-du-lich-doc-dao-185260111120733454.htm",
+      "pubDate": "Sun, 11 Jan 26 15:09:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/edit-z7419201599311dbadfab4f0d13f9e13c3774fe32c78ad-1768109271567807888982-86-0-883-1275-crop-1768109289268969298972.jpeg",
+      "description": "Hué Plaza chính thức đi vào hoạt động, mang đến trải nghiệm du lịch, mua sắm và văn hóa đặc sắc tại cố đô Huế.",
+      "guid": "https://thanhnien.vn/vietravel-chinh-thuc-van-hanh-hue-plaza-diem-den-du-lich-doc-dao-185260111120733454.htm"
+    },
+    {
+      "title": "Nhiều người chọn 'xuân này không về' vì giá vé máy bay bằng cả tháng lương",
+      "link": "https://thanhnien.vn/nhieu-nguoi-chon-xuan-nay-khong-ve-vi-gia-ve-may-bay-bang-ca-thang-luong-185260111120648745.htm",
+      "pubDate": "Sun, 11 Jan 26 12:49:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/screenshot-2026-01-11-at-120054-1768107692997304389084-275-0-1372-1756-crop-17681077680621832000365.png",
+      "description": "Đến hẹn lại lên, mùa Tết Nguyên đán tới gần cũng là lúc người lao động đến 'mùa đau đầu' vì mua vé về quê. Năm nay, dù thị trường hàng không sôi động hơn nhiều khi số lượng tàu bay và tải cung ứng tăng lên, song giá vé máy bay vẫn cao ngất ngưởng.",
+      "guid": "https://thanhnien.vn/nhieu-nguoi-chon-xuan-nay-khong-ve-vi-gia-ve-may-bay-bang-ca-thang-luong-185260111120648745.htm"
+    },
     {
       "title": "Lâm Đồng có thêm khu nghỉ dưỡng cao cấp",
       "link": "https://thanhnien.vn/lam-dong-co-them-khu-nghi-duong-cao-cap-185260111092523126.htm",
@@ -52,38 +84,6 @@
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/cap-treo-hon-thom-1767931273842809343692-0-155-894-1585-crop-1767932150780811517443.jpg",
       "description": "Việt Nam vừa được New York Times - một trong những tờ báo được đọc nhiều nhất thế giới - bình chọn là một trong 52 điểm đến cho năm 2026. Đáng chú ý, để minh họa cho du lịch Việt Nam, Ban biên tập của New York Times đã chọn cáp treo Hòn Thơm ở Phú Quốc thay vì những hình ảnh truyền thống.",
       "guid": "https://thanhnien.vn/new-york-times-viet-nam-la-cuong-quoc-du-lich-dang-len-top-52-diem-den-2026-185260109111633521.htm"
-    },
-    {
-      "title": "Du khách thích thú kỹ thuật trồng hoa 'không chạm đất' ở làng hoa Sa Đéc",
-      "link": "https://thanhnien.vn/du-khach-thich-thu-ky-thuat-trong-hoa-khong-cham-dat-o-lang-hoa-sa-dec-185260109085152603.htm",
-      "pubDate": "Fri, 09 Jan 26 10:56:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/anh-11-1767922604268585568600-107-0-1707-2560-crop-1767923485323397344059.jpg",
-      "description": "Cùng với sắc hoa rực rỡ bốn mùa, làng hoa Sa Đéc còn gây ấn tượng bởi phương thức canh tác \"không chạm đất\", giúp tăng năng suất.",
-      "guid": "https://thanhnien.vn/du-khach-thich-thu-ky-thuat-trong-hoa-khong-cham-dat-o-lang-hoa-sa-dec-185260109085152603.htm"
-    },
-    {
-      "title": "Điểm đến ở Việt Nam vào danh sách 'mơ ước' khám phá của năm 2026",
-      "link": "https://thanhnien.vn/diem-den-o-viet-nam-vao-danh-sach-mo-uoc-kham-pha-cua-nam-2026-185260109072953337.htm",
-      "pubDate": "Fri, 09 Jan 26 09:05:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/1000056745-1767920434154676277368-306-0-1556-2000-crop-17679212537851229759489.jpg",
-      "description": "Time Out, tạp chí du lịch danh tiếng của Anh, gợi ý những địa điểm du lịch bạn nên đến trong năm 2026, trong đó có một điểm đến ở Việt Nam.",
-      "guid": "https://thanhnien.vn/diem-den-o-viet-nam-vao-danh-sach-mo-uoc-kham-pha-cua-nam-2026-185260109072953337.htm"
-    },
-    {
-      "title": "Vừa ra mắt, Sun PhuQuoc Airways đã giành vị trí bay đúng giờ nhất \n",
-      "link": "https://thanhnien.vn/vua-ra-mat-sun-phuquoc-airways-da-gianh-vi-tri-bay-dung-gio-nhat-185260109085146815.htm",
-      "pubDate": "Fri, 09 Jan 26 09:04:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/sun-phuquoc-airways-6-176792341918573956322-0-0-1600-2560-crop-17679234508481561085825.jpg",
-      "description": "Với chỉ số đúng giờ (OTP) trong tháng 12.2025 đạt 93,5%, Sun PhuQuoc Airways (SPA) chính thức vươn lên vị trí dẫn đầu toàn ngành hàng không nội địa. Đây là mức rất cao so với tỷ lệ OTP trung bình toàn ngành chỉ 70,7%, đặc biệt trong mùa cao điểm cuối năm.",
-      "guid": "https://thanhnien.vn/vua-ra-mat-sun-phuquoc-airways-da-gianh-vi-tri-bay-dung-gio-nhat-185260109085146815.htm"
-    },
-    {
-      "title": "Làm gì để du khách chi tiêu nhiều hơn?: Việt Nam còn nhiều dư địa tăng doanh thu du lịch",
-      "link": "https://thanhnien.vn/lam-gi-de-du-khach-chi-tieu-nhieu-hon-viet-nam-con-nhieu-du-dia-tang-doanh-thu-du-lich-185260108222727608.htm",
-      "pubDate": "Fri, 09 Jan 26 04:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/a1-1767885866682606322773-0-0-1600-2560-crop-1767885888509254707703.jpg",
-      "description": "Nếu thành công tăng chi tiêu trung bình trên một du khách, với số lượng khách quốc tế đến VN ngày càng đông, doanh thu du lịch có thể cao hơn rất nhiều so với kế hoạch.",
-      "guid": "https://thanhnien.vn/lam-gi-de-du-khach-chi-tieu-nhieu-hon-viet-nam-con-nhieu-du-dia-tang-doanh-thu-du-lich-185260108222727608.htm"
     }
   ]
 }

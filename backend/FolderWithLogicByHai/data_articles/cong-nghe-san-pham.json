@@ -3,8 +3,24 @@
   "categoryName": "Sản phẩm",
   "fullSlug": "cong-nghe-san-pham",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-11T04:19:28.315Z",
+  "lastUpdate": "2026-01-12T14:05:04.366Z",
   "articles": [
+    {
+      "title": "Trải nghiệm Oppo Reno15 5G với AI Camera ưu việt và thiết kế đẳng cấp",
+      "link": "https://thanhnien.vn/trai-nghiem-oppo-reno15-5g-voi-ai-camera-uu-viet-va-thiet-ke-dang-cap-185260110231615708.htm",
+      "pubDate": "Sun, 11 Jan 26 13:30:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/img20260110131358-17680650175061813846711-32-0-1282-2000-crop-1768065787296274778141.jpg",
+      "description": "Oppo Reno15 5G là phiên bản tiêu chuẩn trong dòng Reno15 mới ra mắt, mức giá dễ tiếp cận nhưng vẫn chia sẻ ngôn ngữ thiết kế cao cấp, tập trung mạnh vào khả năng chụp hình chân dung và nền tảng ColorOS mới nhất.",
+      "guid": "https://thanhnien.vn/trai-nghiem-oppo-reno15-5g-voi-ai-camera-uu-viet-va-thiet-ke-dang-cap-185260110231615708.htm"
+    },
+    {
+      "title": "Oppo ra mắt điện thoại 'mưa sao băng', giá từ 11,9 triệu đồng",
+      "link": "https://thanhnien.vn/oppo-ra-mat-dien-thoai-mua-sao-bang-gia-tu-119-trieu-dong-185260111004642318.htm",
+      "pubDate": "Sun, 11 Jan 26 11:46:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/oppo-reno-15-17680672606931623826176-29-0-1323-2070-crop-17680672677632019991303.png",
+      "description": "Oppo Reno15 series vừa chính thức ra mắt thị trường Việt Nam, gồm ba phiên bản Reno15 Pro 5G, Reno15 5G và Reno15F 5G với ngôn ngữ thiết kế \"mưa sao băng\", giá từ 11,9 triệu đồng.",
+      "guid": "https://thanhnien.vn/oppo-ra-mat-dien-thoai-mua-sao-bang-gia-tu-119-trieu-dong-185260111004642318.htm"
+    },
     {
       "title": "Bộ đôi nubia V80 ra mắt, thiết kế trẻ trung, hỗ trợ AI",
       "link": "https://thanhnien.vn/bo-doi-nubia-v80-ra-mat-thiet-ke-tre-trung-ho-tro-ai-185260110235325181.htm",
@@ -68,22 +84,6 @@
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/5/1-17676332762761058493905-27-0-590-900-crop-17676332798401637512564.jpg",
       "description": "Honor tiếp tục gây chú ý trên thị trường sau khi ra mắt mẫu smartphone Honor Power 2 nổi bật với pin lớn trong một kích thước mỏng bất ngờ.",
       "guid": "https://thanhnien.vn/honor-power-2-gay-an-tuong-voi-pin-sieu-lon-trong-thiet-ke-manh-mai-185260106001847572.htm"
-    },
-    {
-      "title": "Lý do khiến tai nghe giá rẻ có chất lượng âm thanh kém hơn",
-      "link": "https://thanhnien.vn/ly-do-khien-tai-nghe-gia-re-co-chat-luong-am-thanh-kem-hon-185260105154321157.htm",
-      "pubDate": "Mon, 05 Jan 26 16:18:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/5/2-1767602505702402068243-0-99-563-1000-crop-1767602509057217235536.jpg",
-      "description": "Chất lượng âm thanh giữa tai nghe giá rẻ và tai nghe đắt tiền chắc chắn có sự khác biệt rõ rệt, nhưng khác biệt này ra sao?",
-      "guid": "https://thanhnien.vn/ly-do-khien-tai-nghe-gia-re-co-chat-luong-am-thanh-kem-hon-185260105154321157.htm"
-    },
-    {
-      "title": "Trải nghiệm Razer Huntsman V3 Pro 8KHz: Phím quang học cho môi trường thi đấu chuyên nghiệp",
-      "link": "https://thanhnien.vn/trai-nghiem-razer-huntsman-v3-pro-8khz-phim-quang-hoc-cho-moi-truong-thi-dau-chuyen-nghiep-185251216225833783.htm",
-      "pubDate": "Sun, 04 Jan 26 10:53:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/2/yuu8770resultresult-1767076271042296471702-93-0-800-1131-crop-17673719196972023429045.jpg",
-      "description": "Thay vì chạy theo phím cơ học truyền thống, Razer kiên định với phím quang học trên Huntsman V3 Pro 8KHz, tập trung vào độ ổn định và kiểm soát thao tác khi thi đấu.",
-      "guid": "https://thanhnien.vn/trai-nghiem-razer-huntsman-v3-pro-8khz-phim-quang-hoc-cho-moi-truong-thi-dau-chuyen-nghiep-185251216225833783.htm"
     }
   ]
 }

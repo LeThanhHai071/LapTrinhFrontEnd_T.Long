@@ -21,6 +21,13 @@
       "content": "Từng là tính năng chỉ xuất hiện trên các dòng xe sang tiền tỉ, công nghệ đỗ xe tự động nay đã bắt đầu được trang bị trên nhiều mẫu ô tô phổ thông tại Việt Nam. Đây được xem là trợ thủ đắc lực cho những tài xế yếu tay lái, không tự tin khi đưa xe vào các bãi đỗ chật hẹp."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/4/20/edit-cong-nghe-do-xe-tu-dong-17451225069691425443109.jpeg"
+      ],
+      "caption": "Sau khi tìm được vị trí phù hợp, hệ thống sẽ tự xoay vô-lăng, điều khiển chân ga và phanh để đỗ xe"
+    },
+    {
       "type": "text",
       "content": "Công nghệ này hoạt động dựa vào cảm biến xung quanh xe, cảm biến radar phát hiện khoảng cách và camera 360 độ... để phát hiện vị trí đỗ phù hợp. Sau đó, xe sẽ tự điều khiển vô-lăng, điều chỉnh ga và phanh để đưa xe vào chỗ đỗ một cách chính xác."
     },

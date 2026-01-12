@@ -20,8 +20,19 @@
       "content": "Theo khoản 3 điều 4 Nghị quyết 254 năm 2025 của Quốc hội (có hiệu lực ngày 1.1.2026), người có thẩm quyền quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất sang mục đích khác mà không phải trình HĐND cấp tỉnh chấp thuận."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/28/chuyen-muc-dich-su-dung-dat-2-17669356236651455423944.jpg"
+      ],
+      "caption": "Khi chuyển đất vườn, ao sang đất ở, tiền sử dụng đất được tính 30% chênh lệch giữa giá đất ở và giá đất nông nghiệp đối với diện tích trong hạn mức giao đất ở"
+    },
+    {
       "type": "text",
       "content": "Theo khoản 10 điều 4, trong thời gian từ ngày 1.8.2024 đến trước ngày 1.1.2026, các trường hợp đã cho phép chuyển mục đích sử dụng đất sang đất ở từ đất vườn, ao, đất nông nghiệp trong cùng thửa đất có đất ở, hoặc từ đất có nguồn gốc là đất vườn, ao gắn liền với đất ở, nhưng đã tách thửa (do người sử dụng đất tách, hoặc do đo đạc bản đồ địa chính trước ngày 1.7.2014) thì được thực hiện như sau:"
+    },
+    {
+      "type": "text",
+      "content": "Chưa nộp tiền sử dụng đất: Cơ quan thuế tính lại tiền sử dụng đất phải nộp theo nghị quyết này, và điều chỉnh thông báo số tiền sử dụng đất phải nộp. Hộ gia đình, cá nhân phải nộp khoản tiền chậm nộp tiền sử dụng đất (nếu có) trên số tiền tính lại.Đã nộp tiền sử dụng đất: Được đề nghị cơ quan thuế tính lại tiền sử dụng đất theo quy định của nghị quyết này. Trường hợp số tiền sử dụng đất sau khi tính lại thấp hơn so với số tiền đã nộp thì người sử dụng đất được Nhà nước hoàn trả bằng cách trừ vào nghĩa vụ về tiền sử dụng đất, tiền thuê đất. Trường hợp không còn nghĩa vụ tài chính nào khác để trừ thì hoàn trả bằng tiền."
     },
     {
       "type": "h2",
@@ -30,6 +41,10 @@
     {
       "type": "text",
       "content": "Theo điểm c khoản 2 điều 10 Nghị quyết số 254, khi chuyển đất vườn, ao, đất nông nghiệp sang đất ở, tiền sử dụng đất được tính theo mức:"
+    },
+    {
+      "type": "text",
+      "content": "30% chênh lệch giữa giá đất ở và giá đất nông nghiệp đối với diện tích trong hạn mức giao đất ở.50% chênh lệch đối với diện tích vượt hạn mức nhưng không quá 1 lần hạn mức giao đất ở.100% chênh lệch đối với diện tích vượt hạn mức mà vượt quá 1 lần hạn mức giao đất ở."
     },
     {
       "type": "text",

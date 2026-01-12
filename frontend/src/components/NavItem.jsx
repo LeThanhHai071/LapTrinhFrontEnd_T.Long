@@ -2,7 +2,7 @@ const NavItem = ({ category, articles }) => {
   return (
     <li>
       <a
-        href={`/news/${category.fullSlug}`}
+        href={`/category/${category.fullSlug}`}
         className="nav-link"
         title={category.name}
       >
@@ -13,12 +13,12 @@ const NavItem = ({ category, articles }) => {
         <div className="sub-menu-flex">
           {/* CỘT TRÁI: Danh sách danh mục con */}
           <div className="category">
-            <a href={`/news/${category.fullSlug}`} className="title-cate">
+            <a href={`/category/${category.fullSlug}`} className="title-cate">
               {category.name}
             </a>
             <div className="list">
               {category.children?.map((sub) => (
-                <a key={sub.id} href={`/news/${sub.fullSlug}`} className="item">
+                <a key={sub.id} href={`/category/${sub.fullSlug}`} className="item">
                   {sub.name}
                 </a>
               ))}

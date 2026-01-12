@@ -13,6 +13,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/15/z7322577573907ff7d167ed48b11806b1ffab682b873eb-17657739154411733298434.jpg"
+      ],
+      "caption": "Nhà vô địch vovinam thế giới, trung tá Ngọc Truyển hào hứng lấn sân pickleball"
+    },
+    {
       "type": "h2",
       "content": "Những nhà vô địch vovinam lấn sân pickleball"
     },
@@ -29,6 +36,13 @@
       "content": "Với các quân nhân, đặc biệt là những HLV, VĐV xuất thân từ vovinam, pickleball không chỉ là cuộc dạo chơi, mà là một \"mặt trận mới\" để thử thách tốc độ, phản xạ, tư duy chiến thuật và tinh thần đồng đội."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/15/z7322577387987c928d4a41dd2a4183c5ba7c399e23336-17657739156001387068770.jpg"
+      ],
+      "caption": "Thiếu tá chuyên nghiệp Minh Khoa mạnh mẽ trong quân phục và rực rỡ trên sân đấu pickleball"
+    },
+    {
       "type": "text",
       "content": "Trung tá chuyên nghiệp Nguyễn Thị Ngọc Truyển đang sở hữu bộ sưu tập danh hiệu đồ sộ với HCV Asian Indoor Games 2009, HCV vovinam thế giới 2011, HCV Đại hội TDTT toàn quốc và là trọng tài vovinam quốc gia - quốc tế…"
     },
@@ -43,6 +57,13 @@
     {
       "type": "text",
       "content": "Nếu Ngọc Truyển kiểm soát nhịp độ trận đấu bằng kinh nghiệm thi đấu đỉnh cao, khả năng đọc tình huống nhanh và những pha xử lý gọn gàng, chính xác thì Minh Khoa mang đến cho giải đấu một sắc thái rất khác: nhanh, mạnh, đầy năng lượng và giàu cảm xúc."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/15/z73225827902191f50e38a69e0d74e6dffdcdaef07a7f0-176577391532364793590.jpg"
+      ],
+      "caption": "Trung tá Ngọc Truyển đoạt HCV Asian Indoor Games 2009, thế giới 2011..."
     },
     {
       "type": "text",

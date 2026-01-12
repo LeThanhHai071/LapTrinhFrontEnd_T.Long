@@ -13,6 +13,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/21/trump-tiktok-1766336361257277380606.jpg"
+      ],
+      "caption": "Ông Donald Trump là người đã khởi xướng chuyện cấm TikTok ở Mỹ vì lý do an ninh quốc gia"
+    },
+    {
       "type": "text",
       "content": "Bởi ông Trump đã gây áp lực với Trung Quốc về TikTok hồi năm 2020 và giờ đạt được mục đích là phía Trung Quốc phải chuyển quyền sở hữu đối với TikTok ở Mỹ cho một công ty địa phương."
     },

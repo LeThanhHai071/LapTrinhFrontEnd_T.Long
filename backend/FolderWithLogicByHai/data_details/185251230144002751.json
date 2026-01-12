@@ -17,6 +17,13 @@
       "content": "Thực tế, việc vượt qua sự cạnh tranh khốc liệt có thể không dễ dàng ngay cả với các công ty lâu năm. Tuy nhiên, với sự phát triển không ngừng từ công nghệ mới như Cloud, AI đã giúp thúc đẩy ngành công nghiệp SaaS tiến lên. Do đó, lĩnh vực SaaS được kỳ vọng sẽ phát triển năng động, thu hút những người mới và mở rộng cơ hội cho cả những người tham gia cũ."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/30/1-176708000838346848673.png"
+      ],
+      "caption": ""
+    },
+    {
       "type": "text",
       "content": "Yêu cầu về tốc độ nhanh chóng và cạnh tranh khốc liệt của phân khúc thị trường SaaS tạo nên những thách thức trong phát triển sản phẩm SaaS, bao gồm một hoặc tất cả những vấn đề sau:"
     },
@@ -43,6 +50,13 @@
     {
       "type": "text",
       "content": "Một SaaS đã sử dụng Bizfly Cloud Kubernetes Engine (BKE) để tự động quản lý và mở rộng các ứng dụng container, kết hợp với Cloud Database, Kafka... cho mọi nhu cầu phát triển để giảm vận hành thủ công phức tạp tới 80%."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/30/2-1767080008620170483338.jpg"
+      ],
+      "caption": ""
     },
     {
       "type": "h2",
@@ -91,6 +105,13 @@
     {
       "type": "text",
       "content": "Chi phí hạ tầng cao nhưng hiệu quả thấp (vì không tối ưu tài nguyên) cũng là một vấn đề kìm hãm SaaS phát triển. Chi phí Cloud được thiết lập theo mô hình lưu lượng truy cập và mức sử dụng tài nguyên thực tế thường giúp tối ưu ngân sách đến 50%."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/30/3-1767080008625390716008.png"
+      ],
+      "caption": ""
     },
     {
       "type": "text",

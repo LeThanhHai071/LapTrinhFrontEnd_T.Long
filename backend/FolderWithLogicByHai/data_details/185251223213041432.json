@@ -13,6 +13,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/23/trump-17665072759111183227674.jpg"
+      ],
+      "caption": "Tổng thống Donald Trump vẫn thường xuyên thời sự hóa mong muốn thâu tóm Greenland cho nước Mỹ"
+    },
+    {
       "type": "text",
       "content": "Ngày 21.12 vừa qua, ông Trump đã bổ nhiệm đặc phái viên về đảo Greenland. Vị đặc phái viên này nói thẳng luôn ra thực chất sứ mệnh ngoại giao của mình là \"đưa đảo Greenland về cho nước Mỹ\" - giống hệt như chủ định của ông Trump."
     },

@@ -13,6 +13,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/6/chua-176769732837465365574.jpg"
+      ],
+      "caption": "Lực lượng cứu hỏa đang nỗ lực chữa cháy tại chùa Duyên Giác"
+    },
+    {
       "type": "text",
       "content": "Đài KRON4 hôm 5.1 dẫn thông tin từ Sở Cứu hỏa San Jose cho hay các đội cứu hỏa đã được triển khai vào 5 giờ 37 cùng ngày để ứng phó đám cháy ở chùa Duyên Giác, một ngôi chùa Phật giáo lớn của cộng đồng người Việt tại thành phố."
     },

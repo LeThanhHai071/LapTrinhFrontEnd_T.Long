@@ -13,6 +13,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/10/qdi7515-17680081329861465942885.jpg"
+      ],
+      "caption": "Ông Philipp Mühlbauer phát biểu tại sự kiện khai trương văn phòng ở TP.HCM hôm 8.1"
+    },
+    {
       "type": "text",
       "content": "Sự kiện có sự tham dự của ông Philipp Mühlbauer, đồng CEO TCG, cùng đội ngũ nhân sự quốc tế và Việt Nam. Việc lựa chọn Việt Nam làm điểm đến tiếp theo sau 20 năm phát triển cho thấy doanh nghiệp này đánh giá cao tiềm năng của thị trường POD trong nước."
     },
@@ -23,6 +30,13 @@
     {
       "type": "text",
       "content": "Theo đại diện TCG, văn phòng tại Việt Nam không chỉ đóng vai trò kết nối, hỗ trợ khách hàng trong nước mà còn là nền tảng để xây dựng mối quan hệ hợp tác lâu dài. Doanh nghiệp này đặt mục tiêu trở thành đối tác đồng hành, giúp người bán POD Việt Nam cải thiện chất lượng sản phẩm, tối ưu quy trình kinh doanh và đáp ứng các tiêu chuẩn khắt khe của thị trường quốc tế."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/10/may-cat-thanh-pham-1768008132953458413572.png"
+      ],
+      "caption": "Máy cắt thành phẩm, một sản phẩm của TCG"
     },
     {
       "type": "text",

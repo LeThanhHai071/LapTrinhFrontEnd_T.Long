@@ -3,8 +3,16 @@
   "categoryName": "Chào ngày mới",
   "fullSlug": "chao-ngay-moi",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-11T04:16:02.102Z",
+  "lastUpdate": "2026-01-12T14:01:42.119Z",
   "articles": [
+    {
+      "title": "Không sợ đóng thuế, chỉ sợ kê sai",
+      "link": "https://thanhnien.vn/khong-so-dong-thue-chi-so-ke-sai-185260111215518362.htm",
+      "pubDate": "Mon, 12 Jan 26 05:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/chaongaymoi-1696194815381982709104-17681432700111929652942.jpg",
+      "description": "Đó là tâm lý của hầu hết các hộ kinh doanh trong khoảng chục ngày đầu tiên chuyển qua kê khai đóng thuế theo doanh thu thực tế.",
+      "guid": "https://thanhnien.vn/khong-so-dong-thue-chi-so-ke-sai-185260111215518362.htm"
+    },
     {
       "title": "Con voi chui lọt lỗ kim",
       "link": "https://thanhnien.vn/con-voi-chui-lot-lo-kim-185260110223958835.htm",
@@ -76,14 +84,6 @@
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/31/chao-ngay-moi-17671974019661963838663-0-0-259-414-crop-1767197404697472065196.jpg",
       "description": "Nhìn lại nhiệm kỳ Đại hội XIII của Đảng, điều đọng lại không chỉ là những con số tăng trưởng hay thứ hạng của nền kinh tế, mà là cách VN đã đi qua một giai đoạn \"gió ngược\" hiếm thấy.",
       "guid": "https://thanhnien.vn/dinh-hinh-nen-tang-cho-ky-nguyen-vuon-minh-185251231231109387.htm"
-    },
-    {
-      "title": "Tạo ra những cánh đồng cho đàn ong làm mật",
-      "link": "https://thanhnien.vn/tao-ra-nhung-canh-dong-cho-dan-ong-lam-mat-185251230231126117.htm",
-      "pubDate": "Wed, 31 Dec 25 03:48:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/30/avata-chao-ngay-moi-17671109733331711169733.jpg",
-      "description": "Chỉ còn đúng 1 ngày nữa, hàng triệu hộ kinh doanh trên cả nước sẽ thực hiện bước đi lịch sử: Bỏ thuế khoán, chuyển qua phương pháp tự kê khai, nộp thuế theo doanh thu thực tế.",
-      "guid": "https://thanhnien.vn/tao-ra-nhung-canh-dong-cho-dan-ong-lam-mat-185251230231126117.htm"
     }
   ]
 }

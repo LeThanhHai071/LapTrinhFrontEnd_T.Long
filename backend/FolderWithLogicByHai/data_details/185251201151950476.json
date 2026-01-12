@@ -17,12 +17,26 @@
       "content": "Đứng ở vị trí thứ 3 không gì khác chính là cà phê sữa đá. \"Cà phê sữa đá Việt Nam là thức uống kết hợp giữa cà phê đậm đặc, sữa đặc và đá. Theo truyền thống, cà phê sữa đá được pha chế từ cà phê Việt Nam xay ở mức trung bình hoặc thô, thường là cà phê Robusta, được pha bằng phin nhỏ giọt. Sau đó, cà phê được rót lên đá và pha với sữa đặc. Cà phê sữa đá thường được phục vụ trong ly cao\", TasteAtlas viết."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/1/ca-phe-sua-17645773714641841395349.jpg"
+      ],
+      "caption": "Cà phê sữa đá Việt Nam"
+    },
+    {
       "type": "text",
       "content": "Xếp ở vị trí thứ 6 cũng là một loại thức uống khác của Việt Nam - cà phê đen. Trang ẩm thực nổi tiếng thế giới nhận xét: Văn hóa cà phê là một phần quan trọng trong đời sống thường nhật của người Việt Nam. Mặc dù được người Pháp du nhập lần đầu tiên vào giữa thế kỷ 19, cà phê đã nhanh chóng trở nên phổ biến, và Việt Nam hiện là một trong những quốc gia sản xuất cà phê lớn nhất, đồng thời là nước sản xuất và xuất khẩu cà phê Robusta hàng đầu."
     },
     {
       "type": "text",
       "content": "Robusta cũng là loại cà phê được sử dụng phổ biến nhất tại Việt Nam. Cà phê Robusta có hương vị khá đậm đà và kết cấu đặc trưng nhờ quá trình rang chậm. Đôi khi, hạt cà phê còn được rang với bơ và đường, một số người thậm chí còn quyết định thêm ca cao và vani trong quá trình rang. Cà phê đen là một phiên bản khác hoàn hảo của cà phê Việt Nam, bên cạnh những cái tên đình đám khác như cà phê trứng, cà phê cốt dừa, cà phê muối…"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/1/ca-phe-trung-17645773164072115389420.jpg"
+      ],
+      "caption": "Cà phê trứng của Việt Nam"
     },
     {
       "type": "text",
@@ -37,8 +51,22 @@
       "content": "Ở ngoài top 10, các thức uống Việt Nam có trong danh sách gồm trà sen (12), yaourt đá (23), rượu táo mèo (26), rượu cần (29), rượu nếp cẩm (31)… và loạt thức uống khác, chiếm áp đảo trong danh sách."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/1/tra-sua-do-17645772683731084591150.jpg"
+      ],
+      "caption": "Trà sữa đỏ Thái Lan"
+    },
+    {
       "type": "text",
       "content": "Vị trí số 1 là trà sữa đỏ Thái Lan. Theo truyền thống, thức uống này được pha chế từ các loại trà đen lá rời như trà Assam, Ceylon hoặc Keemun... Tuy nhiên, cả phiên bản trà đường phố và trà nhà hàng ngày nay thường được pha với hỗn hợp trà đóng gói sẵn có chứa màu thực phẩm, tạo cho trà một màu cam đặc trưng và không tự nhiên, trong khi phiên bản trà truyền thống có màu hổ phách đậm."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/1/ca-phe-trang-1764577226850542938384.jpg"
+      ],
+      "caption": "Cà phê trắng Malaysia"
     },
     {
       "type": "text",

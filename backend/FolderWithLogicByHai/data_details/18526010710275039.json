@@ -21,6 +21,13 @@
       "content": "Đừng vội đổ lỗi cho nhà sản xuất. Theo các chuyên gia công nghệ, thủ phạm thực sự thường không nằm ở tấm nền phần cứng mà ẩn giấu ngay trong các cài đặt người dùng vô tình kích hoạt. Dưới đây là 5 tính năng phổ biến bạn cần kiểm tra lại ngay lập tức."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/7/edit_photo_ybfvynmitg-1767757987.jpg"
+      ],
+      "caption": "Có những thiết lập vô tình 'bóp nghẹt' chất lượng hiển thị của màn hình"
+    },
+    {
       "type": "h2",
       "content": "1. Lạm dụng HDR của màn hình"
     },
@@ -71,6 +78,13 @@
     {
       "type": "text",
       "content": "Bạn chỉ nên chọn vào những thông số có chữ 'Recommended' (Được khuyến nghị) trong phần cài đặt hiển thị của Windows."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/7/display-scalingresolution-176696-17677581086142140451158.jpg"
+      ],
+      "caption": "Độ phân giải và Scaling cần được lưu ý để thiết lập chính xác"
     },
     {
       "type": "h2",

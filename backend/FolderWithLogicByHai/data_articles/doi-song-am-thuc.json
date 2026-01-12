@@ -3,8 +3,16 @@
   "categoryName": "Ẩm thực",
   "fullSlug": "doi-song-am-thuc",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-11T04:17:02.126Z",
+  "lastUpdate": "2026-01-12T14:02:21.580Z",
   "articles": [
+    {
+      "title": "Hương vị quê hương: Đợi mùa cá cơm về",
+      "link": "https://thanhnien.vn/huong-vi-que-huong-doi-mua-ca-com-ve-185260111173657978.htm",
+      "pubDate": "Mon, 12 Jan 26 20:20:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/mua-ca-com-1768127610885640903982-96-0-1696-2560-crop-1768127641067415614972.jpeg",
+      "description": "Nhà tôi ngay cửa biển Sa Huỳnh (Quảng Ngãi). Dân ở đây quen tính tháng tính năm bằng mùa cá. Mấy tuần gần đây biển ấm lại, mùa cá cơm về. Vậy là tết, là xuân không còn bao xa nữa.",
+      "guid": "https://thanhnien.vn/huong-vi-que-huong-doi-mua-ca-com-ve-185260111173657978.htm"
+    },
     {
       "title": "Vụ Công ty Đồ hộp Hạ Long: The Coffee House ra thông báo mới",
       "link": "https://thanhnien.vn/vu-cong-ty-do-hop-ha-long-the-coffee-house-ra-thong-bao-moi-185260110140555255.htm",
@@ -76,14 +84,6 @@
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/22/anh-man-hinh-2025-12-22-luc-202834-17664108433551016352687-38-0-1050-1620-crop-1766410939655501288764.png",
       "description": "Bánh mì xốt gạch cua, khúc bạch vải thiều, bánh dép phô mai… là những món ăn từng được chia sẻ rầm rộ năm 2025. Trước thềm 2026, cùng nhìn lại loạt hot trend ẩm thực Việt khiến cộng đồng tò mò suốt năm qua.",
       "guid": "https://thanhnien.vn/banh-mi-xot-gach-cua-banh-dep-pho-mai-khuay-dao-am-thuc-viet-nam-2025-con-gi-nua-185251222204432714.htm"
-    },
-    {
-      "title": "Nhiều quán ăn ở trung tâm TP.HCM âm thầm đóng cửa, trả mặt bằng cuối năm 2025",
-      "link": "https://thanhnien.vn/nhieu-quan-quen-o-trung-tam-tphcm-am-tham-dong-cua-tra-mat-bang-cuoi-nam-2025-185251229101331091.htm",
-      "pubDate": "Mon, 29 Dec 25 12:12:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/29/edit-img7867-17669786622851921802424-163-0-1763-2560-crop-1766978723444145167501.jpeg",
-      "description": "Trước thềm năm mới 2026, nhiều thực khách ngỡ ngàng khi phát hiện các quán ăn 'ruột' ở trung tâm TP.HCM đã âm thầm đóng cửa, trả mặt bằng từ lúc nào không hay.",
-      "guid": "https://thanhnien.vn/nhieu-quan-quen-o-trung-tam-tphcm-am-tham-dong-cua-tra-mat-bang-cuoi-nam-2025-185251229101331091.htm"
     }
   ]
 }

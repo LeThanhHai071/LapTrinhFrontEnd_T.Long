@@ -17,12 +17,26 @@
       "content": "Khi giá RAM DDR5 trên thị trường toàn cầu và cả Việt Nam đang dao động quanh mức 3,3 triệu đồng cho một thanh 16 GB bus 5600 (tính tới thời điểm tháng 1.2026), nhiều người dùng, đặc biệt là game thủ, buộc phải cân nhắc kỹ lưỡng giữa chi phí và hiệu năng. Trong bối cảnh này, câu hỏi “nên chọn 16 GB hay 32 GB RAM?” không chỉ mang tính kỹ thuật mà còn liên quan trực tiếp đến khả năng đầu tư của người dùng."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/11/screenshot-2026-01-11-082013-17680944238171970286852.png"
+      ],
+      "caption": "Lựa chọn RAM phù hợp không chỉ ảnh hưởng hiệu năng chơi game mà còn đảm bảo tính ổn định cho hệ thống lâu dài"
+    },
+    {
       "type": "text",
       "content": "Kết quả từ các thử nghiệm chuyên sâu cho thấy 16 GB RAM vẫn có thể đáp ứng tốt phần lớn các tựa game hiện đại. Những trò chơi như Cyberpunk 2077, Black Myth: Wukong, The Outer Worlds 2 hay Doom: The Dark Ages đều vận hành mượt mà ở thiết lập đồ họa cao với mức RAM này. Đây là lựa chọn hợp lý cho các hệ thống tầm trung hoặc người chơi chủ yếu các game online, esports..."
     },
     {
       "type": "text",
       "content": "Tuy nhiên, vấn đề nảy sinh khi hệ thống sử dụng card đồ họa (GPU) phổ thông chỉ có 8 GB VRAM. Trong các trường hợp này, khi bộ nhớ đồ họa bị đầy, dữ liệu sẽ được đẩy sang RAM hệ thống, làm tăng nhu cầu về băng thông bộ nhớ và gây ra hiện tượng giật hình, tụt fps nếu RAM không đủ. Một số tựa game như Mafia: The Old Country yêu cầu lên tới 20 GB RAM để đảm bảo trải nghiệm ổn định, khiến 16 GB trở nên thiếu hụt rõ rệt."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/11/screenshot-2026-01-11-082524-1768094728151888819517.png"
+      ],
+      "caption": "Khi chơi Call of Duty: Black Ops 7, hệ thống sử dụng hơn 13,5 GB RAM, cho thấy 16 GB vẫn đủ nhưng dễ chạm giới hạn nếu chạy thêm tác vụ nền"
     },
     {
       "type": "text",

@@ -32,6 +32,13 @@
       "content": "Luật sư Nguyễn Hùng Quân, Đoàn luật sư TP.HCM, cho rằng: \"Nghị định số 282 không có hành vi cấm hát karaoke loa kéo mà chỉ xử phạt hành vi gây tiếng ồn vượt quá quy định\"."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/20/hat-karaoke-loa-keo-keo-17662172670581885735177.jpg"
+      ],
+      "caption": "Nghị định số 282 năm 2025 không cấm hát karaoke mà chỉ xử phạt hành vi gây tiếng ồn vượt quá quy định"
+    },
+    {
       "type": "text",
       "content": "Luật sư đã liệt kê mức phạt dựa trên độ ồn vượt quá quy chuẩn kỹ thuật (đơn vị dBA) được quy định tại điều 22 (viện dẫn từ Nghị định 45 năm 2022)."
     },
@@ -49,6 +56,10 @@
     },
     {
       "type": "text",
+      "content": "Từ 1 - 5 triệu đồng: Khi tiếng ồn vượt từ 2 dBA đến dưới 5 dBA . Từ 5 - 20 triệu đồng: Khi vượt từ 5 dBA đến dưới 10 dBA."
+    },
+    {
+      "type": "text",
       "content": "Các mức tiếp theo tăng dần lên 20 - 40 triệu đồng, 40 - 60 triệu đồng, 60 - 80 triệu đồng, 80 - 100 triệu đồng, 100 - 120 triệu đồng và 120 - 140 triệu đồng tương ứng với từng mức dBA vượt quá."
     },
     {
@@ -62,6 +73,13 @@
     {
       "type": "text",
       "content": "Như vậy, đây là mức phạt dành cho hành vi gây tiếng ồn cực lớn, vượt ngưỡng cho phép rất cao."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/20/info-1-1766226956036201469726.jpg"
+      ],
+      "caption": "Mức phạt dựa trên độ ồn vượt quá quy chuẩn kỹ thuật (đơn vị dBA) được quy định tại điều 22, Nghị định 45 năm 2022"
     },
     {
       "type": "text",
@@ -110,6 +128,13 @@
     {
       "type": "text",
       "content": "Trong thực tế, không loại trừ khả năng xảy ra tranh cãi về kết quả đo đạc tiếng ồn. Liệu người bị xử phạt có quyền phản bác?"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/18/ls-hung-quan-176605572292840240375.jpg"
+      ],
+      "caption": "Luật sư Nguyễn Hùng Quân, Đoàn luật sư TP.HCM"
     },
     {
       "type": "text",

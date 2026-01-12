@@ -12,6 +12,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/18/2062075580866431654-1766081616845294074689.jpg"
+      ],
+      "caption": "Nhà báo Nguyễn Ngọc Toàn - Tổng biên tập Báo Thanh Niên tặng hoa và biểu trưng cho các giám khảo của Sống đẹp mùa 5"
+    },
+    {
       "type": "text",
       "content": "Lễ tổng kết và trao giải cuộc thi Sống đẹp mùa 5 của Báo Thanh Niên với chủ đề Sự diệu kỳ của lòng nhân ái vừa khép lại với những tác giả, những nhân vật truyền cảm hứng được tôn vinh. Ban giám khảo chung kết gồm nhà văn Phan Hồn Nhiên; Hoa hậu Môi trường thế giới 2023 Nguyễn Thanh Hà; NSNA Lê Xuân Thăng, nguyên Phó chủ tịch Hội Nghệ sĩ nhiếp ảnh VN; nhà văn Cao Việt Quỳnh; cùng nhà báo Hải Thành, Phó tổng biên tập Báo Thanh Niên, Trưởng ban giám khảo; nhà báo Lâm Hiếu Dũng, Phó tổng biên tập Báo Thanh Niên đã cẩn trọng chấm điểm, chọn ra kết quả cho các hạng mục truyện ngắn, phóng sự, ký sự, ghi chép và album ảnh."
     },
@@ -28,6 +35,13 @@
       "content": "Tiếp cận các bài dự thi từ góc nhìn của một nhà văn, Cao Việt Quỳnh đặc biệt ấn tượng với các tác phẩm ở hạng mục truyện ngắn. \"Nhiều bài viết để lại trong tôi dấu ấn mạnh mẽ và tôi thấy đều xứng đáng được trao giải. Mỗi tác phẩm có một màu sắc nghệ thuật riêng, thậm chí có cốt truyện, cách trình bày rất hay mà tôi còn có thể học hỏi thêm từ chính các tác giả đó\", nhà văn 17 tuổi bày tỏ."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/18/cao-viet-quynh-1766082075189467235452.jpg"
+      ],
+      "caption": "Cao Việt Quỳnh chia sẻ anh bất ngờ và ấn tượng trước chất lượng của các tác phẩm dự thi"
+    },
+    {
       "type": "text",
       "content": "Bên cạnh đó, dù không phải chuyên môn chính, Cao Việt Quỳnh vẫn dành sự quan tâm nghiêm túc cho các tác phẩm ở hạng mục phóng sự, ký sự và album ảnh. Theo anh, chính yếu tố người thật, việc thật đã tạo nên sức nặng cảm xúc. Giám khảo trẻ tuổi chia sẻ: \"Những câu chuyện ấy khiến tôi xúc động và ngỡ ngàng trước lòng tốt, sự tử tế và nỗ lực lan tỏa điều tốt đẹp của rất nhiều người dân trên khắp cả nước\"."
     },
@@ -40,8 +54,22 @@
       "content": "Tác giả của các bộ tiểu thuyết thể loại giả tưởng ví lòng nhân ái như một dạng \"phép thuật\" có thật. Theo anh, chính lòng nhân ái xuất phát từ trái tim đã mang đến sức mạnh, đủ để tạo động lực giúp con người làm nên những điều phi thường và tin rằng cuộc sống này thực sự tồn tại phép màu. Từ đó, chủ đề của cuộc thi không chỉ khơi gợi niềm tin vào lòng tốt, sự tử tế mà còn truyền cảm hứng để mỗi người tự tạo nên \"phép màu\" của riêng mình bằng những hành động đẹp."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/18/4116218935043541111-17660827416921807797521.jpg"
+      ],
+      "caption": "Trải qua 5 mùa, Sống đẹp ngày càng lan tỏa, được đón nhận từ nhiều phía, cả ở người dự thi cũng như các đối tượng bạn đọc"
+    },
+    {
       "type": "text",
       "content": "Cao Việt Quỳnh bày tỏ kỳ vọng cuộc thi Sống đẹp do Báo Thanh Niên tổ chức sẽ tiếp tục phát triển mạnh mẽ trong những mùa tiếp theo. Theo anh, khi những giá trị tốt đẹp đã được lan tỏa, cuộc thi sẽ tạo thêm động lực để ngày càng nhiều người, đặc biệt là các bạn trẻ, mạnh dạn cầm bút, cầm máy ảnh, kể lại những câu chuyện đẹp của chính mình."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/18/nhataitro-17660250303011555253652.jpg"
+      ],
+      "caption": ""
     }
   ],
   "sourceUrl": "https://thanhnien.vn/nha-van-17-tuoi-cao-viet-quynh-long-nhan-ai-nhu-phep-thuat-co-that-185251219014646556.htm",

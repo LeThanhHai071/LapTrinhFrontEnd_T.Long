@@ -12,6 +12,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/7/img0774-1767775915743715873204.jpg"
+      ],
+      "caption": "Sinh viên Trường ĐH Mở TP.HCM"
+    },
+    {
       "type": "h2",
       "content": "Xét học bạ căn cứ điểm 3 năm THPT"
     },
@@ -50,6 +57,34 @@
     {
       "type": "text",
       "content": "Trường cũng công bố danh sách ngành tuyển sinh và tổ hợp môn xét tuyển từng ngành, cụ thể như bảng sau:"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/7/1-17677755024031305432070.jpg"
+      ],
+      "caption": ""
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/7/2-1767775502474832956461.jpg"
+      ],
+      "caption": ""
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/7/3-17677755025151639072166.jpg"
+      ],
+      "caption": ""
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/7/4-17677755025611742428194.jpg"
+      ],
+      "caption": ""
     },
     {
       "type": "text",

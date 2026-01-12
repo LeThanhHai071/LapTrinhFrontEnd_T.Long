@@ -1,10 +1,15 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
+const { error } = require("console");
+const path = require("path");
 const fs = require("fs").promises;
 const slugify = require("slugify");
 
 const BASE_URL = "https://thanhnien.vn";
 const RSS_PAGE_URL = "https://thanhnien.vn/rss.html";
+
+const CATEGORY_BLACKLIST = ["video", "magazine", "podcast", "tno"];
+const DEST_PATH = path.join(__dirname, "categories.json");
 
 let idCounter = 1; // tạo ID category thông qua idCounter
 // Hàm hỗ trợ nghỉ (delay) để tránh bị block
@@ -35,6 +40,7 @@ async function validateRSS(url, retries = 3) {
       }
     }
   }
+  console.error(`Thất bại cho [${url}]`);
   return false;
 }
 
@@ -50,6 +56,18 @@ async function processElement($, el, parentSlug = "") {
   // Lấy tên thông qua tag <a>
   let rawName = aTag.attr("title") || aTag.text();
   rawName = rawName.split("-")[0].trim();
+
+  const isRoot = parentSlug === "";
+  const isBlacklisted = CATEGORY_BLACKLIST.some((blackName) =>
+    rawName.toLowerCase().includes(blackName.toLowerCase())
+  );
+  if (isRoot && isBlacklisted) {
+    console.log(
+      `|--BLACKLIST: Bỏ qua "${rawName}" và toàn bộ nhánh con của nó.`
+    );
+    return null;
+  }
+
   let rssUrl = aTag.attr("href");
 
   // Xử lý link tương đối
@@ -124,11 +142,7 @@ async function crawlCategories() {
     }
 
     // Ghi dữ liệu ra file JSON
-    await fs.writeFile(
-      "categories.json",
-      JSON.stringify(results, null, 2),
-      "utf-8"
-    );
+    await fs.writeFile(DEST_PATH, JSON.stringify(results, null, 2), "utf-8");
     console.log("--- Hoàn thành! Đã lưu vào file categories.json ---");
   } catch (error) {
     console.error("Lỗi crawlCategories:", error);

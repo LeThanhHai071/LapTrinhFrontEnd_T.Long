@@ -49,6 +49,13 @@
       "content": "Ra trường đi làm, tôi chú tâm hơn vào vấn đề thời sự, kinh tế, những phóng sự điều tra gai góc. Tôi tìm thấy ở Thanh Niên sự thẳng thắn, dũng cảm và một góc nhìn nhân văn sâu sắc."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/26/2a2a-1702283033317601174746-1766711406435770095004.jpg"
+      ],
+      "caption": "Hôm nay, dù đọc trên app hay thi thoảng mua một tờ báo giấy số đặc biệt dịp tết, cảm xúc trân trọng vẫn không đổi khác"
+    },
+    {
       "type": "text",
       "content": "Có những bài phóng sự trên Thanh Niên đã làm tôi rơi nước mắt, có những câu chuyện về lòng tốt như chương trình: Học bổng Nguyễn Thái Bình, Tiếp sức mùa thi... đã nuôi dưỡng niềm tin trong tôi giữa những bộn bề lo toan. Tờ báo như một người bạn trầm tính, ít nói nhưng sâu sắc, luôn ở đó để nhắc nhở tôi về nhịp đập của cuộc sống ngoài kia."
     },
@@ -79,6 +86,13 @@
     {
       "type": "text",
       "content": "Hôm nay, dù đọc trên app hay thi thoảng mua một tờ báo giấy số đặc biệt dịp tết, cảm xúc trân trọng vẫn không đổi khác. Cảm ơn Thanh Niên tờ báo tôi yêu! Người bạn đường bền bỉ, đã cùng tôi và bao thế hệ người Việt đi qua những thăng trầm, để mỗi sáng mai thức dậy, ta biết mình vẫn đang hòa nhịp cùng dòng chảy bất tận của cuộc đời."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/26/40-nam-bao-thanh-nien-176671410927978232030.png"
+      ],
+      "caption": ""
     }
   ],
   "sourceUrl": "https://thanhnien.vn/thanh-nien-va-toi-thanh-nien-to-bao-toi-yeu-18525122010250584.htm",

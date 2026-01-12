@@ -3,8 +3,16 @@
   "categoryName": "Vươn mình trong kỷ nguyên mới",
   "fullSlug": "chinh-tri-vuon-minh-trong-ky-nguyen-moi",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-11T04:15:52.249Z",
+  "lastUpdate": "2026-01-12T14:01:34.393Z",
   "articles": [
+    {
+      "title": "Từ chủ động phòng bệnh đến y tế minh bạch",
+      "link": "https://thanhnien.vn/tu-chu-dong-phong-benh-den-y-te-minh-bach-185260111210602152.htm",
+      "pubDate": "Mon, 12 Jan 26 06:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/a1-176814016515747294209-2-0-642-1024-crop-1768140188613349308190.jpg",
+      "description": "Nhiệm kỳ 2021 - 2025 ghi nhận thay đổi lớn trong công tác y tế theo hướng chuyển trọng tâm từ điều trị sang phòng bệnh, chuyển đổi số mạnh mẽ để minh bạch hơn với bệnh viện không giấy tờ, tăng cơ hội tiếp cận thuốc mới.",
+      "guid": "https://thanhnien.vn/tu-chu-dong-phong-benh-den-y-te-minh-bach-185260111210602152.htm"
+    },
     {
       "title": "Cuộc 'đại phẫu' lịch sử",
       "link": "https://thanhnien.vn/cuoc-dai-phau-lich-su-185260109231815851.htm",
@@ -76,14 +84,6 @@
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/10/6/thutuong-17597917453951593142788-10-0-334-518-crop-1759791751091920325370.jpg",
       "description": "Chiều tối 6.10, Thủ tướng Phạm Minh Chính đã chủ trì họp Ban chỉ đạo của Chính phủ về tổng kết Nghị quyết số 18 về sắp xếp đơn vị sự nghiệp công lập thuộc các bộ, ngành, địa phương.",
       "guid": "https://thanhnien.vn/tiep-tuc-sap-xep-cac-cuc-vu-thuoc-bo-nganh-tu-185251007003908368.htm"
-    },
-    {
-      "title": "Đột phá thể chế tạo đà cho đất nước cất cánh",
-      "link": "https://thanhnien.vn/dot-pha-the-che-tao-da-cho-dat-nuoc-cat-canh-185250828154655547.htm",
-      "pubDate": "Tue, 02 Sep 25 05:53:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/8/28/a4-1756370505531349984044-0-0-898-1437-crop-17563705886501695316075.jpg",
-      "description": "Đột phá về thể chế được xác định là 'đột phá của đột phá', đi trước mở đường tạo đà cho Việt Nam cất cánh trong kỷ nguyên mới. Để thực sự tạo đột phá, nhiều chuyên gia hiến kế nên dồn nguồn lực thể chế hóa các lĩnh vực ưu tiên; đồng thời tiến hành phân cấp, phân quyền mạnh mẽ, áp dụng sandbox cả trong quản lý nhà nước.",
-      "guid": "https://thanhnien.vn/dot-pha-the-che-tao-da-cho-dat-nuoc-cat-canh-185250828154655547.htm"
     }
   ]
 }

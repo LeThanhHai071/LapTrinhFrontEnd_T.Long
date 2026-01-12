@@ -77,12 +77,26 @@
       "content": "Dù không đoạt giải trong cuộc thi nhưng với tôi, sự góp mặt của mình trên trang báo cũng chính là niềm hạnh phúc, niềm vui, là kỷ niệm không dễ gì quên!"
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2025/12/20/15-10-17662100623061157709261.jpg"
+      ],
+      "caption": "Bài viết của tác giả đăng trên Thanh Niên"
+    },
+    {
       "type": "text",
       "content": "Nhờ sự lan tỏa của bài tản từ trang báo Thanh Niên, tôi có thêm niềm vui và động lực viết. Tôi say mê viết từ những bài tản văn, đến những bài thơ và cả truyện ngắn. Tác phẩm của tôi đã được góp mặt ở các báo như: Báo Người Hà Nội, Báo Lao Động Thủ Đô, Tạp chí Sông Lam, Tạp chí Văn nghệ TP.HCM…"
     },
     {
       "type": "text",
       "content": "Có được những niềm vui ấy, tôi không thể không kể đến động lực từ Báo Thanh Niên mang lại cho bản thân mình. Và hôm nay, tôi lại vui mừng ghi lại những yêu thương gửi đến Báo Thanh Niên thân yêu. Cảm ơn quý báo. Thanh Niên mãi tràn đầy sức sống của tuổi trẻ, vị tha, cống hiến, bao dung và nhiều điều nữa. Thanh Niên - những trang báo tôi yêu!"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/24/40-nam-bao-thanh-nien-1766535479886747136560.png"
+      ],
+      "caption": ""
     }
   ],
   "sourceUrl": "https://thanhnien.vn/thanh-nien-va-toi-thanh-nien-nguoi-ban-ben-toi-moi-chang-duong-185251220125445096.htm",

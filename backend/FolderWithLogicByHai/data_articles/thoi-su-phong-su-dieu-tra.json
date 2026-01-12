@@ -3,8 +3,16 @@
   "categoryName": "Phóng sự / Điều tra",
   "fullSlug": "thoi-su-phong-su-dieu-tra",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-11T04:15:44.706Z",
+  "lastUpdate": "2026-01-12T14:01:28.357Z",
   "articles": [
+    {
+      "title": "Gác tàu giữa lòng TP.HCM: Người thức cùng thành phố",
+      "link": "https://thanhnien.vn/gac-tau-giua-long-tphcm-nguoi-thuc-cung-thanh-pho-185260111210437386.htm",
+      "pubDate": "Mon, 12 Jan 26 06:17:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/photo-1768139382373-17681393834031108139723-84-0-1334-2000-crop-17681402354751086032765.jpeg",
+      "description": "Giữa những âm thanh quen thuộc của TP.HCM, giữa bao chuyến tàu ngày đêm băng qua, những người gác chắn tàu như chị Nguyễn Thị Tâm, anh Nguyễn Xuân Hoàng lặng lẽ thức cùng thành phố, giữ cho nhịp sống đô thị luôn an toàn, bền bỉ và đều đặn.",
+      "guid": "https://thanhnien.vn/gac-tau-giua-long-tphcm-nguoi-thuc-cung-thanh-pho-185260111210437386.htm"
+    },
     {
       "title": "Gác tàu giữa lòng TP.HCM: Đón giao thừa bên gác chắn",
       "link": "https://thanhnien.vn/gac-tau-giua-long-tphcm-don-giao-thua-ben-gac-chan-18526011018251547.htm",
@@ -76,14 +84,6 @@
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/26/diep-vien-tno-17667407212241398746774-0-79-501-881-crop-17667410794161712853996.jpg",
       "description": "Để lần ra các mạng lưới tình báo trong chống Mỹ, Thanh Niên không lấy thông tin từ một nguồn mà tiếp cận cả một hệ thống những người đang sống cùng tất cả những tài liệu ghi chép của họ, rồi xác minh bởi chính nhân vật.",
       "guid": "https://thanhnien.vn/cau-chuyen-tinh-bao-nhung-diep-vu-cua-thanh-nien-185251212145805346.htm"
-    },
-    {
-      "title": "Tái thiết vùng rốn lũ: Dựng lại cơ nghiệp ở vùng rốn lũ Hòa Thịnh",
-      "link": "https://thanhnien.vn/tai-thiet-vung-ron-lu-dung-lai-co-nghiep-o-vung-ron-lu-hoa-thinh-185251229192555597.htm",
-      "pubDate": "Tue, 30 Dec 25 05:09:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/29/on-duong-o-xa-hoa-thinh-nay-da-khang-trang-sau-hon-1-thang-tran-lu-lich-su-di-quaanh-huu-tu-online-17670099062851497222039-101-0-741-1024-crop-17670103590961441343788.jpg",
-      "description": "Sau trận lũ lịch sử, xã Hòa Thịnh (Đắk Lắk) đang từng bước hồi sinh. Người dân gầy dựng lại sinh kế, cùng với sự hỗ trợ giống cây trồng, vật nuôi, nhà ở từ chính quyền.",
-      "guid": "https://thanhnien.vn/tai-thiet-vung-ron-lu-dung-lai-co-nghiep-o-vung-ron-lu-hoa-thinh-185251229192555597.htm"
     }
   ]
 }

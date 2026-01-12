@@ -12,8 +12,22 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2023/9/29/2-16959834098771311590480.jpg"
+      ],
+      "caption": "Niềm vui của các em thiếu nhi khi nhận được những phần quà trung thu do Eximbank tài trợ thông qua Báo Thanh Niên"
+    },
+    {
       "type": "text",
       "content": "Mỗi em thiếu nhi được nhận 1 hộp bánh trung thu, mỗi hộp bánh trị giá 400.000 đồng. Tại huyện Bình Chánh, 320 hộp bánh trung thu đã được huyện đoàn và các xã đoàn tổ chức trao cho các em thiếu nhi ở 3 khu nhà trọ ở xã Vĩnh Lộc B, xã Phạm Văn Hai, xã Bình Chánh và các em là con của đồng bào dân tộc thiểu số, gia đình khó khăn tại xã Bình Chánh, xã Vĩnh Lộc B, xã Tân Kiên và mái ấm xã Bình Hưng."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2023/9/29/1-169598340983113449999.jpg"
+      ],
+      "caption": "Những phần bánh trung thu do Eximbank tài trợ thông qua Báo Thanh Niên được gửi trao đến các em thiếu nhi trên địa bàn huyện Bình Chánh"
     },
     {
       "type": "text",

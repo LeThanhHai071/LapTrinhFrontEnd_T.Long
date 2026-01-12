@@ -13,6 +13,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/11/10/thi-nau-an-1762761181858707116330.jpg"
+      ],
+      "caption": "Các thí sinh tham gia cuộc thi nấu ăn đa văn hóa lần thứ 15 ở Yongsan"
+    },
+    {
       "type": "text",
       "content": "Báo The Korea Times dẫn lời giới chức sở tại ngày 10.11 cho biết chính quyền quận Yongsan đã tổ chức sự kiện ẩm thực tôn vinh sự đa dạng văn hóa của nơi này."
     },

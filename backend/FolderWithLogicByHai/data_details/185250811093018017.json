@@ -13,6 +13,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/8/11/afp20250811698l8zqv1midresfilesusrussiaukrainealaskaconflictdiplomacy-17548792077161886369833.jpg"
+      ],
+      "caption": "Nhà thờ Chính thống giáo Thánh Sophia ở Bethel, Alaska"
+    },
+    {
       "type": "text",
       "content": "Sau hơn 150 năm, ảnh hưởng của người Nga vẫn còn tồn tại ở nhiều vùng của Alaska, tiểu bang Mỹ ở rìa tây bắc lục địa Bắc Mỹ, cách lãnh thổ Nga ở điểm gần nhất chỉ vài km."
     },
@@ -51,6 +58,13 @@
     {
       "type": "text",
       "content": "Quyết định mua lại một vùng đất có diện tích gấp đôi bang Texas vào thời điểm đó vấp phải nhiều chỉ trích trong nội bộ chính quyền Mỹ và sự phản đối dư luận. Ngoại trưởng Mỹ khi đó William Seward, người đã thương lượng thành công thương vụ này, đã hứng chịu áp lực không nhỏ, và vụ mua bang Alaska khi ấy được truyền miệng là \"sai lầm của Seward\"."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/8/11/ap25215065945323-1754882014392157785392.jpg"
+      ],
+      "caption": "Giáo hội Chính thống giáo Nga đã thiết lập sự hiện diện ở Alaska từ đầu"
     },
     {
       "type": "h2",

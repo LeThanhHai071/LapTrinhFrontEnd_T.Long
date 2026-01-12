@@ -16,6 +16,13 @@
       "content": "Theo Cục Thuế (Bộ Tài chính), cá nhân cho thuê tài sản là cá nhân có phát sinh doanh thu từ cho thuê tài sản, bao gồm: cho thuê nhà, mặt bằng, cửa hàng, nhà xưởng, kho bãi không bao gồm dịch vụ lưu trú; cho thuê phương tiện vận tải, máy móc thiết bị không kèm theo người điều khiển; cho thuê tài sản khác không kèm theo dịch vụ."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/11/base64-1768095828806238669382.jpeg"
+      ],
+      "caption": "Nếu doanh thu cho thuê tài sản theo năm từ trên 500 triệu đồng, hộ kinh doanh phải nộp thuế giá trị gia tăng và thuế thu nhập cá nhân với thuế suất 5%"
+    },
+    {
       "type": "text",
       "content": "Gần đây, một số thuế địa phương đã đưa ra hướng dẫn về hồ sơ cũng như cách tính thuế cho thuê tài sản áp dụng từ năm 2026. Trong đó, hướng dẫn của Thuế cơ sở 4 tỉnh Gia Lai khá chi tiết, kèm tính toán minh họa."
     },
@@ -44,12 +51,23 @@
       "content": "Trong trường hợp cá nhân cho thuê tài sản tự nộp thuế, doanh nghiệp thuê tài sản cần lưu chứng từ, lập Bảng kê 01/TNDN. Nếu doanh nghiệp nộp thuế thay cá nhân cho thuê tài sản, doanh nghiệp phải ghi rõ trong hợp đồng, không lập Bảng kê 01/TNDN."
     },
     {
+      "type": "text",
+      "content": "Tách tài khoản, mua máy xuất hóa đơn: Tiểu thương chợ truyền thống học thích nghi thuế mới"
+    },
+    {
       "type": "h2",
       "content": "Doanh thu từ 500 triệu trở xuống vẫn phải khai thuế"
     },
     {
       "type": "text",
       "content": "Cơ quan thuế nhiều địa phương lưu ý, hộ kinh doanh cho thuê tài sản với doanh thu năm từ 500 triệu đồng trở xuống, dù không chịu thuế giá trị gia tăng, không phải nộp thuế thu nhập cá nhân, vẫn có trách nhiệm khai thuế chính xác, trung thực, đầy đủ và nộp hồ sơ thuế đúng hạn; chịu trách nhiệm trước pháp luật về tính chính xác, trung thực, đầy đủ của hồ sơ thuế."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/11/base64-1768092801269238722268.jpeg"
+      ],
+      "caption": "Trường hợp doanh thu cho thuê tài sản từ 500 triệu đồng trở xuống, hộ kinh doanh vẫn phải khai thuế chính xác, đầy đủ"
     },
     {
       "type": "text",

@@ -12,6 +12,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/10/tdnht-1768037784551664754161.jpg"
+      ],
+      "caption": "Tiết mục văn nghệ \"Hoà bình đẹp lắm\" của học sinh Trường THCS và THPT Trần Đại Nghĩa (P.Sài Gòn, TP.HCM) biểu diễn tại cụm trại 3"
+    },
+    {
       "type": "text",
       "content": "Hôm nay, 10.1, Sở GD-ĐT TP.HCM đồng loạt tổ chức khai mạc Hội trại mừng Ngày truyền thống học sinh, sinh viên Việt Nam 9.1 dành cho gần 15.000 học sinh THPT của 262 trường ở 12 cụm trại khác nhau."
     },
@@ -20,12 +27,26 @@
       "content": "Với thông điệp \"Học sinh thành phố làm theo lời Bác -Tự hào truyền thống - Tiếp nối tương lai\", hội trại năm nay diễn ra trong thời điểm TP.HCM hướng tới dấu mốc lịch sử 50 năm vinh dự mang tên Chủ tịch Hồ Chí Minh (1976-2026), một dấu son lịch sử, là niềm tự hào thiêng liêng của mỗi người dân thành phố."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/10/ntd-1768037104304603801716.jpg"
+      ],
+      "caption": "Học sinh tiêu biểu của Trường THPT Nguyễn Thị Diệu (P.Xuân Hòa, TP.HCM) tại hội trại"
+    },
+    {
       "type": "text",
       "content": "Năm nay cũng là năm đầu tiên, học sinh THPT của 2 tỉnh Bình Dương, Bà Rịa-Vũng Tàu (cũ) sau khi sáp nhập với TP.HCM tham gia vào hội trại này."
     },
     {
       "type": "text",
       "content": "Phát biểu tại lễ khai mạc cụm trại 6 (Trường THPT Tạ Quang Bửu, phường Bình Đông, TP.HCM), ông Nguyễn Văn Hiếu, Giám đốc Sở GD-ĐT TP.HCM, cho rằng đây cũng là dịp để lan tỏa những giá trị tốt đẹp, là hoạt động giáo dục với quy mô lớn nhất của ngành, với sự tham gia của 100% trường THPT công lập, gần 50% trường THPT ngoài công lập và hơn 95% trung tâm giáo dục thường xuyên, trung tâm giáo dục nghề nghiệp – giáo dục thường xuyên trên địa bàn thành phố."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/10/nvh-1768037163617654019517.jpg"
+      ],
+      "caption": "Ông Nguyễn Văn Hiếu, Giám đốc Sở GD-ĐT TP.HCM, phát biểu tại cụm trại 6"
     },
     {
       "type": "text",

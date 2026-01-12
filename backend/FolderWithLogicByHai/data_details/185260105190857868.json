@@ -3,7 +3,7 @@
   "categories": [
     "Thời sự"
   ],
-  "sapo": "Chiều 5.1, tại TP.HCM, Báo Thanh Niên tổ chức lễ kỷ niệm 40 năm ngày phát hành số báo đầu tiên (3.1.1986 - 3.1.2026).",
+  "sapo": "Chiều 5.1, sảnh Grand Alpas - Trung tâm Hội nghị White Palace, số 194 Hoàng Văn Thụ, P.Đức Nhuận, TP.HCM, Báo Thanh Niên tổ chức lễ kỷ niệm 40 năm ngày phát hành số báo đầu tiên (3.1.1986 - 3.1.2026).",
   "publishDate": "05/01/2026 19:45 GMT+7",
   "author": {
     "name": "Vũ PhượngSỹ Đông",
@@ -15,12 +15,33 @@
       "content": "Tham dự lễ kỷ niệm 40 năm Báo Thanh Niên phát hành số báo đầu tiên, về phía lãnh đạo bộ, ban, ngành Trung ương có: ông Lại Xuân Môn, Ủy viên Trung ương Đảng, Phó trưởng ban Thường trực Ban Tuyên giáo và Dân vận Trung ương; nhà báo Lê Quốc Minh, Ủy viên Trung ương Đảng, Phó trưởng ban Tuyên giáo và Dân vận Trung ương, Chủ tịch Hội Nhà báo Việt Nam, Tổng biên tập Báo Nhân Dân; ông Nguyễn Anh Tuấn, Ủy viên Trung ương Đảng, Phó trưởng ban Chính sách, chiến lược Trung ương, nguyên Bí thư thứ nhất Trung ương Đoàn, nguyên Chủ tịch Hội Liên hiệp Thanh niên Việt Nam; ông Phan Xuân Thủy, Phó trưởng ban Tuyên giáo và Dân vận Trung ương; bà Phan Thị Thắng, Thứ trưởng Bộ Công thương; ông Nguyễn Văn Phúc, Thứ trưởng Bộ Giáo dục và Đào tạo; ông Tạ Văn Hạ, Phó chủ nhiệm Ủy ban Văn hóa - Xã hội của Quốc hội; ông Lưu Đình Phúc, Cục trưởng Cục Báo chí (Bộ Văn hóa, Thể thao - Du lịch); bà Đặng Thị Phương Thảo, Phó cục trưởng Cục Báo chí (Bộ Văn hóa, Thể thao - Du lịch), nguyên Phó tổng biên tập Báo Thanh Niên…"
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/nt-don-khach-2-1767611429088185138127.jpg"
+      ],
+      "caption": "Báo Thanh Niên vinh dự đón tiếp anh Bùi Quang Huy, Ủy viên dự khuyết Trung ương Đảng, Phó chủ tịch Ủy ban Trung ương MTTQ Việt Nam, Bí thư thứ nhất Trung ương Đoàn; bà Trần Thị Diệu Thúy, Phó chủ tịch UBND TP.HCM cùng các vị khách quý"
+    },
+    {
       "type": "text",
       "content": "Về phía lãnh đạo TP.HCM có ông Lê Quốc Phong, Ủy viên Trung ương Đảng, Phó bí thư Thường trực Thành ủy TP.HCM, nguyên Bí thư thứ nhất Trung ương Đoàn, nguyên Chủ tịch Hội Liên hiệp Thanh niên Việt Nam; ông Đặng Minh Thông, Phó bí thư Thành ủy TP.HCM; ông Huỳnh Thanh Nhân, Phó chủ tịch HĐND TP.HCM; bà Trần Thị Diệu Thúy, Phó chủ tịch UBND TP.HCM; các nguyên lãnh đạo TP.HCM và các sở ngành."
     },
     {
       "type": "text",
       "content": "Về phía lãnh đạo Trung ương Đoàn có: anh Bùi Quang Huy, Ủy viên dự khuyết Trung ương Đảng, Phó chủ tịch Ủy ban Trung ương MTTQ Việt Nam, Bí thư thứ nhất Trung ương Đoàn cùng các nguyên Bí thư Trung ương Đoàn."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/thanh-nien-40-nam-nt-17676114291271382333101.jpg"
+      ],
+      "caption": "Ông Lê Quang Vịnh, nguyên Bí thư Trung ương Đoàn, nguyên Chủ tịch Hội Liên hiệp Thanh niên Việt Nam (giữa) cùng ông Huỳnh Tấn Mẫm, Tổng biên tập đầu tiên của Báo Thanh Niên (thứ hai từ phải sang)"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/nt-don-khach-1-17676114291212059920312.jpg"
+      ],
+      "caption": "Tổng biên tập Nguyễn Ngọc Toàn đón tiếp các đại biểu đến dự lễ kỷ niệm"
     },
     {
       "type": "text",
@@ -59,6 +80,13 @@
       "content": "\"Đường đi đôi khi trắc trở gập ghềnh, nhưng sự đoàn kết của tập thể người lao động, ý thức về phẩm giá và tâm niệm về một tờ báo hào hiệp, tử tế, nhân văn, tin cậy đã giúp Thanh Niên vững bước trong hành trình phát triển của đất nước\", nhà báo Nguyễn Ngọc Toàn đúc kết."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/nguyen-ngoc-toan-doc-lap-1767612017587893786267.jpg"
+      ],
+      "caption": "Tổng biên tập Báo Thanh Niên Nguyễn Ngọc Toàn phát biểu ôn lại truyền thống 40 năm"
+    },
+    {
       "type": "text",
       "content": "Những dấu ấn mà Thanh Niên để lại trong dòng chảy báo chí Việt Nam, đặc biệt từ Đổi mới, đã được các cấp lãnh đạo, quản lý ghi nhận, được bạn đọc định hình trong tâm trí. Đó là tờ báo hưởng ứng, tích cực ủng hộ đổi mới tư duy quản lý nhà nước, đặc biệt là chính sách đối với thanh niên, sinh viên và doanh nhân, doanh nghiệp. Là tờ báo quyết liệt đấu tranh chống tiêu cực, tham nhũng, lãng phí. Là tờ báo tiên phong trong tập hợp, đoàn kết, vận động các tầng lớp thanh niên, đặc biệt là trí thức, nghệ sĩ, đồng bào sống xa Tổ quốc."
     },
@@ -87,6 +115,13 @@
       "content": "Với hệ sinh thái đa dạng (Thanh Niên nhật báo, Thanh Niên Online, Thanh Niên trên các nền tảng mạng xã hội), Báo Thanh Niên góp phần chuyển tải đường lối, chính sách của Đảng, Nhà nước, các chương trình hành động của MTTQ Việt Nam và Đoàn TNCS Hồ Chí Minh đến với hàng triệu đoàn viên thanh niên, người dân ở mọi miền Tổ quốc, kiều bào ở nước ngoài."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/thuong-toa-thich-tri-chon-17676120174942098606721.jpg"
+      ],
+      "caption": "Thượng tọa Thích Trí Chơn, Phó trưởng ban Văn hóa Trung ương Giáo hội, Trưởng ban Văn hóa Phật giáo TP.HCM, Viện chủ tu viện Khánh An - vị sư thầy gắn bó với Báo Thanh Niên với những bài viết về văn hóa Phật giáo trong đời sống người Việt"
+    },
+    {
       "type": "text",
       "content": "\"Số lượng người đọc, người truy cập, người xem, người tiếp cận trên các nền tảng báo in, báo điện tử, mạng xã hội của Báo Thanh Niên thuộc hàng lớn nhất trong số các cơ quan báo chí chính thống và được xác nhận bởi các tổ chức đánh giá Việt Nam và quốc tế\", nhà báo Nguyễn Ngọc Toàn chia sẻ."
     },
@@ -97,6 +132,13 @@
     {
       "type": "text",
       "content": "Thay mặt những người làm báo Thanh Niên, nhà báo Nguyễn Ngọc Toàn bày tỏ lòng biết ơn với các vị lãnh đạo đã luôn quan tâm sâu sát hằng ngày, quan tâm, chia sẻ và động viên qua những vui buồn của nghề báo."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/dl3-1767612259180139708564.jpg"
+      ],
+      "caption": "Phó chủ tịch UBND TP.HCM Trần Thị Diệu Thúy tặng cờ truyền thống cho Báo Thanh Niên"
     },
     {
       "type": "text",
@@ -142,12 +184,61 @@
       "content": "Từ những ngày đầu còn nhiều khó khăn, nhưng với tinh thần năng động, sáng tạo và tinh thần đoàn kết, tập thể lãnh đạo, phóng viên, biên tập viên và những người làm Báo Thanh Niên đã cùng chung tay làm nên những thành tựu to lớn của tờ báo, trở thành một trong những đơn vị tiên phong trong nhiều lĩnh vực của làng báo nước nhà."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/mtv-1767612017581547925351.jpg"
+      ],
+      "caption": "Nhóm MTV trình bày ca khúc Thanh Niên Ca"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/2-17676122429054169411.jpg"
+      ],
+      "caption": "Ca sĩ Hồ Ngọc Hà trình bày ca khúc Năm qua làm gì"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/img6353-1767613550233322858067.jpg"
+      ],
+      "caption": "Ca sĩ Hồ Ngọc Hà trình bày ca khúc Rực rỡ Việt Nam tôi"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/7-17676122428851096017826.jpg"
+      ],
+      "caption": "Ca sĩ Phương Mỹ Chi trình bày ca khúc Những ngôi sao xa xôi"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/img6354-17676137454531113572286.jpg"
+      ],
+      "caption": "Hoa hậu, ca sĩ Mai Phương trình bày ca khúc Hò vươn mình"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/1-17676122428922131358894.jpg"
+      ],
+      "caption": "Anh Bùi Quang Huy (trái) và Tổng biên tập Nguyễn Ngọc Toàn tặng hoa cảm ơn các nghệ sĩ tham gia biểu diễn trong chương trình"
+    },
+    {
       "type": "text",
       "content": "Anh Bùi Quang Huy điểm lại những dấu ấn nổi bật của tờ báo như luôn giữ vững tôn chỉ, mục đích, phát huy tinh thần tiên phong, sức sáng tạo của người trẻ, kịp thời phản ánh các chủ trương, chính sách của Đảng, Nhà nước; định hướng thanh niên và người dân thực hiện các chủ trương của Đảng và Nhà nước; phản ánh kịp thời mọi mặt đời sống người dân, những tâm tư, nguyện vọng của giới trẻ."
     },
     {
       "type": "text",
       "content": "Đồng thời, Báo Thanh Niên cũng là một trong những đơn vị báo chí đi đầu trong đổi mới nội dung, hình thức, cách thức vận hành, thực hiện tự chủ và nhiệm vụ kinh tế báo chí. Tiêu biểu nhất là việc xây dựng Báo Thanh Niên điện tử, sử dụng công nghệ AR và nhận diện hình ảnh để tạo tương tác, ứng dụng nhiều hình thức hiện đại, đa phương tiện…"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/bui-quang-huy-thanh-nien-40-nam-doc-lap-17676120171471345154949.jpg"
+      ],
+      "caption": "Anh Bùi Quang Huy phát biểu chỉ đạo tại lễ kỷ niệm"
     },
     {
       "type": "text",
@@ -178,6 +269,27 @@
       "content": "Với mong muốn Báo Thanh Niên thực hiện tốt hơn nữa sứ mệnh của mình, Bí thư thứ nhất Trung ương Đoàn đề nghị báo tập trung 5 nhiệm vụ trọng tâm."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/img6356-17676140244551818657315.jpg"
+      ],
+      "caption": "Buổi lễ kỷ niệm 40 năm ngày phát hành số báo đầu tiên của Báo Thanh Niên diễn ra trong không khí ấm cúng"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/img6357-17676140244831737278991.jpg"
+      ],
+      "caption": "Các đại biểu cùng theo dõi bộ phim về truyền thống 40 năm của Báo Thanh Niên"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/img6358-1767614024490286238020.jpg"
+      ],
+      "caption": "Các đại biểu tham dự chúc mừng Báo Thanh Niên tại lễ kỷ niệm"
+    },
+    {
       "type": "text",
       "content": "Đầu tiên là tiếp tục giữ vững tôn chỉ, mục đích của tờ báo. Dù phát triển trên nền tảng nào, công nghệ hiện đại đến đâu, Báo Thanh Niên trước hết phải là cơ quan ngôn luận của Hội Liên hiệp Thanh niên Việt Nam. Báo cần tiếp tục là \"pháo đài chính trị\" vững chắc, tuyên truyền sâu sắc đường lối của Đảng, chính sách của Nhà nước."
     },
@@ -188,6 +300,13 @@
     {
       "type": "text",
       "content": "Song song đó, Báo Thanh Niên phải thực sự trở thành người bạn đồng hành tin cậy của thanh niên, là một trong những lựa chọn đầu tiên của người trẻ khi cần tìm hiểu thông tin, nhất là thế hệ Gen Z và thế hệ Gen Alpha (những người trẻ sinh ra từ thập niên 90 của thế kỷ 20)."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/img6363-17676148023741856902584.jpg"
+      ],
+      "caption": "Nhà báo Lê Quốc Minh (trái), Ủy viên Trung ương Đảng, Phó trưởng ban Tuyên giáo và Dân vận Trung ương, Chủ tịch Hội Nhà báo Việt Nam, chia sẻ tại lễ kỷ niệm"
     },
     {
       "type": "text",
@@ -204,6 +323,13 @@
     {
       "type": "text",
       "content": "Đặc biệt, Bí thư thứ nhất Trung ương Đoàn nhấn mạnh đến công tác xây dựng đoàn kết nội bộ và phát triển xây dựng đội ngũ cán bộ, phóng viên, biên tập viên, người lao động báo \"tâm sáng, lòng trong, bút sắc\", giỏi công nghệ và lan tỏa tinh thần cốt lõi của tờ báo là \"Hào hiệp - Tử tế - Nhân văn - Tin cậy\"."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/5/img6351-1767614492342242143963.jpg"
+      ],
+      "caption": "Nhà báo Nguyễn Ngọc Toàn chụp hình lưu niệm cùng Bí thư Trung ương Đoàn qua các thời kỳ và đại biểu dự lễ kỷ niệm"
     },
     {
       "type": "text",

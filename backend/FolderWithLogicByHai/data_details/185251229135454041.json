@@ -17,6 +17,13 @@
       "content": "Trang bị khóa thông minh Smartkey đã khá phổ biến trên các mẫu xe tay ga, xe côn tay hiện nay. Dù tiện lợi, hiện đại và mang tính thẩm mỹ cao nhưng trang bị này cũng dẫn đến nhiều tình huống oái ăm, phần lớn xuất phát từ chính thói quen người dùng. Một trong những sai lầm thường gặp nhất là quên vặn núm khóa về vị trí tắt hoàn toàn sau khi gạt chân chống xe máy."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/29/edit-o-khoa-va-chia-khoa-smart-key-xe-sh-17669995066621272471446.jpeg"
+      ],
+      "caption": "Khóa thông minh Smartkey khá phổ biến trên nhiều loại xe máy hiện nay"
+    },
+    {
       "type": "text",
       "content": "Trước đây, động cơ trên các dòng xe máy cũ vẫn hoạt động dù người điều khiển đã gạt chân chống. Tuy nhiên, các dòng xe máy đời mới hiện nay đều tích hợp tính năng tự động ngắt động cơ khi gạt chân chống bên. Chính trang bị này khiến nhiều người lầm tưởng rằng đã tắt máy xe hoàn toàn dù núm vặn Smartkey vẫn ở vị trí ON."
     },
@@ -27,6 +34,13 @@
     {
       "type": "text",
       "content": "Thực tế, gạt chân chống chỉ có tác dụng ngắt mạch đánh lửa để dừng động cơ nhằm đảm bảo an toàn, không ngắt nguồn điện tổng của xe. Nếu núm xoay vẫn ở vị trí ON hoặc SEAT (mở yên), hệ thống đèn nền mặt đồng hồ, vòng đèn ổ khóa và các bộ điều khiển điện tử vẫn liên tục tiêu thụ điện năng để duy trì kết nối với chìa khóa."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/29/lambretta-x125-2-1766999622358878377266.jpg"
+      ],
+      "caption": "Bình ắc-quy xe máy có dung lượng pin khá nhỏ nên dễ bị rút cạn điện nếu không vặn núm xoay về OFF"
     },
     {
       "type": "text",

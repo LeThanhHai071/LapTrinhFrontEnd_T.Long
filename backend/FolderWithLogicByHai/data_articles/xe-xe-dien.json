@@ -3,8 +3,16 @@
   "categoryName": "Xe điện",
   "fullSlug": "xe-xe-dien",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-11T04:19:48.480Z",
+  "lastUpdate": "2026-01-12T14:05:15.941Z",
   "articles": [
+    {
+      "title": "Lễ trao giải ô tô uy tín tại Ấn Độ vinh danh VinFast VF 6",
+      "link": "https://thanhnien.vn/le-trao-giai-o-to-uy-tin-tai-an-do-vinh-danh-vinfast-vf-6-185260110195338197.htm",
+      "pubDate": "Sun, 11 Jan 26 13:17:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/vf-6-2-1696125494113868930141-18-35-1174-1884-crop-17680480988271240655925.jpg",
+      "description": "Vượt qua nhiều đối thủ nặng ký, VinFast VF 6 giành giải thưởng \"Mẫu xe đáng tiền nhất năm\" tại Autocar Awards 2026 diễn ra ở Mumbai, ghi dấu ấn tại Ấn Độ chỉ sau hơn 3 tháng gia nhập thị trường.",
+      "guid": "https://thanhnien.vn/le-trao-giai-o-to-uy-tin-tai-an-do-vinh-danh-vinfast-vf-6-185260110195338197.htm"
+    },
     {
       "title": "Xe máy điện Honda CUV e: chốt giá từ 45 triệu đồng",
       "link": "https://thanhnien.vn/xe-may-dien-honda-cuv-e-chot-gia-tu-45-trieu-dong-185260110122938798.htm",
@@ -76,14 +84,6 @@
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/2/mercedes-eqb-1-17673180874521107834934-0-142-1380-2350-crop-17673184172831042603041.png",
       "description": "Cùng với việc triển khai chương trình triệu hồi, Mercedes-Benz cũng đưa ra cảnh báo người dùng mẫu ô tô điện Mercedes EQB không nên sạc pin quá 80% để tránh nguy cơ quá nhiệt, có thể dẫn đến hỏa hoạn.",
       "guid": "https://thanhnien.vn/o-to-dien-mercedes-co-nguy-co-chay-hang-canh-bao-khong-nen-sac-pin-qua-80-185260101114742102.htm"
-    },
-    {
-      "title": "VinFast VF 3 có thêm bản Plus giàu trang bị hơn, giá dự kiến 315 triệu đồng",
-      "link": "https://thanhnien.vn/vinfast-vf-3-co-them-ban-plus-giau-trang-bi-hon-gia-du-kien-315-trieu-dong-185260101163730361.htm",
-      "pubDate": "Thu, 01 Jan 26 19:55:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/1/vinfast-sap-tring-lang-phien-ban-vf3-plus-3-thanhnien-17672599596801985007318-143-0-946-1284-crop-17672599682262086249039.jpg",
-      "description": "Giá dự kiến cao hơn phiên bản tiêu chuẩn khoảng 13 triệu đồng, bù lại VinFast VF 3 Plus được trang bị bổ sung camera lùi, gương chỉnh điện và một số tiện ích; đáp ứng nhu cầu cơ bản của số đông người dùng.",
-      "guid": "https://thanhnien.vn/vinfast-vf-3-co-them-ban-plus-giau-trang-bi-hon-gia-du-kien-315-trieu-dong-185260101163730361.htm"
     }
   ]
 }

@@ -3,8 +3,24 @@
   "categoryName": "Tư vấn",
   "fullSlug": "xe-tu-van",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-11T04:19:55.909Z",
+  "lastUpdate": "2026-01-12T14:05:20.411Z",
   "articles": [
+    {
+      "title": "Khi nào nên thay gạt mưa ô tô?",
+      "link": "https://thanhnien.vn/khi-nao-nen-thay-gat-mua-o-to-185260112100729559.htm",
+      "pubDate": "Mon, 12 Jan 26 13:29:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/khi-nao-can-thay-can-gat-mua-o-to-thanhnien1-1768186984032705807522-0-31-1080-1759-crop-17681869903502115846562.jpg",
+      "description": "Việc chủ động kiểm tra, thay thế đúng lúc và sử dụng đúng cách gạt nước ô tô sẽ giúp người lái yên tâm hơn trên hành trình, nhất là lái xe trong điều kiện thời tiết bất lợi.",
+      "guid": "https://thanhnien.vn/khi-nao-nen-thay-gat-mua-o-to-185260112100729559.htm"
+    },
+    {
+      "title": "5 mẹo nhỏ giúp người mới lái ô tô tránh đạp nhầm chân ga, phanh",
+      "link": "https://thanhnien.vn/5-meo-nho-giup-nguoi-moi-lai-o-to-tranh-dap-nham-chan-ga-phanh-18526011114284233.htm",
+      "pubDate": "Mon, 12 Jan 26 11:59:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/edit_photo_iacrqdrsnv-1768192636.jpg",
+      "description": "Điều chỉnh tư thế ngồi đúng, đặt chân phải đúng vị trí đồng thời ghi nhớ một số nguyên tắc về thao tác chân… sẽ góp phần giúp những người mới lái ô tô tránh đạp nhầm chân ga, chân phanh.",
+      "guid": "https://thanhnien.vn/5-meo-nho-giup-nguoi-moi-lai-o-to-tranh-dap-nham-chan-ga-phanh-18526011114284233.htm"
+    },
     {
       "title": "Xe máy đời mới có cần 'làm nóng' động cơ mỗi buổi sáng trước khi vận hành?",
       "link": "https://thanhnien.vn/xe-may-doi-moi-co-can-lam-nong-dong-co-moi-buoi-sang-truoc-khi-van-hanh-185260103211116523.htm",
@@ -68,22 +84,6 @@
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/17/vml-17659379931491996243969-0-0-1280-2048-crop-1765938446815258923472.jpg",
       "description": "Hệ thống camera giám sát giao thông đang phủ sóng rộng khắp cả nước khiến nhu cầu sử dụng ứng dụng bản đồ tích hợp cảnh báo camera phạt nguội trở nên cấp thiết với giới tài xế.",
       "guid": "https://thanhnien.vn/ung-dung-ban-do-nao-co-the-bao-camera-phat-nguoi-185251215141727683.htm"
-    },
-    {
-      "title": "Dùng lốp xe thường cho ô tô điện có rủi ro về an toàn?",
-      "link": "https://thanhnien.vn/dung-lop-xe-thuong-cho-o-to-dien-co-rui-ro-ve-an-toan-185251119162008042.htm",
-      "pubDate": "Wed, 24 Dec 25 09:42:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/11/19/img3857-17635428364021118088422-250-0-1500-2000-crop-17635433623181754011551.jpeg",
-      "description": "Dù có thể tiết kiệm chi phí ban đầu nhưng việc thay lốp xe thông thường cho ô tô điện sẽ tiềm ẩn nhiều rủi ro về an toàn do không đáp ứng yêu cầu kỹ thuật, đồng thời làm giảm hiệu suất của xe.",
-      "guid": "https://thanhnien.vn/dung-lop-xe-thuong-cho-o-to-dien-co-rui-ro-ve-an-toan-185251119162008042.htm"
-    },
-    {
-      "title": "Vì sao không nên bật đèn nội thất ô tô khi lái xe ban đêm?",
-      "link": "https://thanhnien.vn/vi-sao-khong-nen-bat-den-noi-that-o-to-khi-lai-xe-ban-dem-18525122015375207.htm",
-      "pubDate": "Tue, 23 Dec 25 15:56:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/23/edit_photo_ggvgekpphp-1766453547.jpg",
-      "description": "Không ít tài xế thường vô tư bật đèn nội thất ô tô khi lái xe vào ban đêm, ngay cả khi lưu thông trên cao tốc, quốc lộ… hành động này tưởng chừng vô hại nhưng lại tiềm ẩn không ít rủi ro, ảnh hưởng đến tầm nhìn, sự tập trung của người lái và dễ dẫn đến tai nạn.",
-      "guid": "https://thanhnien.vn/vi-sao-khong-nen-bat-den-noi-that-o-to-khi-lai-xe-ban-dem-18525122015375207.htm"
     }
   ]
 }

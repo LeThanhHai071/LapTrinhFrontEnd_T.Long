@@ -29,6 +29,13 @@
       "content": "Trong bài nghiên cứu được công bố hôm 1.1, 19 nhà nghiên cứu của DeepSeek cho biết họ đã thử nghiệm phương pháp mHC trên các mô hình 3 tỉ tham số, sau đó là 9 tỉ và 27 tỉ tham số. Kết quả là Siêu kết nối đa tạp có thể mở rộng quy mô mà không làm tăng quá nhiều về gánh nặng tính toán. Điều này đặc biệt quan trọng trong cuộc đua AI toàn cầu khi các công ty Mỹ đang chiếm ưu thế nhờ khả năng tiếp cận sức mạnh tính toán."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/2/ai-deepseekthanh-nien-17673521329672045118832.png"
+      ],
+      "caption": "Giao diện ứng dụng DeepSeek trên điện thoại"
+    },
+    {
       "type": "text",
       "content": "Điều này cũng phản ánh văn hóa ngày càng cởi mở và hợp tác giữa các công ty AI của Trung Quốc, khi họ công khai ngày càng nhiều nghiên cứu ra với công chúng, thay vì giữ bí mật để tạo lợi thế cạnh tranh."
     },

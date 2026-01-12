@@ -3,8 +3,16 @@
   "categoryName": "Kinh tế xanh",
   "fullSlug": "kinh-te-kinh-te-xanh",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-11T04:16:28.103Z",
+  "lastUpdate": "2026-01-12T14:02:00.126Z",
   "articles": [
+    {
+      "title": "Giữa trưa, TP.HCM vẫn mịt mù vì ô nhiễm, không khí vượt 'cảnh báo đỏ'",
+      "link": "https://thanhnien.vn/giua-trua-troi-tphcm-van-mit-mu-vi-o-nhiem-khong-khi-vuot-canh-bao-do-185260111125022685.htm",
+      "pubDate": "Sun, 11 Jan 26 12:55:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/b95628f4027f8d21d46e-17681102309431040733690-105-96-845-1280-crop-1768110565977142494016.jpg",
+      "description": "Từ sáng sớm đến giữa trưa, bầu trời TP.HCM bị một lớp màng ngầu đục bao phủ. Mức độ ô nhiễm không khí nhiều nơi chuyển từ đỏ sang tím.",
+      "guid": "https://thanhnien.vn/giua-trua-troi-tphcm-van-mit-mu-vi-o-nhiem-khong-khi-vuot-canh-bao-do-185260111125022685.htm"
+    },
     {
       "title": "Yến sào Khánh Hòa vào Top 20 'Doanh nghiệp Văn hóa, Uy tín năm 2025'",
       "link": "https://thanhnien.vn/yen-sao-khanh-hoa-vao-top-20-doanh-nghiep-van-hoa-uy-tin-nam-2025-185260111100257408.htm",
@@ -76,14 +84,6 @@
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/img7595-17679155074851341326420-269-0-1075-1290-crop-17679156941191558546545.jpeg",
       "description": "Sáng sớm nay (9.1), người dân TP.HCM cảm nhận rõ trời lạnh sâu hơn thường ngày. Trên các thiết bị di động hiển thị nhiệt độ chỉ 17 độ C.",
       "guid": "https://thanhnien.vn/sang-nay-nhiet-do-o-tphcm-xuong-17-do-c-185260109063749057.htm"
-    },
-    {
-      "title": "Đêm nay, TP.HCM xuống 18 độ C",
-      "link": "https://thanhnien.vn/dem-nay-tphcm-lanh-nhat-ke-tu-dau-dong-185260108193203147.htm",
-      "pubDate": "Thu, 08 Jan 26 19:36:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/screen-shot-2025-12-22-at-075937-17663652028462110757606-0-0-971-1554-crop-1767875244707327402541.png",
-      "description": "Với mức nhiệt độ thấp nhất chỉ 18 độ C, dự báo đêm nay (8.1), TP.HCM lạnh nhất kể từ đầu mùa lạnh năm nay.",
-      "guid": "https://thanhnien.vn/dem-nay-tphcm-lanh-nhat-ke-tu-dau-dong-185260108193203147.htm"
     }
   ]
 }

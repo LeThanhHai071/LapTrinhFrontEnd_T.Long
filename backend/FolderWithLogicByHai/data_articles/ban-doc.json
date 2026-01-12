@@ -3,8 +3,32 @@
   "categoryName": "Bạn đọc",
   "fullSlug": "ban-doc",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-11T04:20:21.699Z",
+  "lastUpdate": "2026-01-12T14:05:38.861Z",
   "articles": [
+    {
+      "title": "Trụ đèn giữa đường",
+      "link": "https://thanhnien.vn/tru-den-giua-duong-185260111204446932.htm",
+      "pubDate": "Mon, 12 Jan 26 07:48:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/photo-1768138691395-1768138691976208619522-67-0-1317-2000-crop-17681387116691568391256.jpeg",
+      "description": "Bạn đọc phản ánh trụ đèn tín hiệu giao thông tại giao lộ hẻm 389 Lê Trọng Tấn - Tây Thạnh, P.Tây Thạnh, TP.HCM, án ngữ giữa đường.",
+      "guid": "https://thanhnien.vn/tru-den-giua-duong-185260111204446932.htm"
+    },
+    {
+      "title": "Chợ gà tự phát gây mất vệ sinh, cản trở giao thông",
+      "link": "https://thanhnien.vn/cho-ga-tu-phat-gay-mat-ve-sinh-can-tro-giao-thong-185260111202512543.htm",
+      "pubDate": "Mon, 12 Jan 26 07:48:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/photo-1768137494409-1768137495032215665097-0-0-1058-1693-crop-1768137523711756040800.jpeg",
+      "description": "Nhiều bạn đọc phản ánh trên đường Phạm Hùng (đoạn giáp ranh xã Bình Hưng và P.Chánh Hưng, TP.HCM) tồn tại một chợ bán gà gây mất vệ sinh, cản trở giao thông.",
+      "guid": "https://thanhnien.vn/cho-ga-tu-phat-gay-mat-ve-sinh-can-tro-giao-thong-185260111202512543.htm"
+    },
+    {
+      "title": "Sống trong nỗi lo núi lở",
+      "link": "https://thanhnien.vn/song-trong-noi-lo-nui-lo-185260111201617855.htm",
+      "pubDate": "Mon, 12 Jan 26 07:48:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/photo-1768136961899-17681369631641884880838-43-0-683-1024-crop-17681369992541758526641.jpeg",
+      "description": "Sau trận sạt lở nghiêm trọng xảy ra cuối tháng 10.2025, nhiều hộ dân sống dưới chân núi ở xã Quế Phước (TP.Đà Nẵng) luôn cảm thấy bất an vì đất đá trên sườn núi sau nhà có nguy cơ tiếp tục sạt xuống.",
+      "guid": "https://thanhnien.vn/song-trong-noi-lo-nui-lo-185260111201617855.htm"
+    },
     {
       "title": "Sạt lở bờ sông Pô Kô uy hiếp khu dân cư và trường học",
       "link": "https://thanhnien.vn/sat-lo-bo-song-po-ko-uy-hiep-khu-dan-cu-va-truong-hoc-185260109203038862.htm",
@@ -60,30 +84,6 @@
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/photo-1767790372781-17677903732161054400205-0-0-1250-2000-crop-17677904225581068054777.jpeg",
       "description": "Nhiều hộ dân trên đường Bạch Vân, P.An Đông (trước đây thuộc P.5, Q.5), TP.HCM, phản ánh nhiều xe đẩy thu gom rác thường xuyên tập kết gần giao lộ Bạch Vân - Võ Văn Kiệt, gây ô nhiễm môi trường và mất mỹ quan đô thị.",
       "guid": "https://thanhnien.vn/nhieu-diem-tap-ket-rac-truoc-nha-dan-185260107195424867.htm"
-    },
-    {
-      "title": "Mất ngủ vì sạt lở",
-      "link": "https://thanhnien.vn/mat-ngu-vi-sat-lo-185260107195049788.htm",
-      "pubDate": "Thu, 08 Jan 26 08:37:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/photo-1767790211401-17677902125541375408772-36-0-1286-2000-crop-17677902248581030513166.jpeg",
-      "description": "Sạt lở bờ sông Pho ở xã vùng cao TP.Đà Nẵng đang diễn ra ngày càng nghiêm trọng, khiến nhiều gia đình phải sống trong cảnh thức trắng đêm mỗi mùa mưa lũ.",
-      "guid": "https://thanhnien.vn/mat-ngu-vi-sat-lo-185260107195049788.htm"
-    },
-    {
-      "title": "Kênh rạch tắc nghẽn vì rác và cỏ dại",
-      "link": "https://thanhnien.vn/kenh-rach-tac-nghen-vi-rac-va-co-dai-185260106213743155.htm",
-      "pubDate": "Wed, 07 Jan 26 07:36:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/6/bdv-1-17677101799321859615362-320-0-1920-2560-crop-17677102407981922173464.jpg",
-      "description": "Thời gian gần đây, trên tuyến kênh đường Bờ Bắc Sông Chùa, là một đoạn của Kênh Tham Lương - Bến Cát - Rạch Nước Lên, P.Tân Tạo (trước đây thuộc P.Tân Tạo, Q.Bình Tân), TP.HCM, lục bình, cây cỏ dại phát triển dày đặc cộng thêm rác thải nổi lềnh bềnh bao phủ.",
-      "guid": "https://thanhnien.vn/kenh-rach-tac-nghen-vi-rac-va-co-dai-185260106213743155.htm"
-    },
-    {
-      "title": "Tiệm mì 0 đồng tiếp sức lao động nghèo",
-      "link": "https://thanhnien.vn/tiem-mi-0-dong-tiep-suc-lao-dong-ngheo-185260106213422274.htm",
-      "pubDate": "Wed, 07 Jan 26 07:35:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/6/tu-te-1-1767709917210955321927-0-0-1600-2560-crop-17677100554621631779405.jpg",
-      "description": "Quán mì 0 đồng ở số 12A, đường Lê Lợi, P.Cái Khế, TP.Cần Thơ (trước đây là P.Cái Khế, Q.Ninh Kiều, TP.Cần Thơ) hoạt động từ giữa trưa đến tối muộn và được người lao động nghèo xem như \"trạm dừng\" để tiếp sức.",
-      "guid": "https://thanhnien.vn/tiem-mi-0-dong-tiep-suc-lao-dong-ngheo-185260106213422274.htm"
     }
   ]
 }

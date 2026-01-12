@@ -18,7 +18,7 @@
     },
     {
       "type": "text",
-      "content": "Dù là một trong những mẫu xe mở màn phân khúc SUV hạng E nhưng hiện tại , Ford Explorer đã tạm ngưng phân phối tại thị trường Việt Nam, khiến nhóm xe này thu hẹp sự lựa chọn. Dưới đây là 4 mẫu SUV 7 chỗ hạng E đang bán tại Việt Nam hiện nay:"
+      "content": "Dù là một trong những mẫu xe mở màn phân khúc SUV hạng E nhưng hiện tại, Ford Explorer đã tạm ngưng phân phối tại thị trường Việt Nam, khiến nhóm xe này thu hẹp sự lựa chọn. Dưới đây là 4 mẫu SUV 7 chỗ hạng E đang bán tại Việt Nam hiện nay:"
     },
     {
       "type": "h2",
@@ -27,6 +27,13 @@
     {
       "type": "text",
       "content": "Được cho là \"kẻ phá giá\" trong phân khúc, Hyundai Palisade sở hữu lợi thế về giá bán nhờ lắp ráp trong nước. Với mức giá khởi điểm chưa tới 1,5 tỉ đồng, mẫu xe này thậm chí cạnh tranh trực tiếp với các dòng xe ở phân khúc thấp hơn."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/12/hyundai-palisade-1765520259309133141839.jpg"
+      ],
+      "caption": "Hyundai Palisade, mẫu SUV 7 chỗ rộng rãi, có giá khởi điểm chưa tới 1,5 tỉ đồng"
     },
     {
       "type": "text",
@@ -45,6 +52,13 @@
       "content": "Mẫu xe đến từ Đức hướng tới nhóm khách hàng thực dụng, cần một chiếc xe rộng rãi đúng nghĩa cho gia đình có 5 - 7 thành viên."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/12/49042679020643066240522858914614078871270114n-17655204535171279220221.jpg"
+      ],
+      "caption": "Xe Đức Volkswagen Teramont thiết kế thực dụng với hàng ghế thứ 3 tương đối rộng"
+    },
+    {
       "type": "text",
       "content": "Về thiết kế, Teramont sở hữu ngoại hình trung tính, mạnh mẽ và ít lỗi mốt theo thời gian. Nội thất xe không quá bóng bẩy như đối thủ Hàn Quốc nhưng ghi điểm nhờ bố trí khoa học, dễ sử dụng. Điểm đáng tiền nhất trên Teramont là không gian hàng ghế thứ 3 rộng rãi bậc nhất phân khúc và thể tích khoang hành lý lớn."
     },
@@ -59,6 +73,13 @@
     {
       "type": "text",
       "content": "Bước sang thế hệ hoàn toàn mới (LC250), Land Cruiser Prado đã lột xác toàn diện và trở thành mẫu xe được nhiều đại gia săn đón dù có giá khá cao. Tại nhiều thời điểm, mẫu SUV này rơi vào cảnh \"bia kèm lạc\", giá thực tế đội lên 400 - 500 triệu đồng so với niêm yết."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2024/10/25/toyota-land-prado-5-17298397253871418400749.jpg"
+      ],
+      "caption": "Toyota Land Cruiser Prado có giá 3,46 tỉ đồng, sở hữu thiết kế vuông vức, góc cạnh"
     },
     {
       "type": "text",

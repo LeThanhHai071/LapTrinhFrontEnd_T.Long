@@ -13,6 +13,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/6/hinh-2-1767711111877457142760.jpg"
+      ],
+      "caption": "Tổng thống Pháp Emmanuel Macron gặp người đồng cấp Ukraine Volodymyr Zelensky trước thềm hội nghị các đồng minh của Kyiv ở Paris hôm 6.1"
+    },
+    {
       "type": "h2",
       "content": "Tiến triển đàm phán gặp trở ngại vì Venezuela, Greenland"
     },
@@ -57,6 +64,13 @@
       "content": "Ukraine tấn công tầm xa trong đêm vào lãnh thổ Nga"
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/6/hinh-1-1767710950651501965778.jpg"
+      ],
+      "caption": "Một hệ thống phòng không của Nga"
+    },
+    {
       "type": "text",
       "content": "Kyiv Independent hôm 6.1 dẫn nguồn tin từ Cơ quan An ninh Ukraine (SBU) cho biết lực lượng nước này đã triển khai các đòn tấn công tầm xa được tiến hành trong đêm 5.1, rạng sáng 6.1. Theo nguồn tin, hai mục tiêu bị bắn trúng là một kho đạn và một cơ sở dầu mỏ tại miền trung nước Nga."
     },
@@ -83,6 +97,13 @@
     {
       "type": "h2",
       "content": "Nga phá hủy hàng loạt khí tài Ukraine ở Kupiansk"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/6/hinh-3-17677116439691292905132.jpg"
+      ],
+      "caption": "Lính Nga đang thao tác UAV"
     },
     {
       "type": "text",

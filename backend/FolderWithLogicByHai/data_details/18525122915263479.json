@@ -21,6 +21,13 @@
       "content": "Việc tìm kiếm MH370 vừa được khởi động lại vào ngày 30.12 và nhiều người đặt câu hỏi, Công ty Ocean Infinity đang triển khai tìm kiếm sử dụng công nghệ gì cũng như vùng biển nơi MH370 được cho là đã rơi nguy hiểm ra sao."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2025/12/29/mh370-17669969629231054228593.jpg"
+      ],
+      "caption": "Robot dưới nước Hugin có thể tìm kiếm ở độ sâu 6.000 mét, thu thập dữ liệu bằng máy đo độ sâu, camera, laser và sonar để lập bản đồ đáy biển"
+    },
+    {
       "type": "h2",
       "content": "Ocean Infinity sẽ sử dụng thiết bị gì?"
     },
@@ -35,6 +42,13 @@
     {
       "type": "text",
       "content": "Mỗi AUV (tàu ngầm tự hành) có thể được điều khiển từ xa nhưng chủ yếu được sử dụng để thực hiện các nhiệm vụ độc lập với người điều khiển, sau đó quay trở lại mặt nước. Nó có thể ở dưới nước trong 100 giờ trước khi hết pin."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2025/12/29/mh370-a-17669969827601332209072.jpg"
+      ],
+      "caption": "Ông Azharuddin Abdul Rahman, khi đó là người đứng đầu cơ quan hàng không dân dụng Malaysia, cập nhật thông tin về chuyến bay MH370 hai ngày sau khi máy bay mất tích"
     },
     {
       "type": "h2",
@@ -75,6 +89,13 @@
     {
       "type": "text",
       "content": "Ông nói: \"Tôi không nghĩ họ làm điều này vì phần thưởng tiền bạc 70 triệu đô la, bởi vì cuộc tìm kiếm này rất, rất tốn kém. Tôi nghĩ họ làm vì thành tựu và khả năng tự quảng bá mình là công ty tìm kiếm dưới nước vĩ đại nhất thế giới bởi đã tìm thấy MH370\"."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2025/12/29/mh370-b-1766997010388373106358.jpg"
+      ],
+      "caption": "Robot dưới nước mà Ocean Infinity đang sử dụng để tìm kiếm có một từ kế có thể phát hiện kim loại ngay cả khi nó bị chôn vùi dưới nhiều mét trầm tích"
     },
     {
       "type": "h2",

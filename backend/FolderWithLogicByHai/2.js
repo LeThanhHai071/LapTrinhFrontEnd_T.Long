@@ -6,6 +6,7 @@ const path = require("path");
 const parser = new Parser();
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const DATA_DIR = path.join(__dirname, "data_articles");
+const CATEGORY_PATH = path.join(__dirname, "categories.json");
 const DEFAULT_ARTICLE_LIMIT = 10;
 const SPECIAL_ARTICLE_LIMIT = 30;
 const PRIORITY_SLUGS = ["home", "thoi-su", "the-gioi", "kinh-te"];
@@ -103,7 +104,7 @@ async function crawlCategoriesJSON() {
   try {
     await fs.mkdir(DATA_DIR, { recursive: true });
     const categories = JSON.parse(
-      await fs.readFile("categories.json", "utf-8")
+      await fs.readFile(CATEGORY_PATH, "utf-8")
     );
 
     for (const cat of categories) {

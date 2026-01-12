@@ -29,6 +29,13 @@
       "content": "Luật cũng tiếp tục phân loại tài sản số theo các tiêu chí như mục đích sử dụng, công nghệ. Theo đó, tài sản số sẽ gồm ba loại là: Tài sản ảo trên môi trường điện tử; Tài sản mã hóa và Tài sản số khác."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/1/bitcoinviet-nam-1767248264921602926248.jpg"
+      ],
+      "caption": "Đồng xu biểu tượng Bitcoin trước biểu đồ giá"
+    },
+    {
       "type": "text",
       "content": "Trong đó, tài sản mã hóa là một loại tài sản số sử dụng công nghệ mã hóa hoặc công nghệ số có chức năng tương tự để xác thực đối với tài sản trong quá trình tạo lập, phát hành, lưu trữ, chuyển giao. Tài sản mã hóa không bao gồm chứng khoán, các dạng số của tiền pháp định và tài sản tài chính khác theo quy định của pháp luật về dân sự; tài chính."
     },
@@ -43,6 +50,13 @@
     {
       "type": "text",
       "content": "Luật Công nghiệp công nghệ số đã xác lập bán dẫn là nền tảng của mọi hoạt động số. Luật cũng định hướng mục tiêu của Việt Nam là phát triển chip chuyên dụng, tham gia sâu vào chuỗi cung ứng toàn cầu thay vì chỉ gia công."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/1/vn-day-manh-dao-tao-nhan-luc-cho-cong-nghe-chip-anh-ngoc-duong-17357247711491013568717jpg-1767248462824421646427.jpeg"
+      ],
+      "caption": "Bán dẫn được xác định là ngành công nghiệp nền tảng cho hoạt động số"
     },
     {
       "type": "text",

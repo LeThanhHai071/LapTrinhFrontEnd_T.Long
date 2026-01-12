@@ -16,6 +16,13 @@
       "content": "Theo đó, khách hàng có thể sử dụng vân tay, khuôn mặt để xác thực giao dịch tại ứng dụng VPBank NEO thay vì sử dụng mã PIN và Smart OTP như trước đây. Sau khi nhập thông tin người nhận tiền, kiểm tra thông tin, khách hàng chọn \"xác nhận\" để xác thực giao dịch bằng khuôn mặt hoặc vân tay là có thể hoàn thành giao dịch. Tính năng này giúp giảm 2 bước thao tác, cho phép khách hàng không cần nhập lại mã PIN và xác nhận Smart OTP. Vân tay, khuôn mặt… là những yếu tố mang tính cá thể hóa, hạn chế tối đa khả năng làm giả, có tính bảo mật cao nhất hiện nay."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2023/3/17/2dd8577a-9e16-49a2-b00e-9e626de29758-1679030967442814426154.jpeg"
+      ],
+      "caption": "Khách hàng sử dụng vân tay, khuôn mặt thanh toán qua VPBank NEO"
+    },
+    {
       "type": "text",
       "content": "Trước đó, VPBank đã áp dụng xác thực khách hàng bằng giọng nói. Khách hàng gọi tới tổng đài VPBank sẽ được nhận diện bằng giọng nói trong vòng 10 - 12 giây mà không cần trả lời các câu hỏi bảo mật như trước, giúp tiết kiệm thời gian nhưng vẫn đảm bảo bảo mật."
     },

@@ -13,6 +13,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/8/ukraine-17678675129731716438645.jpg"
+      ],
+      "caption": "Một khu vực bị thiệt hại tại tỉnh Dnipropetrovsk hôm 7.1"
+    },
+    {
       "type": "text",
       "content": "Hãng AFP ngày 8.1 dẫn lời Phó thủ tướng Ukraine Oleksiy Kuleba cho hay một đợt không kích của Nga đã khiến hơn một triệu người ở tỉnh Dnipropetrovsk mất nguồn cung cấp nước và hệ thống sưởi ấm, khi nhiệt độ giảm xuống dưới mức đóng băng."
     },

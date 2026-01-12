@@ -42,11 +42,25 @@
     {
       "type": "image_block",
       "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2024/8/10/20240810-minh1-10-1723272265872571130491.jpg"
+      ],
+      "caption": "Trên phố Dương Quảng Hàm (Q.Cầu Giấy, Hà Nội), các biển quảng cáo, bạt che nắng được lắp đặt san sát khiến nhiều người tham gia giao thông khó quan sát"
+    },
+    {
+      "type": "image_block",
+      "urls": [
         "https://images2.thanhnien.vn/thumb_w/660/528068263637045248/2024/8/10/20240810-minh1-8-1723272265563279803267.jpg",
         "https://images2.thanhnien.vn/thumb_w/660/528068263637045248/2024/8/10/20240810-minh1-9-1723272265721154905064.jpg",
         "https://images2.thanhnien.vn/thumb_w/660/528068263637045248/2024/8/10/20240810-minh1-12-1723272266194179854754.jpg"
       ],
       "caption": "Biển báo giao thông \"ẩn mình\" sau những tấm bạt, ô che nắng tại phố Dương Quảng Hàm"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2024/8/10/20240810-minh1-17-17232722670551597116384.jpg"
+      ],
+      "caption": "Trên phố Kim Mã (Q.Ba Đình, Hà Nội), một biển chỉ dẫn bị che mất một phần do bốt bảo vệ đặt trước đó"
     },
     {
       "type": "image_block",

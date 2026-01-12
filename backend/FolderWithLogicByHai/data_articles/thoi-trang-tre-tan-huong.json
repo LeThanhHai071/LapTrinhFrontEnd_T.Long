@@ -3,8 +3,16 @@
   "categoryName": "Tận hưởng",
   "fullSlug": "thoi-trang-tre-tan-huong",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-11T04:20:16.417Z",
+  "lastUpdate": "2026-01-12T14:05:34.302Z",
   "articles": [
+    {
+      "title": "Du lịch tết, hành trình tận hưởng từ phố thị đến biển xanh",
+      "link": "https://thanhnien.vn/thoi-trang-tre/du-lich-tet-hanh-trinh-tan-huong-tu-pho-thi-den-bien-xanh-185260111185054871.htm",
+      "pubDate": "Mon, 12 Jan 26 12:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/51709419011492595438950432903073183796657677n-1768131777589322773833-455-0-1130-1080-crop-1768132279821679139141.jpg",
+      "description": "Tết năm nay, nhiều gia đình và du khách chọn bắt đầu hành trình tận hưởng bằng những trải nghiệm được chăm chút kỹ lưỡng, từ ẩm thực đến lưu trú.",
+      "guid": "https://thanhnien.vn/thoi-trang-tre/du-lich-tet-hanh-trinh-tan-huong-tu-pho-thi-den-bien-xanh-185260111185054871.htm"
+    },
     {
       "title": "'Chuyến rong chơi' đến cả 3 miền ngắm nhìn gia vị và sản vật Việt",
       "link": "https://thanhnien.vn/thoi-trang-tre/chuyen-rong-choi-den-ca-3-mien-ngam-nhin-gia-vi-va-san-vat-viet-185251222174148235.htm",
@@ -76,14 +84,6 @@
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/1/td-casa-1764586790112815499729-107-0-1707-2560-crop-1764587615072417724886.jpg",
       "description": "Từ căn phòng nhỏ đến chiếc xe đồng hành mỗi ngày, nhiều người đang chọn cách sống đậm dấu ấn cá nhân hơn bao giờ hết. Cá nhân hóa không còn là trào lưu nhất thời, mà trở thành chuẩn mực để sống thoải mái và đúng chất riêng.",
       "guid": "https://thanhnien.vn/thoi-trang-tre/gay-sot-voi-xu-huong-ca-nhan-hoa-dinh-hinh-loi-song-moi-185251201181321544.htm"
-    },
-    {
-      "title": "Tháng lễ hội đã đến, Seahorse Resort & Spa mời bạn về với hương vị biển",
-      "link": "https://thanhnien.vn/thoi-trang-tre/thang-le-hoi-da-den-seahorse-resort-spa-moi-ban-ve-voi-huong-vi-bien-185251126144151796.htm",
-      "pubDate": "Wed, 26 Nov 25 14:30:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/11/26/1-1764142516271167907918-0-0-875-1400-crop-17641425344111886017216.jpg",
-      "description": "Giữa nhịp sống vội vàng, chúng ta ngày càng khao khát một không gian để 'thở', để dừng lại, để cảm nhận thiên nhiên theo cách trọn vẹn nhất. Nếu bạn đang tìm một nơi như thế - xanh, sạch, tinh khôi và đủ bình yên để trái tim được xoa dịu - Seahorse Resort & Spa tại Mũi Né chính là điểm đến dành cho bạn.",
-      "guid": "https://thanhnien.vn/thoi-trang-tre/thang-le-hoi-da-den-seahorse-resort-spa-moi-ban-ve-voi-huong-vi-bien-185251126144151796.htm"
     }
   ]
 }

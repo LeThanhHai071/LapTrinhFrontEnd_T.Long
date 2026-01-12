@@ -24,6 +24,13 @@
       "content": "Theo đó, người tham gia bảo hiểm y tế thuộc hộ gia đình cận nghèo, người cao tuổi từ đủ 75 tuổi trở lên đang hưởng trợ cấp hưu trí xã hội được hưởng 100% chi phí khám bệnh, chữa bệnh trong phạm vi được hưởng của người tham gia bảo hiểm y tế."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/1/bao-hiem-y-te-1767242461124140830520.png"
+      ],
+      "caption": "Người thường xuyên và trực tiếp làm chuyên môn y tế tại trạm y tế cấp xã, cơ sở y tế dự phòng được hưởng phụ cấp ưu đãi nghề tối thiểu 70%"
+    },
+    {
       "type": "text",
       "content": "Nghị quyết còn quy định tăng tỷ lệ mức hưởng trong phạm vi được hưởng của người tham gia bảo hiểm y tế cho người tham gia là đối tượng chính sách xã hội, người dễ bị tổn thương, người có thu nhập thấp và một số đối tượng cần ưu tiên khác."
     },
@@ -52,12 +59,20 @@
       "content": "Người thường xuyên và trực tiếp làm chuyên môn y tế tại trạm y tế cấp xã, cơ sở y tế dự phòng được hưởng phụ cấp ưu đãi nghề như sau:"
     },
     {
+      "type": "text",
+      "content": "100% đối với khu vực vùng đồng bào dân tộc thiểu số và miền núi, vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, biên giới, hải đảo. Tối thiểu 70% nếu không thuộc trường hợp trên."
+    },
+    {
       "type": "h2",
       "content": "Tuyển dụng nhân viên y tế"
     },
     {
       "type": "text",
       "content": "Không áp dụng điều kiện về thời gian công tác theo quy định của pháp luật về viên chức khi tiếp nhận người vào làm viên chức tại trạm y tế cấp xã nếu đáp ứng các điều kiện như:"
+    },
+    {
+      "type": "text",
+      "content": "Có giấy phép hành nghề khám bệnh, chữa bệnh phù hợp với yêu cầu của vị trí việc làm dự kiến tiếp nhận.Cam kết bằng văn bản về làm việc tại trạm y tế cấp xã ít nhất 5 năm."
     },
     {
       "type": "text",

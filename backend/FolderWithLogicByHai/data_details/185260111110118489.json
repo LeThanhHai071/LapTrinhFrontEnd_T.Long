@@ -22,6 +22,10 @@
     },
     {
       "type": "text",
+      "content": "Tàu lặn biến mất dưới băng Nam Cực sau khi phát hiện cấu trúc ngầm bí ẩn"
+    },
+    {
+      "type": "text",
       "content": "Mục tiêu của sứ mệnh là tìm hiểu cách thức các thềm băng Tây Nam Cực phản ứng trước sự thay đổi của nhiệt độ nước biển."
     },
     {
@@ -31,6 +35,13 @@
     {
       "type": "text",
       "content": "Ran đã đi qua quãng đường hơn 1.000 km trong cuộc khảo sát kéo dài 27 ngày, thu thập hình ảnh sonar độ phân giải cao của hơn 140 km2 địa hình đầy bí ẩn bên dưới mặt băng. Đây là khu vực chưa từng lập bản đồ chi tiết đến thế và chưa từng được biết đến, theo báo cáo được bình duyệt chuyên san Science Advances."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/11/ran-17681042681271197419557.jpeg"
+      ],
+      "caption": "Tàu lặn Ran ở Nam Cực trước khi biến mất"
     },
     {
       "type": "text",

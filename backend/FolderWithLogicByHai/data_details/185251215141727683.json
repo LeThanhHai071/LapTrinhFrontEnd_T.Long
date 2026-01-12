@@ -29,6 +29,13 @@
       "content": "Được phát triển bởi đội ngũ trong nước, Vietmap Live được đánh giá cao về độ chính xác dữ liệu giao thông tại Việt Nam. Thế mạnh của ứng dụng nằm ở tốc độ cập nhật thông tin hàng tuần, dữ liệu về vị trí camera phạt nguội, biển báo tốc độ, cấm vượt hay cấm dừng, đỗ được thu thập thực tế, giúp giảm độ sai lệch."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/17/edit-vml-17659380101101792497586.jpeg"
+      ],
+      "caption": "Ứng dụng Vietmap Live hiển thị vị trí camera phạt nguội, biển báo tốc độ, cấm vượt hay cấm dừng, đỗ"
+    },
+    {
       "type": "text",
       "content": "Tuy nhiên, để sử dụng ứng dụng Vietmap Live người dùng phải trả phí theo năm. Ngoài ra, ứng dụng yêu cầu kết nối Internet liên tục để tải dữ liệu."
     },
@@ -45,6 +52,13 @@
       "content": "Ưu điểm lớn nhất của Navitel là khả năng dẫn đường Offline ổn định và đồ họa 3D hiển thị chi tiết các công trình. Về chi phí, người dùng thường chỉ cần mua mã bản quyền một lần để sử dụng trọn đời."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/17/4618235566494694563949151297728797834575611953152n-17659383237351405130869.png"
+      ],
+      "caption": "Ứng dụng Navitel bản quyền trả phí một lần, dùng trọn đời"
+    },
+    {
       "type": "text",
       "content": "Dù vậy, điểm trừ của ứng dụng này nằm ở giao diện cũ kỹ, thao tác phức tạp với người dùng mới. Khả năng tìm kiếm địa chỉ cũng kém thông minh hơn so với các đối thủ. Đáng lưu ý, dữ liệu bản đồ và biển báo thường cập nhật theo quý nên có thể không chính xác với các địa điểm thay đổi biển báo giao thông."
     },
@@ -55,6 +69,13 @@
     {
       "type": "text",
       "content": "Waze hoạt động dựa trên cơ chế mạng xã hội và cập nhật thông tin từ người dùng. Tại nhiều quốc gia, ứng dụng này rất được ưa chuộng nhờ khả năng cảnh báo tắc đường, cảnh báo camera phạt nguội, biển báo... nhờ cộng đồng người dùng lớn. Ứng dụng hoàn toàn miễn phí và có giao diện hoạt hình trực quan, dễ quan sát."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/9/26/waze-map-1758860025978360163325.jpg"
+      ],
+      "caption": "Ứng dụng bản đồ Waze có tính năng cập nhật thông tin thực tế từ phía cộng đồng người dùng"
     },
     {
       "type": "text",

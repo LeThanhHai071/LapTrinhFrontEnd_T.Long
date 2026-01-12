@@ -3,8 +3,32 @@
   "categoryName": "Mới",
   "fullSlug": "tieu-dung-thong-minh-moi",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-11T04:17:42.959Z",
+  "lastUpdate": "2026-01-12T14:02:49.491Z",
   "articles": [
+    {
+      "title": "Thị trường gạo Việt Nam thế nào sau khi Philippines mở cửa?",
+      "link": "https://thanhnien.vn/thi-truong-gao-viet-nam-the-nao-sau-khi-philippines-mo-cua-1852601121555522.htm",
+      "pubDate": "Mon, 12 Jan 26 16:58:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/screen-shot-2025-11-26-at-155754-17641475062601905483860-0-0-970-1552-crop-17682080061671058548454.png",
+      "description": "Philippines đã mở cửa trở lại, nhu cầu của các thị trường truyền thống khác cũng tăng nhưng khởi đầu năm 2026, thị trường gạo Việt Nam vẫn khá chậm chạp vì chính sách mới của nhà nhập khẩu.",
+      "guid": "https://thanhnien.vn/thi-truong-gao-viet-nam-the-nao-sau-khi-philippines-mo-cua-1852601121555522.htm"
+    },
+    {
+      "title": "Giá heo hơi hôm nay 12.1.2026: Chạm ngưỡng 75.000 đồng/kg",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1212026-cham-nguong-75000-dong-kg-185260112090245863.htm",
+      "pubDate": "Mon, 12 Jan 26 09:23:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/04da52ce-0b1a-494c-b680-bfc56d148bef-17400979379381208667129-0-0-634-1015-crop-17681833195021250470771.jpeg",
+      "description": "Giá heo hơi cả nước duy trì xu hướng tăng cao trong thời điểm lễ tết cuối năm đang đến gần.",
+      "guid": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1212026-cham-nguong-75000-dong-kg-185260112090245863.htm"
+    },
+    {
+      "title": "Giá xăng dầu hôm nay 12.1.2026: Giữ đà tăng",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-1212026-giu-da-tang-185260112081704095.htm",
+      "pubDate": "Mon, 12 Jan 26 08:27:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/gen-h-dnt-117-1768180557502617594502-66-0-1666-2560-crop-17681805925591577976302.jpg",
+      "description": "Giá dầu thế giới sáng đầu tuần ngập sắc xanh, tăng đồng loạt trong bối cảnh lo ngại nguồn cung dầu từ Nga bị ảnh hưởng bởi xung đột leo thang. Trong nước, dự báo giá xăng dầu tuần này tăng nhẹ.",
+      "guid": "https://thanhnien.vn/gia-xang-dau-hom-nay-1212026-giu-da-tang-185260112081704095.htm"
+    },
     {
       "title": "Khởi động mùa mua sắm Tết Bính Ngọ",
       "link": "https://thanhnien.vn/khoi-dong-mua-mua-sam-tet-binh-ngo-185260110220609831.htm",
@@ -60,30 +84,6 @@
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/thitheo05-17391489561331699653061-96-0-896-1280-crop-17679248207941575952356.jpg",
       "description": "Giá heo hơi tiếp tục duy trì đà tăng nhanh, bình quân cả nước đã đạt đến mức 67.300 đồng/kg.",
       "guid": "https://thanhnien.vn/gia-heo-hoi-hom-nay-912026-tiep-tuc-tang-manh-18526010909171788.htm"
-    },
-    {
-      "title": "Giá xăng dầu hôm nay 9.1.2026: Đảo chiều tăng hơn 3%",
-      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-912026-dao-chieu-tang-hon-3-185260109083114881.htm",
-      "pubDate": "Fri, 09 Jan 26 08:39:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/anh-nhat-thinh-dung-59-17394100378052000706137-5-0-1605-2560-crop-1767922171007500886194.jpg",
-      "description": "Giá dầu thế giới đảo chiều tăng mạnh hơn 3% trong bối cảnh Mỹ tiếp tục siết chặt phong tỏa các tàu chở dầu vi phạm lệnh trừng phạt đi và đến Venezuela. Trong nước, giá các mặt hàng xăng dầu vừa được điều chỉnh giảm đồng loạt, lần giảm thứ 5 liên tiếp.",
-      "guid": "https://thanhnien.vn/gia-xang-dau-hom-nay-912026-dao-chieu-tang-hon-3-185260109083114881.htm"
-    },
-    {
-      "title": "Công ty Đồ hộp Hạ Long nói gì sau nghi án dùng thịt heo nhiễm bệnh?",
-      "link": "https://thanhnien.vn/cong-ty-do-hop-ha-long-noi-gi-sau-nghi-an-dung-thit-heo-nhiem-benh-185260108173117324.htm",
-      "pubDate": "Thu, 08 Jan 26 17:36:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/it-edit-59897967713920184362702334614390749128140938n-17678377058141298765072-17678592588571835927692-17678593155671192825981-0-0-400-640-crop-1767868196588994934666.jpeg",
-      "description": "Trong những công văn gửi đi liên quan thông tin báo chí đăng tải về nghi án sử dụng thịt heo bệnh, lãnh đạo Công ty CP Đồ hộp Hạ Long khẳng định, toàn bộ lô nguyên liệu thịt heo nhiễm bệnh không được đưa vào sản xuất và không cung ứng ra thị trường.",
-      "guid": "https://thanhnien.vn/cong-ty-do-hop-ha-long-noi-gi-sau-nghi-an-dung-thit-heo-nhiem-benh-185260108173117324.htm"
-    },
-    {
-      "title": "Hàng loạt siêu thị rút sản phẩm đồ hộp Hạ Long",
-      "link": "https://thanhnien.vn/hang-loat-sieu-thi-rut-san-pham-do-hop-ha-long-185260108150636976.htm",
-      "pubDate": "Thu, 08 Jan 26 15:14:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/edit-59897967713920184362702334614390749128140938n-17678377058141298765072-17678592588571835927692-28-0-428-640-crop-17678593371631971483974.jpeg",
-      "description": "Chiều 8.1, nhiều hệ thống siêu thị lớn trên cả nước cho biết, trong khi chờ kết luận của cơ quan chức năng, các siêu thị đồng loạt cho rút toàn bộ sản phẩm của Công ty CP Đồ hộp Hạ Long khỏi quầy kệ và chấp nhận cho khách hàng mua rồi có thể đổi trả hàng...",
-      "guid": "https://thanhnien.vn/hang-loat-sieu-thi-rut-san-pham-do-hop-ha-long-185260108150636976.htm"
     }
   ]
 }

@@ -12,6 +12,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/6/nottingham-trent-university-uk-17676986188351103656341.jpg"
+      ],
+      "caption": "Người học dự lễ tốt nghiệp ĐH Nottingham Trent tại Anh, một trong những trường được cho là có nhiều chương trình đào tạo bằng cấp \"Chuột Mickey\""
+    },
+    {
       "type": "h2",
       "content": "Học về yoga, công bằng khí hậu"
     },
@@ -38,6 +45,13 @@
     {
       "type": "text",
       "content": "Có chương trình còn nhận được ủng hộ của chính phủ Anh, Bộ Giáo dục Anh và Thị trưởng London, như khóa huấn luyện về mục tiêu phát thải ròng bằng 0 ở ĐH London South Bank. Đây là chương trình miễn phí kéo dài 5 tuần, giúp học viên \"tái tạo năng lượng\" cho sự nghiệp và tạo điều kiện cho họ làm việc cùng các chuyên gia về phát triển bền vững."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/8/uni-manchester-uk-17678789518511778866882.jpg"
+      ],
+      "caption": "Một tòa nhà thuộc khuôn viên tại ĐH Manchester (Anh), nơi đào tạo chương trình nâng cao về lĩnh vực giới, xu hướng tính dục và văn hóa"
     },
     {
       "type": "text",

@@ -21,11 +21,22 @@
     },
     {
       "type": "text",
+      "content": "11 trạm xăng bị đánh bom tại 3 tỉnh của Thái Lan giáp Malaysia"
+    },
+    {
+      "type": "text",
       "content": "Tại Cho Airong, một trạm xăng bị đánh bom sau khi được đưa vào hoạt động chỉ mới vài tháng."
     },
     {
       "type": "text",
       "content": "Hiện không có thông tin về thương vong. Các vụ đánh bom đã khiến người dân địa phương hoang mang."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/11/tram-xang-bi-danh-bom-tai-thai-lan-17680973043861920500845.jpg"
+      ],
+      "caption": "Hỏa hoạn bùng phát tại một trạm xăng PTT bị đánh bom ở huyện Cho Airong thuộc tỉnh Narathiwat (Thái Lan) vào khuya 10.1"
     },
     {
       "type": "text",

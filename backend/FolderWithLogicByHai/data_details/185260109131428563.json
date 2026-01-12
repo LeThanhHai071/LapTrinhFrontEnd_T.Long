@@ -12,6 +12,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/9/tts-1767939066579803979338.png"
+      ],
+      "caption": "TP.HCM bắt đầu triển khai các công tác tuyển sinh đầu cấp năm học 2026-2027"
+    },
+    {
       "type": "h2",
       "content": "Rà soát dữ liệu tuyển sinh đầu cấp mầm non, lớp 1, lớp 6"
     },
@@ -50,6 +57,13 @@
     {
       "type": "text",
       "content": "Nhà trường xác minh nội dung phụ huynh đề nghị điều chỉnh và tiến hành điều chỉnh thông tin. Sau khi nhà trường điều chỉnh thông tin, phụ huynh truy cập Trang tuyển sinh đầu cấp của thành phố để kiểm tra, xác nhận thông tin chính xác."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/9/moc-thoi-gian-17679389133081981043870.jpg"
+      ],
+      "caption": "Những mốc thời gian phụ huynh học sinh lưu ý cho việc tuyển sinh đầu cấp năm học mới"
     },
     {
       "type": "text",

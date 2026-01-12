@@ -1,0 +1,81 @@
+{
+  "title": "Ấn Độ lại ra yêu cầu lạ với Apple, Samsung",
+  "categories": [
+    "Công nghệ",
+    "Tin tức công nghệ"
+  ],
+  "sapo": "Ấn Độ viện lý do an ninh, đề xuất yêu cầu các nhà sản xuất smartphone như Apple, Samsung phải chia sẻ mã nguồn với chính phủ và thực hiện một số thay đổi phần mềm.",
+  "publishDate": "12/01/2026 19:17 GMT+7",
+  "author": {
+    "name": "Khương Nha",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/528068263637045248/2024/11/19/khuong-nha--thanh-nien-17320289347701547012878.jpg",
+    "email": "-  khuongnha.vn@gmail.com"
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Reuters dẫn các nguồn tin cho biết chính phủ Ấn Độ yêu cầu các nhà sản xuất smartphone phải thử nghiệm và cung cấp mã nguồn độc quyền để các phòng thí nghiệm do chính phủ chỉ định xem xét nhằm xác định các lỗ hổng trong hệ điều hành, có thể bị tin tặc khai thác. Điều này đang gây nên sự phản đối từ các nhà sản xuất lớn như Apple, Samsung."
+    },
+    {
+      "type": "h2",
+      "content": "Quy định chưa từng có tiền lệ"
+    },
+    {
+      "type": "text",
+      "content": "Theo quy định mới, ứng dụng nền không được truy cập camera, micro hoặc dịch vụ định vị khi smartphone không hoạt động. Mỗi khi các quyền này được kích hoạt, nhà phát triển ứng dụng phải gửi thông báo liên tục cho người dùng. Các nhà sản xuất cho rằng điều này chưa từng có tiền lệ trên toàn cầu và phương pháp thử nghiệm cụ thể nào được quy định."
+    },
+    {
+      "type": "text",
+      "content": "Ngoài ra, các thiết bị phải định kỳ hiển thị cảnh báo nhắc nhở người dùng xem lại tất cả quyền của ứng dụng, kèm theo thông báo. Các công ty cho rằng thông báo chỉ nên giới hạn ở các quyền \"cực kỳ quan trọng\"."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/12/an-doapplesamsung-1768209004718968771427.png"
+      ],
+      "caption": "Logo Apple, Google, Samsung trước cờ Ấn Độ"
+    },
+    {
+      "type": "text",
+      "content": "Liên quan đến quyền lưu trữ, Ấn Độ buộc các thiết bị phải lưu nhật ký kiểm tra bảo mật, bao gồm việc cài đặt ứng dụng và các lần đăng nhập, trong vòng 12 tháng. Tuy nhiên, không phải smartphone nào cũng đủ dung lượng để lưu trữ dữ liệu lâu như vậy."
+    },
+    {
+      "type": "text",
+      "content": "Để hạn chế mã độc, Ấn Độ yêu cầu smartphone phải quét định kỳ phần mềm nhằm xác định sớm ứng dụng có nguy cơ gây hại. Việc này phù hợp về lý thuyết nhưng sẽ khiến smartphone hao pin, giảm hiệu năng phần cứng."
+    },
+    {
+      "type": "text",
+      "content": "Một yêu cầu khác gây tranh cãi là nhà sản xuất phải xóa bỏ tất cả ứng dụng được cài đặt sẵn cùng với hệ điều hành điện thoại, ngoại trừ ứng dụng thiết yếu cho các chức năng cơ bản của điện thoại. Nhưng các công ty sản xuất smartphone cho rằng nhiều ứng dụng là thành phần hệ thống quan trọng, không thể loại bỏ."
+    },
+    {
+      "type": "text",
+      "content": "Ngoài ra, các nhà sản xuất phải thông báo cho cơ quan chính phủ trước khi phát hành bất kỳ bản cập nhật lớn hoặc bản vá bảo mật nào. Điều này được cho là \"không thực tế\" vì các bản vá lỗi bảo mật phải được phát hành nhanh chóng để bảo vệ người dùng."
+    },
+    {
+      "type": "text",
+      "content": "Cơ quan quản lý cũng yêu cầu nhà sản xuất chặn người dùng quay về hệ điều hành cũ hơn, hoặc phát hiện các điện thoại đã bị root hay \"jailbroken\" (tức là người dùng đã vượt qua các hạn chế bảo mật tích hợp sẵn). Tuy nhiên, các nhà sản xuất smartphone cho rằng hiện chưa có tiêu chuẩn toàn cầu nào về yêu cầu này."
+    },
+    {
+      "type": "h2",
+      "content": "Apple, Samsung nói gì?"
+    },
+    {
+      "type": "text",
+      "content": "Hiệp hội công nghiệp MAIT, đại diện cho Apple, Samsung, Google, Xiaomi đã phản hồi rằng những quy định này \"không thể\" thực hiện được do bí mật doanh nghiệp và các chính sách bảo mật toàn cầu."
+    },
+    {
+      "type": "text",
+      "content": "Theo Reuters, đây không phải lần đầu tiên Ấn Độ ra yêu cầu gây khó chịu với các công ty công nghệ. Tháng trước, chính phủ đã thu hồi sắc lệnh bắt buộc cài đặt ứng dụng an ninh mạng do nhà nước điều hành trên điện thoại vì lo ngại về vấn đề giám sát. Năm ngoái, Ấn Độ đã bác bỏ các hoạt động vận động hành lang và yêu cầu kiểm tra nghiêm ngặt đối với camera an ninh vì lo ngại về hoạt động gián điệp của Trung Quốc."
+    },
+    {
+      "type": "text",
+      "content": "Theo ước tính của Counterpoint Research, Xiaomi và Samsung lần lượt nắm giữ 19% và 15% thị phần tại Ấn Độ, còn Apple chiếm 5%."
+    },
+    {
+      "type": "text",
+      "content": "Kế hoạch này là một phần trong nỗ lực của Thủ tướng Narendra Modi nhằm tăng cường an ninh dữ liệu người dùng khi nạn gian lận trực tuyến và vi phạm dữ liệu ngày càng gia tăng tại thị trường điện thoại thông minh lớn thứ hai thế giới, với gần 750 triệu điện thoại."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/an-do-lai-ra-yeu-cau-la-voi-apple-samsung-185260112162727728.htm",
+  "id": "185260112162727728"
+}

@@ -13,6 +13,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/28/pic-17668961824731572809429.png"
+      ],
+      "caption": "Năm 2026 sẽ chứng kiến một loạt các thay đổi mới tác động đến hành khách hàng không"
+    },
+    {
       "type": "text",
       "content": "Sau đây là những xu hướng được cho sẽ định hình hoạt động hàng không dân dụng trong năm 2026."
     },
@@ -33,6 +40,13 @@
       "content": "Hành khách có thể trả tiền hoặc đổi điểm thưởng để tiếp cận cơ hội tận hưởng không gian sang trọng và thoải mái hơn ở khoang trước của máy bay."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/28/delta-1766895994987174346094.png"
+      ],
+      "caption": "Bên trong máy bay Airbus A321XLR của Hãng American Airlines phục vụ cho việc nâng cấp trải nghiệm trên chuyến bay"
+    },
+    {
       "type": "text",
       "content": "Ông Devon May, Giám đốc tài chính của American Airlines, trong tháng 12 mô tả 2016 là thời điểm thực thi những sáng kiến đã được công bố nhiều năm trước. Giữa năm 2025, hãng đã giới thiệu dòng ghế hạng thương gia Flagship mới cùng ghế phổ thông cao cấp trên máy bay Boeing 787, và trên Airbus A321XLR vào cuối năm."
     },
@@ -47,6 +61,13 @@
     {
       "type": "h2",
       "content": "Cải tổ bộ mặt sân bay toàn cầu"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/28/bluehouse-176689582918136228312.png"
+      ],
+      "caption": "Phòng chờ sang trọng như BlueHouse của JetBlue tại sân bay quốc tế John F. Kennedy ở thành phố New York (bang New York, Mỹ)"
     },
     {
       "type": "text",
@@ -67,6 +88,13 @@
     {
       "type": "h2",
       "content": "Các vụ sáp nhập vẽ lại bản đồ hàng không"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/28/lufthansa-17668957111001942615646.png"
+      ],
+      "caption": "Lufthansa Group đang thúc đẩy quá trình sáp nhập với Hãng ITA Airways"
     },
     {
       "type": "text",

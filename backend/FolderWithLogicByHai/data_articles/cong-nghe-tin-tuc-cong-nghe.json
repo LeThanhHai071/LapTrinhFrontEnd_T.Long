@@ -3,8 +3,80 @@
   "categoryName": "Tin tức công nghệ",
   "fullSlug": "cong-nghe-tin-tuc-cong-nghe",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-11T04:19:22.289Z",
+  "lastUpdate": "2026-01-12T14:04:59.853Z",
   "articles": [
+    {
+      "title": "Ấn Độ lại ra yêu cầu lạ với Apple, Samsung",
+      "link": "https://thanhnien.vn/an-do-lai-ra-yeu-cau-la-voi-apple-samsung-185260112162727728.htm",
+      "pubDate": "Mon, 12 Jan 26 19:17:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/an-doapplesamsung-1768209004718968771427-22-0-910-1420-crop-17682099556751152068357.png",
+      "description": "Ấn Độ viện lý do an ninh, đề xuất yêu cầu các nhà sản xuất smartphone như Apple, Samsung phải chia sẻ mã nguồn với chính phủ và thực hiện một số thay đổi phần mềm.",
+      "guid": "https://thanhnien.vn/an-do-lai-ra-yeu-cau-la-voi-apple-samsung-185260112162727728.htm"
+    },
+    {
+      "title": "Hệ sinh thái Samsung đủ sức khiến người dùng không cần đến Apple?",
+      "link": "https://thanhnien.vn/he-sinh-thai-samsung-du-suc-khien-nguoi-dung-khong-can-den-apple-185260112151326868.htm",
+      "pubDate": "Mon, 12 Jan 26 16:01:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/2-17682054188801534118614-0-0-720-1152-crop-17682054240211775668723.jpg",
+      "description": "Nhiều người chọn sản phẩm của Apple vì nhiều lý do khác nhau, trong đó hệ sinh thái mà Apple xây dựng được xem là nổi bật nhất.",
+      "guid": "https://thanhnien.vn/he-sinh-thai-samsung-du-suc-khien-nguoi-dung-khong-can-den-apple-185260112151326868.htm"
+    },
+    {
+      "title": "Microsoft đưa tính năng độc quyền trên PC AI đến toàn bộ Windows 11",
+      "link": "https://thanhnien.vn/microsoft-dua-tinh-nang-doc-quyen-tren-pc-ai-den-toan-bo-windows-11-185260112143019853.htm",
+      "pubDate": "Mon, 12 Jan 26 14:34:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/2-176820284788471038867-0-76-720-1228-crop-17682028581801224830740.jpg",
+      "description": "Microsoft tích hợp Copilot vào Narrator trên Windows 11, cho phép mô tả hình ảnh bằng AI mà không cần phần cứng NPU chuyên dụng.",
+      "guid": "https://thanhnien.vn/microsoft-dua-tinh-nang-doc-quyen-tren-pc-ai-den-toan-bo-windows-11-185260112143019853.htm"
+    },
+    {
+      "title": "Dell thừa nhận điều nhiều hãng né tránh: PC AI chưa đủ thuyết phục",
+      "link": "https://thanhnien.vn/dell-thua-nhan-dieu-nhieu-hang-ne-tranh-pc-ai-chua-du-thuyet-phuc-185260112121201021.htm",
+      "pubDate": "Mon, 12 Jan 26 13:51:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/1-17681943547111552811329-67-0-1067-1600-crop-1768194362664245920936.jpg",
+      "description": "Dell mới đây đưa ra một thông điệp khác biệt giữa bối cảnh ngành công nghiệp công nghệ đang rầm rộ quảng bá \"máy tính được hỗ trợ bởi AI\".",
+      "guid": "https://thanhnien.vn/dell-thua-nhan-dieu-nhieu-hang-ne-tranh-pc-ai-chua-du-thuyet-phuc-185260112121201021.htm"
+    },
+    {
+      "title": "Rơi vào thế khó, HP 'cầu cứu' nhà sản xuất DRAM Trung Quốc",
+      "link": "https://thanhnien.vn/roi-vao-the-kho-hp-cau-cuu-nha-san-xuat-dram-trung-quoc-185260111230650894.htm",
+      "pubDate": "Mon, 12 Jan 26 10:09:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/2-17681473639831696511116-0-0-435-696-crop-17681473764911562465857.jpg",
+      "description": "HP đang xem xét khả năng hợp tác với các nhà cung cấp bộ nhớ Trung Quốc để đảm bảo nguồn cung DRAM khi các lựa chọn khác dường như đã cạn kiệt.",
+      "guid": "https://thanhnien.vn/roi-vao-the-kho-hp-cau-cuu-nha-san-xuat-dram-trung-quoc-185260111230650894.htm"
+    },
+    {
+      "title": "Micro LED chưa kịp phổ cập, ngành TV bước vào kỷ nguyên Micro RGB",
+      "link": "https://thanhnien.vn/micro-led-chua-kip-pho-cap-nganh-tv-buoc-vao-ky-nguyen-micro-rgb-185260112000258871.htm",
+      "pubDate": "Mon, 12 Jan 26 10:04:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1-17681508597211090385752-105-0-1355-2000-crop-17681508675851153721040.jpg",
+      "description": "Micro LED đã và đang thu hút sự chú ý lớn từ người tiêu dùng, đặc biệt là với những tin đồn về việc iPhone và iPad sẽ áp dụng công nghệ này.",
+      "guid": "https://thanhnien.vn/micro-led-chua-kip-pho-cap-nganh-tv-buoc-vao-ky-nguyen-micro-rgb-185260112000258871.htm"
+    },
+    {
+      "title": "Microsoft cảnh báo người dùng Windows Insider",
+      "link": "https://thanhnien.vn/microsoft-canh-bao-nguoi-dung-windows-insider-18526011201004895.htm",
+      "pubDate": "Mon, 12 Jan 26 07:15:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1-17681542999201299674340-40-0-790-1200-crop-1768154318272684371705.jpg",
+      "description": "Microsoft cảnh báo người dùng Windows Insider sớm chuyển kênh Dev sang Beta, trước khi các bản dựng tách biệt khiến việc hạ cấp buộc phải cài lại Windows.",
+      "guid": "https://thanhnien.vn/microsoft-canh-bao-nguoi-dung-windows-insider-18526011201004895.htm"
+    },
+    {
+      "title": "Sau RAM và SSD, đến lượt TV bị cuốn vào cơn sốt giá linh kiện toàn cầu",
+      "link": "https://thanhnien.vn/sau-ram-va-ssd-den-luot-tv-bi-cuon-vao-con-sot-gia-linh-kien-toan-cau-185260111103230817.htm",
+      "pubDate": "Mon, 12 Jan 26 06:29:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/geminigeneratedimagec2dwq2c2dwq2c2dw-17681022715022013596787-158-428-1338-2316-crop-1768102283253365682156.png",
+      "description": "Khủng hoảng chuỗi cung ứng và nhu cầu bán dẫn tăng cao đang khiến ngày càng nhiều thiết bị công nghệ phải điều chỉnh giá.",
+      "guid": "https://thanhnien.vn/sau-ram-va-ssd-den-luot-tv-bi-cuon-vao-con-sot-gia-linh-kien-toan-cau-185260111103230817.htm"
+    },
+    {
+      "title": "Những điểm gây khó chịu khi sử dụng Google Gemini",
+      "link": "https://thanhnien.vn/nhung-diem-gay-kho-chiu-khi-su-dung-google-gemini-185260111123224099.htm",
+      "pubDate": "Sun, 11 Jan 26 17:55:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1-17681093800721009212282-0-60-675-1140-crop-17681093849122000529940.jpg",
+      "description": "Trợ lý AI (trí tuệ nhân tạo) Google Gemini hỗ trợ nhiều tác vụ phức tạp, nhưng người dùng không nên bỏ qua các rủi ro tiềm ẩn.",
+      "guid": "https://thanhnien.vn/nhung-diem-gay-kho-chiu-khi-su-dung-google-gemini-185260111123224099.htm"
+    },
     {
       "title": "Cuộc phát triển 5G 'thần tốc' tại Việt Nam",
       "link": "https://thanhnien.vn/cuoc-phat-trien-5g-than-toc-tai-viet-nam-185260111085409727.htm",
@@ -12,78 +84,6 @@
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1c073876a7fe28a071ef-1768099387352540793274-14-0-740-1162-crop-17680994221431603358373.jpg",
       "description": "Việt Nam bắt đầu thương mại hóa 5G vào cuối năm 2024. Theo báo cáo của Bộ Khoa học và Công nghệ, tính đến tháng 10.2025 đã có hơn 16.700 trạm 5G phủ sóng gần 40% dân số. Đến cuối năm 2025 số trạm 5G tăng mạnh, đã phủ sóng khoảng 90% dân số.",
       "guid": "https://thanhnien.vn/cuoc-phat-trien-5g-than-toc-tai-viet-nam-185260111085409727.htm"
-    },
-    {
-      "title": "Google Maps trên Android có thay đổi lớn về giao diện",
-      "link": "https://thanhnien.vn/google-maps-tren-android-co-thay-doi-lon-ve-giao-dien-185260110214506064.htm",
-      "pubDate": "Sun, 11 Jan 26 06:37:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/maps-17440838444311406420115-0-59-420-731-crop-1768056575937734149648.jpg",
-      "description": "Người dùng Android thở phào sau khi Google Maps xóa sổ giao diện 'thảm họa' nhất lịch sử.",
-      "guid": "https://thanhnien.vn/google-maps-tren-android-co-thay-doi-lon-ve-giao-dien-185260110214506064.htm"
-    },
-    {
-      "title": "Microsoft tối giản thao tác quen thuộc nhất trong Word",
-      "link": "https://thanhnien.vn/microsoft-toi-gian-thao-tac-quen-thuoc-nhat-trong-word-185260110155148973.htm",
-      "pubDate": "Sat, 10 Jan 26 16:20:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/1-1768034998924648174295-0-166-1124-1964-crop-17680350058861301988079.jpg",
-      "description": "Microsoft đang bổ sung một thay đổi đáng chú ý cho Word, ứng dụng được sử dụng phổ biến nhất trong bộ Office.",
-      "guid": "https://thanhnien.vn/microsoft-toi-gian-thao-tac-quen-thuoc-nhat-trong-word-185260110155148973.htm"
-    },
-    {
-      "title": "Dữ liệu cá nhân bị đánh cắp qua lừa đảo trực tuyến đang đi về đâu?",
-      "link": "https://thanhnien.vn/du-lieu-ca-nhan-bi-danh-cap-qua-lua-dao-truc-tuyen-dang-di-ve-dau-185260110003013866.htm",
-      "pubDate": "Sat, 10 Jan 26 14:40:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/geminigeneratedimagekte2sukte2sukte2-17679797416442039359618-0-214-1536-2672-crop-176797979061814852179.png",
-      "description": "Thông tin cá nhân thu thập qua các liên kết giả danh lừa đảo trực tuyến đang được xử lý tự động và bán với giá từ 15 USD.",
-      "guid": "https://thanhnien.vn/du-lieu-ca-nhan-bi-danh-cap-qua-lua-dao-truc-tuyen-dang-di-ve-dau-185260110003013866.htm"
-    },
-    {
-      "title": "iPhone 4 bất ngờ quay lại thời hoàng kim",
-      "link": "https://thanhnien.vn/iphone-4-bat-ngo-quay-lai-thoi-hoang-kim-185260109223832382.htm",
-      "pubDate": "Sat, 10 Jan 26 12:55:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/1-17679727929471294546851-43-0-793-1200-crop-1767972802148311944326.jpg",
-      "description": "iPhone 4, mẫu điện thoại đã gần 16 năm tuổi và bị Apple ngừng hỗ trợ từ lâu, đang được giới trẻ sử dụng như một chiếc máy ảnh kỹ thuật số.",
-      "guid": "https://thanhnien.vn/iphone-4-bat-ngo-quay-lai-thoi-hoang-kim-185260109223832382.htm"
-    },
-    {
-      "title": "Nhiều smartphone sắp không chạy được ứng dụng ngân hàng",
-      "link": "https://thanhnien.vn/nhieu-smartphone-sap-khong-chay-duoc-ung-dung-ngan-hang-185260110095207808.htm",
-      "pubDate": "Sat, 10 Jan 26 10:11:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/0a431d9d-c422-4271-927b-cfe7769c2634-17680140315941956835793-232-0-1832-2560-crop-17680141199411321801288.jpg",
-      "description": "Theo quy định mới, kể từ ngày 1.3, các ứng dụng ngân hàng bắt buộc tự động ngừng hoạt động nếu phát hiện thiết bị di động của người dùng đã bị can thiệp hệ điều hành (root/jailbreak) hoặc đang chạy trên môi trường giả lập.",
-      "guid": "https://thanhnien.vn/nhieu-smartphone-sap-khong-chay-duoc-ung-dung-ngan-hang-185260110095207808.htm"
-    },
-    {
-      "title": "SanDisk sắp tăng gấp đôi giá SSD trong quý 1/2026",
-      "link": "https://thanhnien.vn/sandisk-sap-tang-gap-doi-gia-ssd-trong-quy-1-2026-185260110000703726.htm",
-      "pubDate": "Sat, 10 Jan 26 09:43:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/screenshot-2026-01-09-215444-1767970496533111381081-66-59-568-862-crop-1767970503957706599627.png",
-      "description": "SanDisk chuẩn bị tăng giá chip nhớ 3D NAND doanh nghiệp hơn 100% do nhu cầu lưu trữ phục vụ AI (trí tuệ nhân tạo) và trung tâm dữ liệu gia tăng nhanh chóng.",
-      "guid": "https://thanhnien.vn/sandisk-sap-tang-gap-doi-gia-ssd-trong-quy-1-2026-185260110000703726.htm"
-    },
-    {
-      "title": "Apple phát hành bản cập nhật 'bí mật' cho người dùng iPhone",
-      "link": "https://thanhnien.vn/apple-phat-hanh-ban-cap-nhat-bi-mat-cho-nguoi-dung-iphone-185260110082222314.htm",
-      "pubDate": "Sat, 10 Jan 26 09:38:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/thumb-1-1768008057005749407385-17680080634471550460870-100-160-845-1352-crop-1768008076399748667732.jpg",
-      "description": "Apple vừa bất ngờ phát hành một bản cập nhật bảo mật \"bí mật\" dành cho một nhóm người dùng iPhone được chọn.",
-      "guid": "https://thanhnien.vn/apple-phat-hanh-ban-cap-nhat-bi-mat-cho-nguoi-dung-iphone-185260110082222314.htm"
-    },
-    {
-      "title": "Robot Việt Nam trình diễn khả năng đấm bốc tại CES 2026",
-      "link": "https://thanhnien.vn/robot-viet-nam-trinh-dien-kha-nang-dam-boc-tai-ces-2026-185260109173424196.htm",
-      "pubDate": "Fri, 09 Jan 26 18:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/vinmotionqualcomm-1767955016447847669254-76-0-1210-1814-crop-1767955029907869778455.png",
-      "description": "Qualcomm và VinMotion (thuộc tập đoàn Vingroup) đưa robot Motion 2 đến CES 2026 và trình diễn khả năng đấm bốc với lực mạnh nhưng vẫn giữ được thăng bằng.",
-      "guid": "https://thanhnien.vn/robot-viet-nam-trinh-dien-kha-nang-dam-boc-tai-ces-2026-185260109173424196.htm"
-    },
-    {
-      "title": "Google tung tính năng 'đáng tiền' cho trình duyệt Chrome",
-      "link": "https://thanhnien.vn/google-tung-tinh-nang-dang-tien-cho-trinh-duyet-chrome-185260109142501854.htm",
-      "pubDate": "Fri, 09 Jan 26 15:59:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/chrome-1767943695207513297407-0-23-720-1175-crop-1767944085961120420485.jpg",
-      "description": "Tính năng ẩn mới của trình duyệt web Chrome khiến người dùng Mac không muốn quay đầu về Safari.",
-      "guid": "https://thanhnien.vn/google-tung-tinh-nang-dang-tien-cho-trinh-duyet-chrome-185260109142501854.htm"
     }
   ]
 }

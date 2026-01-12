@@ -29,6 +29,13 @@
       "content": "Dữ liệu từ blockchain cho thấy Bitcoin đã giảm mạnh sau khi đạt mốc 94.800 USD, mức cao nhất từ ngày 17.11.2025. Điều này đồng nghĩa một đợt bán tháo mạnh đã diễn ra, các nhà đầu tư chốt lời thay vì tiếp tục đẩy giá Bitcoin."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/7/screenshot-2026-01-07-at-072527-1767745554359494366407.png"
+      ],
+      "caption": "Diễn biến giá Bitcoin hôm nay, tính đến 7 giờ ngày 7.1.2026"
+    },
+    {
       "type": "text",
       "content": "Nhà phân tích Skew viết trên X (Twitter cũ) cùng biểu đồ về dữ liệu sổ lệnh của sàn giao dịch: \"Các nhà đầu tư đã phát đi tín hiệu tinh tế về việc bán ra ở vùng giá 94.000 USD. Họ bán vào phút chót khi biến động giá mạnh bắt đầu xuất hiện\"."
     },
@@ -51,6 +58,13 @@
     {
       "type": "text",
       "content": "Theo đó, trong Hội nghị Tổng kết ngành Tài chính năm 2025, triển khai kế hoạch, phương hướng năm 2026, do Bộ Tài chính tổ chức, hôm 6.1, Thủ tướng yêu cầu trước ngày 15.1, Bộ Tài chính cấp phép cho các doanh nghiệp tham gia thí điểm thị trường tài sản mã hóa (sandbox) theo quy định. Đồng thời, khẩn trương triển khai cơ chế một cửa quốc gia về đầu tư."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/7/bitcoin-00021-17677453137911139614780.jpg"
+      ],
+      "caption": "Đồng xu Bitcoin (phải) và Ethereum trước biểu đồ giá"
     },
     {
       "type": "text",

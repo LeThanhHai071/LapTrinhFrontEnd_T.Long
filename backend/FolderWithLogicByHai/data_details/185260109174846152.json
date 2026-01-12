@@ -13,12 +13,26 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/9/1-17679555585821147600539.jpg"
+      ],
+      "caption": ""
+    },
+    {
       "type": "text",
       "content": "Trước đó, từ 13.12.2025, các chuyến bay Vietjet khởi hành từ TP.HCM đi Thanh Hóa, Hà Nội đã chuyển khu vực làm thủ tục sang Sảnh A, nhà ga T1."
     },
     {
       "type": "text",
       "content": "Tại Sảnh A, nhà ga T1, hành khách bay cùng Vietjet sẽ có những trải nghiệm dịch vụ mới, thuận tiện cùng các ứng dụng công nghệ hiện đại trong làm thủ tục bay toàn trình, đặc biệt trong giai đoạn cao điểm lễ, tết Nguyên đán 2026 sắp tới."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/9/2-176795555854316628379.jpg"
+      ],
+      "caption": ""
     },
     {
       "type": "text",

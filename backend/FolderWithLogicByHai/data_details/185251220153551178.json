@@ -13,6 +13,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/20/singapore-17662196773361072172441.jpg"
+      ],
+      "caption": "Bên ngoài Tòa án nhà nước Singapore"
+    },
+    {
       "type": "text",
       "content": "Đài CNA ngày 20.12 đưa tin một phụ nữ người Việt vừa bị kết án 12 tuần tù giam tại Singapore, sau khi nhận tội vi phạm chế độ một vợ một chồng."
     },

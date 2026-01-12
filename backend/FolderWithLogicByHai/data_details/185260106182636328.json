@@ -12,6 +12,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/9/27/du-hoc-ireland-2025-3-1758981143704287290941.jpg"
+      ],
+      "caption": "Đại diện từ trường ĐH Ireland tư vấn cho sinh viên Việt Nam tại triển lãm du học Ireland, tháng 9.2025"
+    },
+    {
       "type": "h2",
       "content": "Hàng chục học bổng chính phủ bậc trung học"
     },
@@ -54,6 +61,13 @@
     {
       "type": "text",
       "content": "Hạn nộp hồ sơ học bổng tùy thuộc trường mà ứng viên lựa chọn, mốc trễ nhất là 10.7.2026."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/6/nottingham-trent-university-uk-17676986188351103656341.jpg"
+      ],
+      "caption": "Lễ tốt nghiệp tại ĐH Nottingham Trent, một trong những trường tham gia chương trình học bổng GREAT 2026"
     },
     {
       "type": "text",

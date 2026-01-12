@@ -12,6 +12,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/10/afp2026010489k44kwv3highresusmilitaryinterventioninvenezuela-17680889254082037309171.jpg"
+      ],
+      "caption": "Ông Maduro (giữa) bị các đặc vụ Mỹ đưa đến New York hôm 3.1"
+    },
+    {
       "type": "text",
       "content": "Hãng AFP ngày 11.1 dẫn lời nghị sĩ Venezuela Nicolas Maduro Guerra, con trai của Tổng thống Nicolas Maduro, cho hay cha mình \"vẫn ổn\" khi cùng phu nhân Cilia Flores bị giam tại Mỹ chờ xét xử."
     },
@@ -21,11 +28,11 @@
     },
     {
       "type": "text",
-      "content": "Một tuần sau khi đặc nhiệm Mỹ bắt giữ ông Maduro trong cuộc đột kích tại Caracas hôm 3.1, Bộ Ngoại giao Mỹ ngày 10.1 kêu gọi người Mỹ ở Venezuela rời khỏi nước này \"ngay lập tức\", viện dẫn nguy cơ từ các nhóm dân quân vũ trang đang lục soát xe cộ để tìm kiếm công dân Mỹ tại các chốt chặn."
+      "content": "Tình hình Tổng thống Venezuela bị Mỹ bắt hiện ra sao?"
     },
     {
       "type": "text",
-      "content": "Ông Trump kêu gọi, đại gia dầu mỏ Mỹ chưa mặn mà đổ tiền vào Venezuela"
+      "content": "Một tuần sau khi đặc nhiệm Mỹ bắt giữ ông Maduro trong cuộc đột kích tại Caracas hôm 3.1, Bộ Ngoại giao Mỹ ngày 10.1 kêu gọi người Mỹ ở Venezuela rời khỏi nước này \"ngay lập tức\", viện dẫn nguy cơ từ các nhóm dân quân vũ trang đang lục soát xe cộ để tìm kiếm công dân Mỹ tại các chốt chặn."
     },
     {
       "type": "text",
@@ -34,6 +41,13 @@
     {
       "type": "text",
       "content": "\"Với các chuyến bay quốc tế đã được nối lại, công dân Mỹ ở Venezuela nên rời khỏi nước này ngay lập tức\", Bộ Ngoại giao Mỹ kêu gọi, đồng thời cảnh báo về các nhóm dân quân có vũ trang đang lục soát xe cộ để tìm người Mỹ hoặc bằng chứng cho thấy có sự ủng hộ đối với Mỹ."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/10/ap26004030712920-17680889253531356256698.jpg"
+      ],
+      "caption": "Lực lượng an ninh bên ngoài cơ sở ở New York, nơi ông Maduro hiện đang bị tạm giam"
     },
     {
       "type": "text",

@@ -20,6 +20,41 @@
       "content": "Four Point by Sheraton Hà Giang: Dừng lại giữa biển hồng tam giác mạch"
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/6/lung-hoa-ngap-tran-sac-hong--diem-check-in-khong-the-bo-qua-cho-nhung-phuot-thu-kham-pha-cung-duong-hanh-phuc-nguon-anh-hoang-hieu--di-cung-rua-1765014801403213828019.jpg"
+      ],
+      "caption": "Khi nửa cuối năm chạm ngõ, Hà Giang bước vào mùa đẹp nhất: mùa của hoa tam giác mạch"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/6/nguon-anh-hoang-hieu-di-cung-rua-17650148013711192662908.jpg"
+      ],
+      "caption": "Những cánh hoa nhỏ bé nở rộ từ tháng 10 đến đầu tháng 12, tô hồng cả cao nguyên đá Đồng Văn, phủ đầy những vách tai mèo xám lạnh bằng sắc màu mềm mại và kiên cường"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/6/khi-suc-song-hoi-sinh-nhung-cung-duong-phuot-ha-giang-nhu-duoc-nhuom-hong-tho-den-la-ki-nguon-anh-hoang-hieu--di-cung-rua-17650148012902060732730.jpg"
+      ],
+      "caption": "Cung đường Hạnh Phúc trở thành hành trình mơ mộng với Quản Bạ - Cổng Trời, Yên Minh, Sủng Là, Lũng Cú và Mã Pí Lèng, nơi mỗi điểm dừng đều mang một lát cắt khác nhau của sắc hoa và cuộc sống vùng cao"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/6/san-5-sao-quoc-te-dau-tien-tai-mien-cuc-bac-noi-mang-den-cho-du-khach-cam-giac-an-yen-sau-nhung-ngay-rong-ruoi-thuong-ngoan-sac-hong-cao-nguyen-1765014801240684573914.jpg"
+      ],
+      "caption": "Four Points by Sheraton Hà Giang, khách sạn quốc tế đầu tiên tại trung tâm thành phố là điểm tựa hoàn hảo để du khách khám phá hành trình ấy"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/6/nguon-anh-hoang-hieu-di-cung-rua1-1765014801347494796457.jpg"
+      ],
+      "caption": "Từ khách sạn, du khách dễ dàng di chuyển đến các cung đường nổi tiếng, rồi trở về nghỉ ngơi trong không gian ấm áp, hiện đại nhưng vẫn đậm hơi thở vùng cao"
+    },
+    {
       "type": "text",
       "content": "Tầm nhìn hướng dãy Tây Côn Lĩnh, hồ bơi vô cực giữa mây, ẩm thực đậm vị miền núi tại Hà Giang Kitchen và Lobby Lounge tạo nên những giây phút thư thái sau một ngày rong ruổi. Một ly cocktail hồng tại Rượu Bar, ngắm hoàng hôn buông xuống thung lũng, chính là khoảnh khắc lưu lại trọn vẹn nhất của mùa hoa tam giác mạch."
     },
@@ -32,8 +67,29 @@
       "content": "Không gian “xứ sở lễ hội nhiệt đới”, chuỗi sự kiện đặc sắc từ Giáng sinh đến năm mới tại Radisson Blue resort Phú Quốc."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/6/dji202412311859220035d-17650123684781761224308.jpg"
+      ],
+      "caption": "Nằm bên bờ biển nguyên sơ phía bắc đảo ngọc, nơi đây trở thành tâm điểm kỳ nghỉ cuối năm khi thay mình thành “xứ sở lễ hội nhiệt đới” rực rỡ"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/6/dj-17650123684301955723789.png"
+      ],
+      "caption": "Hai chủ đề Twinkle in Blu và Midnight in Blu mang lại bầu không khí trong trẻo, sôi động nhưng vẫn giữ được chất sang trọng đặc trưng của thương hiệu Blu"
+    },
+    {
       "type": "text",
       "content": "Từ ngày 6.12, lễ thắp sáng cây thông chính thức mở màn cho chuỗi hoạt động Giáng sinh: những giai điệu hợp xướng ấm áp, tiếng saxophone trầm bổng, buffet thịnh soạn tại Avenue và khoảnh khắc ông già Noel xuất hiện khiến không gian như sáng bừng trong niềm vui sum vầy. Với Midnight in Blu, du khách đón năm mới bên hồ bơi trong sắc bạc - trắng sang trọng, thưởng thức trình diễn violin, laser dance, DJ và cùng nhau đếm ngược tại Corona Food Center dưới bầu trời pháo hoa lung linh."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/6/khoi1323-17650123685141379053411.jpg"
+      ],
+      "caption": "Nhà hàng Avenue chào đón mùa Giáng sinh với bữa tiệc buffet đêm 24.12, mang đến hành trình ẩm thực phong phú từ những món ăn đặc trưng của Giáng sinh đến hải sản tươi ngon của đảo ngọc"
     },
     {
       "type": "text",
@@ -44,8 +100,36 @@
       "content": "Fusion suites Vũng Tàu: Sắc màu lễ hội hiện đại giữa thành phố biển"
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/6/42-1765013400605266454328.jpg"
+      ],
+      "caption": "Vũng Tàu những ngày cuối năm khoác lên diện mạo rực rỡ: hàng thông Bãi Trước phát sáng lung linh, gió biển lạnh nhẹ, tiếng sóng hòa vào không khí lễ hội khiến thành phố biển trở nên vừa nhộn nhịp vừa an yên"
+    },
+    {
       "type": "text",
       "content": "Nằm ngay trên cung đường Quang Trung, Fusion Suites Vũng Tàu như một mảnh ghép hiện đại của bức tranh."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/6/ndt07568-17650134007042047506084.jpg"
+      ],
+      "caption": "Chương trình “A Fairy Christmas” của Fusion mang đậm tinh thần “wellness”, phong cách đã làm nên thương hiệu này"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/6/f4d0c789602ded73b43c-1765013536780305683560.jpg"
+      ],
+      "caption": "Từ sảnh lobby phủ sắc vàng ấm - xanh dịu, cây thông tối giản đến Breeze Lounge hay rooftop đều được chăm chút theo tinh thần thanh thoát và hiện đại"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/6/ndt07281-17650136167252143388675.jpg"
+      ],
+      "caption": "Ẩm thực là điểm sáng lớn, khi đội ngũ đầu bếp khéo léo kết hợp nguyên liệu địa phương với cảm hứng Địa Trung Hải, tạo nên những bữa tối Giáng sinh đầy trọn vẹn"
     },
     {
       "type": "text",
@@ -56,8 +140,36 @@
       "content": "Angsana & Dhawa Hồ Tràm: Bản giao hưởng ánh sáng và sóng biển cuối năm"
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/6/copy-of-festive-social-09-1765014390919127221571.jpg"
+      ],
+      "caption": "Giữa miền biển Hồ Tràm yên bình, Angsana & Dhawa đem đến một mùa lễ hội rất riêng: nhẹ nhàng, ấm áp và đậm dấu ấn tinh tế"
+    },
+    {
       "type": "text",
       "content": "Không gian resort hòa quyện cùng gió biển, tiếng sóng vỗ và những khoảng trời xanh mở ra cảm giác thư thái mà chỉ Hồ Tràm mới có."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/6/copy-of-imgl1646-17650143909461835411046.jpg"
+      ],
+      "caption": "Lễ thắp sáng cây thông là khoảnh khắc đáng nhớ, khi sắc xanh nhiệt đới hòa trong ánh vàng ấm, tiếng hợp xướng vang lên như bản nhạc mở đầu cho mùa yêu thương"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/6/copy-of-imgl2960-1765014390983475296656.jpg"
+      ],
+      "caption": "Ẩm thực tại Azura mang tinh thần Địa Trung Hải, hòa quyện cùng hải sản tươi của địa phương, giúp mỗi bữa tiệc trở thành trải nghiệm đầy cảm xúc"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/6/festive-social-02-17650143910251356632653.jpg"
+      ],
+      "caption": "Điểm khác biệt của Angsana & Dhawa là các hoạt động gắn kết gia đình: trẻ em được tự tay làm vòng nguyệt quế, tô màu đồ trang trí gỗ, tham gia trò chơi bên biển"
     },
     {
       "type": "text",

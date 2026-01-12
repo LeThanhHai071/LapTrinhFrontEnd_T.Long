@@ -28,6 +28,12 @@ async function crawlDetail(url) {
       .text()
       .trim();
 
+    const sapo = main
+      .find('.detail-sapo, [data-role="sapo"]')
+      .first()
+      .text()
+      .trim();
+
     let categories = [];
     const cateContainer = main.find(".detail-cate");
     if (cateContainer.length > 0) {
@@ -51,12 +57,6 @@ async function crawlDetail(url) {
       }
     }
 
-    const sapo = main
-      .find('.detail-sapo, [data-role="sapo"]')
-      .first()
-      .text()
-      .trim();
-
     const infoContainer = main.find(".detail-info");
     const publishDate =
       infoContainer.find("[data-role='publishdate']").length > 0
@@ -70,6 +70,13 @@ async function crawlDetail(url) {
 
     let content = [];
     const contentWrapper = main.find(".detail-content"); //.detail-cmain .detail-content
+    contentWrapper
+      .find(
+        'script, style, template, iframe, [class*="ads"], [id*="ads"], [id*="zone"], [class*="zone"], [id^="zone-"], [class^="zone-"], .clearfix'
+      )
+      .remove();
+
+    const children = contentWrapper.children();
 
     // contentWrapper.children().each((i, el) => {
     //   const $el = $(el);
@@ -145,39 +152,48 @@ async function crawlDetail(url) {
     //     }
     //   }
     // });
-    contentWrapper.children().each((i, el) => {
+    children.each((i, el) => {
       const $el = $(el);
       const tagName = el.name;
-      const contentTags = ["p", "h2", "h3", "div", "blockquote", "table"];
+      // const contentTags = ["p", "h2", "h3", "div", "blockquote", "table"];
 
-      if (!contentTags.includes(tagName)) return;
+      const classList = $el.attr("class") || "";
+
+      // if (!contentTags.includes(tagName)) return;
 
       let processedAsImage = false;
 
-      if ($el.hasClass("VCSortableInPreviewMode")) {
-        const type = $el.attr("type");
-        if (type === "Photo" || type === "photo-grid-album") {
+      if (
+        $el.hasClass("VCSortableInPreviewMode") ||
+        $el.is(".VCSortableInPreviewMode")
+      ) {
+        const type = ($el.attr("type") || "").toLowerCase();
+        if (type === "photo" || type === "photo-grid-album") {
           let images = [];
           $el.find("img").each((j, img) => {
             const src =
               $(img).attr("src") ||
               $(img).attr("data-src") ||
               $(img).attr("data-original");
+
             if (src) images.push(src);
           });
+          if (images.length > 0) {
+            const captionText = $el
+              .find(".PhotoCMS_Caption, figcaption, .imgcaption, p")
+              .first()
+              .text()
+              .trim();
 
-          const captionText = $el
-            .find(".PhotoCMS_Caption, figcaption, .imgcaption, p")
-            .first()
-            .text()
-            .trim();
-
-          content.push({
-            type: "image_block",
-            urls: images,
-            caption: captionText,
-          });
-          processedAsImage = true;
+            content.push({
+              type: "image_block",
+              urls: images,
+              caption: captionText,
+            });
+            processedAsImage = true;
+          } else {
+            console.warn("Tìm thấy block Photo nhưng không lấy được link ảnh.");
+          }
         }
       } else if ($el.is("table") || $el.find("table, img").length > 0) {
         const imgInEl = $el.find("img");
@@ -186,6 +202,7 @@ async function crawlDetail(url) {
           let images = [];
           imgInEl.each((j, img) => {
             const src = $(img).attr("src") || $(img).attr("data-src");
+
             if (src) images.push(src);
           });
 
@@ -233,7 +250,6 @@ async function crawlDetail(url) {
         }
       }
     });
-
     return {
       title,
       categories,
@@ -258,7 +274,6 @@ async function runStep3() {
     const jsonFiles = files.filter((f) => f.endsWith(".json"));
 
     for (const file of jsonFiles) {
-      console.log(`\nĐang xử lý file danh mục: ${file}`);
       const rawData = await fs.readFile(path.join(SOURCE_DIR, file), "utf-8");
       const { articles } = JSON.parse(rawData);
 
@@ -295,3 +310,6 @@ async function runStep3() {
 }
 
 module.exports = { runStep3 };
+// crawlDetail(
+//   "https://thanhnien.vn/tau-lan-bien-mat-duoi-bang-nam-cuc-sau-khi-phat-hien-cau-truc-ngam-bi-an-185260111110118489.htm"
+// );

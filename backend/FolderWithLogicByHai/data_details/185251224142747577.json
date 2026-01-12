@@ -37,6 +37,13 @@
       "content": "Thoát vị bẹn - Bệnh lý phổ biến nhưng không thể xem nhẹ"
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/24/a1-17665609007371661585962.jpg"
+      ],
+      "caption": "Đừng xem nhẹ khối phồng nhỏ ở vùng bẹn"
+    },
+    {
       "type": "text",
       "content": "Thoát vị bẹn là tình trạng một phần cơ quan trong ổ bụng như ruột hoặc mạc nối thoát ra ngoài thông qua điểm yếu của thành bụng vùng bẹn, tạo thành khối phồng bất thường dưới da. Bệnh chiếm khoảng 8% dân số, gặp nhiều ở nam giới."
     },
@@ -51,6 +58,13 @@
     {
       "type": "h2",
       "content": "TEP - Phẫu thuật nội soi ít xâm lấn điều trị dứt điểm thoát vị bẹn"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/24/a2-176656090070453904170.jpg"
+      ],
+      "caption": "Tấm lưới nhân tạo được đặt che phủ vùng bẹn"
     },
     {
       "type": "text",
@@ -73,8 +87,19 @@
       "content": "Vì sao phẫu thuật TEP giúp người bệnh \"hồi phục thần tốc\"?"
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/24/a3-176656090067379825912.jpg"
+      ],
+      "caption": "Bác sĩ đang thực hiện ca phẫu thuật nội soi"
+    },
+    {
       "type": "text",
       "content": "Theo các chuyên gia, kỹ thuật nội soi TEP được đánh giá cao nhờ nhiều ưu điểm vượt trội:"
+    },
+    {
+      "type": "text",
+      "content": "An toàn tối đa: Phẫu thuật được thực hiện hoàn toàn ngoài phúc mạc, hạn chế tối đa nguy cơ tổn thương nội tạng và biến chứng dính ruột.Phục hồi nhanh: Thời gian phẫu thuật ngắn (chỉ 1 - 2 giờ), vết mổ nhỏ, người bệnh có thể vận động sớm, giảm thời gian nằm việnHiệu quả bền vững: Lưới nhân tạo che phủ rộng vùng bẹn yếu, giúp giảm tỷ lệ tái phát (chỉ khoảng 2%).Tính thẩm mỹ cao: Vết mổ nhỏ, kín đáo, đáp ứng tốt yêu cầu về thẩm mỹ sau phẫu thuật."
     },
     {
       "type": "text",

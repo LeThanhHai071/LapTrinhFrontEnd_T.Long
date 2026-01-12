@@ -17,6 +17,13 @@
       "content": "Một số thói quen xấu có thể làm quá trình hao mòn pin laptop diễn ra nhanh hơn. Dưới đây là những thói quen cần tránh để bảo vệ pin của bạn."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/4/2-17675086932081937306894.jpg"
+      ],
+      "caption": "Có những thói quen khiến người dùng làm hao pin laptop nhanh hơn"
+    },
+    {
       "type": "h2",
       "content": "Tránh sử dụng chế độ ngủ"
     },
@@ -47,6 +54,13 @@
     {
       "type": "text",
       "content": "Một thói quen khác là sử dụng máy khi cắm sạc, bởi việc liên tục xả và sạc pin sẽ làm giảm dung lượng tối đa của pin nhanh hơn nhiều, do đó hãy dành thời gian sử dụng pin. Các laptop hiện đại có bộ điều khiển sạc và nguồn tuyệt vời, vì vậy pin sẽ không bị sạc quá mức khi cắm điện vì laptop sẽ tự động chuyển sang nguồn điện lưới ngay khi pin được sạc đầy."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/6/2-1767679464334725609930.jpg"
+      ],
+      "caption": "Cần hạn chế việc vừa cắm sạc vừa sử dụng"
     },
     {
       "type": "text",

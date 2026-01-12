@@ -25,6 +25,13 @@
       "content": "Xem phim được xem là một hình thức giải trí phổ biến, dễ tiếp cận và phù hợp với nhiều độ tuổi. Không chỉ mang lại tiếng cười, phim ảnh còn giúp người xem tìm thấy sự đồng cảm sau những giờ phút căng thẳng."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/9/1-17679502327451683606918.jpg"
+      ],
+      "caption": ""
+    },
+    {
       "type": "text",
       "content": "Nhiều chuyên gia tâm lý cho rằng những nội dung phim giàu tính nhân văn, có tiết tấu vừa phải sẽ giúp người xem giảm căng thẳng và ổn định cảm xúc. Việc cười cùng một bộ phim hài hay chậm lại trước một câu chuyện gia đình cũng là cách để giải phóng những cảm xúc bị dồn nén."
     },
@@ -47,6 +54,13 @@
     {
       "type": "text",
       "content": "Thay vì tạo cảm giác \"xem cho xong\", các bộ phim trên nền tảng này được xây dựng để người xem có thể duy trì thói quen xem phim mỗi ngày."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/9/2-17679502240921022410326.jpg"
+      ],
+      "caption": ""
     },
     {
       "type": "text",

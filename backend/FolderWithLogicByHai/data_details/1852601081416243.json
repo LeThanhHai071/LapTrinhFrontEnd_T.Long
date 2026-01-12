@@ -17,6 +17,13 @@
       "content": "Google đang tích cực tích hợp công nghệ AI Gemini vào nhiều ứng dụng của mình, giúp khả năng hoạt động của chúng trở nên đáng gờm và tạo thuận lợi cho người dùng."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/8/1-1767856036259914649278.jpg"
+      ],
+      "caption": "Gemini đang nâng tầm hệ sinh thái ứng dụng Google"
+    },
+    {
       "type": "h2",
       "content": "Gmail"
     },
@@ -41,6 +48,13 @@
       "content": "Trong Google Meet, Gemini nổi bật với tính năng \"Take notes for me\", hoạt động như một thư ký tự động, không chỉ ghi lại cuộc họp mà còn tổng hợp các điểm chính, quyết định và các mục hành động. Sau cuộc gọi, những ghi chú này được tự động lưu vào Google Docs và đính kèm vào lời mời trên lịch, đảm bảo rằng mọi thông tin quan trọng đều được ghi lại."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/8/2-1767856312127309516565.jpg"
+      ],
+      "caption": "Gemini có thể hoạt động như một thư ký tự động của cuộc họp trên Meet"
+    },
+    {
       "type": "text",
       "content": "Nếu tham gia muộn, tính năng Ask Gemini cho phép người dùng nhanh chóng nắm bắt nội dung cuộc họp mà không làm gián đoạn. Chỉ cần nhập câu hỏi vào giao diện bên cạnh, Gemini sẽ cung cấp một bản tóm tắt nhanh chóng về những gì đã được thảo luận."
     },
@@ -59,6 +73,13 @@
     {
       "type": "text",
       "content": "Giai đoạn chỉnh sửa cũng là lúc Gemini phát huy tối đa khả năng. Người dùng có thể yêu cầu AI diễn đạt lại các đoạn văn để rõ ràng hơn, sửa lỗi ngữ pháp hoặc thay đổi phong cách viết. Hệ thống còn có thể tóm tắt các tài liệu dài, giúp người dùng dễ dàng nắm bắt thông tin quan trọng."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/8/3-1767856326668403394752.jpg"
+      ],
+      "caption": "Nhiều tính năng mạnh mẽ đã được Gemini thêm vào cho Google Docs"
     },
     {
       "type": "text",

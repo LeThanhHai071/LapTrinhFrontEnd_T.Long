@@ -3,8 +3,40 @@
   "categoryName": "Doanh nghiệp",
   "fullSlug": "kinh-te-doanh-nghiep",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-11T04:16:42.055Z",
+  "lastUpdate": "2026-01-12T14:02:09.113Z",
   "articles": [
+    {
+      "title": "May Việt Tiến đặt mục tiêu doanh thu 1 tỉ USD vào năm 2029 - 2030",
+      "link": "https://thanhnien.vn/may-viet-tien-dat-muc-tieu-doanh-thu-1-ti-usd-vao-nam-2029-2030-18526011217111847.htm",
+      "pubDate": "Mon, 12 Jan 26 18:23:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/hinh-may-viet-tien-1-17682141040101614677444-49-0-1649-2560-crop-17682141578112141740823.jpg",
+      "description": "Tổng công ty CP May Việt Tiến kỷ niệm 50 năm hình thành và phát triển đã đặt ra những mục tiêu mới.",
+      "guid": "https://thanhnien.vn/may-viet-tien-dat-muc-tieu-doanh-thu-1-ti-usd-vao-nam-2029-2030-18526011217111847.htm"
+    },
+    {
+      "title": "Tuần cuối chiến thắng các giải thưởng lên đến 200 triệu tại Vietcap Invest",
+      "link": "https://thanhnien.vn/tuan-cuoi-chien-thang-cac-giai-thuong-len-den-200-trieu-tai-vietcap-invest-185260111154311087.htm",
+      "pubDate": "Mon, 12 Jan 26 08:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/vietcap-warren-176812060546285548243-0-144-810-1440-crop-17681208969961710428583.png",
+      "description": "Chỉ còn đúng 1 tuần trước khi cuộc thi Vietcap Invest: \"Nâng tầm đầu tư, thắng lớn mỗi tuần cùng Warren\" chính thức khép lại. Sau 5 tuần diễn ra sôi động, \"đấu trường\" đầu tư thực chiến do Vietcap khởi xướng đang bước vào giai đoạn quyết định, nhà đầu tư vẫn có thể tham gia và giành chiến thắng trong tuần cuối của chương trình.",
+      "guid": "https://thanhnien.vn/tuan-cuoi-chien-thang-cac-giai-thuong-len-den-200-trieu-tai-vietcap-invest-185260111154311087.htm"
+    },
+    {
+      "title": "EVNNPC giới thiệu UAV bảo vệ an toàn lưới điện miền Bắc",
+      "link": "https://thanhnien.vn/evnnpc-gioi-thieu-uav-bao-ve-an-toan-luoi-dien-mien-bac-185260111180210263.htm",
+      "pubDate": "Sun, 11 Jan 26 17:59:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/tsevnnpc-17681292228381180420049-0-0-673-1077-crop-1768129316834447512791.png",
+      "description": "Ngày 12 - 13.1 tại Hải Phòng, Tổng công ty Điện lực miền Bắc (EVNNPC) tổ chức triển lãm khoa học công nghệ (Techshow EVNNPC 2026) và hội nghị tổng kết công tác sản xuất, kinh doanh năm 2025, triển khai nhiệm vụ năm 2026.",
+      "guid": "https://thanhnien.vn/evnnpc-gioi-thieu-uav-bao-ve-an-toan-luoi-dien-mien-bac-185260111180210263.htm"
+    },
+    {
+      "title": "Handong E&C được vinh danh Top 100 Doanh nghiệp kiến tạo tương lai Việt Nam 2025",
+      "link": "https://thanhnien.vn/handong-ec-duoc-vinh-danh-top-100-doanh-nghiep-kien-tao-tuong-lai-viet-nam-2025-185260111104005511.htm",
+      "pubDate": "Sun, 11 Jan 26 11:45:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/4-17681025111221696100324-0-0-875-1400-crop-1768102678056166211485.jpg",
+      "description": "Ngày 8.1, tại Nhà hát Hồ Gươm, TP.Hà Nội, Công ty cổ phần Kỹ thuật & Xây dựng Handong (Handong E&C) đã được vinh danh trong VNR Future 100 - Top 100 Doanh nghiệp kiến tạo tương lai Việt Nam năm 2025, bảng xếp hạng vinh danh các doanh nghiệp được đánh giá có năng lực thích ứng, đổi mới và phát triển bền vững.",
+      "guid": "https://thanhnien.vn/handong-ec-duoc-vinh-danh-top-100-doanh-nghiep-kien-tao-tuong-lai-viet-nam-2025-185260111104005511.htm"
+    },
     {
       "title": "Người dân TP.HCM sắp có dịch vụ đưa thú cưng đi GrabCar, giá cước ra sao?",
       "link": "https://thanhnien.vn/nguoi-dan-tphcm-sap-co-dich-vu-dua-thu-cung-di-grabcar-gia-cuoc-ra-sao-185260110153941395.htm",
@@ -52,38 +84,6 @@
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/hinh-anh-viettel-1767950152234379270263-0-0-1600-2560-crop-17679501843841802179814.jpg",
       "description": "Sáng 9.1, Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel) tổ chức Hội nghị quân chính, tổng kết hoạt động sản xuất kinh doanh năm 2025.",
       "guid": "https://thanhnien.vn/viettel-thu-ve-ky-luc-hon-220000-ti-dong-nam-2025-185260109161842352.htm"
-    },
-    {
-      "title": "Danh Hiển Jewelers đoạt danh hiệu trang sức xuất sắc nhất châu Á",
-      "link": "https://thanhnien.vn/danh-hien-jewelers-doat-danh-hieu-trang-suc-xuat-sac-nhat-chau-a-185260109160519346.htm",
-      "pubDate": "Fri, 09 Jan 26 16:10:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/danhhien-1767949179032937646429-22-0-822-1280-crop-1767949446588547955924.jpg",
-      "description": "Tối 8.1, thương hiệu trang sức Danh Hiển Jewelers đã chính thức được vinh danh tại Luxuo Asia Awards 2025, đánh dấu một cột mốc quan trọng trong hành trình hơn 65 năm hình thành, phát triển và gìn giữ nghệ thuật kim hoàn cao cấp tại Việt Nam.",
-      "guid": "https://thanhnien.vn/danh-hien-jewelers-doat-danh-hieu-trang-suc-xuat-sac-nhat-chau-a-185260109160519346.htm"
-    },
-    {
-      "title": "PepsiCo Foods Việt Nam được vinh danh Doanh nghiệp xanh TP.HCM 2025",
-      "link": "https://thanhnien.vn/pepsico-foods-viet-nam-duoc-vinh-danh-doanh-nghiep-xanh-tphcm-2025-185260109111243278.htm",
-      "pubDate": "Fri, 09 Jan 26 10:57:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/z7355312044896eb4c1a196bbb06b3691d093ba76e65e5-1767931386211817786331-85-0-1685-2560-crop-1767931811117553857530.jpg",
-      "description": "PepsiCo Foods Việt Nam được vinh danh danh hiệu Doanh nghiệp xanh TP.HCM năm 2025, ghi nhận quá trình đầu tư và vận hành sản xuất bền vững bền bỉ, nhất quán. Danh hiệu này tiếp tục khẳng định năng lực duy trì và không ngừng nâng cao chuẩn mực của doanh nghiệp trong bối cảnh yêu cầu về môi trường, minh bạch và phát triển bền vững ngày càng được nâng cao.",
-      "guid": "https://thanhnien.vn/pepsico-foods-viet-nam-duoc-vinh-danh-doanh-nghiep-xanh-tphcm-2025-185260109111243278.htm"
-    },
-    {
-      "title": "Hai 'ông lớn' công nghệ mở rộng hợp tác tăng tốc bằng trí tuệ nhân tạo",
-      "link": "https://thanhnien.vn/hai-ong-lon-cong-nghe-mo-rong-hop-tac-tang-toc-bang-tri-tue-nhan-tao-185260109092600434.htm",
-      "pubDate": "Fri, 09 Jan 26 10:57:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/z7412093428618d84046a0a791b5260fa4b3fbe9abb046-1767925515314295173510-0-0-720-1152-crop-17679260443101673218657.jpg",
-      "description": "Thông qua trí tuệ nhân tạo (AI), hai 'ông lớn' công nghệ là Siemens và NVIDIA đang tái định hình toàn bộ chuỗi giá trị công nghiệp từ đầu đến cuối - từ thiết kế, kỹ thuật đến sản xuất, vận hành và chuỗi cung ứng.",
-      "guid": "https://thanhnien.vn/hai-ong-lon-cong-nghe-mo-rong-hop-tac-tang-toc-bang-tri-tue-nhan-tao-185260109092600434.htm"
-    },
-    {
-      "title": "INAX kỷ niệm 30 năm tại Việt Nam với chương trình Flash Sale đặc biệt",
-      "link": "https://thanhnien.vn/inax-ky-niem-30-nam-tai-viet-nam-voi-chuong-trinh-flash-sale-dac-biet-185260109103743748.htm",
-      "pubDate": "Fri, 09 Jan 26 10:34:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/img0821-1767930573696543943155-0-11-1440-2315-crop-1767930828416966766576.jpeg",
-      "description": "INAX - thương hiệu thiết bị vệ sinh hàng đầu Nhật Bản với hơn 100 năm lịch sử - tự hào đánh dấu cột mốc 30 năm hiện diện tại Việt Nam và chào năm mới 2026 bằng sự kiện được tổ chức tại AEON Mall Sora Gardens SC (Bình Dương), diễn ra trong ba ngày 9 -11.1.2026.",
-      "guid": "https://thanhnien.vn/inax-ky-niem-30-nam-tai-viet-nam-voi-chuong-trinh-flash-sale-dac-biet-185260109103743748.htm"
     }
   ]
 }

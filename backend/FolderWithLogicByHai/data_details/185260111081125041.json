@@ -12,6 +12,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/11/nobel-17680939073592106517776.jpg"
+      ],
+      "caption": "Bà Maria Corina Machado phát biểu tại cuộc họp báo ở Oslo ( Na Uy) hôm 11.12.2025"
+    },
+    {
       "type": "text",
       "content": "Trong tuyên bố được Reuters dẫn lại hôm 11.1, Viện Nobel Na Uy cho biết quyết định trao giải Nobel Hòa bình là cuối cùng và vĩnh viễn. Dẫn các điều lệ của Quỹ Nobel, viện này khẳng định những quyết định liên quan đến giải này không cho phép kháng nghị."
     },
@@ -26,6 +33,10 @@
     {
       "type": "text",
       "content": "Trước đó, chia sẻ trên Đài Fox News hôm 5.1, bà Machado, chủ nhân giải Nobel Hòa bình 2025, tỏ ý muốn nhường lại giải thưởng của mình cho Tổng thống Trump."
+    },
+    {
+      "type": "text",
+      "content": "Venezuela - bạn biết gì về đất nước này?"
     },
     {
       "type": "text",

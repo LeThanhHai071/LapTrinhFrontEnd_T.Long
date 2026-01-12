@@ -3,8 +3,16 @@
   "categoryName": "Người sống quanh ta",
   "fullSlug": "doi-song-nguoi-song-quanh-ta",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-11T04:16:55.275Z",
+  "lastUpdate": "2026-01-12T14:02:17.362Z",
   "articles": [
+    {
+      "title": "Thầy giáo dạy mầm non truyền cảm hứng",
+      "link": "https://thanhnien.vn/thay-giao-day-mam-non-truyen-cam-hung-185260111215234467.htm",
+      "pubDate": "Mon, 12 Jan 26 15:50:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/photo-1768143053922-17681430550341648542094-60-0-1310-2000-crop-17681430882751891340568.jpeg",
+      "description": "Thầy giáo duy nhất trong số 363 người tham gia hội thi giáo viên mầm non dạy giỏi tỉnh Nghệ An đã nhận 'mưa tim' của cư dân mạng sau khi đạt danh hiệu giáo viên xuất sắc hội thi.",
+      "guid": "https://thanhnien.vn/thay-giao-day-mam-non-truyen-cam-hung-185260111215234467.htm"
+    },
     {
       "title": "Lan tỏa trên mạng xã hội: Nữ sinh viên viết thư tay cảm ơn các ân nhân",
       "link": "https://thanhnien.vn/lan-toa-tren-mang-xa-hoi-nu-sinh-vien-viet-thu-tay-cam-on-cac-an-nhan-185260107220016497.htm",
@@ -76,14 +84,6 @@
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/22/photo-1766415388324-1766415388766799639994-132-0-772-1024-crop-1766420006128143771788.png",
       "description": "Bà bán rau U.70 ở TP.HCM được người lạ trang điểm, mặc quần áo rực rỡ, tạo dáng và chụp hình ngay bên sạp rau giữa chợ bất ngờ gây sốt mạng xã hội thời gian qua. Nhiều người trìu mến gọi bà là \"bà tiên bán rau\", và phía sau những khoảnh khắc ấy là một câu chuyện mộc mạc, ấm áp.",
       "guid": "https://thanhnien.vn/niem-hanh-phuc-cua-ba-tien-ban-rau-o-tphcm-185251222220441064.htm"
-    },
-    {
-      "title": "Anh bán kem trên đảo được du khách 'săn đón'",
-      "link": "https://thanhnien.vn/anh-ban-kem-tren-dao-duoc-du-khach-san-don-185251219223515825.htm",
-      "pubDate": "Sat, 20 Dec 25 05:45:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/19/a-1-kem-online-1766158125646686392035-18-0-658-1024-crop-17661584776041333547351.jpg",
-      "description": "Anh Trần Văn Tuấn (40 tuổi, ở đảo Hòn Sơn thuộc đặc khu Kiên Hải, tỉnh An Giang, Kiên Giang cũ) bán kem dạo nhưng có biệt tài quay clip rất chuyên nghiệp nên được nhiều du khách… tìm đến.",
-      "guid": "https://thanhnien.vn/anh-ban-kem-tren-dao-duoc-du-khach-san-don-185251219223515825.htm"
     }
   ]
 }

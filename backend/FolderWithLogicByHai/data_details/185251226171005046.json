@@ -29,12 +29,26 @@
       "content": "Tuyệt nhất cho du lịch biển"
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2025/12/26/base64-17667441583141160617549.jpeg"
+      ],
+      "caption": "Được bao bọc bởi làn nước biển xanh ngọc và những bãi cát mịn, đây là nơi lý tưởng để thư giãn, nhâm nhi một ly cocktail trong khi mặt trời lặn dần xuống vịnh. Nhưng Phú Quốc không chỉ có vậy - khách du lịch đổ về đây để trải nghiệm cảm giác mạnh tại công viên giải trí VinWonders và chiêm ngưỡng khung cảnh ngoạn mục trên biển từ cáp treo vượt biển dài nhất thế giới tại công viên tự nhiên Sun World Hon Thom..."
+    },
+    {
       "type": "h2",
       "content": "2.Hà Nội"
     },
     {
       "type": "text",
       "content": "Tuyệt nhất cho những ai đến Việt Nam lần đầu"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2025/12/26/ha-noi-1766744249446108746697.jpg"
+      ],
+      "caption": "Mọi chuyến đi đều phải bắt đầu từ đâu đó, và điểm đến lý tưởng cho những người lần đầu đến Việt Nam chính là thủ đô lịch sử của đất nước. Bên cạnh cơ sở hạ tầng thuận tiện, chỗ ở giá cả phải chăng, ẩm thực đẳng cấp thế giới và bề dày lịch sử mà bạn khó lòng khám phá hết, Hà Nội còn là điểm xuất phát để đến các đảo và mỏm đá quanh vịnh Hạ Long cũng như những con đường mòn rợp bóng cây ở vùng núi Tây Bắc"
     },
     {
       "type": "h2",
@@ -45,12 +59,26 @@
       "content": "Tuyệt vời để có những bức ảnh biểu tượng"
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2025/12/26/vinh-bai-tu-long-1766744453946554716074.jpg"
+      ],
+      "caption": "Vịnh Hạ Long có thể khá đông đúc và chật chội, nhưng những vịnh lấp lánh ở phía bắc và phía nam lại có bầu không khí yên bình hơn và sở hữu bộ sưu tập các vách đá vôi và đảo ngoạn mục không kém. Ở vịnh Lan Hạ và vịnh Bái Tử Long, bạn sẽ không thấy quá nhiều tàu du lịch trong ảnh của mình. Hãy thử chèo thuyền kayak giữa các vách đá, khám phá những con đường mòn nhiệt đới trên đảo Cát Bà - cửa ngõ đến vịnh Lan Hạ - hoặc thư giãn trên bãi cát ở đảo Cô Tô yên bình thuộc vịnh Bái Tử Long"
+    },
+    {
       "type": "h2",
       "content": "4.TP.HCM"
     },
     {
       "type": "text",
       "content": "Tuyệt vời với cuộc sống về đêm"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2025/12/26/tphcm-1766744268720285210608.jpg"
+      ],
+      "caption": "Điểm đến đa văn hóa, mang đậm dấu ấn Pháp, thừa hưởng văn hóa từ đồng bằng sông Cửu Long, TP.HCM nhộn nhịp, sôi động và thú vị, đặc biệt là khi màn đêm buông xuống, vỉa hè biến thành một bữa tiệc di động với các quầy hàng ăn đường phố và quán bar ven đường"
     },
     {
       "type": "h2",
@@ -61,12 +89,26 @@
       "content": "Tuyệt vời cho những trải nghiệm độc đáo"
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2025/12/26/phong-nha-1766744577421456276490.jpg"
+      ],
+      "caption": "Nơi có hang Sơn Đoòng, hang động lớn nhất thế giới về thể tích và là kỳ quan thiên nhiên thực sự. Cả một khu phố ở thành phố New York có thể nằm gọn bên trong lối đi chính rộng lớn của nó, nhưng số lượng du khách được kiểm soát rất nghiêm ngặt và hang động khổng lồ này chỉ có thể tiếp cận bằng các tour du lịch có hướng dẫn viên với chi phí cao. Tin tốt là Vườn quốc gia Phong Nha - Kẻ Bàng có rất nhiều hang động khác mà bạn có thể leo trèo, bò, đi thuyền hoặc đu dây xuyên qua với chi phí thấp hơn nhiều"
+    },
+    {
       "type": "h2",
       "content": "6.Hội An"
     },
     {
       "type": "text",
       "content": "Tuyệt vời để khám phá lịch sử"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2025/12/26/hoi-an-17667447064991833814065.jpg"
+      ],
+      "caption": "Một kỳ nghỉ ở Hội An yên bình là một hành trình khám phá quá khứ huy hoàng, nhiều tầng lớp của Việt Nam. Nơi đây từng là một trong những cảng quan trọng nhất châu Á, và các thương nhân từ tận Nhật Bản, Tây Ban Nha và Bắc Mỹ đã mang đến vô số vàng bạc châu báu. Người dân địa phương đã sử dụng tiền bạc một cách khôn ngoan, biến khu phố cổ thành những dãy nhà cửa hàng gọn gàng, thu hút..."
     },
     {
       "type": "h2",
@@ -77,12 +119,26 @@
       "content": "Tuyệt vời nhất để ngắm cảnh núi non"
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2025/12/26/ha-giang-1766744792144207873027.jpg"
+      ],
+      "caption": "Trong ảnh là đèo Mã Pí Lèng vòng quanh bên dòng Nho Quế"
+    },
+    {
       "type": "h2",
       "content": "8. Các bãi biển miền Trung"
     },
     {
       "type": "text",
       "content": "Lý tưởng cho những người thích nắng"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2025/12/26/bien-da-nang-17667450266841554611297.jpg"
+      ],
+      "caption": "Những vịnh cát trắng trải dài dọc bờ biển miền Trung, nhưng không khí lại rất khác nhau giữa các bãi biển. Khách du lịch theo tour thường đổ xô đến Đà Nẵng và Nha Trang, nhưng còn có Thuận An, Mũi Né..."
     },
     {
       "type": "h2",
@@ -93,12 +149,26 @@
       "content": "Điểm đến lý tưởng cho lịch sử hoàng gia"
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2025/12/26/hue-1766745277463136528205.jpg"
+      ],
+      "caption": "Cố đô Huế vẫn thấm đẫm lịch sử hoàng gia, bất chấp sự tàn phá của bom đạn trong chiến tranh. Nhiều di tích đã mất ở Huế, nhưng sự huy hoàng của thời kỳ phong kiến Việt Nam vẫn còn hiện hữu. Ngay bên ngoài thành phố là lăng mộ của các vị hoàng đế, yên bình giữa những khuôn viên xanh mát bên bờ sông Hương. Một di tích khác của thời kỳ hoàng gia là ẩm thực cung đình Huế - có thể nói là ngon nhất cả nước"
+    },
+    {
       "type": "h2",
       "content": "10.Hồ Ba Bể"
     },
     {
       "type": "text",
       "content": "Tuyệt vời nhất cho cảnh quan hồ và rừng"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2025/12/26/ba-be-17667455440922048168791.jpg"
+      ],
+      "caption": "Việt Nam có hơn 30 vườn quốc gia, bao gồm mọi thứ từ đầm lầy ven biển đến rừng núi, nhưng một số nằm trên tuyến du lịch chính, và đám đông có thể cản trở việc quan sát động vật hoang dã. Điều đó ít là vấn đề ở Vườn quốc gia Ba Bể xinh đẹp, nơi những con đường mòn len lỏi giữa các đỉnh núi đá vôi đến các làng của người Hmong, Tày và Dao, và các chuyến đi thuyền và kayak băng qua những hồ nước yên bình được bao quanh bởi những rặng cây, tạo nên những cảnh tượng đẹp như tranh khắc gỗ thời Trung cổ"
     }
   ],
   "sourceUrl": "https://thanhnien.vn/tap-chi-my-goi-y-10-diem-du-lich-khong-the-bo-qua-o-viet-nam-185251226171005046.htm",

@@ -29,8 +29,22 @@
       "content": "Được quy hoạch thông minh nhằm phục vụ nhu cầu chăm sóc sức khỏe chủ động, Trung tâm Khám sức khỏe mới mang đến giải pháp y tế tích hợp theo mô hình \"Một điểm chạm\". Tại đây, khách hàng có thể thực hiện hầu hết các hạng mục khám sức khỏe ngay tại một khu vực duy nhất, giúp giảm thiểu di chuyển và tiết kiệm thời gian đáng kể."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/15/hinh-1-17657833608791253462665.jpg"
+      ],
+      "caption": "Không gian hiện đại tại Trung tâm Khám sức khỏe mới của Bệnh viện Đa khoa Quốc tế Hạnh Phúc"
+    },
+    {
       "type": "text",
       "content": "Không gian Trung tâm Khám Sức khỏe được tái thiết kế theo phong cách hiện đại, luồng di chuyển khoa học được bố trí một chiều và liền mạch bên cạnh khu vực chờ tiện nghi. Trang thiết bị y tế được nâng cấp đáng kể với 8 phòng khám chuyên khoa: Nội tổng quát, Ngoại tổng quát, Da liễu, Tai Mũi Họng, Răng Hàm Mặt, Phụ khoa, Mắt, Siêu âm và máy CT 128 lát cắt mới nhất sắp ra mắt."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/11/hp-2-17654508134781873133859.png"
+      ],
+      "caption": "Máy CT 128 lát cắt hiện đại sắp ra mắt tại Khu khám Đa khoa của Bệnh viện Đa khoa Quốc tế Hạnh Phúc"
     },
     {
       "type": "text",
@@ -43,6 +57,17 @@
     {
       "type": "text",
       "content": "Trung tâm Khám sức khỏe được thiết kế để phục vụ linh hoạt hai nhóm chính:"
+    },
+    {
+      "type": "text",
+      "content": "Khách hàng doanh nghiệp: Cung cấp quy trình tổ chức khám chuyên nghiệp với các gói khám định kỳ linh hoạt, có thể \"may đo\" tùy chỉnh theo đặc thù nghề nghiệp. Sau khám, doanh nghiệp được cung cấp báo cáo sức khỏe chi tiết và tư vấn giải pháp y tế chuyên sâu. Khách hàng cá nhân: Các gói khám tổng quát được thiết kế khoa học, phù hợp với từng độ tuổi, giới tính và nhu cầu của từng thành viên trong gia đình."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/11/hp-3-1765450813457319446437.jpg"
+      ],
+      "caption": "Tại Trung tâm Khám sức khỏe Hạnh Phúc, mỗi khách hàng đều được chăm sóc tận tình bởi đội ngũ y tế giàu kinh nghiệm"
     },
     {
       "type": "text",

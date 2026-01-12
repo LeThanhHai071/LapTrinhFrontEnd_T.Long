@@ -12,6 +12,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/6/edit-mdc-17676895334271349959297.jpeg"
+      ],
+      "caption": "Sở GD-ĐT TP.HCM chính thức thông tin về môn thi tuyển sinh lớp 10 năm học 2026-2027"
+    },
+    {
       "type": "h2",
       "content": "Môn thi thứ ba là ngoại ngữ"
     },
@@ -32,6 +39,13 @@
       "content": "Theo đó, thời gian kỳ tuyển sinh lớp 10 năm học 2026-2027, kỳ thi đầu tiên của TP.HCM sau khi sáp nhập cùng với Bình Dương và Bà Rịa-Vũng Tàu cũ sẽ được UBND TP.HCM phê duyệt trong thời gian tới. Việc công bố cấu trúc, yêu cầu đánh giá và bảng năng lực, cấp độ tư duy đề thi lớp 10 của 3 môn thi nhằm giúp các trường có cơ sở để chuẩn bị việc ôn tập, chuẩn bị kiến thức cho học sinh lớp 9 phù hợp."
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/6/hs-lop-9-17676901249181877889014.jpg"
+      ],
+      "caption": "Thời gian tuyển sinh lớp 10 năm học 2026-2027 sẽ được UBND TP.HCM phê duyệt trong thời gian tới"
+    },
+    {
       "type": "h2",
       "content": "Cấu trúc và yêu cầu đánh giá của từng môn thi"
     },
@@ -45,7 +59,15 @@
     },
     {
       "type": "text",
+      "content": "Phần 1 (5 điểm): Đọc hiểu văn bản văn học và viết đoạn văn"
+    },
+    {
+      "type": "text",
       "content": "Câu 1 (3 điểm): Đọc hiểu Câu 2 (2 điểm): Viết đoạn văn"
+    },
+    {
+      "type": "text",
+      "content": "Phần 2 (5 điểm): Đọc hiểu văn bản nghị luận hoặc văn bản thông tin và viết bài văn nghị luận xã hội"
     },
     {
       "type": "text",
@@ -70,6 +92,10 @@
     {
       "type": "text",
       "content": "Cấu trúc đề thi lớp 10 môn tiếng Anh, có 4 phần gồm 40 câu."
+    },
+    {
+      "type": "text",
+      "content": "Phần 1 (1 điểm): Ngữ âm, từ câu 1 đến câu 4; Phần 2 (3 điểm): Từ vựng, ngữ pháp, giao tiếp, từ câu 5 đến câu 16;Phần 3 (4 điểm): Viết dạng đúng của từ (câu 29 đến 34); Viết cụm từ phù hợp theo thông tin cho sẵn (câu 35, 36); Viết câu (từ câu 37 đến 40);Phần 4 (3 điểm): Đọc hiểu: Đọc và điền từ (câu 17 đến 22); Đọc hiểu trả lời câu hỏi (câu 23 đến 28)."
     },
     {
       "type": "text",

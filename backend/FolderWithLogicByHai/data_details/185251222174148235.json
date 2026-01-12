@@ -28,12 +28,61 @@
       "content": "Đặc sản tinh túy của miền Bắc góp mặt trong Mùi - vị quê nhà"
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/22/banh-gat-gu-tien-y6en-quang-ninh-1766398818313958480069.jpg"
+      ],
+      "caption": "Món khai vị mới nghe tên thôi đã thấy rất tò mò, bánh gật gù Tiên Yên (Quảng Ninh) ăn kèm cùng thịt băm, nước mắm Bắc và hành phi giòn thơm"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/22/thit-lon-den-lang-can-nuong-muoi-kien-1766398889788589270720.jpg"
+      ],
+      "caption": "Món thịt heo (lợn) đen Lăng Can nướng muối kiến, là đặc sản nổi tiếng của vùng núi Tuyên Quang. Giống lợn bản địa này được nuôi thả rông, ăn rau rừng, nên có thịt thơm săn chắc, ít mỡ, bì giòn"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/22/bun-oc-nguoi-17663988183391541958908.jpg"
+      ],
+      "caption": "Món bún ốc nguội trứ danh của người Hà Nội"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/22/ca-nuong-pa-pinh-top-17663990287971096959638.jpg"
+      ],
+      "caption": "Miền núi Sơn La có món cá nướng Pa Pỉnh Tộp với cách chế biến tẩm ướp kỳ công, đậm đà gia vị, rồi được kẹp trên những thanh tre và nướng trên than hồng"
+    },
+    {
       "type": "text",
       "content": "Đặc sản tinh túy của miền Bắc với nhiều món ngon đáng trải nghiệm. Từ bánh gật gù Tiên Yên (Quảng Ninh) đến món thịt lợn đen Lăng Can nướng muối kiến, đặc sản nổi tiếng của vùng núi Tuyên Quang, cá nướng Pa Pỉnh Tộp. Cả hai món nướng này đều ăn cùng xốt chẩm chéo, một trong những gia vị trứ danh của miền Tây Bắc. Cùng với đó, thực khách có dịp thưởng vị những thức quà quen của Hà Nội với bún ốc nguội hay bún cá Quỳnh Côi đặc sắc của vùng đất Thái Bình cũ."
     },
     {
       "type": "text",
       "content": "Ẩm thực miền Trung thêm vào bữa tiệc bởi nét dân dã \"khó tìm\" giữa nhịp sống hiện đại"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/22/banh-san-dap-hoi-an-1766399569696937285540.jpg"
+      ],
+      "caption": "Bánh sắn đập Hội An"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/22/chao-ca-khao-nghe-an-1766399569742248180665.jpg"
+      ],
+      "caption": "Cháo cá khoai Nghệ An"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/22/nhut-mit-huong-son-1766399569777733829943.jpg"
+      ],
+      "caption": "Nhút mít Hương Sơn"
     },
     {
       "type": "text",
@@ -44,12 +93,47 @@
       "content": "Xuôi về phương Nam, những hương vị hấp dẫn mang dấu ấn của miền sông nước"
     },
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/22/chuoi-nuong-17663997461121883060294.jpg"
+      ],
+      "caption": "Chuối nếp nướng"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/22/goi-tom-song-nuong-mien-cu-lao-17663997461401936569842.jpg"
+      ],
+      "caption": "Gỏi tôm sông nướng miền Cù Lao"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/22/mon-xoi-chien-phong-17663997461752040128389.jpg"
+      ],
+      "caption": "Món xôi chiên đẹp mắt ngon miệng"
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/22/quay-cac-mon-goi-17663997462082012329996.jpg"
+      ],
+      "caption": "Các món gỏi trứ danh của miền Tây sông nước"
+    },
+    {
       "type": "text",
       "content": "Xuôi về phương Nam là những hương vị hấp dẫn mang dấu ấn của miền sông nước miệt vườn như gỏi tôm sông miền Cù Lao, gà hấp bưởi Tân Triều ăn kèm muối tiêu sả hay vịt biển Cần Giờ nướng lu với xốt tiêu thơm lừng. Đặc biệt, có quầy xôi chiên phồng với đầu bếp biểu diễn điêu luyện, với kỹ thuật chiên những quả bóng xôi tròn to, thơm và giòn rụm."
     },
     {
       "type": "text",
       "content": "Tại quầy tráng miệng, bên cạnh những đặc sản ngọt ngào được chọn lọc từ các vùng miền như kẹo dồi trà xanh, vỏ bưởi non sấy, bánh hồng Bình Định, sẽ có thêm những sáng tạo như mía ghim hấp hoa bưởi, chuối nếp nướng, chè bưởi hay kem mắm cá linh (An Giang), kem mắm tôm chua (Gò Công), thêm phần trải nghiệm khác lạ và thú vị cho thực khách."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/22/bieu-dien-mua-dia-trong-nghe-thuat-mua-bong-roi-17663999739201103618982.jpg"
+      ],
+      "caption": "Biểu diễn múa dĩa trong nghệ thuật \"Múa bóng rỗi\""
     },
     {
       "type": "text",

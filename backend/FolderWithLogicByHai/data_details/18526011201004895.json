@@ -1,0 +1,53 @@
+{
+  "title": "Microsoft cảnh báo người dùng Windows Insider",
+  "categories": [
+    "Công nghệ",
+    "Tin tức công nghệ"
+  ],
+  "sapo": "Microsoft cảnh báo người dùng Windows Insider sớm chuyển kênh Dev sang Beta, trước khi các bản dựng tách biệt khiến việc hạ cấp buộc phải cài lại Windows.",
+  "publishDate": "12/01/2026 07:15 GMT+7",
+  "author": {
+    "name": "Kiến Văn",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/Uploaded/authors/CTV/kienvan_WULL.jpg",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Theo Neowin, Microsoft vừa phát hành các bản dựng xem trước Windows 11 hằng tuần, cho phép người dùng Windows Insider trong kênh Dev và Beta tải xuống bản cập nhật mới. Bản cập nhật mang đến nhiều cải tiến về khả năng truy cập, sửa lỗi cho File Explorer và nhiều tính năng khác."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/11/1-17681542999201299674340.jpg"
+      ],
+      "caption": "Người dùng Windows Insider kênh Dev nên chuyển sang Beta nếu không muốn gặp rủi ro"
+    },
+    {
+      "type": "text",
+      "content": "Đáng chú ý, Microsoft cũng đã đưa ra một lời nhắc nhở quan trọng dành cho những người dùng Insider có tham gia kênh Dev. Hiện tại, kênh Dev và Beta đang chia sẻ các bản cập nhật giống hệt nhau, cho phép người dùng Windows Insider dễ dàng chuyển đổi giữa các kênh mà không cần cài đặt lại Windows."
+    },
+    {
+      "type": "h2",
+      "content": "Microsoft mở 'cửa sổ ngắn hạn' cho Windows Insider"
+    },
+    {
+      "type": "text",
+      "content": "Tuy nhiên, cơ hội này sẽ không kéo dài khi Microsoft dự kiến sẽ nâng cấp kênh Dev lên bản dựng có số hiệu cao hơn, trong khi kênh Beta sẽ bị tụt lại phía sau. Do đó, những người dùng không muốn gặp phải rủi ro về lỗi nên cân nhắc chuyển từ kênh Dev sang kênh Beta ngay bây giờ."
+    },
+    {
+      "type": "text",
+      "content": "Việc chuyển đổi giữa các kênh mà không cần cài đặt lại Windows chỉ tồn tại khi Microsoft phát hành các bản dựng giống nhau cho cả hai kênh. Khi kênh Dev có phiên bản cao hơn kênh Beta, việc hạ cấp chỉ có thể thực hiện bằng cách cài đặt lại Windows 11 từ đầu."
+    },
+    {
+      "type": "text",
+      "content": "Để rời khỏi kênh Dev và chuyển sang kênh Beta, người dùng chỉ cần vào Settings > Windows Update > Windows Insider program. Sau khi thực hiện, máy tính sẽ ngừng nhận các bản cập nhật Dev và duy trì ở kênh Beta với các bản cập nhật ổn định hơn trước khi được phát hành rộng rãi."
+    },
+    {
+      "type": "text",
+      "content": "Trong khi các kênh Dev và Beta là nơi Microsoft thử nghiệm các tính năng mới của Windows 11, người dùng kênh Canary có cơ hội trải nghiệm phiên bản Windows 11 26H1 mà Microsoft dự kiến phát hành vào nửa đầu năm nay."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/microsoft-canh-bao-nguoi-dung-windows-insider-18526011201004895.htm",
+  "id": "18526011201004895"
+}

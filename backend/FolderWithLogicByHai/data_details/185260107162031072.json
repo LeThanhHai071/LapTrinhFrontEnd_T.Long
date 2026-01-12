@@ -12,6 +12,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2023/10/15/lei00743-16973755216881114412256.jpg"
+      ],
+      "caption": "Sinh viên Việt tìm hiểu cơ hội du học Ý với đại diện trường ĐH nước này vào tháng 10.2023"
+    },
+    {
       "type": "h2",
       "content": "Nhiều cơ hội du học Hungary, Ý, Thụy Điển"
     },
@@ -42,6 +49,13 @@
     {
       "type": "text",
       "content": "Chính phủ Ý dự kiến nhận đơn ứng tuyển học bổng Invest Your Talent in Italy (tạm dịch: Phát triển tài năng của bạn tại Ý) vào ngày 23.1.2026. Chương trình này dành cho sinh viên đến từ 18 quốc gia trong đó có Việt Nam, áp dụng với bậc thạc sĩ và sau ĐH. Học bổng sẽ miễn học phí cho ứng viên đồng thời cấp 1.000 euro (30,7 triệu đồng) mỗi tháng, cho phép sinh viên học 9 tháng và thực tập 3 tháng ở các doanh nghiệp Ý."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/7/dh-dan-mach-176777738627383703692.jpg"
+      ],
+      "caption": "Người học tại một trường ĐH Đan Mạch"
     },
     {
       "type": "text",

@@ -3,8 +3,24 @@
   "categoryName": "Quân sự",
   "fullSlug": "the-gioi-quan-su",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-11T04:16:12.662Z",
+  "lastUpdate": "2026-01-12T14:01:49.521Z",
   "articles": [
+    {
+      "title": "Nga bắn hạ F-16, Ukraine đưa vũ khí Mỹ vào tác chiến?",
+      "link": "https://thanhnien.vn/nga-ban-ha-f-16-ukraine-dua-vu-khi-my-vao-tac-chien-185260112074706349.htm",
+      "pubDate": "Mon, 12 Jan 26 08:55:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/hai-chiec-f-16-bay-o-ukraine-176817786296714900496-0-17-546-891-crop-17681779331181406915891.jpg",
+      "description": "Một chỉ huy quân sự Nga tuyên bố khẩu đội phòng không S-300 của ông đã bắn hạ một chiến đấu cơ F-16 do Mỹ sản xuất và được Ukraine sử dụng, theo Đài RT tối 11.1.",
+      "guid": "https://thanhnien.vn/nga-ban-ha-f-16-ukraine-dua-vu-khi-my-vao-tac-chien-185260112074706349.htm"
+    },
+    {
+      "title": "Chiến sự Ukraine ngày 1.418: Nga lần đầu tung UAV Geran-5, mặt trận Sumy nóng trở lại?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1418-nga-lan-dau-tung-uav-geran-5-mat-tran-sumy-nong-tro-lai-185260111212732325.htm",
+      "pubDate": "Mon, 12 Jan 26 05:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/a07696377e3c79cd-17681422255161895588390-31-207-645-1190-crop-176814223382664101923.jpg",
+      "description": "Quân đội Ukraine vừa tiết lộ lực lượng Nga vừa sử dụng loại UAV mới thuộc dòng Geran trong các cuộc tấn công gần đây.",
+      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1418-nga-lan-dau-tung-uav-geran-5-mat-tran-sumy-nong-tro-lai-185260111212732325.htm"
+    },
     {
       "title": "Chiến sự Ukraine ngày 1.417: Điện, nhiệt bị cúp giữa thời tiết âm độ C",
       "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1417-dien-nhiet-bi-cup-giua-thoi-tiet-am-do-c-185260110185951772.htm",
@@ -68,22 +84,6 @@
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/5/2026-01-05t051655z1703142259rc2tuiado66frtrmadp3ukraine-crisis-attack-kyiv-1767592484030891566328-160-0-960-1280-crop-17675926812981322289203.jpg",
       "description": "Quân đội Ukraine ngày 5.1 cáo buộc lực lượng Nga tập kích vào thủ đô Kyiv gây thương vong, trong khi phía Nga tiết lộ thủ đô Moscow bị tấn công mỗi ngày kể từ đầu năm nay.",
       "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1412-moscow-bi-tan-cong-moi-ngay-ong-zelensky-cai-to-noi-cac-185260105124537276.htm"
-    },
-    {
-      "title": "Triều Tiên phóng thử tên lửa bội siêu thanh giữa căng thẳng địa chính trị",
-      "link": "https://thanhnien.vn/trieu-tien-phong-thu-ten-lua-boi-sieu-thanh-giua-cang-thang-dia-chinh-tri-185260105063554657.htm",
-      "pubDate": "Mon, 05 Jan 26 07:09:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/4/afp2026010489k46nqv1midresskoreankoreamissile-17675696888002128314902-15-0-765-1200-crop-17675696953301169652236.jpg",
-      "description": "Hãng thông tấn KCNA hôm 5.1 đưa tin CHDCND Triều Tiên đã phóng thử các tên lửa bội siêu thanh hôm 4.1 nhằm đánh giá năng lực tác chiến quân sự về khía cạnh răn đe chiến tranh.",
-      "guid": "https://thanhnien.vn/trieu-tien-phong-thu-ten-lua-boi-sieu-thanh-giua-cang-thang-dia-chinh-tri-185260105063554657.htm"
-    },
-    {
-      "title": "Chiến sự Ukraine ngày 1.411: Ông Zelensky ra điều kiện",
-      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1411-ong-zelensky-ra-dieu-kien-185260104212737019.htm",
-      "pubDate": "Mon, 05 Jan 26 05:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/4/2026-01-02t133923z2107910294rc21tiasuyodrtrmadp3ukraine-crisis-attack-kharkiv-1767536409562688898379-5-0-1605-2560-crop-17675365429751787448867.jpg",
-      "description": "Ngày 4.1, các đợt tấn công bằng máy bay không người lái (UAV) tiếp tục diễn ra trên lãnh thổ Ukraine và Nga.",
-      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1411-ong-zelensky-ra-dieu-kien-185260104212737019.htm"
     }
   ]
 }

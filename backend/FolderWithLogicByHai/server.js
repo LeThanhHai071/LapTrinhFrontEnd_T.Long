@@ -3,8 +3,6 @@ const fs = require("fs").promises;
 const path = require("path");
 const cors = require("cors");
 const cron = require("node-cron");
-const { readInputJson } = require('../scraper');
-
 const { crawlCategories } = require("./1");
 const { crawlCategoriesJSON } = require("./2");
 const { runStep3 } = require("./3");

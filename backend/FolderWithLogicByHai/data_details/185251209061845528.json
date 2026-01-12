@@ -13,6 +13,13 @@
   },
   "content": [
     {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/8/chip-17652358783581567857819.jpg"
+      ],
+      "caption": "Tổng giám đốc Nvidia Jensen Huang đã tích cực vận động Nhà Trắng đảo ngược chính sách dưới thời chính quyền ông Biden về xuất khẩu chip AI"
+    },
+    {
       "type": "text",
       "content": "Theo bài đăng trên Truth Social, Tổng thống Trump nói đã thông báo với ông Tập về quyết định của Washington liên quan đến việc \"bật đèn xanh\" xuất khẩu chip AI của Nvidia, cụ thể là các sản phẩm thuộc dòng H200 cho \"những khách hàng được phê duyệt ở Trung Quốc và các nước khác, dưới những điều kiện đảm bảo an ninh quốc gia mạnh mẽ tiếp tục được duy trì\"."
     },
