@@ -1,0 +1,40 @@
+{
+  "title": "Ruby Fashion Store - thương hiệu thời trang cao cấp",
+  "categories": [
+    "Bạn cần biết"
+  ],
+  "sapo": "Thương hiệu luôn mang đến những sản phẩm thời trang cập nhật xu hướng với thiết kế tinh tế, hiện đại dành cho các cô nàng sành điệu.",
+  "publishDate": "02/03/2021 11:12 GMT+7",
+  "author": {
+    "name": "Hoa Huỳnh",
+    "avatar": "https://static.thanhnien.com.vn/thanhnien.vn/image/ava_inter.png",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "image_block",
+      "urls": [
+        "https://thanhnien.mediacdn.vn/uploaded/quochung.qc/2021_03_02/ruby/1_MQYN.jpg?width=500"
+      ],
+      "caption": ""
+    },
+    {
+      "type": "text",
+      "content": "Phong cách phục vụ chuyên nghiệp, thân thiện cùng mẫu mã sản phẩm đa dạng, cập nhật liên tục, giá cả hợp lý là những ưu điểm của Ruby Fashion Store. Nếu các nàng chưa biết lên đồ thế nào để dự tiệc, đi chơi hay dạo phố,… Ruby Fashion Store hứa hẹn là địa chỉ phù hợp để phái đẹp thoải mái lựa chọn trang phục hằng ngày."
+    },
+    {
+      "type": "text",
+      "content": "Ruby Fashion Store định hướng trở thành thương hiệu thời trang đa dạng phong cách, hướng tới nhóm khách hàng trẻ trung, hiện đại nhưng vẫn giữ được nét thanh lịch và nhẹ nhàng của người phụ nữ Việt."
+    },
+    {
+      "type": "text",
+      "content": "Thế mạnh của cửa hàng là các sản phẩm thời trang từ mặc nhà, dạo phố đến đi làm, dự tiệc và cả trang phục biểu diễn. Chất liệu cao cấp làm tôn lên vẻ đẹp của phụ nữ, tạo nên nét thanh lịch, sang trọng và quyến rũ qua từng dòng sản phẩm khác nhau."
+    },
+    {
+      "type": "text",
+      "content": "Thông tin liên hệ: Ruby Fashion Store Địa chỉ: Số 10 Lê Lợi, phường An Thạnh, TP. Hồng Ngự, tỉnh Đồng Tháp Fanpage: https://www.facebook.com/rubyfashionstore.chauthicamlinh Hotline: 093 298 07 79."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/ruby-fashion-store-thuong-hieu-thoi-trang-cao-cap-1851042121.htm",
+  "id": "1851042121"
+}

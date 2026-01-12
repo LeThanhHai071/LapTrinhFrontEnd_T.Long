@@ -1,0 +1,53 @@
+{
+  "title": "Microsoft đưa tính năng độc quyền trên PC AI đến toàn bộ Windows 11",
+  "categories": [
+    "Công nghệ",
+    "Tin tức công nghệ"
+  ],
+  "sapo": "Microsoft tích hợp Copilot vào Narrator trên Windows 11, cho phép mô tả hình ảnh bằng AI mà không cần phần cứng NPU chuyên dụng.",
+  "publishDate": "12/01/2026 14:34 GMT+7",
+  "author": {
+    "name": "Kiến Văn",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/Uploaded/authors/CTV/kienvan_WULL.jpg",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Vào giữa năm 2024, Microsoft chính thức ra mắt dòng sản phẩm PC Copilot+ đầu tiên, đi kèm với một loạt tính năng mới cho hệ điều hành Windows 11. Những tính năng này chỉ có trên các thiết bị được trang bị bộ xử lý thần kinh (Neural Processing Unit - NPU). Mặc dù hầu hết tính năng này vẫn chỉ dành riêng cho PC Copilot+, một số đã được mở rộng đến tất cả thiết bị chạy Windows 11."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/12/2-176820284788471038867.jpg"
+      ],
+      "caption": "Người dùng không nhất thiết phải cần đến máy tính AI để sử dụng Narrator tích hợp với Copilot"
+    },
+    {
+      "type": "text",
+      "content": "Trong bản dựng xem trước Windows 11 mới nhất được phát hành vào đầu năm 2026, Microsoft đã thông báo rằng ứng dụng Narrator sẽ được tích hợp với Copilot trên tất cả hệ thống Windows 11."
+    },
+    {
+      "type": "text",
+      "content": "Narrator đã được cập nhật để sử dụng công nghệ trí tuệ nhân tạo (AI), giúp tạo ra các mô tả hình ảnh chính xác hơn. Đây là tính năng lần đầu tiên được giới thiệu vào năm 2025 dành cho các PC Copilot+ sử dụng chip Snapdragon, AMD và Intel. Hiện tại, Microsoft đã thành công trong việc triển khai tính năng này mà không cần dựa vào NPU."
+    },
+    {
+      "type": "h2",
+      "content": "Narrator dùng Copilot mô tả hình ảnh trong mọi PC Windows 11"
+    },
+    {
+      "type": "text",
+      "content": "Người dùng có thể sử dụng phím tắt Narrator + Ctrl + D để yêu cầu Narrator mô tả hình ảnh đang được chọn, hoặc nhấn Narrator + Ctrl + S để mô tả toàn bộ màn hình. Khi Narrator mở Copilot, người dùng có thể nhập lời nhắc tùy chỉnh để nhận được kết quả mong muốn, bao gồm yêu cầu mô tả hình ảnh và nhiều tính năng khác. Microsoft cũng khẳng định Windows 11 sẽ không gửi hình ảnh đã chọn cho đến khi người dùng yêu cầu Copilot mô tả."
+    },
+    {
+      "type": "text",
+      "content": "Tính năng Narrator với sự hỗ trợ của Copilot hiện được triển khai dần cho người dùng Windows Insider trong kênh Dev và Beta với bản dựng 26220.7535. Tuy nhiên, tính năng này chưa có sẵn tại các quốc gia thuộc Khu vực Kinh tế châu Âu (EEA). Người dùng có thể tìm hiểu thêm về Narrator trong ghi chú phát hành của bản dựng 26220.7535."
+    },
+    {
+      "type": "text",
+      "content": "Ngoài ra, các bản cập nhật gần đây của Windows 11 cũng bao gồm hỗ trợ nhiều ngôn ngữ hơn cho Settings Agent nhằm cho phép người dùng mô tả những thay đổi mong muốn trong ứng dụng Settings bằng ngôn ngữ tự nhiên. Microsoft cũng đang tích hợp Copilot vào File Explorer giúp người dùng dễ dàng kích hoạt Copilot để quản lý các tệp của mình."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/microsoft-dua-tinh-nang-doc-quyen-tren-pc-ai-den-toan-bo-windows-11-185260112143019853.htm",
+  "id": "185260112143019853"
+}

@@ -1,0 +1,89 @@
+{
+  "categoryId": 100,
+  "categoryName": "Tin tức công nghệ",
+  "fullSlug": "cong-nghe-tin-tuc-cong-nghe",
+  "limitApplied": 10,
+  "lastUpdate": "2026-01-12T14:04:59.853Z",
+  "articles": [
+    {
+      "title": "Ấn Độ lại ra yêu cầu lạ với Apple, Samsung",
+      "link": "https://thanhnien.vn/an-do-lai-ra-yeu-cau-la-voi-apple-samsung-185260112162727728.htm",
+      "pubDate": "Mon, 12 Jan 26 19:17:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/an-doapplesamsung-1768209004718968771427-22-0-910-1420-crop-17682099556751152068357.png",
+      "description": "Ấn Độ viện lý do an ninh, đề xuất yêu cầu các nhà sản xuất smartphone như Apple, Samsung phải chia sẻ mã nguồn với chính phủ và thực hiện một số thay đổi phần mềm.",
+      "guid": "https://thanhnien.vn/an-do-lai-ra-yeu-cau-la-voi-apple-samsung-185260112162727728.htm"
+    },
+    {
+      "title": "Hệ sinh thái Samsung đủ sức khiến người dùng không cần đến Apple?",
+      "link": "https://thanhnien.vn/he-sinh-thai-samsung-du-suc-khien-nguoi-dung-khong-can-den-apple-185260112151326868.htm",
+      "pubDate": "Mon, 12 Jan 26 16:01:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/2-17682054188801534118614-0-0-720-1152-crop-17682054240211775668723.jpg",
+      "description": "Nhiều người chọn sản phẩm của Apple vì nhiều lý do khác nhau, trong đó hệ sinh thái mà Apple xây dựng được xem là nổi bật nhất.",
+      "guid": "https://thanhnien.vn/he-sinh-thai-samsung-du-suc-khien-nguoi-dung-khong-can-den-apple-185260112151326868.htm"
+    },
+    {
+      "title": "Microsoft đưa tính năng độc quyền trên PC AI đến toàn bộ Windows 11",
+      "link": "https://thanhnien.vn/microsoft-dua-tinh-nang-doc-quyen-tren-pc-ai-den-toan-bo-windows-11-185260112143019853.htm",
+      "pubDate": "Mon, 12 Jan 26 14:34:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/2-176820284788471038867-0-76-720-1228-crop-17682028581801224830740.jpg",
+      "description": "Microsoft tích hợp Copilot vào Narrator trên Windows 11, cho phép mô tả hình ảnh bằng AI mà không cần phần cứng NPU chuyên dụng.",
+      "guid": "https://thanhnien.vn/microsoft-dua-tinh-nang-doc-quyen-tren-pc-ai-den-toan-bo-windows-11-185260112143019853.htm"
+    },
+    {
+      "title": "Dell thừa nhận điều nhiều hãng né tránh: PC AI chưa đủ thuyết phục",
+      "link": "https://thanhnien.vn/dell-thua-nhan-dieu-nhieu-hang-ne-tranh-pc-ai-chua-du-thuyet-phuc-185260112121201021.htm",
+      "pubDate": "Mon, 12 Jan 26 13:51:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/1-17681943547111552811329-67-0-1067-1600-crop-1768194362664245920936.jpg",
+      "description": "Dell mới đây đưa ra một thông điệp khác biệt giữa bối cảnh ngành công nghiệp công nghệ đang rầm rộ quảng bá \"máy tính được hỗ trợ bởi AI\".",
+      "guid": "https://thanhnien.vn/dell-thua-nhan-dieu-nhieu-hang-ne-tranh-pc-ai-chua-du-thuyet-phuc-185260112121201021.htm"
+    },
+    {
+      "title": "Rơi vào thế khó, HP 'cầu cứu' nhà sản xuất DRAM Trung Quốc",
+      "link": "https://thanhnien.vn/roi-vao-the-kho-hp-cau-cuu-nha-san-xuat-dram-trung-quoc-185260111230650894.htm",
+      "pubDate": "Mon, 12 Jan 26 10:09:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/2-17681473639831696511116-0-0-435-696-crop-17681473764911562465857.jpg",
+      "description": "HP đang xem xét khả năng hợp tác với các nhà cung cấp bộ nhớ Trung Quốc để đảm bảo nguồn cung DRAM khi các lựa chọn khác dường như đã cạn kiệt.",
+      "guid": "https://thanhnien.vn/roi-vao-the-kho-hp-cau-cuu-nha-san-xuat-dram-trung-quoc-185260111230650894.htm"
+    },
+    {
+      "title": "Micro LED chưa kịp phổ cập, ngành TV bước vào kỷ nguyên Micro RGB",
+      "link": "https://thanhnien.vn/micro-led-chua-kip-pho-cap-nganh-tv-buoc-vao-ky-nguyen-micro-rgb-185260112000258871.htm",
+      "pubDate": "Mon, 12 Jan 26 10:04:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1-17681508597211090385752-105-0-1355-2000-crop-17681508675851153721040.jpg",
+      "description": "Micro LED đã và đang thu hút sự chú ý lớn từ người tiêu dùng, đặc biệt là với những tin đồn về việc iPhone và iPad sẽ áp dụng công nghệ này.",
+      "guid": "https://thanhnien.vn/micro-led-chua-kip-pho-cap-nganh-tv-buoc-vao-ky-nguyen-micro-rgb-185260112000258871.htm"
+    },
+    {
+      "title": "Microsoft cảnh báo người dùng Windows Insider",
+      "link": "https://thanhnien.vn/microsoft-canh-bao-nguoi-dung-windows-insider-18526011201004895.htm",
+      "pubDate": "Mon, 12 Jan 26 07:15:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1-17681542999201299674340-40-0-790-1200-crop-1768154318272684371705.jpg",
+      "description": "Microsoft cảnh báo người dùng Windows Insider sớm chuyển kênh Dev sang Beta, trước khi các bản dựng tách biệt khiến việc hạ cấp buộc phải cài lại Windows.",
+      "guid": "https://thanhnien.vn/microsoft-canh-bao-nguoi-dung-windows-insider-18526011201004895.htm"
+    },
+    {
+      "title": "Sau RAM và SSD, đến lượt TV bị cuốn vào cơn sốt giá linh kiện toàn cầu",
+      "link": "https://thanhnien.vn/sau-ram-va-ssd-den-luot-tv-bi-cuon-vao-con-sot-gia-linh-kien-toan-cau-185260111103230817.htm",
+      "pubDate": "Mon, 12 Jan 26 06:29:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/geminigeneratedimagec2dwq2c2dwq2c2dw-17681022715022013596787-158-428-1338-2316-crop-1768102283253365682156.png",
+      "description": "Khủng hoảng chuỗi cung ứng và nhu cầu bán dẫn tăng cao đang khiến ngày càng nhiều thiết bị công nghệ phải điều chỉnh giá.",
+      "guid": "https://thanhnien.vn/sau-ram-va-ssd-den-luot-tv-bi-cuon-vao-con-sot-gia-linh-kien-toan-cau-185260111103230817.htm"
+    },
+    {
+      "title": "Những điểm gây khó chịu khi sử dụng Google Gemini",
+      "link": "https://thanhnien.vn/nhung-diem-gay-kho-chiu-khi-su-dung-google-gemini-185260111123224099.htm",
+      "pubDate": "Sun, 11 Jan 26 17:55:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1-17681093800721009212282-0-60-675-1140-crop-17681093849122000529940.jpg",
+      "description": "Trợ lý AI (trí tuệ nhân tạo) Google Gemini hỗ trợ nhiều tác vụ phức tạp, nhưng người dùng không nên bỏ qua các rủi ro tiềm ẩn.",
+      "guid": "https://thanhnien.vn/nhung-diem-gay-kho-chiu-khi-su-dung-google-gemini-185260111123224099.htm"
+    },
+    {
+      "title": "Cuộc phát triển 5G 'thần tốc' tại Việt Nam",
+      "link": "https://thanhnien.vn/cuoc-phat-trien-5g-than-toc-tai-viet-nam-185260111085409727.htm",
+      "pubDate": "Sun, 11 Jan 26 10:19:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1c073876a7fe28a071ef-1768099387352540793274-14-0-740-1162-crop-17680994221431603358373.jpg",
+      "description": "Việt Nam bắt đầu thương mại hóa 5G vào cuối năm 2024. Theo báo cáo của Bộ Khoa học và Công nghệ, tính đến tháng 10.2025 đã có hơn 16.700 trạm 5G phủ sóng gần 40% dân số. Đến cuối năm 2025 số trạm 5G tăng mạnh, đã phủ sóng khoảng 90% dân số.",
+      "guid": "https://thanhnien.vn/cuoc-phat-trien-5g-than-toc-tai-viet-nam-185260111085409727.htm"
+    }
+  ]
+}

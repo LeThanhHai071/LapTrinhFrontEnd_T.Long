@@ -23,7 +23,7 @@ const NewsDetail = () => {
         setError(null);
       })
       .catch(() => {
-        setError("❌ Không tìm thấy bài viết");
+        setError("Không tìm thấy bài viết");
       })
       .finally(() => setLoading(false));
   }, [articleId]);
@@ -71,7 +71,7 @@ const NewsDetail = () => {
   };
 
   /* ===== UI STATE ===== */
-  if (loading) return <p>⏳ Đang tải bài viết...</p>;
+  if (loading) return <p>Đang tải bài viết...</p>;
   if (error) return <p>{error}</p>;
 
   return (
@@ -80,7 +80,7 @@ const NewsDetail = () => {
 
       <div className="meta">
         <span>{article.publishDate}</span>
-        <span>• {article.author}</span>
+        <span>{article.author.name}</span>
 
         <button className="speak-btn" onClick={handleSpeak}>
           {speaking ? "⏹ Dừng đọc" : "🔊 Đọc báo"}
@@ -91,12 +91,16 @@ const NewsDetail = () => {
 
       {/* ===== CONTENT ===== */}
       <div className="content">
-        {article.body?.map((block, index) => {
+        {article.content?.map((block, index) => {
           if (block.type === "text") {
             return <p key={index}>{block.content}</p>;
           }
 
-          if (block.type === "image") {
+          if(block.type === "h2") {
+            return <h2 key={index}>{block.content}</h2>
+          }
+
+          if (block.type === "image_block") {
             return (
               <figure key={index}>
                 <img src={block.url} alt={block.caption || ""} />

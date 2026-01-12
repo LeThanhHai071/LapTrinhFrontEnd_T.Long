@@ -11,68 +11,115 @@ import {
 import CategoryBox from "./CategoryBox";
 import { useState } from "react";
 import { useEffect } from "react";
-import NavItem from "./CategoryBoxStickyPage";
+import NavItem from "./NavItem";
 
 const Navbar = ({ isOpen, onCloseMenu }) => {
   const [categories, setCategories] = useState([]);
   const [newsData, setNewsData] = useState({});
 
+  // useEffect(() => {
+  //   const getCategories = async () => {
+  //     try {
+  //       const response = await axios.get(
+  //         "http://localhost:5000/api/categories"
+  //       );
+  //       const allData = response.data;
+  //       const parents = allData.filter((cat) => cat.parent_id === null);
+  //       const EXCLUDED_SLUGS = ['video', 'podcast', 'dien-dan', 'ban-can-biet', 'tieu-dung-thong-minh'];
+
+  //       const treeData = parents
+  //       .filter(p => !EXCLUDED_SLUGS.includes(p.slug))
+  //       .map((parent) => {
+  //           const children = allData.filter(
+  //             (child) => child.parent_id === parent.id
+  //           );
+  //           return {
+  //             id: parent.id,
+  //             title: parent.name,
+  //             slug: parent.slug,
+  //             items: children.map((c) => ({
+  //               text: c.name,
+  //               href: `/news/${c.slug}`,
+  //             })),
+  //             childrenCount: children.length,
+  //           };
+  //         })
+  //         .filter((parent) => parent.items.length > 0);
+
+  //       setCategories(treeData);
+
+  //       const mainSlugs = treeData.map((cat) => cat.slug);
+  //       const newsPromises = mainSlugs.map(async (slug) => {
+  //         try {
+  //           const res = await axios.get(
+  //             `http://localhost:5000/api/news/${slug}`
+  //           );
+  //           return { slug, data: res.data };
+  //         } catch (err) {
+  //           console.warn(`Không tìm thấy tin cho slug: ${slug}`);
+  //           return { slug, data: [] };
+  //         }
+  //       });
+  //       const allNewsResults = await Promise.all(newsPromises);
+  //       const formattedNews = {};
+  //       allNewsResults.forEach((item) => {
+  //         formattedNews[item.slug] = item.data;
+  //       });
+
+  //       setNewsData(formattedNews);
+  //     } catch (error) {
+  //       console.error("Không lấy được danh mục", error);
+  //     }
+  //   };
+
+  //   getCategories();
+  // }, []);
+
   useEffect(() => {
-    const getCategories = async () => {
+    const fetchMenuData = async () => {
       try {
+        // 1. Lấy danh mục (Backend đã trả về dạng cây)
         const response = await axios.get(
           "http://localhost:5000/api/categories"
         );
-        const allData = response.data;
-        const parents = allData.filter((cat) => cat.parent_id === null);
-        const EXCLUDED_SLUGS = ['video', 'podcast', 'dien-dan', 'ban-can-biet', 'tieu-dung-thong-minh'];
+        const rawTree = response.data;
 
-        const treeData = parents
-        .filter(p => !EXCLUDED_SLUGS.includes(p.slug))  
-        .map((parent) => {
-            const children = allData.filter(
-              (child) => child.parent_id === parent.id
-            );
-            return {
-              id: parent.id,
-              title: parent.name,
-              slug: parent.slug,
-              items: children.map((c) => ({
-                text: c.name,
-                href: `/news/${c.slug}`,
-              })),
-              childrenCount: children.length,
-            };
-          })
-          .filter((parent) => parent.items.length > 0);
+        // 2. Lọc bỏ các mục không muốn hiển thị trên Navbar
+        const EXCLUDED_SLUGS = ["home", "ban-can-biet", "ban-doc", "tieu-dung-thong-minh", "dien-dan", "podcast"];
+        const filteredTree = rawTree.filter(
+          (cat) =>
+            !EXCLUDED_SLUGS.includes(cat.slug) &&
+            cat.children &&
+            cat.children.length > 0
+        );
 
-        setCategories(treeData);
+        setCategories(filteredTree);
 
-        const mainSlugs = treeData.map((cat) => cat.slug);
-        const newsPromises = mainSlugs.map(async (slug) => {
+        // 3. Lấy tin tức cho từng mục cha để hiển thị ở Sub-menu
+        const newsPromises = filteredTree.map(async (cat) => {
           try {
             const res = await axios.get(
-              `http://localhost:5000/api/news/${slug}`
+              `http://localhost:5000/api/category/${cat.fullSlug}`
             );
-            return { slug, data: res.data };
+            return { slug: cat.slug, data: res.data.articles || [] };
           } catch (err) {
-            console.warn(`Không tìm thấy tin cho slug: ${slug}`);
-            return { slug, data: [] };
+            return { slug: cat.slug, data: [] };
           }
         });
-        const allNewsResults = await Promise.all(newsPromises);
+
+        const newsResults = await Promise.all(newsPromises);
         const formattedNews = {};
-        allNewsResults.forEach((item) => {
+        newsResults.forEach((item) => {
           formattedNews[item.slug] = item.data;
         });
 
         setNewsData(formattedNews);
       } catch (error) {
-        console.error("Không lấy được danh mục", error);
+        console.error("Lỗi fetch menu:", error);
       }
     };
 
-    getCategories();
+    fetchMenuData();
   }, []);
 
   return (
@@ -93,340 +140,6 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                   articles={newsData[cat.slug] || []}
                 />
               ))}
-              {/* <li>
-                <a
-                  href="/chinh-tri.htm"
-                  data-short-url="chinh-tri"
-                  title="Chính trị"
-                  className="nav-link"
-                >
-                  Chính trị
-                </a>
-                <div className="sub-menu loaded" data-zone="chinh-tri">
-                  <div className="sub-menu-flex">
-                    <div className="category">
-                      <a
-                        href="https://thanhnien.vn/chinh-tri.htm"
-                        className="title-cate"
-                      >
-                        Chính trị
-                      </a>
-                      <div className="list">
-                        <a
-                          href="https://thanhnien.vn/chinh-tri/su-kien.htm"
-                          title="Sự kiện"
-                          className="item"
-                        >
-                          Sự kiện
-                        </a>
-                        <a
-                          href="https://thanhnien.vn/chinh-tri/vuon-minh-trong-ky-nguyen-moi.htm"
-                          title="Vươn mình trong kỷ nguyên mới"
-                          className="item"
-                        >
-                          Vươn mình trong kỷ nguyên mới
-                        </a>
-                        <a
-                          href="https://thanhnien.vn/chinh-tri/thoi-luan.htm"
-                          title="Thời luận"
-                          className="item"
-                        >
-                          Thời luận
-                        </a>
-                        <a
-                          href="https://thanhnien.vn/chinh-tri/thi-dua-yeu-nuoc.htm"
-                          title="Thi đua yêu nước"
-                          className="item"
-                        >
-                          Thi đua yêu nước
-                        </a>
-                        <a
-                          href="https://thanhnien.vn/chinh-tri/chung-dong-mau-lac-hong.htm"
-                          title="Chung dòng máu Lạc Hồng"
-                          className="item"
-                        >
-                          Chung dòng máu Lạc Hồng
-                        </a>
-                        <a
-                          href="https://thanhnien.vn/chinh-tri/gop-y-van-kien-dai-hoi-dang.htm"
-                          title="Góp ý văn kiện đại hội Đảng"
-                          className="item"
-                        >
-                          Góp ý văn kiện đại hội Đảng
-                        </a>
-                      </div>
-                    </div>
-                    <div className="news">
-                      <div className="box-category-item">
-                        <a
-                          className="box-category-link-with-avatar img-resize "
-                          href="https://thanhnien.vn/tao-nguon-can-bo-nguoi-dan-toc-thieu-so-tu-hoc-sinh-xuat-sac-185251226160731383.htm"
-                          title="Tạo nguồn cán bộ người dân tộc thiểu số từ học sinh xuất sắc"
-                          data-id="185251226160731383"
-                        >
-                          <img
-                            data-type="avatar"
-                            src="https://images2.thanhnien.vn/zoom/200_125/528068263637045248/2025/12/26/tong-bi-thu-dan-toc-thieu-so-2-17667399629891521796289-194-0-1787-2549-crop-17667400183201287440506.jpg"
-                            alt="Tạo nguồn cán bộ người dân tộc thiểu số từ học sinh xuất sắc"
-                            className="box-category-avatar"
-                          />
-                        </a>
-                        <div className="box-category-content">
-                          <h3>
-                            <a
-                              data-linktype="newsdetail"
-                              data-id="185251226160731383"
-                              className="box-category-link-title"
-                              data-newstype=""
-                              href="https://thanhnien.vn/tao-nguon-can-bo-nguoi-dan-toc-thieu-so-tu-hoc-sinh-xuat-sac-185251226160731383.htm"
-                              title="Tạo nguồn cán bộ người dân tộc thiểu số từ học sinh xuất sắc"
-                            >
-                              Tạo nguồn cán bộ người dân tộc thiểu số từ học
-                              sinh xuất sắc
-                            </a>
-                          </h3>
-                        </div>
-                      </div>
-                      <div className="box-category-item">
-                        <a
-                          className="box-category-link-with-avatar img-resize "
-                          href="https://thanhnien.vn/tong-bi-thu-to-lam-moi-can-bo-dang-vien-phai-la-nhung-nguoi-truyen-cam-hung-18525122523181874.htm"
-                          title="Tổng Bí thư Tô Lâm: Mỗi cán bộ đảng viên phải là những người truyền cảm hứng
-"
-                          data-id="18525122523181874"
-                        >
-                          <img
-                            data-type="avatar"
-                            src="https://images2.thanhnien.vn/zoom/200_125/528068263637045248/2025/12/25/ho-chi-minh-hanh-trinh-khat-vong-2025-25122025-10-1766677594271922289889-106-0-1706-2560-crop-17666793719941292558133.jpg"
-                            alt="Tổng Bí thư Tô Lâm: Mỗi cán bộ đảng viên phải là những người truyền cảm hứng
-"
-                            className="box-category-avatar"
-                          />
-                        </a>
-                        <div className="box-category-content">
-                          <h3>
-                            <a
-                              data-linktype="newsdetail"
-                              data-id="18525122523181874"
-                              className="box-category-link-title"
-                              data-newstype=""
-                              href="https://thanhnien.vn/tong-bi-thu-to-lam-moi-can-bo-dang-vien-phai-la-nhung-nguoi-truyen-cam-hung-18525122523181874.htm"
-                              title="Tổng Bí thư Tô Lâm: Mỗi cán bộ đảng viên phải là những người truyền cảm hứng
-"
-                            >
-                              Tổng Bí thư Tô Lâm: Mỗi cán bộ đảng viên phải là
-                              những người truyền cảm hứng
-                            </a>
-                          </h3>
-                        </div>
-                      </div>
-                      <div className="box-category-item">
-                        <a
-                          className="box-category-link-with-avatar img-resize "
-                          href="https://thanhnien.vn/kien-quyet-dau-tranh-voi-hanh-vi-loi-dung-cong-dong-viet-kieu-de-chong-pha-dang-nha-nuoc-185251225204243772.htm"
-                          title="Kiên quyết đấu tranh với hành vi lợi dụng cộng đồng Việt kiều để chống phá Đảng, Nhà nước"
-                          data-id="185251225204243772"
-                        >
-                          <img
-                            data-type="avatar"
-                            src="https://images2.thanhnien.vn/zoom/200_125/528068263637045248/2025/12/25/itoanquoctongketcongtacdoivoinguoivietnamonuocngoai8494556-1766664430296779300398-1-0-1181-1888-crop-1766670126972445771221-0-500-868-1888-crop-1766674179352584495791.jpg"
-                            alt="Kiên quyết đấu tranh với hành vi lợi dụng cộng đồng Việt kiều để chống phá Đảng, Nhà nước"
-                            className="box-category-avatar"
-                          />
-                        </a>
-                        <div className="box-category-content">
-                          <h3>
-                            <a
-                              data-linktype="newsdetail"
-                              data-id="185251225204243772"
-                              className="box-category-link-title"
-                              data-newstype=""
-                              href="https://thanhnien.vn/kien-quyet-dau-tranh-voi-hanh-vi-loi-dung-cong-dong-viet-kieu-de-chong-pha-dang-nha-nuoc-185251225204243772.htm"
-                              title="Kiên quyết đấu tranh với hành vi lợi dụng cộng đồng Việt kiều để chống phá Đảng, Nhà nước"
-                            >
-                              Kiên quyết đấu tranh với hành vi lợi dụng cộng
-                              đồng Việt kiều để chống phá Đảng, Nhà nước
-                            </a>
-                          </h3>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </li>
-
-              <li>
-                <a
-                  href="/thoi-su.htm"
-                  data-short-url="thoi-su"
-                  title="Thời sự"
-                  className="nav-link"
-                >
-                  Thời sự
-                </a>
-                <div className="sub-menu loaded" data-zone="thoi-su">
-                  <div className="sub-menu-flex">
-                    <div className="category">
-                      <a
-                        href="https://thanhnien.vn/thoi-su.htm"
-                        className="title-cate"
-                      >
-                        Thời sự
-                      </a>
-                      <div className="list">
-                        <a
-                          href="https://thanhnien.vn/thoi-su/phap-luat.htm"
-                          title="Pháp luật"
-                          className="item"
-                        >
-                          Pháp luật
-                        </a>
-                        <a
-                          href="https://thanhnien.vn/thoi-su/dan-sinh.htm"
-                          title="Dân sinh"
-                          className="item"
-                        >
-                          Dân sinh
-                        </a>
-                        <a
-                          href="https://thanhnien.vn/thoi-su/lao-dong-viec-lam.htm"
-                          title="Lao động - Việc làm"
-                          className="item"
-                        >
-                          Lao động - Việc làm
-                        </a>
-                        <a
-                          href="https://thanhnien.vn/thoi-su/quyen-duoc-biet.htm"
-                          title="Quyền được biết"
-                          className="item"
-                        >
-                          Quyền được biết
-                        </a>
-                        <a
-                          href="https://thanhnien.vn/thoi-su/phong-su--dieu-tra.htm"
-                          title="Phóng sự / Điều tra"
-                          className="item"
-                        >
-                          Phóng sự / Điều tra
-                        </a>
-                        <a
-                          href="https://thanhnien.vn/thoi-su/quoc-phong.htm"
-                          title="Quốc phòng"
-                          className="item"
-                        >
-                          Quốc phòng
-                        </a>
-                        <a
-                          href="https://thanhnien.vn/thoi-su/chong-tin-gia.htm"
-                          title="Chống tin giả"
-                          className="item"
-                        >
-                          Chống tin giả
-                        </a>
-                        <a
-                          href="https://thanhnien.vn/thoi-su/thanh-tuu-y-khoa.htm"
-                          title="Thành tựu y khoa"
-                          className="item"
-                        >
-                          Thành tựu y khoa
-                        </a>
-                      </div>
-                    </div>
-                    <div className="news">
-                      <div className="box-category-item">
-                        <a
-                          className="box-category-link-with-avatar img-resize "
-                          href="https://thanhnien.vn/vi-sao-doanh-nghiep-thang-kien-van-khong-doi-duoc-tien-185251221094020226.htm"
-                          title="Vì sao doanh nghiệp thắng kiện vẫn không đòi được tiền?"
-                          data-id="185251221094020226"
-                        >
-                          <img
-                            data-type="avatar"
-                            src="https://images2.thanhnien.vn/zoom/200_125/528068263637045248/2025/12/21/phong-thi-hanh-an-1751423478144703812749-17662845358651035909684-130-0-1380-2000-crop-176628488585229505363.jpg"
-                            alt="Vì sao doanh nghiệp thắng kiện vẫn không đòi được tiền?"
-                            className="box-category-avatar"
-                          />
-                        </a>
-                        <div className="box-category-content">
-                          <h3>
-                            <a
-                              data-linktype="newsdetail"
-                              data-id="185251221094020226"
-                              className="box-category-link-title"
-                              data-newstype=""
-                              href="https://thanhnien.vn/vi-sao-doanh-nghiep-thang-kien-van-khong-doi-duoc-tien-185251221094020226.htm"
-                              title="Vì sao doanh nghiệp thắng kiện vẫn không đòi được tiền?"
-                            >
-                              Vì sao doanh nghiệp thắng kiện vẫn không đòi được
-                              tiền?
-                            </a>
-                          </h3>
-                        </div>
-                      </div>
-                      <div className="box-category-item">
-                        <a
-                          className="box-category-link-with-avatar img-resize "
-                          href="https://thanhnien.vn/chinh-sach-moi-ve-luong-thuong-thu-nhap-vien-chuc-tu-172026-185251220223919449.htm"
-                          title="Chính sách mới về lương, thưởng, thu nhập viên chức từ 1.7.2026"
-                          data-id="185251220223919449"
-                        >
-                          <img
-                            data-type="avatar"
-                            src="https://images2.thanhnien.vn/zoom/200_125/528068263637045248/2025/12/20/ung-khoa-cap-cuu-benh-vien-cho-ray-se-truc-vao-mung-1-tet-nam-nayanh-duy-tinh-1737642543829581875019-1766244979729131619837-36-0-836-1280-crop-17662450314801911699026.jpg"
-                            alt="Chính sách mới về lương, thưởng, thu nhập viên chức từ 1.7.2026"
-                            className="box-category-avatar"
-                          />
-                        </a>
-                        <div className="box-category-content">
-                          <h3>
-                            <a
-                              data-linktype="newsdetail"
-                              data-id="185251220223919449"
-                              className="box-category-link-title"
-                              data-newstype=""
-                              href="https://thanhnien.vn/chinh-sach-moi-ve-luong-thuong-thu-nhap-vien-chuc-tu-172026-185251220223919449.htm"
-                              title="Chính sách mới về lương, thưởng, thu nhập viên chức từ 1.7.2026"
-                            >
-                              Chính sách mới về lương, thưởng, thu nhập viên
-                              chức từ 1.7.2026
-                            </a>
-                          </h3>
-                        </div>
-                      </div>
-                      <div className="box-category-item">
-                        <a
-                          className="box-category-link-with-avatar img-resize "
-                          href="https://thanhnien.vn/triet-pha-duong-day-dua-ma-tuy-tu-campuchia-ve-viet-nam-tieu-thu-o-dong-nai-185251221091204438.htm"
-                          title="Triệt phá đường dây đưa ma túy từ Campuchia về Việt Nam, tiêu thụ ở Đồng Nai"
-                          data-id="185251221091204438"
-                        >
-                          <img
-                            data-type="avatar"
-                            src="https://images2.thanhnien.vn/zoom/200_125/528068263637045248/2025/12/21/ma-tuy-1766283519529788069779-6-0-319-501-crop-17662835949861363550188.jpg"
-                            alt="Triệt phá đường dây đưa ma túy từ Campuchia về Việt Nam, tiêu thụ ở Đồng Nai"
-                            className="box-category-avatar"
-                          />
-                        </a>
-                        <div className="box-category-content">
-                          <h3>
-                            <a
-                              data-linktype="newsdetail"
-                              data-id="185251221091204438"
-                              className="box-category-link-title"
-                              data-newstype=""
-                              href="https://thanhnien.vn/triet-pha-duong-day-dua-ma-tuy-tu-campuchia-ve-viet-nam-tieu-thu-o-dong-nai-185251221091204438.htm"
-                              title="Triệt phá đường dây đưa ma túy từ Campuchia về Việt Nam, tiêu thụ ở Đồng Nai"
-                            >
-                              Triệt phá đường dây đưa ma túy từ Campuchia về
-                              Việt Nam, tiêu thụ ở Đồng Nai
-                            </a>
-                          </h3>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </li> */}
             </ul>
           </div>
         </div>
@@ -460,12 +173,7 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
             <div className="header__mm-flex">
               <div className="header__mm-cate" id="appen__mega-menu">
                 {categories.map((cat) => (
-                  <CategoryBox
-                    key={cat.id}
-                    title={cat.title}
-                    titleHref={`/news/${cat.slug}`}
-                    items={cat.items}
-                  />
+                  <CategoryBox key={cat.id} category={cat} />
                 ))}
               </div>
 
