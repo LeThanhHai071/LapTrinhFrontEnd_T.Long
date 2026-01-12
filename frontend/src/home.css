@@ -98,3 +98,14 @@
   color: #555;
 }
 
+.search-mode .category-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+.search-item img {
+    height: 180px;
+    width: 100%;
+    object-fit: cover;
+}
+

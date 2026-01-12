@@ -8,10 +8,13 @@ import Login from "./login";
 import Profile from "./profile";
 import Register from "./register";
 import NewsList from "./NewsList";
-import NewsDetail from "./NewsDetail";
+import NewsDetail from "./newsDetail";
 import Subscription from "./Subscription";
 import Advertise from "./Advertise";
 import ShowWeather from "./ShowWeather";
+import SearchPage from "./SearchPage.jsx";
+import SearchDetailResult from "./SearchDetailResult.jsx";
+
 
 function App() {
   return (
@@ -20,18 +23,17 @@ function App() {
         <Route path="/" element={<MainLayout />}>
           <Route index element={<Home />} />
           <Route path="profile" element={<Profile />} />
-
           {/* DANH SÁCH TIN */}
           <Route path="news" element={<NewsList />} />
-
           {/*CHI TIẾT TIN */}
           <Route path="news/:id" element={<NewsDetail />} />
-
           <Route path="login" element={<Login />} />
           <Route path="register" element={<Register />} />
           <Route path="subscription" element={<Subscription />} />
           <Route path="advertise" element={<Advertise />} />
           <Route path="weather" element={<ShowWeather />} />
+          <Route path="search" element={<SearchPage />} />
+          <Route path="search-detail/:id" element={<SearchDetailResult />} />
         </Route>
       </Routes>
     </BrowserRouter>
