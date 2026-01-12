@@ -1,46 +1,78 @@
-const express = require('express');
-const cors = require('cors');
-const {readInputJson, processCategoryList, saveResultJson} = require('./scraper');
+const express = require("express");
+const cors = require("cors");
 const cron = require("node-cron");
 const fs = require("fs").promises;
 const fsSync = require("fs");
 const path = require("path");
-const {
-    updateNews,
-    DATA_DIR,
-    DETAILS_DIR,
-    CATEGORIES_FILE,
-} = require("./crawl_news_from_slugJSON");
-const {syncCategories} = require("./crawl_category_rss");
+
+const authRoute = require("./routes/auth.route");
+const profileRoute = require("./routes/profile.route");
+const { readInputJson, processCategoryList, saveResultJson } = require("./scraper");
+const { updateNews, DATA_DIR, DETAILS_DIR, CATEGORIES_FILE } = require("./crawl_news_from_slugJSON");
+const { syncCategories } = require("./crawl_category_rss");
 
 const app = express();
-app.use(cors());
 const PORT = 5000;
-app.use(express.json());
 
-app.get('/api/news', (req, res) => {
+app.use(cors());
+app.use(express.json());
+app.use("/api/auth", authRoute);
+app.use("/api/profile", profileRoute);
+
+/* ================= CRON JOB ================= */
+cron.schedule("0 0 * * *", async () => {
+    console.log("[CRON] Auto crawl news...");
     try {
-        const data = readInputJson('final_data.json');
+        const inputData = readInputJson("data_input.json");
+        const fullData = await processCategoryList(inputData);
+        saveResultJson(fullData);
+        console.log("[CRON] DONE:", new Date().toLocaleString());
+    } catch (err) {
+        console.error("[CRON ERROR]", err.message);
+    }
+});
+
+/* ================= API ================= */
+
+app.get("/api/news", (req, res) => {
+    try {
+        const data = readInputJson("final_data.json");
         res.json(data);
-    } catch (e) {
-        res.status(500).json({message: "Dữ liệu đang được chuẩn bị, vui lòng thử lại sau."});
+    } catch {
+        res.status(500).json({ message: "Dữ liệu đang được chuẩn bị" });
+    }
+});
+
+app.get("/api/news/detail/:articleId", async (req, res) => {
+    try {
+        const filePath = path.join(DETAILS_DIR, `${req.params.articleId}.json`);
+        if (!fsSync.existsSync(filePath)) {
+            return res.status(404).json({ message: "Không tìm thấy bài viết" });
+        }
+        const data = await fs.readFile(filePath, "utf-8");
+        res.json(JSON.parse(data));
+    } catch {
+        res.status(500).json({ message: "Lỗi server" });
+    }
+});
+
+app.post("/api/trigger-crawl", async (req, res) => {
+    try {
+        const inputData = readInputJson("data_input.json");
+        const fullData = await processCategoryList(inputData);
+        saveResultJson(fullData);
+        res.json({ message: "Crawl thủ công hoàn tất" });
+    } catch (err) {
+        res.status(500).json({ error: err.message });
     }
 });
 
 app.post("/api/sync-categories", async (req, res) => {
     try {
-        const limit = null;
-        // const { limit } = req.body;
-        console.log(`[API] Đang bắt đầu đồng bộ danh mục (Limit: ${limit || 'Full'})...`);
-
-        const result = await syncCategories(limit);
-
-        res.json({
-            message: "Đồng bộ danh mục thành công!",
-            info: result
-        });
+        const result = await syncCategories(null);
+        res.json({ message: "Sync OK", info: result });
     } catch (err) {
-        res.status(500).json({error: err.message});
+        res.status(500).json({ error: err.message });
     }
 });
 
@@ -48,137 +80,30 @@ app.get("/api/categories", async (req, res) => {
     try {
         const data = await fs.readFile(CATEGORIES_FILE, "utf-8");
         res.json(JSON.parse(data));
-    } catch (err) {
-        res.status(500).json({error: "Không thể đọc file categories"});
+    } catch {
+        res.status(500).json({ error: "Không đọc được categories" });
     }
 });
 
 app.get("/api/news/:slug", async (req, res) => {
-    try {
-        const filePath = path.join(DATA_DIR, `${req.params.slug}.json`);
-        if (fsSync.existsSync(filePath)) {
-            const data = await fs.readFile(filePath, "utf-8");
-            res.json(JSON.parse(data));
-        } else {
-            res.status(404).json({error: "Danh mục chưa có dữ liệu"});
-        }
-    } catch (err) {
-        res.status(500).json({error: "Lỗi Server"});
+    const filePath = path.join(DATA_DIR, `${req.params.slug}.json`);
+    if (!fsSync.existsSync(filePath)) {
+        return res.status(404).json({ error: "Danh mục chưa có dữ liệu" });
     }
+    const data = await fs.readFile(filePath, "utf-8");
+    res.json(JSON.parse(data));
 });
 
-// server.js
 app.get("/api/detail/:articleId", async (req, res) => {
-    try {
-        // Tìm chính xác theo tên file (logic cũ của đồng đội)
-        const filePath = path.join(DETAILS_DIR, `${req.params.articleId}.json`);
-        if (fsSync.existsSync(filePath)) {
-            const data = await fs.readFile(filePath, "utf-8");
-            res.json(JSON.parse(data));
-        } else {
-            res.status(404).json({error: "Không tìm thấy nội dung bài viết"});
-        }
-    } catch (err) {
-        res.status(500).json({error: "Lỗi Server"});
+    const filePath = path.join(DETAILS_DIR, `${req.params.articleId}.json`);
+    if (!fsSync.existsSync(filePath)) {
+        return res.status(404).json({ error: "Không tìm thấy bài viết" });
     }
+    const data = await fs.readFile(filePath, "utf-8");
+    res.json(JSON.parse(data));
 });
 
-
-app.get("/api/search-detail/:articleId", async (req, res) => {
-    try {
-        const { articleId } = req.params;
-        const files = await fs.readdir(DETAILS_DIR);
-
-        // Dùng logic tìm kiếm linh hoạt (EndsWith) chúng ta đã phát triển
-        const targetFile = files.find(f =>
-            f.endsWith(`-${articleId}.json`) || f === `${articleId}.json`
-        );
-
-        if (targetFile) {
-            const filePath = path.join(DETAILS_DIR, targetFile);
-            const data = await fs.readFile(filePath, "utf-8");
-            res.json(JSON.parse(data));
-        } else {
-            res.status(404).json({ error: "File chi tiết chưa tồn tại cho ID này" });
-        }
-    } catch (err) {
-        res.status(500).json({ error: "Lỗi hệ thống khi quét file" });
-    }
+/* ================= START SERVER ================= */
+app.listen(PORT, () => {
+    console.log(`🚀 Server running at http://localhost:${PORT}`);
 });
-
-const performSearch = async (keyword) => {
-    const searchKey = keyword.toLowerCase().trim();
-    const results = [];
-    const seenIds = new Set();
-
-    const listFiles = fsSync.readdirSync(DATA_DIR).filter(f => f.endsWith('.json'));
-    let detailFiles = [];
-    if (fsSync.existsSync(DETAILS_DIR)) {
-        detailFiles = fsSync.readdirSync(DETAILS_DIR).filter(f => f.endsWith('.json'));
-    }
-
-// server.js
-    const processFile = async (folder, fileName) => {
-        try {
-            const filePath = path.join(folder, fileName);
-            const fileContent = await fs.readFile(filePath, "utf-8");
-            const content = JSON.parse(fileContent);
-            const items = Array.isArray(content) ? content : [content];
-
-            for (const item of items) {
-                const itemString = JSON.stringify(item).toLowerCase();
-                if (itemString.includes(searchKey)) {
-
-                    // FIX TẠI ĐÂY: Xác định ID chuẩn để NewsDetail gọi API thành công
-                    // Nếu file nằm trong folder DETAILS_DIR, ID chính là tên file (bỏ .json)
-                    // Nếu file nằm trong folder DATA_DIR, ưu tiên lấy item.articleId
-                    let finalArticleId = item.articleId;
-                    if (folder === DETAILS_DIR) {
-                        finalArticleId = fileName.replace('.json', '');
-                    }
-
-                    if (finalArticleId && !seenIds.has(finalArticleId)) {
-                        seenIds.add(finalArticleId);
-                        results.push({
-                            ...item,
-                            articleId: finalArticleId,
-                            _source: fileName,
-                            _isDetail: folder === DETAILS_DIR
-                        });
-                    }
-                }
-            }
-        } catch (e) { /* ignore */ }
-    };
-
-    await Promise.all(listFiles.map(file => processFile(DATA_DIR, file)));
-    await Promise.all(detailFiles.map(file => processFile(DETAILS_DIR, file)));
-
-    return results;
-};
-app.get("/api/search", async (req, res) => {
-    try {
-        const keyword = req.query.q;
-        if (!keyword || keyword.length < 2) {
-            return res.json([]);
-        }
-
-        console.log(`[Search] Đang tìm kiếm từ khóa: ${keyword}`);
-        const results = await performSearch(keyword);
-
-        res.json(results);
-    } catch (err) {
-        console.error("Search error:", err);
-        res.status(500).json({error: "Lỗi trong quá trình tìm kiếm"});
-    }
-});
-
-app.get("/api/update", (req, res) => {
-    updateNews();
-    res.send("Đã kích hoạt tiến trình cập nhật ngầm...");
-});
-// cron.schedule("0 0 * * *", updateNews);
-
-app.listen(PORT, () => console.log(`Server listening on port ${PORT}`));
-
-
