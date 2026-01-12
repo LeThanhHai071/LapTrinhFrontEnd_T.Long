@@ -4,6 +4,7 @@ import "bootstrap-icons/font/bootstrap-icons.css";
 import MainLayout from "./components/MainLayout";
 import Home from "./home";
 import Login from "./login";
+import Profile from "./profile";
 import Register from "./register";
 import NewsList from "./NewsList";
 import NewsDetail from "./newsDetail";
@@ -23,6 +24,7 @@ function App() {
           {/* <Route path="/category/:slug" element={<NewsList />} /> */}
           <Route path="/category/:slug" element={<Category />} />
           <Route path="/article/:id" element={<NewsDetail />} />
+          <Route path="profile" element={<Profile />} />
           <Route path="login" element={<Login />} />
           <Route path="register" element={<Register />} />
           <Route path="subscription" element={<Subscription />} />
