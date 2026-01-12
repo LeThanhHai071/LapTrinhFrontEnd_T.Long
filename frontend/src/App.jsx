@@ -5,8 +5,9 @@ import "bootstrap-icons/font/bootstrap-icons.css";
 import MainLayout from "./components/MainLayout";
 import Home from "./home";
 import Login from "./login";
+import Profile from "./profile";
 import Register from "./register";
-import NewsList from "./NewsList";     // ✅ THÊM
+import NewsList from "./NewsList";
 import NewsDetail from "./NewsDetail";
 import Subscription from "./Subscription";
 import Advertise from "./Advertise";
@@ -18,11 +19,12 @@ function App() {
       <Routes>
         <Route path="/" element={<MainLayout />}>
           <Route index element={<Home />} />
+          <Route path="profile" element={<Profile />} />
 
-          {/* ✅ DANH SÁCH TIN */}
+          {/* DANH SÁCH TIN */}
           <Route path="news" element={<NewsList />} />
 
-          {/* ✅ CHI TIẾT TIN */}
+          {/*CHI TIẾT TIN */}
           <Route path="news/:id" element={<NewsDetail />} />
 
           <Route path="login" element={<Login />} />
