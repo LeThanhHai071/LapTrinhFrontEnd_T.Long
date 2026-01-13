@@ -14,6 +14,7 @@ import ShowWeather from "./ShowWeather";
 import SearchPage from "./SearchPage.jsx";
 import SearchDetailResult from "./SearchDetailResult.jsx";
 import Category from "./pages/Category.jsx";
+import ChangePassword from "./ChangePassword";
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
           {/* <Route path="/category/:slug" element={<NewsList />} /> */}
           <Route path="/category/:slug" element={<Category />} />
           <Route path="/article/:id" element={<NewsDetail />} />
+          <Route path="/change-password" element={<ChangePassword />} />
           <Route path="profile" element={<Profile />} />
           <Route path="login" element={<Login />} />
           <Route path="register" element={<Register />} />

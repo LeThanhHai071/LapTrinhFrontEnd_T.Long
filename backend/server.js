@@ -5,6 +5,7 @@ const fs = require("fs").promises;
 const fsSync = require("fs");
 const path = require("path");
 const authRoute = require("./routes/auth.route");
+const profileRoute = require("./routes/profile.route");
 const { crawlCategories } = require("./FolderWithLogicByHai/1");
 const { crawlCategoriesJSON } = require("./FolderWithLogicByHai/2");
 const { runStep3 } = require("./FolderWithLogicByHai/3");
@@ -28,6 +29,7 @@ const DATA_DETAILS_DIR = path.join(
 // --- API ROUTES ---
 
 app.use("/api/auth", authRoute);
+app.use("/api/profile", profileRoute);
 
 // API: Danh sách Category (Menu)
 app.get("/api/categories", async (req, res) => {
