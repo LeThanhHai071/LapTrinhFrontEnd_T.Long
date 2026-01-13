@@ -8,6 +8,7 @@ const authRoute = require("./routes/auth.route");
 const { crawlCategories } = require("./FolderWithLogicByHai/1");
 const { crawlCategoriesJSON } = require("./FolderWithLogicByHai/2");
 const { runStep3 } = require("./FolderWithLogicByHai/3");
+const { searchArticles } = require("./search");
 
 const app = express();
 const PORT = 5000;
@@ -144,97 +145,91 @@ app.post("/api/admin/crawl-all", async (req, res) => {
   })();
 });
 
-app.get("/api/search-detail/:articleId", async (req, res) => {
-  try {
-    const { articleId } = req.params;
-    const files = await fs.readdir(DETAILS_DIR);
+// const performSearch = async (keyword) => {
+//   const searchKey = keyword.toLowerCase().trim();
+//   const results = [];
+//   const seenIds = new Set();
 
-    // Dùng logic tìm kiếm linh hoạt (EndsWith) chúng ta đã phát triển
-    const targetFile = files.find(
-      (f) => f.endsWith(`-${articleId}.json`) || f === `${articleId}.json`
-    );
+//   const listFiles = fsSync
+//     .readdirSync(DATA_DIR)
+//     .filter((f) => f.endsWith(".json"));
+//   let detailFiles = [];
+//   if (fsSync.existsSync(DETAILS_DIR)) {
+//     detailFiles = fsSync
+//       .readdirSync(DETAILS_DIR)
+//       .filter((f) => f.endsWith(".json"));
+//   }
 
-    if (targetFile) {
-      const filePath = path.join(DETAILS_DIR, targetFile);
-      const data = await fs.readFile(filePath, "utf-8");
-      res.json(JSON.parse(data));
-    } else {
-      res.status(404).json({ error: "File chi tiết chưa tồn tại cho ID này" });
-    }
-  } catch (err) {
-    res.status(500).json({ error: "Lỗi hệ thống khi quét file" });
-  }
-});
+//   // server.js
+//   const processFile = async (folder, fileName) => {
+//     try {
+//       const filePath = path.join(folder, fileName);
+//       const fileContent = await fs.readFile(filePath, "utf-8");
+//       const content = JSON.parse(fileContent);
+//       const items = Array.isArray(content) ? content : [content];
 
-const performSearch = async (keyword) => {
-  const searchKey = keyword.toLowerCase().trim();
-  const results = [];
-  const seenIds = new Set();
+//       for (const item of items) {
+//         const itemString = JSON.stringify(item).toLowerCase();
+//         if (itemString.includes(searchKey)) {
+//           // FIX TẠI ĐÂY: Xác định ID chuẩn để NewsDetail gọi API thành công
+//           // Nếu file nằm trong folder DETAILS_DIR, ID chính là tên file (bỏ .json)
+//           // Nếu file nằm trong folder DATA_DIR, ưu tiên lấy item.articleId
+//           let finalArticleId = item.articleId;
+//           if (folder === DETAILS_DIR) {
+//             finalArticleId = fileName.replace(".json", "");
+//           }
 
-  const listFiles = fsSync
-    .readdirSync(DATA_DIR)
-    .filter((f) => f.endsWith(".json"));
-  let detailFiles = [];
-  if (fsSync.existsSync(DETAILS_DIR)) {
-    detailFiles = fsSync
-      .readdirSync(DETAILS_DIR)
-      .filter((f) => f.endsWith(".json"));
-  }
+//           if (finalArticleId && !seenIds.has(finalArticleId)) {
+//             seenIds.add(finalArticleId);
+//             results.push({
+//               ...item,
+//               articleId: finalArticleId,
+//               _source: fileName,
+//               _isDetail: folder === DETAILS_DIR,
+//             });
+//           }
+//         }
+//       }
+//     } catch (e) {
+//       /* ignore */
+//     }
+//   };
 
-  // server.js
-  const processFile = async (folder, fileName) => {
-    try {
-      const filePath = path.join(folder, fileName);
-      const fileContent = await fs.readFile(filePath, "utf-8");
-      const content = JSON.parse(fileContent);
-      const items = Array.isArray(content) ? content : [content];
+//   await Promise.all(listFiles.map((file) => processFile(DATA_DIR, file)));
+//   await Promise.all(detailFiles.map((file) => processFile(DETAILS_DIR, file)));
 
-      for (const item of items) {
-        const itemString = JSON.stringify(item).toLowerCase();
-        if (itemString.includes(searchKey)) {
-          // FIX TẠI ĐÂY: Xác định ID chuẩn để NewsDetail gọi API thành công
-          // Nếu file nằm trong folder DETAILS_DIR, ID chính là tên file (bỏ .json)
-          // Nếu file nằm trong folder DATA_DIR, ưu tiên lấy item.articleId
-          let finalArticleId = item.articleId;
-          if (folder === DETAILS_DIR) {
-            finalArticleId = fileName.replace(".json", "");
-          }
-
-          if (finalArticleId && !seenIds.has(finalArticleId)) {
-            seenIds.add(finalArticleId);
-            results.push({
-              ...item,
-              articleId: finalArticleId,
-              _source: fileName,
-              _isDetail: folder === DETAILS_DIR,
-            });
-          }
-        }
-      }
-    } catch (e) {
-      /* ignore */
-    }
-  };
-
-  await Promise.all(listFiles.map((file) => processFile(DATA_DIR, file)));
-  await Promise.all(detailFiles.map((file) => processFile(DETAILS_DIR, file)));
-
-  return results;
-};
+//   return results;
+// };
 app.get("/api/search", async (req, res) => {
   try {
     const keyword = req.query.q;
-    if (!keyword || keyword.length < 2) {
-      return res.json([]);
+    // if (!keyword || keyword.length < 2) {
+    //   return res.json([]);
+    // }
+    if (!keyword || keyword.trim().length < 2) {
+      return res.json({
+        success: true,
+        total: 0,
+        data: [],
+      });
     }
 
     console.log(`[Search] Đang tìm kiếm từ khóa: ${keyword}`);
-    const results = await performSearch(keyword);
+    const results = await searchArticles(keyword);
 
-    res.json(results);
+    // res.json(results);
+    res.json({
+      success: true,
+      total: results.length,
+      data: results,
+    });
   } catch (err) {
     console.error("Search error:", err);
-    res.status(500).json({ error: "Lỗi trong quá trình tìm kiếm" });
+    // res.status(500).json({ error: "Lỗi trong quá trình tìm kiếm" });
+    res.status(500).json({
+      success: false,
+      message: "Lỗi máy chủ khi tìm kiếm",
+    });
   }
 });
 
@@ -247,22 +242,22 @@ app.use((req, res) => {
 // --- LẬP LỊCH TỰ ĐỘNG (CRON JOB) ---
 
 // a. Details: Mỗi ngày một lần (Lúc 2:00 sáng)
-cron.schedule("0 2 * * *", async () => {
-  console.log("Cron: Đang cập nhật nội dung chi tiết bài viết...");
-  await runStep3();
-});
+// cron.schedule("0 2 * * *", async () => {
+//   console.log("Cron: Đang cập nhật nội dung chi tiết bài viết...");
+//   await runStep3();
+// });
 
 // b. Category Articles (Step 2): 1 lần mỗi tuần (Chủ nhật lúc 0:00)
-cron.schedule("0 0 * * 0", async () => {
-  console.log("Cron: Đang cập nhật danh sách bài viết danh mục...");
-  await crawlCategoriesJSON();
-});
+// cron.schedule("0 0 * * 0", async () => {
+//   console.log("Cron: Đang cập nhật danh sách bài viết danh mục...");
+//   await crawlCategoriesJSON();
+// });
 
 // c. Categories Structure (Step 1): 1 lần mỗi tháng (Ngày 1 đầu tháng)
-cron.schedule("0 0 1 * *", async () => {
-  console.log("Cron: Đang cập nhật cấu trúc danh mục...");
-  await crawlCategories();
-});
+// cron.schedule("0 0 1 * *", async () => {
+//   console.log("Cron: Đang cập nhật cấu trúc danh mục...");
+//   await crawlCategories();
+// });
 
 app.listen(PORT, () => {
   console.log(`Server is running at http://localhost:${PORT}`);

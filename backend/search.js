@@ -1,79 +1,94 @@
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
+const path = require("path");
 
-const BASE_DIR = path.join(__dirname, 'data_Hai');
+const DATA_ARTICLES_DIR = path.join(__dirname, "FolderWithLogicByHai/data_articles");
 
-// Hàm loại bỏ dấu tiếng Việt để search chính xác hơn
 const removeAccents = (str) => {
-    return str.normalize('NFD')
-        .replace(/[\u0300-\u036f]/g, '')
-        .replace(/đ/g, 'd').replace(/Đ/g, 'D');
+  if (!str) return "";
+  return str
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/đ/g, "d")
+    .replace(/Đ/g, "D")
+    .normalize("NFC");
 };
 
-const getAllFiles = (dirPath) => {
-    let results = [];
-    // Kiểm tra thư mục có tồn tại không để tránh crash
-    if (!fs.existsSync(dirPath)) return [];
+const searchArticles = (keyword) => {
+  if (!keyword) return [];
 
-    const list = fs.readdirSync(dirPath);
-    list.forEach((file) => {
-        const filePath = path.join(dirPath, file);
-        const stat = fs.statSync(filePath);
-        if (stat && stat.isDirectory()) {
-            results = results.concat(getAllFiles(filePath));
-        } else if (file.endsWith('.json')) {
-            results.push(filePath);
-        }
-    });
-    return results;
+  const searchKey = removeAccents(keyword.toLowerCase().trim());
+  //   const articleLinks = new Set();
+  const resultsMap = new Map();
+
+  if (!fs.existsSync(DATA_ARTICLES_DIR)) return [];
+  const files = fs
+    .readdirSync(DATA_ARTICLES_DIR)
+    .filter((f) => f.endsWith(".json"));
+
+  files.forEach((file) => {
+    try {
+      const filePath = path.join(DATA_ARTICLES_DIR, file);
+      const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+
+      const categoryName = data.categoryName || "";
+      const fullSlug = data.fullSlug || "";
+
+      // 1. Kiểm tra ở cấp Danh mục (categoryName và fullSlug)
+      //   const categoryMatch =
+      //     removeAccents(data.categoryName.toLowerCase()).includes(searchKey) ||
+      //     data.fullSlug.toLowerCase().includes(searchKey);
+
+      // 2. Duyệt qua danh sách bài viết
+      if (data.articles && Array.isArray(data.articles)) {
+        data.articles.forEach((art) => {
+          const title = art.title || "";
+          const description = art.description || "";
+
+          const normTitle = removeAccents(title.toLowerCase()).normalize("NFC");
+          const normDesc = removeAccents(description.toLowerCase()).normalize(
+            "NFC"
+          );
+
+          const titleMatch = normTitle.includes(searchKey);
+          const descMatch = normDesc.includes(searchKey);
+
+          //   const titleMatch = removeAccents(title.toLowerCase()).includes(
+          //     searchKey
+          //   );
+          //   const descMatch = removeAccents(description.toLowerCase()).includes(
+          //     searchKey
+          //   );
+
+          // Nếu khớp bất kỳ điều kiện nào:
+          // (Danh mục khớp THÌ lấy tất cả bài trong đó) HOẶC (Từng bài khớp lẻ)
+          if (titleMatch || descMatch) {
+            // if (art.link) {
+            //   articleLinks.add(art.link);
+            // }
+            const articleId =
+              art.articleId ||
+              (art.link ? art.link.split("/").pop().replace(".htm", "") : null);
+
+            if (articleId && !resultsMap.has(articleId)) {
+              resultsMap.set(articleId, {
+                articleId: articleId,
+                title: title,
+                description: description,
+                imageURL: art.imageURL,
+                pubDate: art.pubDate,
+                fullSlug: fullSlug,
+                categoryName: categoryName,
+              });
+            }
+          }
+        });
+      }
+    } catch (err) {
+      console.error(`Lỗi xử lý file ${file}:`, err.message);
+    }
+  });
+
+  return Array.from(resultsMap.values());
 };
 
-const searchAllData = (keyword) => {
-    if (!keyword) return [];
-
-    const searchKey = keyword.toLowerCase().trim();
-    const searchKeyNoAccent = removeAccents(searchKey);
-    // Tạo slug để khớp với tên file (thay khoảng trắng bằng gạch ngang)
-    const searchKeySlug = searchKeyNoAccent.replace(/\s+/g, '-');
-
-    const allFiles = getAllFiles(BASE_DIR);
-    let finalResults = [];
-
-    allFiles.forEach(filePath => {
-        console.log("Đang check file:", fileName, "với từ khóa:", searchKeySlug);
-        try {
-            const fileName = path.basename(filePath, '.json');
-            const fileNameNoAccent = removeAccents(fileName.replace(/-/g, ' '));
-
-            // 1. Kiểm tra xem Tên File có khớp từ khóa không
-            const isCategoryMatch = fileNameNoAccent.includes(searchKeyNoAccent) ||
-                fileName.includes(searchKeySlug);
-
-            const rawData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-            const dataArray = Array.isArray(rawData) ? rawData : [rawData];
-
-            dataArray.forEach(item => {
-                // 2. Kiểm tra nội dung bên trong bài viết (Title, Sapo...)
-                const itemString = JSON.stringify(item).toLowerCase();
-                const itemStringNoAccent = removeAccents(itemString);
-
-                const isContentMatch = itemStringNoAccent.includes(searchKeyNoAccent);
-
-                if (isCategoryMatch || isContentMatch) {
-                    finalResults.push({
-                        ...item,
-                        _source: fileName,
-                        _isInDetail: filePath.includes('details')
-                    });
-                }
-            });
-        } catch (err) {
-            console.error(`Lỗi đọc file tại ${filePath}:`, err);
-        }
-    });
-
-    // Lọc trùng theo articleId hoặc title
-    return Array.from(new Map(finalResults.map(item => [item.articleId || item.title, item])).values());
-};
-
-module.exports = { searchAllData };
+module.exports = { searchArticles };
