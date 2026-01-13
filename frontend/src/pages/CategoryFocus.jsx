@@ -27,11 +27,11 @@ const CategoryFocus = ({ data }) => {
             {mainArticle && (
               <div
                 className="item-first"
-                data-id={getArticleId(mainArticle.link)}
+                data-id={`/article/${getArticleId(mainArticle.link)}`}
               >
                 <a
                   className="box-category-link-with-avatar img-resize"
-                  href={mainArticle.link}
+                  href={`/article/${getArticleId(mainArticle.link)}`}
                 >
                   <img
                     src={mainArticle.imageURL}

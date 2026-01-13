@@ -36,7 +36,7 @@ const NewsDetail = () => {
       return;
     }
 
-    const bodyText = article.body
+    const bodyText = article.content
       ?.filter((b) => b.type === "text")
       .map((b) => b.content)
       .join(" ");
@@ -103,7 +103,7 @@ const NewsDetail = () => {
           if (block.type === "image_block") {
             return (
               <figure key={index}>
-                <img src={block.url} alt={block.caption || ""} />
+                <img src={block.urls} alt={block.caption || ""} />
                 {block.caption && <figcaption>{block.caption}</figcaption>}
               </figure>
             );
