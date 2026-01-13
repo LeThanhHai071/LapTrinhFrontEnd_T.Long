@@ -1,151 +1,81 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./Footer.css";
-import { FacebookIconCustom, ZaloIconCustom, YoutubeIconCustom } from "./Footer_SocialIcon";
+import {
+  FacebookIconCustom,
+  ZaloIconCustom,
+  YoutubeIconCustom,
+} from "./Footer_SocialIcon";
+import { useState, useEffect } from "react";
+import axios from "axios";
 
 const Footer = () => {
+  const [columns, setColumns] = useState([]);
+
+  // Danh sách các slug bạn muốn loại bỏ (Blacklist)
+  const BLACKLIST = [
+    "home",
+    "ban-can-biet",
+    "ban-doc",
+    "tieu-dung-thong-minh",
+    "dien-dan",
+    "podcast",
+  ];
+
+  useEffect(() => {
+    const fetchFooterData = async () => {
+      try {
+        const response = await axios.get(
+          "http://localhost:5000/api/categories"
+        );
+        const allData = response.data;
+
+        // 1. Lọc dữ liệu theo 2 điều kiện:
+        // - Không nằm trong Blacklist
+        // - Bắt buộc phải có danh mục con (children.length > 0)
+        const filteredData = allData.filter(
+          (cat) =>
+            !BLACKLIST.includes(cat.slug) &&
+            cat.children &&
+            cat.children.length > 0
+        );
+
+        // 2. Chia dữ liệu vào các cột
+        const ITEMS_PER_COL = 4;
+        const chunked = [];
+        for (let i = 0; i < filteredData.length; i += ITEMS_PER_COL) {
+          chunked.push(filteredData.slice(i, i + ITEMS_PER_COL));
+        }
+
+        setColumns(chunked);
+      } catch (error) {
+        console.error("Lỗi lấy dữ liệu footer:", error);
+      }
+    };
+
+    fetchFooterData();
+  }, []);
+
   return (
     <div className="footer">
       <div className="footer__top">
         <div className="container">
           <div className="footer__nav">
-            <div className="col">
-              <a
-                className="item"
-                href="https://thanhnien.vn/chinh-tri.htm"
-                title="Chính trị"
-              >
-                Chính trị
-              </a>
-
-              <a
-                className="item"
-                href="https://thanhnien.vn/thoi-su.htm"
-                title="Thời sự"
-              >
-                Thời sự
-              </a>
-              <a
-                className="item"
-                href="https://thanhnien.vn/the-gioi.htm"
-                title=" Thế giới"
-              >
-                Thế giới
-              </a>
-              <a
-                className="item"
-                href="https://thanhnien.vn/kinh-te.htm"
-                title=" Kinh tế"
-              >
-                Kinh tế
-              </a>
-            </div>
-            <div className="col">
-              <a
-                className="item"
-                href="https://thanhnien.vn/doi-song.htm"
-                title=" Đời sống"
-              >
-                Đời sống
-              </a>
-              <a
-                className="item"
-                href="https://thanhnien.vn/suc-khoe.htm"
-                title=" Sức khoẻ"
-              >
-                Sức khoẻ
-              </a>
-              <a
-                className="item"
-                href="https://thanhnien.vn/gioi-tre.htm"
-                title="Giới trẻ"
-              >
-                Giới trẻ
-              </a>
-              <a
-                className="item"
-                href="https://thanhnien.vn/giao-duc.htm"
-                title="Giáo dục"
-              >
-                Giáo dục
-              </a>
-            </div>
-            <div className="col">
-              <a
-                className="item"
-                href="https://thanhnien.vn/du-lich.htm"
-                title="Du lịch"
-              >
-                Du lịch
-              </a>
-              <a
-                className="item"
-                href="https://thanhnien.vn/van-hoa.htm"
-                title="Văn hoá"
-              >
-                Văn hoá
-              </a>
-              <a
-                className="item"
-                href="https://thanhnien.vn/giai-tri.htm"
-                title="Giải trí"
-              >
-                Giải trí
-              </a>
-              <a
-                className="item"
-                href="https://thanhnien.vn/the-thao.htm"
-                title="Thể thao"
-              >
-                Thể thao
-              </a>
-            </div>
-            <div className="col">
-              <a
-                className="item"
-                href="https://thanhnien.vn/cong-nghe.htm"
-                title="Công nghệ"
-              >
-                Công nghệ
-              </a>
-              <a
-                className="item"
-                href="https://thanhnien.vn/xe.htm"
-                title=" Xe"
-              >
-                Xe
-              </a>
-              <a
-                className="item"
-                href="/thoi-trang-tre.htm"
-                title="Thời trang trẻ"
-              >
-                Thời trang trẻ
-              </a>
-              <a
-                className="item"
-                href="https://thanhnien.vn/video.htm"
-                title="Video"
-              >
-                Video
-              </a>
-            </div>
-            <div className="col">
-              <a
-                className="item"
-                href="https://thanhnien.vn/ban-doc.htm"
-                title=" Bạn đọc"
-              >
-                Bạn đọc
-              </a>
-              <a
-                className="item"
-                href="https://raovat.thanhnien.vn/"
-                title="Rao vặt"
-              >
-                Rao vặt
-              </a>
-            </div>
+            {/* Render các cột động từ API */}
+            {columns.map((columnItems, colIdx) => (
+              <div className="col" key={colIdx}>
+                {columnItems.map((cat) => (
+                  <a
+                    key={cat.id}
+                    className="item"
+                    href={`/news/${cat.fullSlug}`}
+                    title={cat.name}
+                  >
+                    {cat.name}
+                  </a>
+                ))}
+              </div>
+            ))}
           </div>
         </div>
       </div>

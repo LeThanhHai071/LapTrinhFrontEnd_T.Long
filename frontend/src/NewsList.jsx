@@ -29,7 +29,7 @@ const NewsList = () => {
 
   return (
     <div>
-      <h1>📰 Danh sách tin tức</h1>
+      <h1>Danh sách tin tức</h1>
 
       {newsList.map(item => (
         <div key={item.id} style={{ borderBottom: "1px solid #ddd", marginBottom: 20 }}>

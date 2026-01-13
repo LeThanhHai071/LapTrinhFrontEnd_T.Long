@@ -1,0 +1,89 @@
+{
+  "categoryId": 99,
+  "categoryName": "Công nghệ",
+  "fullSlug": "cong-nghe",
+  "limitApplied": 10,
+  "lastUpdate": "2026-01-12T14:03:55.667Z",
+  "articles": [
+    {
+      "title": "Ấn Độ lại ra yêu cầu lạ với Apple, Samsung",
+      "link": "https://thanhnien.vn/an-do-lai-ra-yeu-cau-la-voi-apple-samsung-185260112162727728.htm",
+      "pubDate": "Mon, 12 Jan 26 19:17:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/an-doapplesamsung-1768209004718968771427-22-0-910-1420-crop-17682099556751152068357.png",
+      "description": "Ấn Độ viện lý do an ninh, đề xuất yêu cầu các nhà sản xuất smartphone như Apple, Samsung phải chia sẻ mã nguồn với chính phủ và thực hiện một số thay đổi phần mềm.",
+      "guid": "https://thanhnien.vn/an-do-lai-ra-yeu-cau-la-voi-apple-samsung-185260112162727728.htm"
+    },
+    {
+      "title": "Giải thưởng 1 triệu USD tôn vinh sản phẩm, giải pháp AI Việt Nam",
+      "link": "https://thanhnien.vn/giai-thuong-1-trieu-usd-ton-vinh-san-pham-giai-phap-ai-viet-nam-18526011218261588.htm",
+      "pubDate": "Mon, 12 Jan 26 19:10:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/truong-gia-binh-1768217006402444533363-99-0-924-1320-crop-17682170435541584473006-185-295-768-1229-crop-17682196519002046382136.jpg",
+      "description": "Âu Lạc Grand Prize - giải thưởng công nghệ có giá trị 1 triệu USD chính thức được khởi động nhằm tôn vinh các sản phẩm, giải pháp AI do người Việt phát triển và làm chủ, tạo tác động tích cực, lâu dài cho kinh tế - xã hội.",
+      "guid": "https://thanhnien.vn/giai-thuong-1-trieu-usd-ton-vinh-san-pham-giai-phap-ai-viet-nam-18526011218261588.htm"
+    },
+    {
+      "title": "Mua REDMI Note 15 Series tại Thế Giới Di Động nhận ngay quà đến 5 triệu đồng",
+      "link": "https://thanhnien.vn/mua-redmi-note-15-series-tai-the-gioi-di-dong-nhan-ngay-qua-den-5-trieu-dong-185260112160343617.htm",
+      "pubDate": "Mon, 12 Jan 26 17:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/anh-1-1768208264064635424867-25-0-1025-1600-crop-1768208494172497539777.jpg",
+      "description": "Đặt mua REDMI Note 15 Series tại thời điểm này, người dùng không chỉ sở hữu một chiếc smartphone bền bỉ đáng tin cậy, mà còn nhận được loạt ưu đãi khủng lên đến 5 triệu đồng từ Thế Giới Di Động.",
+      "guid": "https://thanhnien.vn/mua-redmi-note-15-series-tai-the-gioi-di-dong-nhan-ngay-qua-den-5-trieu-dong-185260112160343617.htm"
+    },
+    {
+      "title": "Hệ sinh thái Samsung đủ sức khiến người dùng không cần đến Apple?",
+      "link": "https://thanhnien.vn/he-sinh-thai-samsung-du-suc-khien-nguoi-dung-khong-can-den-apple-185260112151326868.htm",
+      "pubDate": "Mon, 12 Jan 26 16:01:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/2-17682054188801534118614-0-0-720-1152-crop-17682054240211775668723.jpg",
+      "description": "Nhiều người chọn sản phẩm của Apple vì nhiều lý do khác nhau, trong đó hệ sinh thái mà Apple xây dựng được xem là nổi bật nhất.",
+      "guid": "https://thanhnien.vn/he-sinh-thai-samsung-du-suc-khien-nguoi-dung-khong-can-den-apple-185260112151326868.htm"
+    },
+    {
+      "title": "Microsoft đưa tính năng độc quyền trên PC AI đến toàn bộ Windows 11",
+      "link": "https://thanhnien.vn/microsoft-dua-tinh-nang-doc-quyen-tren-pc-ai-den-toan-bo-windows-11-185260112143019853.htm",
+      "pubDate": "Mon, 12 Jan 26 14:34:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/2-176820284788471038867-0-76-720-1228-crop-17682028581801224830740.jpg",
+      "description": "Microsoft tích hợp Copilot vào Narrator trên Windows 11, cho phép mô tả hình ảnh bằng AI mà không cần phần cứng NPU chuyên dụng.",
+      "guid": "https://thanhnien.vn/microsoft-dua-tinh-nang-doc-quyen-tren-pc-ai-den-toan-bo-windows-11-185260112143019853.htm"
+    },
+    {
+      "title": "Đội Converged trở thành quán quân 'A.I thực chiến', chinh phục 1 triệu USD từ Techcombank",
+      "link": "https://thanhnien.vn/doi-converged-tro-thanh-quan-quan-ai-thuc-chien-chinh-phuc-1-trieu-usd-tu-techcombank-185260112125042132.htm",
+      "pubDate": "Mon, 12 Jan 26 14:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/anh-1techcombank-trao-tang-hoc-bong-ve-ai-len-toi-1-trieu-usd-cho-doi-converged-17681965387481929569917-85-0-1365-2048-crop-1768196929275793337653.jpeg",
+      "description": "Tối 10.1.2026, Gala chung kết cuộc thi 'A.I thực chiến' mùa đầu tiên đã chính thức tìm ra đội thắng cuộc, khép lại một chương trình quy mô toàn quốc, quy tụ gần 400 đội thi đến từ các trường đại học, viện nghiên cứu và doanh nghiệp công nghệ trên cả nước.",
+      "guid": "https://thanhnien.vn/doi-converged-tro-thanh-quan-quan-ai-thuc-chien-chinh-phuc-1-trieu-usd-tu-techcombank-185260112125042132.htm"
+    },
+    {
+      "title": "Dell thừa nhận điều nhiều hãng né tránh: PC AI chưa đủ thuyết phục",
+      "link": "https://thanhnien.vn/dell-thua-nhan-dieu-nhieu-hang-ne-tranh-pc-ai-chua-du-thuyet-phuc-185260112121201021.htm",
+      "pubDate": "Mon, 12 Jan 26 13:51:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/1-17681943547111552811329-67-0-1067-1600-crop-1768194362664245920936.jpg",
+      "description": "Dell mới đây đưa ra một thông điệp khác biệt giữa bối cảnh ngành công nghiệp công nghệ đang rầm rộ quảng bá \"máy tính được hỗ trợ bởi AI\".",
+      "guid": "https://thanhnien.vn/dell-thua-nhan-dieu-nhieu-hang-ne-tranh-pc-ai-chua-du-thuyet-phuc-185260112121201021.htm"
+    },
+    {
+      "title": "Những yếu tố quyết định thời lượng pin smartphone",
+      "link": "https://thanhnien.vn/nhung-yeu-to-quyet-dinh-thoi-luong-pin-smartphone-18526010913034881.htm",
+      "pubDate": "Mon, 12 Jan 26 11:06:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/1-1767938480627746805673-158-0-1408-2000-crop-17679384905241843767963.jpg",
+      "description": "Thời lượng pin vẫn là một trong những mối quan tâm hàng đầu của người dùng khi lựa chọn smartphone mới.",
+      "guid": "https://thanhnien.vn/nhung-yeu-to-quyet-dinh-thoi-luong-pin-smartphone-18526010913034881.htm"
+    },
+    {
+      "title": "Rơi vào thế khó, HP 'cầu cứu' nhà sản xuất DRAM Trung Quốc",
+      "link": "https://thanhnien.vn/roi-vao-the-kho-hp-cau-cuu-nha-san-xuat-dram-trung-quoc-185260111230650894.htm",
+      "pubDate": "Mon, 12 Jan 26 10:09:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/2-17681473639831696511116-0-0-435-696-crop-17681473764911562465857.jpg",
+      "description": "HP đang xem xét khả năng hợp tác với các nhà cung cấp bộ nhớ Trung Quốc để đảm bảo nguồn cung DRAM khi các lựa chọn khác dường như đã cạn kiệt.",
+      "guid": "https://thanhnien.vn/roi-vao-the-kho-hp-cau-cuu-nha-san-xuat-dram-trung-quoc-185260111230650894.htm"
+    },
+    {
+      "title": "Micro LED chưa kịp phổ cập, ngành TV bước vào kỷ nguyên Micro RGB",
+      "link": "https://thanhnien.vn/micro-led-chua-kip-pho-cap-nganh-tv-buoc-vao-ky-nguyen-micro-rgb-185260112000258871.htm",
+      "pubDate": "Mon, 12 Jan 26 10:04:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1-17681508597211090385752-105-0-1355-2000-crop-17681508675851153721040.jpg",
+      "description": "Micro LED đã và đang thu hút sự chú ý lớn từ người tiêu dùng, đặc biệt là với những tin đồn về việc iPhone và iPad sẽ áp dụng công nghệ này.",
+      "guid": "https://thanhnien.vn/micro-led-chua-kip-pho-cap-nganh-tv-buoc-vao-ky-nguyen-micro-rgb-185260112000258871.htm"
+    }
+  ]
+}

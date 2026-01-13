@@ -1,0 +1,60 @@
+{
+  "title": "Rơi vào thế khó, HP 'cầu cứu' nhà sản xuất DRAM Trung Quốc",
+  "categories": [
+    "Công nghệ",
+    "Tin tức công nghệ"
+  ],
+  "sapo": "HP đang xem xét khả năng hợp tác với các nhà cung cấp bộ nhớ Trung Quốc để đảm bảo nguồn cung DRAM khi các lựa chọn khác dường như đã cạn kiệt.",
+  "publishDate": "12/01/2026 10:09 GMT+7",
+  "author": {
+    "name": "Kiến Văn",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/Uploaded/authors/CTV/kienvan_WULL.jpg",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Công ty CXMT của Trung Quốc được cho là có thể đáp ứng nhu cầu DRAM, cho phép HP tích hợp mô-đun bộ nhớ CXMT vào sản phẩm của công ty máy tính Mỹ."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/11/2-17681473639831696511116.jpg"
+      ],
+      "caption": "Khủng hoảng DRAM đẩy HP đến lựa chọn khó"
+    },
+    {
+      "type": "text",
+      "content": "Tình trạng thiếu hụt nguồn cung bộ nhớ đang ngày càng trở nên nghiêm trọng, ảnh hưởng đến cả những nhà sản xuất thiết bị gốc (OEM) lớn như HP. Theo báo cáo của Bank of America (BofA) và được nhà phân tích Tae Kim của Barron's công bố, HP đang tìm kiếm các nhà cung cấp bộ nhớ Trung Quốc để vận chuyển các sản phẩm \"có hạn\" sang châu Á và châu Âu."
+    },
+    {
+      "type": "text",
+      "content": "Báo cáo cũng chỉ ra các nhà cung cấp bộ nhớ và flash của Trung Quốc có thể sẽ trở nên phổ biến hơn trong tương lai do những hạn chế về nguồn cung từ các công ty lớn như Micron và Samsung. Dự kiến, sản lượng wafer DRAM của CXMT sẽ đạt 300.000 đơn vị mỗi tháng vào năm 2026, mặc dù vẫn thấp hơn so với các nhà cung cấp chính."
+    },
+    {
+      "type": "h2",
+      "content": "Không phải mọi máy tính HP đều sử dụng DRAM CXMT"
+    },
+    {
+      "type": "text",
+      "content": "CXMT được biết đến với khả năng sản xuất mô-đun DDR5, mặc dù sản phẩm HBM của hãng chưa được thị trường đón nhận mạnh mẽ. Công ty Trung Quốc cũng đang lên kế hoạch IPO tại Thượng Hải để huy động 4,2 tỉ USD nhằm mở rộng sản xuất."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/11/1-1768147570576322365707.jpg"
+      ],
+      "caption": "Chính phủ Mỹ liệu có ngăn cản hướng đi mới của HP?"
+    },
+    {
+      "type": "text",
+      "content": "Tuy nhiên, một trong những thách thức lớn mà HP phải đối mặt khi tìm nguồn cung từ CXMT là các quy định của Mỹ. Theo Mục 5949 trong Đạo luật Ủy quyền Quốc phòng Mỹ (NDAA), Bộ Quốc phòng Mỹ bị cấm mua chất bán dẫn từ CXMT, điều này cho thấy chính phủ Mỹ không muốn có linh kiện Trung Quốc trong các sản phẩm nhạy cảm. Hiện tại, các thiết bị thương mại không bị hạn chế trong việc tích hợp mô-đun bộ nhớ CXMT, nhưng với việc HP đang tìm hiểu hướng đi mới, có khả năng Mỹ sẽ áp dụng các biện pháp kiểm soát mới."
+    },
+    {
+      "type": "text",
+      "content": "Báo cáo của BofA cũng lưu ý việc HP tích hợp các mô-đun CXMT có thể bị giới hạn ở các mẫu được vận chuyển tại châu Á và châu Âu, cho phép công ty tận dụng các kẽ hở pháp lý để đảm bảo việc sử dụng các mô-đun bộ nhớ Trung Quốc không vi phạm luật pháp địa phương."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/roi-vao-the-kho-hp-cau-cuu-nha-san-xuat-dram-trung-quoc-185260111230650894.htm",
+  "id": "185260111230650894"
+}
