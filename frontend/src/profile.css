@@ -21,7 +21,7 @@
   margin-bottom: 28px;
   font-size: 24px;
   font-weight: 700;
-  color: #dc2626;
+  color: #007bff;
 }
 
 .profile-form {
@@ -94,8 +94,8 @@
 }
 
 .btn-edit {
-  background: #dc2626;
-  color: #ffffff;
+  background: #007bff;
+  color: #070862;
 }
 
 .btn-save {

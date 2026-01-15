@@ -126,14 +126,12 @@ const TopHeader = ({ onOpenMenu }) => {
               >
                 <div className="header__uc-main">
                   <div className="header__uc-link">
-                    <Link
-                      to="/profile"
-                      className="item-link"
-                      onClick={() => setOpenUser(false)}
-                    >
+                    <Link to="/profile" className="item-link" onClick={() => setOpenUser(false)}>
                       Thông tin tài khoản
                     </Link>
-                    <a className="item-link">Đổi mật khẩu</a>
+                    <Link to="/change-password" className="item-link" onClick={() => setOpenUser(false)}>
+                      Đổi mật khẩu
+                    </Link>
                     <a className="item-link">Tin đã lưu</a>
                     <a className="item-link">Tin đã xem</a>
                     <a
