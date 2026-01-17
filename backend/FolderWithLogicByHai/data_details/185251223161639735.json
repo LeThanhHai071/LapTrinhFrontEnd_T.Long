@@ -1,0 +1,95 @@
+{
+  "title": "Ứng dụng AI trong giáo dục và bài toán chống ‘lười tư duy’",
+  "categories": [
+    "Giáo dục",
+    "Chọn nghề - Chọn trường"
+  ],
+  "sapo": "Việt Nam thuộc top quốc gia sử dụng AI hàng đầu thế giới, nhưng giáo viên lại có nhiều băn khoăn về AI, học sinh sử dụng AI để trả lời nhưng không hiểu bản chất, hay còn gọi là hiện tượng lười tư duy bậc cao.",
+  "publishDate": "24/12/2025 08:00 GMT+7",
+  "author": {
+    "name": "Nguyễn Tuấn Linh",
+    "avatar": "https://static.thanhnien.com.vn/thanhnien.vn/image/ava_inter.png",
+    "email": "-  linh.nguyen@thanhnien.vn"
+  },
+  "content": [
+    {
+      "type": "h2",
+      "content": "Không phải mọi công cụ AI đều phù hợp với lớp học"
+    },
+    {
+      "type": "text",
+      "content": "Tại Việt Nam, giáo viên và học sinh đang sử dụng những công cụ phổ biến như ChatGPT, Gemini hay Copilot bởi sự tiện lợi và dễ sử dụng. Tuy nhiên, các công cụ này được thiết kế để phục vụ nhiều nhu cầu khác nhau của xã hội, chứ không dành riêng cho môi trường giáo dục. Nhiều thầy cô chia sẻ rằng họ không còn băn khoăn có dùng AI hay không, mà lo nhất là dạy và học với AI như thế nào để giữ được năng lực tư duy."
+    },
+    {
+      "type": "h2",
+      "content": "Sedbergh Vietnam đưa AI vào trường học"
+    },
+    {
+      "type": "text",
+      "content": "Sedbergh Vietnam nhìn thấy rất rõ thách thức này, bởi vậy, trường không tìm kiếm một công cụ \"mạnh hơn\" hay \"thông minh hơn\", mà tìm một giải pháp có thể giúp AI đi vào lớp học một cách có kiểm soát, đặt trong khung sư phạm rõ ràng và phục vụ cho mục tiêu lâu dài. Từ năm học 2025 - 2026, nhà trường chính thức lựa chọn MagicSchoolAI - một nền tảng AI chuyên biệt cho giáo dục, và trở thành một trong các trường quốc tế tại Việt Nam tiên phong đưa AI vào trường học."
+    },
+    {
+      "type": "text",
+      "content": "Với giáo viên, nền tảng cung cấp hơn 80 công cụ AI dễ sử dụng, cho phép tạo giáo án, bảng tiêu chí đánh giá (rubric), bài kiểm tra và nội dung học tập phù hợp với mục tiêu giảng dạy, cá nhân hóa việc học của học sinh. Thầy Nathan Kane - Giáo viên Sedbergh Vietnam cho biết: \"MagicSchool AI giúp tôi thiết kế những trải nghiệm học tập tương tác, nơi học sinh luôn phải suy nghĩ chứ không chỉ tìm câu trả lời. Trong 'student room', công cụ Language Tutor đưa ra phản hồi tức thì về chính tả, ngữ pháp, giúp các em thấy rõ mình sai ở đâu và vì sao. Hay với tính năng Escape Room, học sinh phải giải câu đố, dịch thông điệp, áp dụng ngữ pháp để vượt qua từng thử thách. AI chỉ gợi ý và phân hóa nhiệm vụ, còn việc lập kế hoạch, theo dõi tiến độ và tự nhìn lại cách học vẫn là của học sinh. Điều quan trọng nhất là quá trình tư duy của học sinh luôn được đặt ở trung tâm\"."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/23/anh-4-sedbergh-vietnam-to-chuc-nhieu-hoat-dong--17664814216112116818052.jpg"
+      ],
+      "caption": "Sedbergh Vietnam tổ chức nhiều hoạt động khai thác tiềm năng của AI, như cuộc thi chuyện chưa kể dành cho khối Tiểu học"
+    },
+    {
+      "type": "text",
+      "content": "Với học sinh, MagicSchool giống như một trợ lý học tập cá nhân, có lúc là bạn luyện viết, có lúc là người gợi ý cách giải Toán hay tìm tài liệu cho một dự án, tư vấn chọn trường… thông qua hơn 30 công cụ đã được xây dựng sẵn phù hợp với môi trường học tập. Đồng thời, các em được rèn luyện năng lực sử dụng AI đúng cách, an toàn, hiệu quả và có trách nhiệm, biết kiểm chứng thông tin, trích dẫn nguồn. Đó chính là AI Literacy - kỹ năng cốt lõi trong thời đại số. MagicSchoolAI không đứng ngoài lớp học như một công cụ hỏi - đáp tự do, mà hoạt động trong những \"không gian học tập\" do giáo viên xây dựng, chủ động lựa chọn công cụ, thiết lập mục tiêu và xây dựng chuỗi hoạt động có cấu trúc cho học sinh."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/23/anh-6-workshop-huong-nghiep-ung-dung-cong-nghe-ai-trong-viec-hoc--17664814216611495976411.jpg"
+      ],
+      "caption": "Workshop hướng nghiệp \"Ứng dụng công nghệ AI trong việc học\" dành cho học sinh lớp 10 đến 12 được tổ chức để trang bị kỹ năng sử dụng các công cụ AI một cách hiệu quả"
+    },
+    {
+      "type": "text",
+      "content": "Ở cấp độ quản trị, MagicSchoolAI cho phép nhà trường theo dõi và kiểm soát việc sử dụng AI trên toàn hệ thống, trở thành một phần minh bạch của môi trường học đường, nơi giáo viên và học sinh có thể sử dụng AI đúng đắn, chủ động và hiệu quả."
+    },
+    {
+      "type": "h2",
+      "content": "Hiệu quả thực tế và một lộ trình dài hạn"
+    },
+    {
+      "type": "text",
+      "content": "Trong 2 tháng đầu triển khai, Sedbergh Vietnam ghi nhận giáo viên tiết kiệm trung bình khoảng bảy giờ làm việc mỗi tuần nhờ giảm thời gian soạn bài và xử lý các công việc hành chính. Quỹ thời gian này được chuyển sang hỗ trợ cá nhân, phản hồi sâu và nâng cao chất lượng tương tác trên lớp. Cùng thời gian đó, kỹ năng đọc hiểu của học sinh tăng 28% nhờ các hoạt động học tập được cá nhân hóa và phản hồi liên tục."
+    },
+    {
+      "type": "text",
+      "content": "Theo nhà trường, những kết quả này không chỉ đến từ công cụ AI riêng lẻ. Trước khi triển khai MagicSchoolAI, Sedbergh Vietnam đã có nhiều năm đầu tư vào hạ tầng số, áp dụng chương trình quốc tế với các phương pháp inquiry-based, project-based và personalized learning, đồng thời xây dựng đội ngũ giáo viên sẵn sàng đổi mới, cùng sự đồng thuận cao từ phụ huynh và khả năng thích ứng nhanh của học sinh."
+    },
+    {
+      "type": "text",
+      "content": "\"Chúng tôi nhìn AI không phải như một giải pháp thay thế con người trong giáo dục, mà như một người bạn đồng hành đáng tin cậy của giáo viên, khi công nghệ được đặt đúng chỗ và phục vụ cho sự phát triển tư duy của học sinh\", Tiến sĩ Nguyễn Quang Minh - Giám đốc Học thuật nhà trường nhận định."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/12/23/anh-2-tien-si-nguyen-quang-minh-17664814215731823864811.jpg"
+      ],
+      "caption": "Tiến sĩ Nguyễn Quang Minh, Giám đốc Học thuật Sedbergh Vietnam nhấn mạnh trí tuệ nhân tạo (AI) chính là một trong ba trọng tâm chính của trường trong năm học 2025 - 2026"
+    },
+    {
+      "type": "h2",
+      "content": "Từ một mô hình cụ thể đến gợi ý cho giáo dục phổ thông Việt Nam"
+    },
+    {
+      "type": "text",
+      "content": "Cách Sedbergh Vietnam triển khai MagicSchoolAI cho thấy một hướng tiếp cận đáng chú ý: không né tránh công nghệ, nhưng cũng không buông lỏng việc quản trị. AI được dùng để mở rộng năng lực dạy và học, trong khi trọng tâm vẫn là tư duy, sự chủ động và khả năng học tập suốt đời của học sinh."
+    },
+    {
+      "type": "text",
+      "content": "VỀ SEDBERGH VIETNAMSedbergh Vietnam là đối tác chính thức của Sedbergh School Anh Quốc - ngôi trường nội trú hơn 500 năm lịch sử, nằm trong nhóm các trường truyền thống danh giá nhất tại Anh, và là thành viên thuộc Tập đoàn Giáo dục EQuest.Sedbergh Vietnam triển khai chương trình song ngữ, đơn ngữ với đa dạng lộ trình học tập như: Chứng chỉ Giáo dục Phổ thông Bậc cao A Level, Trung học Phổ thông Quốc tế IGCSE, Dự bị Đại học Quốc tế NCUK, và chương trình GDPT của Bộ GD-ĐT.Thông tin thêm: https://sedbergh.edu.vn/"
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/ung-dung-ai-trong-giao-duc-va-bai-toan-chong-luoi-tu-duy-185251223161639735.htm",
+  "id": "185251223161639735"
+}

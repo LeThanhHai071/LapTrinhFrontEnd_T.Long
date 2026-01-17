@@ -1,20 +1,21 @@
 import React, { useState } from 'react';
 
-const CategoryBox = ({ title, titleHref, items }) => {
+const CategoryBox = ({ category }) => {
   const [isExpanded, setIsExpanded] = useState(false);
-  const LIMIT = 3; 
+  const LIMIT = 5; 
 
+  const items = category.children || [];
   const displayedItems = isExpanded ? items : items.slice(0, LIMIT);
 
   return (
     <div className="box">
-      <a href={titleHref} className="title" title={title}>
-        {title}
+      <a href={`/news/${category.fullSlug}`} className="title" title={category.name}>
+        {category.name}
       </a>
       <div className={`list ${isExpanded ? 'is-open' : ''}`}>
-        {displayedItems.map((item, index) => (
-          <a key={item.id || index} href={item.href} className="item" title={item.text}>
-            {item.text}
+        {displayedItems.map((sub) => (
+          <a key={sub.id} href={`/news/${sub.fullSlug}`} className="item" title={sub.name}>
+            {sub.name}
           </a>
         ))}
       </div>

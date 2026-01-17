@@ -1,0 +1,69 @@
+{
+  "title": "Vì sao đa số hãng bay không thể check-in online tại tất cả sân bay nội địa?",
+  "categories": [
+    "Tiêu dùng thông minh",
+    "Mua một chạm"
+  ],
+  "sapo": "Hiện nay, tại Việt Nam chỉ có duy nhất Vietnam Airlines Group (gồm Vietnam Airlines, Pacific Airlines và Vasco) có thể triển khai dịch vụ check-in trực tuyến trên toàn mạng sân bay nội địa.",
+  "publishDate": "16/03/2023 10:21 GMT+7",
+  "author": {
+    "name": "Hà Mai",
+    "avatar": "https://static.thanhnien.com.vn/thanhnien.vn/image/ava_inter.png",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Ra sân bay trước 2 - 3 giờ, cùng hàng dài dằng dặc người xếp hàng chờ làm thủ tục check-in, ký gửi hành lý trước giờ bay hoặc bất cẩn làm rơi thẻ lên máy bay là nỗi ám ảnh của nhiều hành khách, nhất là mỗi mùa cao điểm lễ, tết."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2023/3/16/vna-1678934903782739308351.jpeg"
+      ],
+      "caption": "Dịch vụ làm thủ tục trực tuyến giúp chuyến đi của hành khách được thông suốt, liền mạch, nhanh gọn hơn chỉ với vài thao tác đơn giản và quan trọng là giúp hạn chế việc xếp hàng, tập trung đông người tại sân bay"
+    },
+    {
+      "type": "text",
+      "content": "Chính vì những bất tiện này mà từ 2009, Vietnam Airlines đã tiên phong triển khai hệ thống check-in online (làm thủ tục trực tuyến). Với dịch vụ này, hành khách có thể tiết kiệm thời gian bằng cách tự làm thủ tục trực tuyến qua website và sau này là ứng dụng di động của hãng trong khoảng thời gian từ 24 - 1 giờ trước giờ khởi hành dự kiến."
+    },
+    {
+      "type": "text",
+      "content": "Sau khi hoàn thành quá trình làm thủ tục trực tuyến, hành khách sẽ nhận được \"thẻ lên máy bay trực tuyến\" qua thiết bị điện tử hoặc có thể tự in thẻ, sau đó đến thẳng cửa kiểm tra an ninh hành khách và cửa ra tàu bay mà không cần phải vào quầy làm thủ tục của hãng tại cảng hàng không để xác nhận. Đối với khách có hành lý ký gửi, có thể làm thủ tục gửi hành lý tại các quầy thủ tục đã được bố trí tại sân bay."
+    },
+    {
+      "type": "text",
+      "content": "Sau Vietnam Airlines, đến Vietjet và Bamboo Airways cũng lần lượt triển khai dịch vụ này nhằm mang đến những trải nghiệm tốt nhất cho hành khách. Thế nhưng, trong suốt nhiều năm liền, hành khách đi máy bay chỉ có thể thực hiện check-in online tại một số sân bay lớn như Nội Bài (Hà Nội), Tân Sơn Nhất (TP.HCM), Đà Nẵng... Các sân bay địa phương như Liên Khương (Đà Lạt), Quy Nhơn, Điện Biên, thậm chí là những cảng hàng không quốc tế lớn, mỗi năm đón hàng triệu khách quốc tế như Cam Ranh, Phú Quốc tới 2022 vẫn duy trì cách làm thủ tục check-in truyền thống."
+    },
+    {
+      "type": "text",
+      "content": "Phải đến tháng 11.2022, Vietnam Airlines mới có thể \"phủ sóng\" hệ sống check-in online tại tất cả các sân bay nội địa. Theo nguồn tin riêng của Thanh Niên, bắt đầu từ tuần sau, hãng hàng không non trẻ Vietravel Airlines cũng sẽ chính thức triển khai hệ thống check-in trực tuyến tại tất cả cảng hàng không ở Việt Nam. Đáng chú ý, Vietravel Airlines từ chỗ phải đến tận sân bay làm thủ tục check-in, \"một phát ăn ngay\" triển khai trên toàn hệ thống thì Bamboo Airways và Vietjet dù đã có nhiều năm thâm niên nhưng đến nay vẫn chỉ giới hạn trong số lượng sân bay nhất định."
+    },
+    {
+      "type": "text",
+      "content": "Lý giải điều này, đại diện Vietravel Airlines cho biết hiện nay, các hãng hàng không ở Việt Nam đều sử dụng các hệ thống từ đối tác thứ ba tại nước ngoài để quản lý đặt giữ chỗ, bao gồm từ việc quản lý số lượng ghế trên từng chuyến bay, giá từng hạng vé, bao nhiêu hạng vé, phân phối trên các kênh nào, cho tới giữ chỗ (check-in). Đây được gọi là đối tác cung cấp PSS - hệ thống lõi của các hãng trong việc cung cấp dịch vụ tới hành khách."
+    },
+    {
+      "type": "text",
+      "content": "Đơn cử, Vietnam Airlines đang dùng Sabre, Bamboo đang dùng Amadeus, Vietravel Airlines sử dụng Radixx."
+    },
+    {
+      "type": "text",
+      "content": "Hệ thống này sẽ giúp các hãng không của Việt Nam không chỉ \"nói chuyện\" trong nội bộ hãng mà còn thực hiện được việc kết nối thông tin chuyến bay với các hãng khác trong cùng hệ thống với nhau. Trong khi đó, các cảng hàng không lại sử dụng hệ thống khác. Vì thế, việc triển khai check-in online không chỉ phụ thuộc vào nguồn lực đầu tư của hãng bay mà còn phụ thuộc nhiều vào các đối tác trên. Nếu phần mềm của đối tác PSS không kết nối được với hệ thống thông tin tại cảng thì sẽ không triển khai được dịch vụ này."
+    },
+    {
+      "type": "text",
+      "content": "\"Sau khi kiểm tra từ PSS, hãng hàng không sẽ thông báo cho cảng để cập nhật mẫu boarding pass check-in online và các thủ tục liên quan trước khi ứng dụng. Thực tế, ngay từ khi đi vào hoạt động, Vietravel Airlines đã có kế hoạch và lộ trình cụ thể với đối tác PSS trong việc từng bước triển khai dịch vụ check-in online cũng như các trải nghiệm thương mại điện tử tốt nhất, dự kiến từ 6 - 8 tháng sau khi các hoạt động khai thác cơ bản được ổn định. Tuy nhiên, trong giai đoạn 2021 và 2022 có nhiều biến động và dịch Covid-19 nên việc triển khai bị lùi lại chậm hơn so với dự kiến. Mãi đến nay, công việc này mới hoàn thành\" - đại diện Vietravel Ailrines thông tin thêm."
+    },
+    {
+      "type": "text",
+      "content": "Trong khi đó, đại diện Bamboo Airways chia sẻ, hãng đã đánh giá và triển khai check-in online tại các sân bay Nội Bài, Tân Sơn Nhất, Đà Nẵng, Cam Ranh, Côn Đảo, Phú Quốc. Đây là các sân bay có mật độ khai thác cao, nhu cầu hành khách làm check-in online lớn và hạ tầng sân bay có khả năng đáp ứng."
+    },
+    {
+      "type": "text",
+      "content": "\"Việc triển khai hệ thống check-in online còn phụ thuộc vào sản lượng hành khách và cả hạ tầng sân bay. Đối với các sân bay khác, Bamboo Airways sẽ tiếp tục theo dõi và nghiên cứu triển khai nếu sản lượng hành khách và nhu cầu làm thủ tục online tăng lên trong thời gian tới, để đảm bảo tránh lãng phí nguồn lực xã hội\" - đại diện Bamboo Airways nói."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/vi-sao-da-so-hang-bay-khong-the-check-in-online-tai-tat-ca-san-bay-noi-dia-185230314181450112.htm",
+  "id": "185230314181450112"
+}

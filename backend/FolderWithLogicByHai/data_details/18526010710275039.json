@@ -1,0 +1,104 @@
+{
+  "title": "5 cài đặt khiến màn hình cao cấp hiển thị như 'hàng chợ'",
+  "categories": [
+    "Công nghệ",
+    "Thủ thuật"
+  ],
+  "sapo": "5 thiết lập thừa thãi đang âm thầm phá hoại trải nghiệm hình ảnh trên màn hình máy tính.",
+  "publishDate": "08/01/2026 06:25 GMT+7",
+  "author": {
+    "name": "Phong Đỗ",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/528068263637045248/2023/4/25/edit-z4293920028403473eac0dba30cc3304cdff3ec25db916-1682410543320942271626.png",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Bạn vừa chi một khoản tiền lớn để nâng cấp màn hình máy tính với kỳ vọng về độ tương phản sắc nét và màu sắc sống động, tuy nhiên, thực tế lại là một gáo nước lạnh khi hình ảnh nhợt nhạt, văn bản bị mờ hoặc chuyển động trong game có cảm giác 'nặng nề' đầy khó hiểu."
+    },
+    {
+      "type": "text",
+      "content": "Đừng vội đổ lỗi cho nhà sản xuất. Theo các chuyên gia công nghệ, thủ phạm thực sự thường không nằm ở tấm nền phần cứng mà ẩn giấu ngay trong các cài đặt người dùng vô tình kích hoạt. Dưới đây là 5 tính năng phổ biến bạn cần kiểm tra lại ngay lập tức."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/7/edit_photo_ybfvynmitg-1767757987.jpg"
+      ],
+      "caption": "Có những thiết lập vô tình 'bóp nghẹt' chất lượng hiển thị của màn hình"
+    },
+    {
+      "type": "h2",
+      "content": "1. Lạm dụng HDR của màn hình"
+    },
+    {
+      "type": "text",
+      "content": "Nhiều người dùng mặc định bật chế độ HDR (High Dynamic Range) 24/7 vì nghĩ rằng nó sẽ làm mọi thứ đẹp hơn. Đây là một sai lầm tai hại."
+    },
+    {
+      "type": "text",
+      "content": "HDR chỉ phát huy tác dụng với các nội dung được sản xuất riêng cho nó. Khi bạn ép Windows hiển thị nội dung thông thường (SDR) ở chế độ HDR, hệ thống sẽ gặp lỗi ánh xạ tông màu, khiến hình ảnh bị 'bay màu' (washed-out), độ tương phản kém và thiếu sức sống. Chưa kể, bật HDR liên tục còn gây tốn điện và giảm tuổi thọ màn hình."
+    },
+    {
+      "type": "text",
+      "content": "Lời khuyên là chỉ bật HDR khi bạn thực sự chuẩn bị xem phim hoặc chơi game hỗ trợ chuẩn này."
+    },
+    {
+      "type": "h2",
+      "content": "2. Đẩy mức Overdrive lên tối đa"
+    },
+    {
+      "type": "text",
+      "content": "Trong nỗ lực loại bỏ hiện tượng bóng mờ khi chơi game, người dùng thường chỉnh cài đặt Overdrive (hoặc Response Time, TraceFree) lên mức cao nhất."
+    },
+    {
+      "type": "text",
+      "content": "Tuy nhiên, khi bị ép xung quá đà, các điểm ảnh sẽ bị hiện tượng Inverse Ghosting (bóng ma ngược). Thay vì chuyển động mượt mà, bạn sẽ thấy các viền sáng khó chịu bao quanh vật thể đang di chuyển. Vì vậy, hãy giữ Overdrive ở mức 'Normal' hoặc 'Fast', tuyệt đối tránh mức 'Extreme' hay 'Max'."
+    },
+    {
+      "type": "h2",
+      "content": "3. 'Bẫy' quản lý màu sắc tự động (ACM)"
+    },
+    {
+      "type": "text",
+      "content": "Tính năng Auto Color Management trên Windows nghe có vẻ 'thông minh', nhưng nó thường là kẻ thù của độ chính xác. ACM có xu hướng ép tất cả nội dung về dải màu sRGB tiêu chuẩn."
+    },
+    {
+      "type": "text",
+      "content": "Nếu bạn đang sở hữu một màn hình đồ họa hoặc gaming cao cấp với dải màu rộng (Wide Gamut), tính năng này sẽ bóp nghẹt khả năng hiển thị của màn hình, khiến màu sắc trở nên buồn tẻ. Với dân thiết kế hay nhiếp ảnh, đây là một thảm họa thực sự."
+    },
+    {
+      "type": "h2",
+      "content": "4. Sai lầm về độ phân giải và Scaling"
+    },
+    {
+      "type": "text",
+      "content": "Một màn hình 4K sắc nét có thể trông tệ hơn cả màn hình HD nếu thiết lập sai hai thông số là độ phân giải và tỷ lệ thu phóng (Scaling). Việc không sử dụng độ phân giải gốc sẽ khiến hình ảnh bị kéo giãn và mờ đi. Tương tự, nếu chọn tỷ lệ Scaling không phù hợp, các icon và văn bản sẽ bị vỡ nét hoặc hiển thị sai kích thước."
+    },
+    {
+      "type": "text",
+      "content": "Bạn chỉ nên chọn vào những thông số có chữ 'Recommended' (Được khuyến nghị) trong phần cài đặt hiển thị của Windows."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/7/display-scalingresolution-176696-17677581086142140451158.jpg"
+      ],
+      "caption": "Độ phân giải và Scaling cần được lưu ý để thiết lập chính xác"
+    },
+    {
+      "type": "h2",
+      "content": "5. VSync: Kẻ gây ra độ trễ"
+    },
+    {
+      "type": "text",
+      "content": "Game thủ thường bật tính năng VSync để chống xé hình, nhưng cái giá phải trả là độ trễ đầu vào (input lag). Khi bật VSync, thao tác chuột và phím của bạn sẽ phản hồi chậm hơn trên màn hình. Tệ hơn, nếu tốc độ khung hình (FPS) sụt giảm, VSync sẽ gây ra hiện tượng giật cục rất khó chịu."
+    },
+    {
+      "type": "text",
+      "content": "Lời khuyên là hãy tắt VSync và chuyển sang sử dụng các công nghệ đồng bộ thích ứng hiện đại hơn như NVIDIA G-Sync hoặc AMD FreeSync."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/5-cai-dat-khien-man-hinh-cao-cap-hien-thi-nhu-hang-cho-18526010710275039.htm",
+  "id": "18526010710275039"
+}

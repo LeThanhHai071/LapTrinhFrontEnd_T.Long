@@ -1,0 +1,89 @@
+{
+  "title": "Tính năng Wi-Fi ẩn trên điện thoại Samsung nhiều người chưa từng mở",
+  "categories": [
+    "Công nghệ",
+    "Thủ thuật"
+  ],
+  "sapo": "Nhiều người dùng điện thoại Samsung chỉ mở cài đặt Wi-Fi khi cần kết nối với mạng mới, tuy nhiên nó còn ẩn chứa một bí ẩn thú vị.",
+  "publishDate": "09/01/2026 16:53 GMT+7",
+  "author": {
+    "name": "Kiến Văn",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/Uploaded/authors/CTV/kienvan_WULL.jpg",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Phía sau menu quen thuộc này của điện thoại Samsung là một loạt công cụ nâng cao ít được chú ý, trong đó có Connectivity Labs - khu vực cho phép theo dõi, phân tích và tối ưu hiệu suất Wi-Fi trực tiếp trên thiết bị."
+    },
+    {
+      "type": "text",
+      "content": "Theo mặc định, Connectivity Labs bị ẩn, vì vậy người dùng cần phải kích hoạt tính năng này bằng tay. Để thực hiện, người dùng hãy vào Settings > Connections > Wi-Fi, nhấn biểu tượng ba chấm ở góc trên bên phải và chọn Intelligent Wi-Fi. Sau đó, cuộn xuống và chạm nhanh 7 lần liên tiếp vào mục Intelligent Wi-Fi cho đến khi hệ thống hiển thị thông báo xác nhận. Giờ đây, người dùng có thể khai thác sức mạnh từ công cụ ẩn này."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/660/528068263637045248/2026/1/8/2-1767916255167715930236.jpg",
+        "https://images2.thanhnien.vn/thumb_w/660/528068263637045248/2026/1/8/3-176791625517577641394.jpg",
+        "https://images2.thanhnien.vn/thumb_w/660/528068263637045248/2026/1/8/4-17679162552081312168988.jpg"
+      ],
+      "caption": "Người dùng cần kích hoạt Connectivity Labs trước khi thực hiện"
+    },
+    {
+      "type": "h2",
+      "content": "Theo dõi thói quen sử dụng Wi-Fi"
+    },
+    {
+      "type": "text",
+      "content": "Sau khi được mở, Connectivity Labs hiển thị thời gian sử dụng Wi-Fi trong ngày cùng mức trung bình hằng ngày. Biểu đồ chi tiết cho phép so sánh lượng dữ liệu Wi-Fi và dữ liệu di động, qua đó giúp người dùng hình dung rõ hơn thói quen kết nối của mình."
+    },
+    {
+      "type": "text",
+      "content": "Ngoài ra, menu còn liệt kê các băng tần Wi-Fi đã sử dụng, như 2,4 GHz, 5 GHz hoặc 6 GHz, tùy vào khả năng phần cứng và bộ định tuyến."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/660/528068263637045248/2026/1/8/5-17679162724451393471797.jpg",
+        "https://images2.thanhnien.vn/thumb_w/660/528068263637045248/2026/1/8/6-1767916272451719656276.jpg",
+        "https://images2.thanhnien.vn/thumb_w/660/528068263637045248/2026/1/8/7-1767916272478782745543.jpg"
+      ],
+      "caption": "Connectivity Labs cho phép theo dõi thói quen sử dụng Wi-Fi"
+    },
+    {
+      "type": "h2",
+      "content": "Kiểm tra bảo mật và chất lượng mạng"
+    },
+    {
+      "type": "text",
+      "content": "Một tính năng đáng chú ý là Home Wi-Fi inspection nhằm đánh giá mức độ an toàn của mạng không dây, đồng thời phân tích chất lượng kết nối trong không gian thực tế. Người dùng có thể di chuyển quanh nhà để thiết bị ghi nhận cường độ tín hiệu và độ ổn định tại từng vị trí, từ đó phát hiện các khu vực sóng yếu và xác định nơi đặt bộ định tuyến phù hợp hơn."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/660/528068263637045248/2026/1/8/8-17679162946531318155853.jpg",
+        "https://images2.thanhnien.vn/thumb_w/660/528068263637045248/2026/1/8/9-1767916294659847404375.jpg",
+        "https://images2.thanhnien.vn/thumb_w/660/528068263637045248/2026/1/8/10-17679162946901807396695.jpg"
+      ],
+      "caption": "Việc kiểm tra chất lượng tín hiệu mạng cũng dễ dàng"
+    },
+    {
+      "type": "h2",
+      "content": "Các tùy chọn nâng cao khác"
+    },
+    {
+      "type": "text",
+      "content": "Connectivity Labs còn cung cấp nhiều thiết lập bổ trợ nhằm cải thiện trải nghiệm kết nối. Người dùng có thể lọc danh sách Wi-Fi để chỉ hiển thị các mạng có tín hiệu mạnh, giảm nhiễu khi tìm kiếm. Tính năng Switch to mobile data faster cũng giúp duy trì kết nối ổn định khi sử dụng Wi-Fi công cộng có chất lượng thấp."
+    },
+    {
+      "type": "text",
+      "content": "Trong mục Wi-Fi developer options > Nearby Wi-Fi information, thiết bị cho phép quét toàn bộ các mạng không dây xung quanh, hiển thị thông tin chi tiết về cường độ tín hiệu, băng tần và mức độ can nhiễu, hỗ trợ đánh giá chất lượng môi trường Wi-Fi tại khu vực sử dụng."
+    },
+    {
+      "type": "text",
+      "content": "Không chỉ Connectivity Labs, nhiều điện thoại Samsung còn ẩn các công cụ hữu ích trong những ứng dụng quen thuộc như Gallery, My Files và Samsung Internet. Việc khám phá và tận dụng các tính năng này giúp thiết bị hoạt động hiệu quả hơn và mang lại trải nghiệm sử dụng thuận tiện hơn trong hằng ngày."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/tinh-nang-wi-fi-an-tren-dien-thoai-samsung-nhieu-nguoi-chua-tung-mo-185260109065541101.htm",
+  "id": "185260109065541101"
+}

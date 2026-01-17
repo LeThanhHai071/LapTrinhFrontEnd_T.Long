@@ -10,7 +10,8 @@ body {
   padding: 0;
   display: block;
   background-color: white;
-  line-height: 20px;
+  font-family: 'Merriweather';
+  /* line-height: 20px; */
 }
 
 .bootstrap__icon {

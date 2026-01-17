@@ -1,0 +1,89 @@
+{
+  "categoryId": 144,
+  "categoryName": "Blog phóng viên",
+  "fullSlug": "blog-phong-vien",
+  "limitApplied": 10,
+  "lastUpdate": "2026-01-12T14:06:10.066Z",
+  "articles": [
+    {
+      "title": "Chất lượng thi công QL19",
+      "link": "https://thanhnien.vn/chat-luong-thi-cong-ql19-185260111204533433.htm",
+      "pubDate": "Mon, 12 Jan 26 08:12:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/ql19-17448073623151847558446-0-0-1440-2304-crop-1768180338160776083080.jpg",
+      "description": "Sau mỗi đợt mưa lớn, đèo An Khê và nhiều đoạn trên QL19 lại xuất hiện sạt lở, sụt lún, mặt đường bong tróc. Những hình ảnh ấy dần trở nên quen thuộc, đến mức người dân và tài xế không còn ngạc nhiên, chỉ còn nỗi lo lắng: vì sao một tuyến đường vừa được làm mới lại nhanh chóng hư hỏng?",
+      "guid": "https://thanhnien.vn/chat-luong-thi-cong-ql19-185260111204533433.htm"
+    },
+    {
+      "title": "Đồ hộp Hạ Long phơi bày sự thật cay đắng",
+      "link": "https://thanhnien.vn/do-hop-ha-long-phoi-bay-su-that-cay-dang-185260111154715845.htm",
+      "pubDate": "Sun, 11 Jan 26 17:50:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/58796500513785848676135908172998989847483799n-17679472469702000412454-243-0-1056-1300-crop-1768120927361433349486.jpg",
+      "description": "Vụ Đồ hộp Hạ Long phơi bày một sự thật cay đắng, buộc xã hội phải đặt lại câu hỏi về trách nhiệm, đạo đức và hiệu lực quản lý nhà nước.",
+      "guid": "https://thanhnien.vn/do-hop-ha-long-phoi-bay-su-that-cay-dang-185260111154715845.htm"
+    },
+    {
+      "title": "Khi nước mắm Phan Thiết vào siêu thị Mỹ",
+      "link": "https://thanhnien.vn/khi-nuoc-mam-phan-thiet-vao-sieu-thi-my-185260109224220335.htm",
+      "pubDate": "Sat, 10 Jan 26 05:15:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/nuocmamtin-17679755198541681182029-307-0-1503-1914-crop-17679755524611289380980.jpg",
+      "description": "Việc nước mắm Phan Thiết vào được siêu thị Mỹ giúp khích lệ sản xuất trong nước, mở thêm sinh kế cho ngư dân...",
+      "guid": "https://thanhnien.vn/khi-nuoc-mam-phan-thiet-vao-sieu-thi-my-185260109224220335.htm"
+    },
+    {
+      "title": "Rước 'thần chết' về nhà",
+      "link": "https://thanhnien.vn/ruoc-than-chet-ve-nha-18526010711511208.htm",
+      "pubDate": "Wed, 07 Jan 26 12:08:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/nh-phao-no-2-17674140073831385124330-17676867853761806598826-0-0-687-1100-crop-1767686789605100569285-17677608500102009381271-0-0-687-1099-crop-1767761307282704779308.jpg",
+      "description": "Công an tỉnh Nghệ An vừa triệt phá đường dây buôn bán, sản xuất thuốc pháo quy mô lớn, thu giữ hơn 3 tấn thuốc pháo và pháo nổ, bắt giữ 13 nghi phạm ngụ ở nhiều địa phương.",
+      "guid": "https://thanhnien.vn/ruoc-than-chet-ve-nha-18526010711511208.htm"
+    },
+    {
+      "title": "Lỗ hổng trong bảo vệ rừng",
+      "link": "https://thanhnien.vn/lo-hong-trong-bao-ve-rung-185251229161931589.htm",
+      "pubDate": "Tue, 30 Dec 25 05:20:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/29/thumb-pharunggialai-17670467917041657774845-17670467946171482691867.jpg",
+      "description": "Vụ phá gần 98 ha rừng tại xã Kim Sơn (Gia Lai), trong đó có hơn 23 ha rừng tự nhiên, một lần nữa cho thấy mức độ nghiêm trọng của tình trạng xâm hại rừng.",
+      "guid": "https://thanhnien.vn/lo-hong-trong-bao-ve-rung-185251229161931589.htm"
+    },
+    {
+      "title": "Chiến lược di sản cho cà phê Lâm Đồng",
+      "link": "https://thanhnien.vn/chien-luoc-di-san-cho-ca-phe-lam-dong-185251228181528272.htm",
+      "pubDate": "Mon, 29 Dec 25 08:18:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/29/ca-phe-lam-dong-1766971074074821032705-11-0-410-638-crop-1766971082721252700880.png",
+      "description": "Trải qua 2 thế kỷ gắn bó với cây cà phê, Lâm Đồng đang lựa chọn con đường phát triển mới: đưa cà phê từ nông sản truyền thống trở thành di sản văn hóa, động lực kinh tế và nguồn lực đối ngoại trong thời kỳ hội nhập.",
+      "guid": "https://thanhnien.vn/chien-luoc-di-san-cho-ca-phe-lam-dong-185251228181528272.htm"
+    },
+    {
+      "title": "Vẫn nhức nhối nạn bạo lực học đường",
+      "link": "https://thanhnien.vn/van-nhuc-nhoi-nan-bao-luc-hoc-duong-185251221190752591.htm",
+      "pubDate": "Mon, 22 Dec 25 08:18:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2023/4/17/bao-luc-hoc-duong-16817450632591215170023.jpg",
+      "description": "Chỉ trong thời gian cuối tháng 11 và đầu tháng 12.2025, trên địa bàn P.Thống Nhất (Gia Lai) đã xảy ra 2 vụ bạo lực học đường ở cấp THCS.",
+      "guid": "https://thanhnien.vn/van-nhuc-nhoi-nan-bao-luc-hoc-duong-185251221190752591.htm"
+    },
+    {
+      "title": "Lệch chuẩn vì 'sống ảo'",
+      "link": "https://thanhnien.vn/lech-chuan-vi-song-ao-185251214175641445.htm",
+      "pubDate": "Mon, 15 Dec 25 05:15:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/14/duaxesongao-1765720188295171951635-0-0-827-1323-crop-17657202046731318135150.jpg",
+      "description": "Thời gian gần đây, tại Nghệ An và một số địa phương khác xuất hiện các nhóm thanh, thiếu niên tụ tập phóng xe máy như bay, nẹt pô trên các tuyến phố và tỉnh lộ vào đêm khuya, thậm chí mang theo hung khí, vỏ chai để 'thị uy'.",
+      "guid": "https://thanhnien.vn/lech-chuan-vi-song-ao-185251214175641445.htm"
+    },
+    {
+      "title": "Lời cảnh báo từ sông Ba",
+      "link": "https://thanhnien.vn/loi-canh-bao-tu-song-ba-18525120718552282.htm",
+      "pubDate": "Mon, 08 Dec 25 08:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/8/sat-lo-bo-song-ba-cang-nghiem-trong-hon-lam-thu-hep-dang-ke-dien-tich-dat-san-xuat-cua-cac-ho-dan-ven-song-17650979136061347-0-0-775-1240-crop-17651556248972058036905.jpg",
+      "description": "Trận lũ lụt lịch sử trong tháng 11.2025 không chỉ gây thiệt hại nặng nề về người và tài sản, mà còn để lại một biến động địa hình như lời cảnh báo: tạo ra một nhánh sông Ba mới.",
+      "guid": "https://thanhnien.vn/loi-canh-bao-tu-song-ba-18525120718552282.htm"
+    },
+    {
+      "title": "Đầu mối cứu trợ",
+      "link": "https://thanhnien.vn/dau-moi-cuu-tro-185251128204752814.htm",
+      "pubDate": "Sat, 29 Nov 25 05:10:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/11/28/cuutro1-17643389862361132625283-151-0-1004-1365-crop-17643390602131188957541.jpg",
+      "description": "Sau đợt lũ lụt lịch sử khiến hơn 100 người chết và mất tích ở các tỉnh miền Trung, tinh thần tương trợ của người Việt lại được thắp lên mạnh mẽ.",
+      "guid": "https://thanhnien.vn/dau-moi-cuu-tro-185251128204752814.htm"
+    }
+  ]
+}

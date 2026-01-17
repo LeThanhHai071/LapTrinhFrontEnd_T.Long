@@ -1,0 +1,89 @@
+{
+  "categoryId": 20,
+  "categoryName": "Kinh tế thế giới",
+  "fullSlug": "the-gioi-kinh-te-the-gioi",
+  "limitApplied": 10,
+  "lastUpdate": "2026-01-12T14:01:47.345Z",
+  "articles": [
+    {
+      "title": "Doanh nghiệp Mỹ lo dầu mỏ ở Venezuela 'không thể đầu tư được'",
+      "link": "https://thanhnien.vn/doanh-nghiep-my-lo-dau-mo-o-venezuela-khong-the-dau-tu-duoc-185260110095152171.htm",
+      "pubDate": "Sat, 10 Jan 26 10:15:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/2026-01-03t181540z-1883679710-rc2stia4hlcw-rtrmadp-3-usa-venezuela-1768013584359677153297-0-0-1250-2000-crop-1768013591885899225915.jpg",
+      "description": "Tổng thống Mỹ Donald Trump đã đưa ra những cam kết Washington sẽ kiểm soát hoạt động khai thác dầu mỏ ở Venezuela, song nhiều doanh nghiệp hàng đầu tỏ ra hoài nghi về triển vọng.",
+      "guid": "https://thanhnien.vn/doanh-nghiep-my-lo-dau-mo-o-venezuela-khong-the-dau-tu-duoc-185260110095152171.htm"
+    },
+    {
+      "title": "Trung Quốc lên tiếng sau khi Mỹ lên kế hoạch sử dụng dầu Venezuela",
+      "link": "https://thanhnien.vn/trung-quoc-len-tieng-sau-khi-my-len-ke-hoach-su-dung-dau-venezuela-185260108095411655.htm",
+      "pubDate": "Thu, 08 Jan 26 10:21:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/venezuela-oil-17678409397071880073850-0-0-640-1024-crop-17678409449511710644109.jpg",
+      "description": "Người phát ngôn Bộ Ngoại giao Trung Quốc Mao Ninh lên tiếng sau khi Tổng thống Mỹ Donald Trump công bố kế hoạch chuyển đến 50 triệu thùng dầu thô, trị giá gần 3 tỉ USD, của Venezuela vào thị trường Mỹ.",
+      "guid": "https://thanhnien.vn/trung-quoc-len-tieng-sau-khi-my-len-ke-hoach-su-dung-dau-venezuela-185260108095411655.htm"
+    },
+    {
+      "title": "Hàng không dân dụng sẽ thay đổi thế nào trong năm 2026?",
+      "link": "https://thanhnien.vn/hang-khong-dan-dung-se-thay-doi-the-nao-trong-nam-2026-185251228112021689.htm",
+      "pubDate": "Wed, 31 Dec 25 08:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/28/pic-17668961824731572809429-47-0-723-1081-crop-17668961904871644051775.png",
+      "description": "Sau một năm đầy những bất ngờ và biến động, ngành hàng không dân dụng năm 2026 được kỳ vọng sẽ chuyển sang giai đoạn tương đối ổn định đầy hiếm hoi.",
+      "guid": "https://thanhnien.vn/hang-khong-dan-dung-se-thay-doi-the-nao-trong-nam-2026-185251228112021689.htm"
+    },
+    {
+      "title": "Tỉ phú Elon Musk trở thành người đầu tiên trên thế giới có 700 tỉ USD",
+      "link": "https://thanhnien.vn/ti-phu-elon-musk-tro-thanh-nguoi-dau-tien-tren-the-gioi-co-700-ti-usd-185251221092314466.htm",
+      "pubDate": "Sun, 21 Dec 25 09:46:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/21/download-1-1766284375109901205685-24-0-678-1047-crop-17662843869661433446692.jpg",
+      "description": "Ông Elon Musk thành người đầu tiên trên thế giới sở hữu khối tài sản hơn 700 tỉ USD, sau khi gói thù lao bằng cổ phiếu Tesla được tòa án Mỹ khôi phục.",
+      "guid": "https://thanhnien.vn/ti-phu-elon-musk-tro-thanh-nguoi-dau-tien-tren-the-gioi-co-700-ti-usd-185251221092314466.htm"
+    },
+    {
+      "title": "Trùm tiền số Do Kwon bị kết án 15 năm tù",
+      "link": "https://thanhnien.vn/trum-tien-so-do-kwon-bi-ket-an-15-nam-tu-185251212192609723.htm",
+      "pubDate": "Fri, 12 Dec 25 20:21:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/12/download-17655427678991367966827-13-0-653-1024-crop-176554277289585079817.jpg",
+      "description": "Thẩm phán liên bang Mỹ ngày 11.12 tuyên án 15 năm tù đối với Do Kwon, người đứng sau một trong những vụ bê bối lớn nhất lịch sử tiền mã hóa.",
+      "guid": "https://thanhnien.vn/trum-tien-so-do-kwon-bi-ket-an-15-nam-tu-185251212192609723.htm"
+    },
+    {
+      "title": "Thị trường thiết bị đeo AI của Trung Quốc đang bùng nổ",
+      "link": "https://thanhnien.vn/thi-truong-thiet-bi-deo-ai-cua-trung-quoc-dang-bung-no-185251209214559103.htm",
+      "pubDate": "Wed, 10 Dec 25 06:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/9/photo-1765291500895-17652915013531969335305-51-0-762-1138-crop-17652915161511706791572.jpeg",
+      "description": "Thị trường thiết bị đeo tích hợp công nghệ trí tuệ nhân tạo (AI) của Trung Quốc đang phát triển mạnh mẽ nhờ vào lợi thế phần cứng.",
+      "guid": "https://thanhnien.vn/thi-truong-thiet-bi-deo-ai-cua-trung-quoc-dang-bung-no-185251209214559103.htm"
+    },
+    {
+      "title": "Tổng thống Trump cho phép Nvidia bán chip AI cho Trung Quốc",
+      "link": "https://thanhnien.vn/tong-thong-trump-cho-phep-nvidia-ban-chip-ai-cho-trung-quoc-185251209061845528.htm",
+      "pubDate": "Tue, 09 Dec 25 07:04:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/8/chip-17652358783581567857819-54-0-1654-2560-crop-17652358881774310061.jpg",
+      "description": "Hôm 8.12, Tổng thống Mỹ Donald Trump cho biết đã đạt được thỏa thuận với Chủ tịch nước Trung Quốc Tập Cận Bình về việc cho phép nhà sản xuất Nvidia xuất khẩu chip trí tuệ nhân tạo (AI) vào Trung Quốc.",
+      "guid": "https://thanhnien.vn/tong-thong-trump-cho-phep-nvidia-ban-chip-ai-cho-trung-quoc-185251209061845528.htm"
+    },
+    {
+      "title": "Sự trỗi dậy của doanh nghiệp Trung Quốc tại Brazil",
+      "link": "https://thanhnien.vn/su-troi-day-cua-doanh-nghiep-trung-quoc-tai-brazil-185251205203420841.htm",
+      "pubDate": "Sat, 06 Dec 25 06:15:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/5/anh-1-online-1764941415953895393257-0-71-576-993-crop-1764941596581991241591.jpg",
+      "description": "Brazil đang chứng kiến làn sóng rót vốn Trung Quốc mạnh mẽ chưa từng có, lan rộng khắp các lĩnh vực và nhanh chóng định hình lại cán cân kinh tế của quốc gia Nam Mỹ này.",
+      "guid": "https://thanhnien.vn/su-troi-day-cua-doanh-nghiep-trung-quoc-tai-brazil-185251205203420841.htm"
+    },
+    {
+      "title": "Cơn sốt matcha toàn cầu khiến Nhật Bản ‘đuối sức’",
+      "link": "https://thanhnien.vn/con-sot-matcha-toan-cau-khien-nhat-ban-duoi-suc-185251203172942212.htm",
+      "pubDate": "Wed, 03 Dec 25 17:33:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/3/matcha-17647577318631482944565-0-0-673-1077-crop-1764757769152470530468.jpg",
+      "description": "Nhờ mạng xã hội, matcha trở thành biểu tượng và trào lưu trên toàn thế giới, kéo theo đó thị trường matcha toàn cầu đối mặt với sự thiếu hụt nghiêm trọng từ chuỗi cung ứng Nhật Bản.",
+      "guid": "https://thanhnien.vn/con-sot-matcha-toan-cau-khien-nhat-ban-duoi-suc-185251203172942212.htm"
+    },
+    {
+      "title": "OpenAI phát 'mã đỏ', tập trung nâng cấp ChatGPT trong cuộc cạnh tranh với Gemini",
+      "link": "https://thanhnien.vn/openai-phat-ma-do-tap-trung-nang-cap-chatgpt-trong-cuoc-canh-tranh-voi-gemini-185251203165021731.htm",
+      "pubDate": "Wed, 03 Dec 25 16:58:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/3/chatgpt-vs-gemini-1764755779525910484879-113-206-663-1086-crop-1764755836605129363097.jpg",
+      "description": "Ông Sam Altman, CEO của Open AI tuyên bố đây là giai đoạn đặc biệt quan trọng của ChatGPT, khi chatbot này đang phải đối mặt sự cạnh tranh gay gắt từ Gemini 3, mô hình mới ra mắt của Google.",
+      "guid": "https://thanhnien.vn/openai-phat-ma-do-tap-trung-nang-cap-chatgpt-trong-cuoc-canh-tranh-voi-gemini-185251203165021731.htm"
+    }
+  ]
+}
