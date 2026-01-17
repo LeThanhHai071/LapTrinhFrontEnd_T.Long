@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const HomeSidebar = ({ latestNews }) => {
+const HomeFocusSub = ({ latestNews }) => {
   const getArticleId = (link) => {
     if (!link) return Math.random(); 
     const match = link.match(/-(\d+)\.htm$/);
@@ -31,4 +31,4 @@ const HomeSidebar = ({ latestNews }) => {
   );
 };
 
-export default HomeSidebar;
+export default HomeFocusSub;
