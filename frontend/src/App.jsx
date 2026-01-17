@@ -23,7 +23,7 @@ function App() {
                 <Route path="/" element={<MainLayout />}>
                     <Route index element={<Home />} />
                     {/*<Route path="news/:slug" element={<NewsList />} />*/}
-                    {/*<Route path="news/:id" element={<NewsDetail />} />*/}
+                    <Route path="news/:id" element={<NewsDetail />} />
                     <Route path="login" element={<Login />} />
                     <Route path="register" element={<Register />} />
                     <Route path="subscription" element={<Subscription />} />
