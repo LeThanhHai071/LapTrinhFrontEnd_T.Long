@@ -6,7 +6,7 @@ import Home from "./home";
 import Login from "./login";
 import Profile from "./profile";
 import Register from "./register";
-import NewsList from "./NewsList"; // Giữ lại NewsList
+import NewsList from "./NewsList";
 import NewsDetail from "./newsDetail";
 import Subscription from "./Subscription";
 import Advertise from "./Advertise";
@@ -22,17 +22,12 @@ function App() {
             <Routes>
                 <Route path="/" element={<MainLayout />}>
                     <Route index element={<Home />} />
-
-                    {/* Các Route từ nhánh Hung */}
                     <Route path="news/:id" element={<NewsDetail />} />
-
-                    {/* Các Route từ nhánh Main */}
+                    <Route path="news/:slug" element={<NewsList />} />
                     <Route path="category/:slug" element={<Category />} />
                     <Route path="article/:id" element={<NewsDetail />} />
                     <Route path="change-password" element={<ChangePassword />} />
                     <Route path="profile" element={<Profile />} />
-
-                    {/* Các Route chung của cả 2 nhánh */}
                     <Route path="login" element={<Login />} />
                     <Route path="register" element={<Register />} />
                     <Route path="subscription" element={<Subscription />} />
@@ -40,9 +35,6 @@ function App() {
                     <Route path="weather" element={<ShowWeather />} />
                     <Route path="search" element={<SearchPage />} />
                     <Route path="search-detail/:id" element={<SearchDetailResult />} />
-
-                    {/* Route NewsList (trước đó bị comment, mình đã mở lại để không mất route nào) */}
-                    <Route path="news-list/:slug" element={<NewsList />} />
                 </Route>
             </Routes>
         </BrowserRouter>
