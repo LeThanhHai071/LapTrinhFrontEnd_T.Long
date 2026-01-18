@@ -1,8 +1,8 @@
-import React, {useEffect, useState} from "react";
-import {Link} from "react-router-dom";
-import BoxCategoryItem from "./pages/BoxCategoryItem.jsx";
-import {savedArticleService} from "./services/savedArticleService";
-import {getUserIdFromStorage} from "./utils/authUtils.js";
+import React, { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
+import BoxCategory_item from "./pages/BoxCategory_item.jsx";
+import { savedArticleService } from "./services/savedArticleService";
+import { getUserIdFromStorage } from "./utils/authUtils.js";
 import "./savedArticle.css";
 
 const SavedArticle = () => {
@@ -16,7 +16,6 @@ const SavedArticle = () => {
                 setIsLoading(false);
                 return;
             }
-
             try {
                 const data = await savedArticleService.getSavedList(userId);
                 setArticles(data);
@@ -28,38 +27,24 @@ const SavedArticle = () => {
         })();
     }, []);
 
-    if (isLoading) return <div className="container" style={{padding: "40px", textAlign: "center"}}>Đang tải danh sách...</div>;
+    if (isLoading) return <div className="container" style={{ padding: "40px", textAlign: "center" }}>Đang tải danh sách...</div>;
 
     return (
         <div className="lastest_content">
-            <div className="layout__breadcrumb">
-                <div className="container">
-                    <div className="box-breadcrumb">
-                        <div className="box-breadcrumb-name">
-                            <span>Tin đã lưu</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
             <div className="list__new">
                 <div className="container">
-                    <div className="list__new-flex">
-                        <div className="list__new-main">
-                            <div className="box-category">
-                                <div className="box-category-middle list__main_check saved-list-container">
-                                    {articles.length > 0 ? (
-                                        articles.map((item) => (
-                                            <BoxCategoryItem key={item.id} data={item}/>
-                                        ))
-                                    ) : (
-                                        <div className="empty-saved-state">
-                                            <p>Bạn chưa lưu bài viết nào.</p>
-                                            <Link to="/" className="go-home-link">Khám phá tin tức ngay</Link>
-                                        </div>
-                                    )}
+                    <div className="box-category">
+                        <div className="box-category-middle list__main_check saved-list-container">
+                            {articles.length > 0 ? (
+                                articles.map((item) => (
+                                    <BoxCategory_item key={item.id} data={item} />
+                                ))
+                            ) : (
+                                <div className="empty-saved-state">
+                                    <p>Bạn chưa lưu bài viết nào.</p>
+                                    <Link to="/" className="go-home-link">Khám phá tin tức ngay</Link>
                                 </div>
-                            </div>
+                            )}
                         </div>
                     </div>
                 </div>

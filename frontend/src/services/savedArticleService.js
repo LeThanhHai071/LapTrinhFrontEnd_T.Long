@@ -1,5 +1,5 @@
 import axios from "axios";
-import { fetchNewsDetail } from "./newsService"; // Import hàm bạn vừa cung cấp
+import { fetchNewsDetail } from "./newsService";
 
 const API_BASE_URL = "http://localhost:5000/api/auth";
 
@@ -26,7 +26,7 @@ export const savedArticleService = {
                         };
                     } catch (err) {
                         console.warn(`Không thể lấy chi tiết cho bài ${item.articleId}:`, err);
-                        return { ...item, id: String(item.articleId) }; // Trả về dữ liệu gốc nếu lỗi
+                        return { ...item, id: String(item.articleId) };
                     }
                 })
             );
