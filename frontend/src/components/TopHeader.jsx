@@ -134,7 +134,7 @@ const TopHeader = ({onOpenMenu}) => {
                                             Đổi mật khẩu
                                         </Link>
                                         <Link to="/saved" className="item-link" onClick={() => setOpenUser(false)}>
-                                            Tin đã lưu (Tin đã xem)
+                                            Tin đã lưu
                                         </Link>
                                         <a className="item-link">Tin đã xem</a>
                                         <a

@@ -1,5 +1,5 @@
 import React from "react";
-import BoxCategoryItem from "./BoxCategoryItem";
+import BoxCategoryItem from "./BoxCategoryItem.jsx";
 
 const BoxCategoryMiddle = ({ articles }) => {
   if (!articles || articles.length === 0) return null;

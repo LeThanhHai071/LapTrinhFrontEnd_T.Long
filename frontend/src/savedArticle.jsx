@@ -1,6 +1,8 @@
 import React, {useEffect, useState} from "react";
 import {Link} from "react-router-dom";
-import { fetchAllNews as fetchNewsList } from "./services/newsService";
+import BoxCategoryItem from "./pages/BoxCategoryItem.jsx";
+import {savedArticleService} from "./services/savedArticleService";
+import {getUserIdFromStorage} from "./utils/authUtils.js";
 import "./savedArticle.css";
 
 const SavedArticle = () => {
@@ -8,50 +10,59 @@ const SavedArticle = () => {
     const [isLoading, setIsLoading] = useState(true);
 
     useEffect(() => {
-        const loadInitialData = async () => {
+        (async () => {
+            const userId = getUserIdFromStorage();
+            if (!userId) {
+                setIsLoading(false);
+                return;
+            }
+
             try {
-                // Chỉ cần lấy danh sách để hiển thị
-                const data = await fetchNewsList();
+                const data = await savedArticleService.getSavedList(userId);
                 setArticles(data);
             } catch (err) {
                 console.error("Lỗi khi tải dữ liệu:", err);
             } finally {
                 setIsLoading(false);
             }
-        };
-        loadInitialData();
+        })();
     }, []);
 
-    if (isLoading) return <div className="savedArticle-loading">Đang tải danh sách bài báo...</div>;
+    if (isLoading) return <div className="container" style={{padding: "40px", textAlign: "center"}}>Đang tải danh sách...</div>;
 
     return (
-        <div className="savedArticle-container">
-            <h2 className="savedArticle-headerTitle">Khám phá Tin tức</h2>
-            <div className="savedArticle-wrapper">
-                {articles.map((item) => (
-                    <div key={item.id} className="savedArticle-itemCard">
-                        <Link to={`/news/${item.id}`} className="savedArticle-link">
-                            <div className="savedArticle-imageBox">
-                                <img
-                                    src={item.thumbnail || "https://via.placeholder.com/400x250"}
-                                    alt={item.title}
-                                    className="savedArticle-img"
-                                />
-                            </div>
-                            <div className="savedArticle-info">
-                                <span className="savedArticle-tag">{item.category || "Tổng hợp"}</span>
-                                <h3 className="savedArticle-itemTitle">{item.title}</h3>
-                                <p className="savedArticle-summary">
-                                    {item.sapo ? item.sapo.substring(0, 95) + "..." : "Xem chi tiết bài viết tại đây."}
-                                </p>
-                                <div className="savedArticle-metaData">
-                                    <span className="savedArticle-date">{item.publishDate}</span>
-                                    <span className="savedArticle-readMore">Đọc tiếp</span>
+        <div className="lastest_content">
+            <div className="layout__breadcrumb">
+                <div className="container">
+                    <div className="box-breadcrumb">
+                        <div className="box-breadcrumb-name">
+                            <span>Tin đã lưu</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div className="list__new">
+                <div className="container">
+                    <div className="list__new-flex">
+                        <div className="list__new-main">
+                            <div className="box-category">
+                                <div className="box-category-middle list__main_check saved-list-container">
+                                    {articles.length > 0 ? (
+                                        articles.map((item) => (
+                                            <BoxCategoryItem key={item.id} data={item}/>
+                                        ))
+                                    ) : (
+                                        <div className="empty-saved-state">
+                                            <p>Bạn chưa lưu bài viết nào.</p>
+                                            <Link to="/" className="go-home-link">Khám phá tin tức ngay</Link>
+                                        </div>
+                                    )}
                                 </div>
                             </div>
-                        </Link>
+                        </div>
                     </div>
-                ))}
+                </div>
             </div>
         </div>
     );
