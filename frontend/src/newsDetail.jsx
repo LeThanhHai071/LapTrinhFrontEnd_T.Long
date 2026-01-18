@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { fetchNewsDetail } from "./services/newsService";
 import "./NewsDetail.css";
 import { getUserIdFromStorage } from "./utils/authUtils.js";
-import { articleService } from "../services/articleService";
+import { articleService } from "./services/articleService";
 
 const NewsDetail = () => {
   const { id: articleId } = useParams();
@@ -15,8 +15,9 @@ const NewsDetail = () => {
   const [comments, setComments] = useState([]);
   const [commentText, setCommentText] = useState("");
   const [speaking, setSpeaking] = useState(false);
-
   const [isSaved, setIsSaved] = useState(false);
+  const API_BASE_URL = "http://localhost:5000/api/auth";
+
 
   /* ===== LOAD DETAIL ===== */
     useEffect(() => {
@@ -83,30 +84,19 @@ const NewsDetail = () => {
 
 
 
-    /*====   nút save bài báo   ====*/
+    /*====  handle nút save bài báo   ====*/
     // eslint-disable-next-line no-unused-vars
     const handleToggleSave = async () => {
-        const userId = getUserIdFromStorage();
-        if (!userId) {
-            alert("Vui lòng đăng nhập để lưu bài báo!");
-            return;
-        }
-
-        const payload = {
-            userId: userId,
-            articleId: articleId,
-            title: article?.title,
-            imageURL: article?.content?.find(b => b.type === "image_block")?.urls || "",
-            link: window.location.href,
-            sapo: article?.sapo
-        };
-
         try {
-            const res = await articleService.toggleSave(payload);
+            const res = await articleService.smartToggleSave(article, articleId);
             setIsSaved(res.data.isSaved);
             alert(res.data.message);
         } catch (err) {
-            console.error("Lỗi chức năng lưu bài:", err);
+            if (err.message === "Chưa đăng nhập") {
+                alert("Vui lòng đăng nhập để lưu bài báo!");
+            } else {
+                console.error("Lỗi chức năng lưu bài:", err);
+            }
         }
     };
 
