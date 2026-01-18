@@ -3,61 +3,74 @@
   "categoryName": "Đánh giá xe",
   "fullSlug": "xe-danh-gia-xe",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:05:18.124Z",
+  "lastUpdate": "2026-01-18T04:53:53.098Z",
   "articles": [
     {
       "title": "Volkswagen Golf nhập từ Đức giá dưới 1 tỉ đồng: 'Xe chơi' cho người thích lái",
       "link": "https://thanhnien.vn/volkswagen-golf-nhap-tu-duc-gia-duoi-1-ti-dong-xe-choi-cho-nguoi-thich-lai-185251229090400539.htm",
       "pubDate": "Tue, 30 Dec 25 19:21:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/1/volkswagen-golf-thanhnien-1767235227186146552200.jpg",
+      "imgClass": "img-resize",
       "description": "Nổi tiếng với tên gọi \"Hot Hatch\", Volkswagen Golf mang đến trải nghiệm lái thú vị, lanh lẹ và phấn khích với người cầm lái. Đây là một trong những lần hiếm hoi xe nhập từ Đức về Việt Nam với giá dễ chịu.",
-      "guid": "https://thanhnien.vn/volkswagen-golf-nhap-tu-duc-gia-duoi-1-ti-dong-xe-choi-cho-nguoi-thich-lai-185251229090400539.htm"
+      "guid": "https://thanhnien.vn/volkswagen-golf-nhap-tu-duc-gia-duoi-1-ti-dong-xe-choi-cho-nguoi-thich-lai-185251229090400539.htm",
+      "categoryName": "Đánh giá xe"
     },
     {
       "title": "Subaru Forester 2025 nhập từ Nhật Bản: Đắt có ‘xắt ra miếng’?",
       "link": "https://thanhnien.vn/subaru-forester-2025-nhap-tu-nhat-ban-dat-co-xat-ra-mieng-185251224065444311.htm",
       "pubDate": "Wed, 24 Dec 25 15:12:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/23/subaru-forester-2025-thanhnien-14-17665336060781696935121-83-0-1333-2000-crop-17665336131111937108507.jpg",
+      "imgClass": "img-resize",
       "description": "Ở thế hệ mới, Subaru Forester đáp ứng tốt kỳ vọng của người dùng từ độ hoàn thiện đến khả năng vận hành của một mẫu xe nhập khẩu từ Nhật Bản. Tuy nhiên, vẫn còn vài điểm \"lăn tăn\" ở kiểu dáng thiết kế và giá bán.",
-      "guid": "https://thanhnien.vn/subaru-forester-2025-nhap-tu-nhat-ban-dat-co-xat-ra-mieng-185251224065444311.htm"
+      "guid": "https://thanhnien.vn/subaru-forester-2025-nhap-tu-nhat-ban-dat-co-xat-ra-mieng-185251224065444311.htm",
+      "categoryName": "Đánh giá xe"
     },
     {
       "title": "3 điểm nâng cấp của Yamaha NMAX 155 có đủ sức 'đấu' Honda PCX?",
       "link": "https://thanhnien.vn/3-diem-nang-cap-cua-yamaha-nmax-155-co-du-suc-dau-honda-pcx-185251222140940274.htm",
       "pubDate": "Mon, 22 Dec 25 15:38:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/22/danh-gia-yamaha-nmax-155-cover-17663869929731573557939-0-0-1080-1728-crop-17663869997781219077144.jpg",
+      "imgClass": "img-resize",
       "description": "Sau thời gian dài vắng bóng, hãng xe Nhật Bản đã chính thức đưa mẫu xe tay ga Yamaha NMAX 155 thế hệ mới về Việt Nam để cạnh tranh trực tiếp trong phân khúc xe ga đường trường.",
-      "guid": "https://thanhnien.vn/3-diem-nang-cap-cua-yamaha-nmax-155-co-du-suc-dau-honda-pcx-185251222140940274.htm"
+      "guid": "https://thanhnien.vn/3-diem-nang-cap-cua-yamaha-nmax-155-co-du-suc-dau-honda-pcx-185251222140940274.htm",
+      "categoryName": "Đánh giá xe"
     },
     {
       "title": "Sedan thể thao Skoda Octavia RS có gì hấp dẫn khách Việt?",
       "link": "https://thanhnien.vn/sedan-the-thao-skoda-octavia-rs-co-gi-hap-dan-khach-viet-185251221112126702.htm",
       "pubDate": "Sun, 21 Dec 25 19:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/21/danh-gia-skoda-octavia-cover-17662906136301627325146-0-60-1080-1788-crop-17662906649341982726547.jpg",
+      "imgClass": "img-resize",
       "description": "Thay vì tập trung vào nhóm khách hàng phổ thông, Skoda Octavia RS hướng đến người trẻ, thích lái trải nghiệm theo phong cách thể thao cùng nhiều trang bị tiện nghi, hiện đại.",
-      "guid": "https://thanhnien.vn/sedan-the-thao-skoda-octavia-rs-co-gi-hap-dan-khach-viet-185251221112126702.htm"
+      "guid": "https://thanhnien.vn/sedan-the-thao-skoda-octavia-rs-co-gi-hap-dan-khach-viet-185251221112126702.htm",
+      "categoryName": "Đánh giá xe"
     },
     {
       "title": "Lội nước, vượt đồi cát cùng xe năng lượng mới tại Trường đua đa địa hình BYD",
       "link": "https://thanhnien.vn/loi-nuoc-vuot-doi-cat-cung-xe-nang-luong-moi-tai-truong-dua-da-dia-hinh-byd-185251217213035294.htm",
       "pubDate": "Thu, 18 Dec 25 11:19:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/18/byd-truong-dua-trinh-chau-7-17660222162421030765992-0-234-1081-1963-crop-1766025075158776979040.jpg",
+      "imgClass": "img-resize",
       "description": "Một cú miết chân ga sát sàn, chiếc YangWang U9 mạnh gần 1.300 mã lực lao vút lên phía trước như một mũi trên, trên ghế phụ tôi chỉ kịp cảm nhận khung cảnh xung quanh dần mờ đi bởi tốc độ, cơ thể như dính chặt vào lưng ghế… Nhưng đó chỉ mới là một trong số ít trải nghiệm trong Trường đua đa địa hình BYD dành riêng cho xe năng lượng mới.",
-      "guid": "https://thanhnien.vn/loi-nuoc-vuot-doi-cat-cung-xe-nang-luong-moi-tai-truong-dua-da-dia-hinh-byd-185251217213035294.htm"
+      "guid": "https://thanhnien.vn/loi-nuoc-vuot-doi-cat-cung-xe-nang-luong-moi-tai-truong-dua-da-dia-hinh-byd-185251217213035294.htm",
+      "categoryName": "Đánh giá xe"
     },
     {
       "title": "3 thay đổi đáng chú ý trên Mazda CX-5 thế hệ mới",
       "link": "https://thanhnien.vn/3-thay-doi-dang-chu-y-tren-mazda-cx-5-the-he-moi-185251212113317581.htm",
       "pubDate": "Sat, 13 Dec 25 10:16:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/13/thumb-1765585157708432602934-0-0-1040-1664-crop-17655851710341209202337.jpg",
+      "imgClass": "img-resize",
       "description": "Mazda CX-5 thế hệ mới vừa trình làng Việt Nam lột xác toàn diện về kích thước, thiết kế, tiện nghi, vận hành... mang lại không gian rộng thoáng hơn so với xe đời cũ.",
-      "guid": "https://thanhnien.vn/3-thay-doi-dang-chu-y-tren-mazda-cx-5-the-he-moi-185251212113317581.htm"
+      "guid": "https://thanhnien.vn/3-thay-doi-dang-chu-y-tren-mazda-cx-5-the-he-moi-185251212113317581.htm",
+      "categoryName": "Đánh giá xe"
     },
     {
       "title": "'Tân binh' Mitsubishi Destinator hơn kém gì Mazda CX-5, Ford Territory?",
       "link": "https://thanhnien.vn/tan-binh-mitsubishi-destinator-hon-kem-gi-mazda-cx-5-ford-territory-185251202150018885.htm",
       "pubDate": "Thu, 11 Dec 25 14:11:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/2/so-sanh-mitsubishi-destinator-voi-cac-doi-thu-1-thanhnien-17646620951011153899447-39-0-542-805-crop-1764662103997458267729.jpg",
+      "imgClass": "img-resize",
       "description": "Không chỉ niêm yết mức giá dễ tiếp cận, Mitsubishi Destinator còn sở hữu nhiều lợi thế về kiểu dáng, trang bị, kỳ vọng sẽ trở thành đối thủ \"nặng ký\" thách thức Mazda CX-5 và Ford Territory ở phân khúc Crossover cỡ trung tại Việt Nam.",
       "guid": "https://thanhnien.vn/tan-binh-mitsubishi-destinator-hon-kem-gi-mazda-cx-5-ford-territory-185251202150018885.htm"
     },
@@ -66,24 +79,30 @@
       "link": "https://thanhnien.vn/audi-a6-the-he-moi-co-gi-canh-tranh-cac-doi-thu-dong-huong-185251206104536194.htm",
       "pubDate": "Sun, 07 Dec 25 14:29:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/6/danh-gia-audi-a6-cover-17649923352153828997-0-0-1080-1728-crop-1764992341200919889163.jpg",
+      "imgClass": "img-resize",
       "description": "Với giá niêm yết 2,799 tỉ đồng, Audi A6 thế hệ mới không chạy đua về thông số kích thước, thay vào đó tập trung tối ưu trải nghiệm công nghệ, tiện nghi và vận hành để tăng lực cạnh tranh với các đối thủ trong nhóm sedan hạng sang cỡ trung đến từ Đức.",
-      "guid": "https://thanhnien.vn/audi-a6-the-he-moi-co-gi-canh-tranh-cac-doi-thu-dong-huong-185251206104536194.htm"
+      "guid": "https://thanhnien.vn/audi-a6-the-he-moi-co-gi-canh-tranh-cac-doi-thu-dong-huong-185251206104536194.htm",
+      "categoryName": "Đánh giá xe"
     },
     {
       "title": "Mitsubishi Destinator có lợi thế gì so với đối thủ cạnh tranh?",
       "link": "https://thanhnien.vn/mitsubishi-destinator-co-loi-the-gi-so-voi-doi-thu-canh-tranh-18525120211331781.htm",
       "pubDate": "Thu, 04 Dec 25 15:28:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/2/3-diem-canh-tranh-cua-mitsubishi-destinator-cover-17646492061241538582830-0-0-1080-1728-crop-1764649217725426105718.jpg",
+      "imgClass": "img-resize",
       "description": "Gia nhập phân khúc crossover hạng C cạnh tranh với nhiều đối thủ nặng ký như Mazda CX-5, Ford Territory, Hyundai Tucson... nhưng Mitsubishi Destinator vẫn có lợi thế cạnh tranh nhờ giá trị cốt lõi, đánh vào nhu cầu thực tế của khách Việt.",
-      "guid": "https://thanhnien.vn/mitsubishi-destinator-co-loi-the-gi-so-voi-doi-thu-canh-tranh-18525120211331781.htm"
+      "guid": "https://thanhnien.vn/mitsubishi-destinator-co-loi-the-gi-so-voi-doi-thu-canh-tranh-18525120211331781.htm",
+      "categoryName": "Đánh giá xe"
     },
     {
       "title": "Honda SH 2026 giá từ 77,89 triệu đồng nâng cấp những gì?",
       "link": "https://thanhnien.vn/honda-sh-2026-gia-tu-7789-trieu-dong-nang-cap-nhung-gi-185251105105613916.htm",
       "pubDate": "Wed, 05 Nov 25 12:09:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/11/5/mau-1-thumb-tn-1762314767010775588434.jpg",
+      "imgClass": "img-resize",
       "description": "Hai phiên bản 125i và 160i của dòng xe tay ga Honda SH 2026 lần đầu được trang bị màn hình điện tử 4,2 inch, nâng cấp cụm đèn theo phong cách Honda SH 350i, đồng thời bổ sung một số trang bị mới để tăng sức cạnh tranh.",
-      "guid": "https://thanhnien.vn/honda-sh-2026-gia-tu-7789-trieu-dong-nang-cap-nhung-gi-185251105105613916.htm"
+      "guid": "https://thanhnien.vn/honda-sh-2026-gia-tu-7789-trieu-dong-nang-cap-nhung-gi-185251105105613916.htm",
+      "categoryName": "Đánh giá xe"
     }
   ]
 }

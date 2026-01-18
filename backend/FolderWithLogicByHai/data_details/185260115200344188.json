@@ -1,0 +1,64 @@
+{
+  "title": "Khi nào nên tắt 5G và sử dụng LTE trên smartphone",
+  "categories": [
+    "Công nghệ",
+    "Thủ thuật"
+  ],
+  "sapo": "Kể từ khi ra mắt hơn nửa thập kỷ trước, công nghệ smartphone 5G đã tạo ra một làn sóng hào hứng lớn.",
+  "publishDate": "16/01/2026 11:55 GMT+7",
+  "author": {
+    "name": "Kiến Văn",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/Uploaded/authors/CTV/kienvan_WULL.jpg",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Với mạng 5G, người dùng được hứa hẹn về tốc độ gần gigabit với độ trễ tối thiểu, mở ra khả năng thực hiện những công việc như phẫu thuật từ xa. Hiện nay, hầu hết smartphone hiện đại đều có thể tận dụng lợi ích của 5G, giúp việc tải lên tập tin lớn và phát video độ phân giải cao trở nên dễ dàng. Thậm chí, có những nhà mạng xem 5G như giải pháp cung cấp mạng internet tại nhà."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/15/1-17684820228201354693342.jpg"
+      ],
+      "caption": "5G có những nhược điểm lớn so với mạng LTE"
+    },
+    {
+      "type": "text",
+      "content": "Tuy nhiên, 5G cũng tồn tại những nhược điểm, đặc biệt ở những khu vực có vùng phủ sóng kém hoặc đối với các thiết bị cũ không được trang bị chip mới nhất. Do đó, nhiều người đã chọn tắt 5G và chuyển sang LTE trong một số trường hợp để tiết kiệm pin."
+    },
+    {
+      "type": "h2",
+      "content": "Vai trò của LTE trong kỷ nguyên 5G"
+    },
+    {
+      "type": "text",
+      "content": "Được triển khai từ năm 2010, công nghệ Long Term Evolution (LTE) là tiêu chuẩn cho mạng 4G, cung cấp tốc độ tương tự như Wi-Fi tại nhà vào thời điểm đó, ở mức khoảng 10 - 100 Mbps. So với mạng 3G, LTE cho phép thực hiện nhiều tác vụ hơn, như gọi video mượt mà khi di chuyển. Đặc biệt, độ trễ của LTE giảm xuống còn 30 - 70 ms, trong khi 5G có thể đạt độ trễ chỉ 5 ms giúp mọi thứ hoạt động nhanh hơn đáng kể."
+    },
+    {
+      "type": "text",
+      "content": "Tuy đã ra mắt lâu và chậm hơn, mạng LTE vẫn được sử dụng rộng rãi và đóng vai trò là phương án dự phòng khi kết nối 5G không ổn định. Sử dụng LTE, đặc biệt ở những khu vực có sóng 5G yếu, giúp tiết kiệm pin vì modem LTE tiêu thụ ít năng lượng hơn. Hơn nữa, kết nối LTE thường ổn định hơn do được xây dựng trên nền tảng 3G phổ biến, trong khi 5G yêu cầu một mạng lưới hoàn toàn mới."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/15/2-17684820800361367691878.jpg"
+      ],
+      "caption": "Người dùng có thể 'ép' smartphone chuyển từ 5G xuống LTE"
+    },
+    {
+      "type": "text",
+      "content": "Chính vì các lợi ích mang lại, LTE được nhiều người lựa chọn trong nhiều tình huống thực tế. Để buộc điện thoại sử dụng LTE, người dùng Android có thể vào Settings > Connections/Network & Internet > Mobile Networks/SIM > Chọn LTE hoặc 4G Preferred. Đối với iOS, người dùng hãy vào Settings > Cellular > Cellular Data Options > Voice & Data > LTE. Sau khi thực hiện, người dùng có thể cần khởi động lại smartphone hoặc đơn giản là bật và tắt dữ liệu di động."
+    },
+    {
+      "type": "text",
+      "content": "Theo báo cáo của Ookla, việc tắt 5G có thể tiết kiệm từ 6 - 11% pin, đặc biệt ở những khu vực có kết nối 5G không ổn định hoặc đối với các thiết bị cũ. Việc chuyển đổi giữa LTE và 5G tiêu tốn nhiều pin và ở những vùng nông thôn có sóng 5G không ổn định, người dùng có thể thấy thời lượng pin cải thiện khoảng 10%, tương đương với thêm 30 - 60 phút sử dụng."
+    },
+    {
+      "type": "text",
+      "content": "Nhìn chung, việc chuyển sang sử dụng LTE có thể mang lại nhiều lợi ích cho người dùng, đặc biệt trong những tình huống cần tiết kiệm pin hoặc ở những khu vực có vùng phủ sóng 5G không ổn định."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/khi-nao-nen-tat-5g-va-su-dung-lte-tren-smartphone-185260115200344188.htm",
+  "id": "185260115200344188"
+}

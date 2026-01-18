@@ -3,87 +3,107 @@
   "categoryName": "Tiêu dùng thông minh",
   "fullSlug": "tieu-dung-thong-minh",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:02:47.442Z",
+  "lastUpdate": "2026-01-18T04:52:09.589Z",
   "articles": [
     {
-      "title": "Thị trường gạo Việt Nam thế nào sau khi Philippines mở cửa?",
-      "link": "https://thanhnien.vn/thi-truong-gao-viet-nam-the-nao-sau-khi-philippines-mo-cua-1852601121555522.htm",
-      "pubDate": "Mon, 12 Jan 26 16:58:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/screen-shot-2025-11-26-at-155754-17641475062601905483860-0-0-970-1552-crop-17682080061671058548454.png",
-      "description": "Philippines đã mở cửa trở lại, nhu cầu của các thị trường truyền thống khác cũng tăng nhưng khởi đầu năm 2026, thị trường gạo Việt Nam vẫn khá chậm chạp vì chính sách mới của nhà nhập khẩu.",
-      "guid": "https://thanhnien.vn/thi-truong-gao-viet-nam-the-nao-sau-khi-philippines-mo-cua-1852601121555522.htm"
+      "title": "Giá xăng dầu hôm nay 17.1.2026: Đảo chiều tăng trở lại",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-1712026-dao-chieu-tang-tro-lai-185260117074923327.htm",
+      "pubDate": "Sat, 17 Jan 26 08:22:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/xang-dau-ngay-284-nhat-thinh-17677490106581286155578-0-0-1600-2560-crop-1768610900545440846949.jpg",
+      "imgClass": "img-resize",
+      "description": "Sau 2 phiên giảm liên tục, đóng phiên cuối tuần, giá dầu thế giới tăng nhẹ trở lại. Trong nước, cập nhật dữ liệu cho thấy, giá xăng dầu tại kỳ điều hành tuần sau có thể biến động trái chiều.",
+      "guid": "https://thanhnien.vn/gia-xang-dau-hom-nay-1712026-dao-chieu-tang-tro-lai-185260117074923327.htm",
+      "categoryName": "Mới- Mới- Mới"
     },
     {
-      "title": "Giá heo hơi hôm nay 12.1.2026: Chạm ngưỡng 75.000 đồng/kg",
-      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1212026-cham-nguong-75000-dong-kg-185260112090245863.htm",
-      "pubDate": "Mon, 12 Jan 26 09:23:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/04da52ce-0b1a-494c-b680-bfc56d148bef-17400979379381208667129-0-0-634-1015-crop-17681833195021250470771.jpeg",
-      "description": "Giá heo hơi cả nước duy trì xu hướng tăng cao trong thời điểm lễ tết cuối năm đang đến gần.",
-      "guid": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1212026-cham-nguong-75000-dong-kg-185260112090245863.htm"
+      "title": "Giá heo hơi hôm nay 17.1.2026: Bất ngờ đảo chiều\n",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1712026-bat-ngo-dao-chieu-185260116164501904.htm",
+      "pubDate": "Sat, 17 Jan 26 07:36:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/0cf1e25559c6d6988fd7-17682279292491754111860-0-0-800-1280-crop-17685566701291393190192.jpg",
+      "imgClass": "img-resize",
+      "description": "Giá heo hơi bất ngờ đảo chiều giảm ở các tỉnh thành miền Bắc và  miền Trung, trong khi đó miền Nam vẫn tiếp đà tăng.",
+      "guid": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1712026-bat-ngo-dao-chieu-185260116164501904.htm",
+      "categoryName": "Mới- Mới- Mới"
     },
     {
-      "title": "Giá xăng dầu hôm nay 12.1.2026: Giữ đà tăng",
-      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-1212026-giu-da-tang-185260112081704095.htm",
-      "pubDate": "Mon, 12 Jan 26 08:27:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/gen-h-dnt-117-1768180557502617594502-66-0-1666-2560-crop-17681805925591577976302.jpg",
-      "description": "Giá dầu thế giới sáng đầu tuần ngập sắc xanh, tăng đồng loạt trong bối cảnh lo ngại nguồn cung dầu từ Nga bị ảnh hưởng bởi xung đột leo thang. Trong nước, dự báo giá xăng dầu tuần này tăng nhẹ.",
-      "guid": "https://thanhnien.vn/gia-xang-dau-hom-nay-1212026-giu-da-tang-185260112081704095.htm"
+      "title": "Nghỉ tết cần thực phẩm thuốc, mua ở đâu?",
+      "link": "https://thanhnien.vn/sieu-thi-nha-thuoc-co-nghi-tet-185260116121912335.htm",
+      "pubDate": "Fri, 16 Jan 26 13:06:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/1d090876-8c02-4f12-86de-a3ff3be082c1-17685408111181142972796-0-0-1536-2458-crop-17685411774961514921310.jpeg",
+      "imgClass": "img-resize",
+      "description": "Đó là mối quan tâm của nhiều người tiêu dùng, bởi xu hướng chơi tết khiến nhiều gia đình đã giảm dự trữ thực phẩm cũng như một số mặt hàng thiết yếu dịp tết Nguyên đán.",
+      "guid": "https://thanhnien.vn/sieu-thi-nha-thuoc-co-nghi-tet-185260116121912335.htm",
+      "categoryName": "Mới- Mới- Mới"
     },
     {
-      "title": "Highlands Coffee bán lại trà sen vàng, trà vải ở một số cửa hàng",
-      "link": "https://thanhnien.vn/highlands-coffee-ban-lai-tra-sen-vang-tra-vai-o-mot-so-cua-hang-185260110233547272.htm",
-      "pubDate": "Sun, 11 Jan 26 07:41:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/anh-man-hinh-2026-01-10-luc-082815-17680624895231784884323-243-0-1391-1836-crop-17680626830771842061733.png",
-      "description": "Highlands Coffee phát đi thông báo vào đêm 10.1 nhằm làm rõ những hiểu lầm liên quan đến nguồn nguyên liệu, đồng thời cập nhật tình trạng phục vụ các sản phẩm trà sen vàng, trà vải tại hệ thống cửa hàng trên toàn quốc.",
-      "guid": "https://thanhnien.vn/highlands-coffee-ban-lai-tra-sen-vang-tra-vai-o-mot-so-cua-hang-185260110233547272.htm"
+      "title": "Giá heo hơi hôm nay 16.1.2026: Cao nhất 76.000 đồng/kg",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1612026-cao-nhat-76000-dong-kg-18526011607493258.htm",
+      "pubDate": "Fri, 16 Jan 26 08:57:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/53db1880-c1e9-454e-b9b7-794d40c4fa39-17663672869992033265158-0-129-1020-1761-crop-1768524336579153159316.jpeg",
+      "imgClass": "img-resize",
+      "description": "Giá heo hơi duy trì đà tăng tại một số tỉnh, thành phố thuộc khu vực miền Trung, miền Nam trong sáng nay, mức giá cao nhất đã lên đến 76.000 đồng/kg.",
+      "guid": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1612026-cao-nhat-76000-dong-kg-18526011607493258.htm",
+      "categoryName": "Mới- Mới- Mới"
     },
     {
-      "title": "Khởi động mùa mua sắm Tết Bính Ngọ",
-      "link": "https://thanhnien.vn/khoi-dong-mua-mua-sam-tet-binh-ngo-185260110220609831.htm",
-      "pubDate": "Sun, 11 Jan 26 04:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/hang-hoa-phuc-vu-tet-nguyen-dan-ve-ngap-cho-va-sieu-thi-2nhat-thinh-17680573889731117048468-0-0-1600-2560-crop-1768057421967923712903.jpg",
-      "description": "Dù còn hơn 1 tháng nữa đến Tết Bính Ngọ nhưng không khí tết đã ngập tràn trong các chợ, siêu thị và trên cả các con đường, tuyến phố. Điều đặc biệt năm nay là hầu hết khách đều yêu cầu hàng có nguồn gốc, xuất xứ, hóa đơn, thương hiệu rõ ràng.",
-      "guid": "https://thanhnien.vn/khoi-dong-mua-mua-sam-tet-binh-ngo-185260110220609831.htm"
+      "title": "Giá xăng dầu hôm nay 16.1.2026: Lao dốc mạnh",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-1612026-lao-doc-manh-185260116082643452.htm",
+      "pubDate": "Fri, 16 Jan 26 08:55:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/anh-nhat-thinh-dung-59-17394100378052000706137-0-0-1600-2560-crop-17685267174831743939296.jpg",
+      "imgClass": "img-resize",
+      "description": "Thị trường dầu thô khiến nhà đầu tư dễ \"đau tim\", sau khi tăng liên tiếp, bất ngờ quay đầu giảm hơn 4% kết thúc phiên rạng sáng nay. Trong khi đó, giá xăng dầu trong nước vừa được điều chỉnh tăng nhẹ.",
+      "guid": "https://thanhnien.vn/gia-xang-dau-hom-nay-1612026-lao-doc-manh-185260116082643452.htm",
+      "categoryName": "Mới- Mới- Mới"
     },
     {
-      "title": "Loạt siêu thị, cửa hàng rút sữa Nan của Nestlé Việt Nam ra khỏi kệ",
-      "link": "https://thanhnien.vn/loat-sieu-thi-cua-hang-rut-khoi-ke-sua-nan-cua-nestle-viet-nam-185260110111620882.htm",
-      "pubDate": "Sat, 10 Jan 26 11:40:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/00b6c5a0e02c6f72363d-17680184597362057311943-61-0-1661-2560-crop-1768018473660876741266.jpg",
-      "description": "Các sản phẩm này nằm trong 17 lô sữa công thức dành cho trẻ nhỏ mang thương hiệu NAN, vừa được Công ty TNHH Nestlé Việt Nam thông báo tự nguyện và chủ động thu hồi tại thị trường Việt Nam.",
-      "guid": "https://thanhnien.vn/loat-sieu-thi-cua-hang-rut-khoi-ke-sua-nan-cua-nestle-viet-nam-185260110111620882.htm"
+      "title": "Saigon Co.op giảm giá sốc bánh kẹo, hạt khô... phục vụ Tết Nguyên đán 2026",
+      "link": "https://thanhnien.vn/saigon-coop-giam-gia-soc-cho-cho-banh-keo-hat-kho-phuc-vu-tet-nguyen-dan-2026-185260115113002018.htm",
+      "pubDate": "Thu, 15 Jan 26 13:55:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/cac-trang-tri-dam-chat-phien-cho-tet-viet-mot-trong-nhung-diem-nhan-noi-bat-cho-khach-hang-trai-nghiem-khi-mua-sam-1-1768451-0-0-1188-1900-crop-1768451283428399052805.jpg",
+      "imgClass": "img-resize",
+      "description": "Hệ thống Saigon Co.op thực hiện giảm giá cho hàng loạt sản phẩm nhân dịp Tết Nguyên đán 2026.",
+      "guid": "https://thanhnien.vn/saigon-coop-giam-gia-soc-cho-cho-banh-keo-hat-kho-phuc-vu-tet-nguyen-dan-2026-185260115113002018.htm",
+      "categoryName": "Mới- Mới- Mới"
     },
     {
-      "title": "Giá xăng dầu hôm nay 10.1.2026: Phục hồi, tuần tăng 4%",
-      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-1012026-phuc-hoi-tuan-tang-4-185260110084314201.htm",
-      "pubDate": "Sat, 10 Jan 26 09:02:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/gia-dau-reuters9-17380286426791652051683-0-0-544-870-crop-1768009316201683710104.jpg",
-      "description": "Giá dầu thế giới tăng khoảng 2% trong phiên giao dịch cuối tuần. Tính cả tuần, 2 mặt hàng dầu chuẩn tăng 3 - 4%. Trong nước giá xăng dầu vừa được điều chỉnh giảm lần đầu tiên trong năm, song dự báo tuần tới có thể tăng trở lại.",
-      "guid": "https://thanhnien.vn/gia-xang-dau-hom-nay-1012026-phuc-hoi-tuan-tang-4-185260110084314201.htm"
+      "title": "Giá xăng dầu hôm nay 15.1.2026: Đảo chiều giảm mạnh trước giờ điều chỉnh trong nước",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-1512026-dao-chieu-giam-manh-truoc-gio-dieu-chinh-trong-nuoc-185260115085047119.htm",
+      "pubDate": "Thu, 15 Jan 26 09:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/10/edit-nt-17653302978352107355089.jpeg",
+      "imgClass": "img-resize",
+      "description": "Giá xăng dầu đảo chiều, lao dốc rất nhanh khi thông tin gián đoạn nguồn cung dầu từ Iran có vẻ dịu lại. Trong nước, chiều nay (15.1), liên Bộ Tài chính - Công thương sẽ cho điều chỉnh giá xăng dầu. Dự báo cập nhật đến nay cho thấy, các mặt hàng xăng dầu trong nước thể tăng đồng loạt.",
+      "guid": "https://thanhnien.vn/gia-xang-dau-hom-nay-1512026-dao-chieu-giam-manh-truoc-gio-dieu-chinh-trong-nuoc-185260115085047119.htm",
+      "categoryName": "Mới- Mới- Mới"
     },
     {
-      "title": "Highlands Coffee ngưng bán trà sen vàng, trà vải do Công ty Đồ hộp Hạ Long cung cấp",
-      "link": "https://thanhnien.vn/highlands-coffee-ngung-ban-tra-sen-vang-tra-vai-do-cong-ty-do-hop-ha-long-cung-cap-185260110083450195.htm",
-      "pubDate": "Sat, 10 Jan 26 08:44:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/anh-man-hinh-2026-01-10-luc-082535-1768008489085783602254-178-0-1314-1818-crop-1768008756847426418133.png",
-      "description": "Highlands Coffee thông báo tạm ngưng bán các sản phẩm có sử dụng nguyên liệu do Công ty CP Đồ hộp Hạ Long cung cấp, trong đó chủ yếu là hạt sen và vải đóng hộp. Hai sản phẩm bị ảnh hưởng trực tiếp là trà sen vàng và trà vải.",
-      "guid": "https://thanhnien.vn/highlands-coffee-ngung-ban-tra-sen-vang-tra-vai-do-cong-ty-do-hop-ha-long-cung-cap-185260110083450195.htm"
+      "title": "Giá heo hơi hôm nay 15.1.2026: Mốc 80.000 đồng/kg không còn xa\n",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1512026-moc-80000-dong-kg-khong-con-xa-185260114211330978.htm",
+      "pubDate": "Thu, 15 Jan 26 07:34:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/feba8c943407bb59e216-17682279292571252676433-0-0-800-1280-crop-1768399962417451650268.jpg",
+      "imgClass": "img-resize",
+      "description": "Đà tăng giá heo hơi mở rộng ra nhiều tỉnh thành ở miền Trung và miền Nam, còn mức đỉnh ở miền Bắc đã sắp chạm đến mốc 80.000 đồng/kg.",
+      "guid": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1512026-moc-80000-dong-kg-khong-con-xa-185260114211330978.htm",
+      "categoryName": "Mới- Mới- Mới"
     },
     {
-      "title": "Giá heo hơi hôm nay 10.1.2026: Tăng mạnh nhất kể từ đầu năm",
-      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1012026-tang-manh-nhat-ke-tu-dau-nam-185260109200740206.htm",
-      "pubDate": "Sat, 10 Jan 26 08:42:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/43d643a4bb1f37416e0e-176457976505647171657-0-0-800-1280-crop-17679639562272008190768.jpg",
-      "description": "Giá heo hơi đồng loạt tăng ở nhiều tỉnh thành trên cả nước, một số địa phương ghi nhận mức tăng đến 2.000 - 3.000 đồng/kg, cao nhất kể từ đầu năm 2026.",
-      "guid": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1012026-tang-manh-nhat-ke-tu-dau-nam-185260109200740206.htm"
+      "title": "Kỷ lục: Người Việt chi gần 1 tỉ USD để ăn trái cây Mỹ",
+      "link": "https://thanhnien.vn/ky-luc-nguoi-viet-chi-gan-1-ti-usd-de-an-trai-cay-my-18526011417453599.htm",
+      "pubDate": "Wed, 14 Jan 26 18:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/346254846bdede8087cf-17683873487111046426203-81-0-881-1280-crop-17683874538231626713722.jpg",
+      "imgClass": "img-resize",
+      "description": "Việt Nam chi gần 1 tỉ USD để ăn trái cây Mỹ trong năm 2025 và gấp đôi so với kim ngạch xuất khẩu, đây là con số kỷ lục từ trước tới nay.",
+      "guid": "https://thanhnien.vn/ky-luc-nguoi-viet-chi-gan-1-ti-usd-de-an-trai-cay-my-18526011417453599.htm",
+      "categoryName": "Mới- Mới- Mới"
     },
     {
-      "title": "Đồ hộp Hạ Long đã bán bao nhiêu pate Cột đèn Hải Phòng qua sàn điện tử?",
-      "link": "https://thanhnien.vn/do-hop-ha-long-da-ban-bao-nhieu-pate-cot-den-hai-phong-qua-san-dien-tu-185260109155118513.htm",
-      "pubDate": "Fri, 09 Jan 26 15:56:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/anh-chup-man-hinh-2026-01-09-luc-153855-17679479925751313839592-19-0-378-574-crop-1767948602226702356998.png",
-      "description": "Theo số liệu thống kê của nền tảng tổng hợp và khai thác dữ liệu Metric, sản phẩm Pate Cột đèn Hải Phòng của Công ty Đồ hộp Hạ Long (Halong Canfoco) đã bán được 21 tỉ đồng trên các sàn thương mại điện tử trong năm qua.",
-      "guid": "https://thanhnien.vn/do-hop-ha-long-da-ban-bao-nhieu-pate-cot-den-hai-phong-qua-san-dien-tu-185260109155118513.htm"
+      "title": "Nhiều khách hàng ngã ngửa khi giá hàng hóa trên sàn còn đắt hơn ngoài shop",
+      "link": "https://thanhnien.vn/hang-hoa-tang-gia-nen-mua-ben-ngoai-hay-mua-tren-san-185260114130112682.htm",
+      "pubDate": "Wed, 14 Jan 26 16:33:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/tmdt01-17683813414591898994573-52-0-1653-2560-crop-1768381951355260954021.jpg",
+      "imgClass": "img-resize",
+      "description": "Thuế phí gia tăng, nhiều mặt hàng mua trên sàn thương mại điện tử còn đắt hơn mua bên ngoài sàn. Nhiều người bắt đầu phân vân khi xuống tiền mua sắm.",
+      "guid": "https://thanhnien.vn/hang-hoa-tang-gia-nen-mua-ben-ngoai-hay-mua-tren-san-185260114130112682.htm",
+      "categoryName": "Mới- Mới- Mới"
     }
   ]
 }

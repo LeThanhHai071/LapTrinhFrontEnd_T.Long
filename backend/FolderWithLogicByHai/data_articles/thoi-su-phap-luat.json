@@ -3,87 +3,107 @@
   "categoryName": "Pháp luật",
   "fullSlug": "thoi-su-phap-luat",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:01:19.624Z",
+  "lastUpdate": "2026-01-18T04:50:33.380Z",
   "articles": [
     {
-      "title": "Rao bán cau giống trên Facebook, lừa đảo chiếm đoạt hàng trăm triệu đồng",
-      "link": "https://thanhnien.vn/rao-ban-cau-giong-tren-facebook-lua-dao-chiem-doat-hang-tram-trieu-dong-185260112182603712.htm",
-      "pubDate": "Mon, 12 Jan 26 19:30:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/img4529-17682169619291512003711-0-0-463-741-crop-17682170970741111382801.jpeg",
-      "description": "Lập 'vườn cau' ảo trên Facebook để rao bán cây giống không có thật, Trịnh Văn Dương đã lừa tiền đặt cọc của gần 40 người, chiếm đoạt khoảng 150 triệu đồng",
-      "guid": "https://thanhnien.vn/rao-ban-cau-giong-tren-facebook-lua-dao-chiem-doat-hang-tram-trieu-dong-185260112182603712.htm"
+      "title": "Công an TP.HCM tìm chủ sở hữu xe máy liên quan 2 vụ cướp giật tài sản",
+      "link": "https://thanhnien.vn/cong-an-tphcm-tim-chu-so-huu-xe-may-lien-quan-2-vu-cuop-giat-tai-san-185260117201405197.htm",
+      "pubDate": "Sat, 17 Jan 26 22:39:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/85b136698cdd03835acc-1768655418682203280228-0-85-478-850-crop-1768655600342241702146.jpg",
+      "imgClass": "img-resize",
+      "description": "Cơ quan Cảnh sát điều tra Công an TP.HCM thông tin truy tìm chủ sở hữu hợp pháp xe máy liên quan 2 vụ án cướp giật tài sản.",
+      "guid": "https://thanhnien.vn/cong-an-tphcm-tim-chu-so-huu-xe-may-lien-quan-2-vu-cuop-giat-tai-san-185260117201405197.htm",
+      "categoryName": "Thời sự"
     },
     {
-      "title": "Công an TP.HCM điều tra sàn Bitcoin 'ma', chiếm đoạt hàng chục tỉ đồng",
-      "link": "https://thanhnien.vn/cong-an-tphcm-dieu-tra-san-bitcoin-ma-chiem-doat-hang-chuc-ti-dong-185260112173456419.htm",
-      "pubDate": "Mon, 12 Jan 26 17:43:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/z74233794610886e96a90cd6c86c22ea045ecd285096dc-17682134639321743169471-113-179-578-924-crop-1768213911797847601305.jpg",
-      "description": "Công an TP.HCM đang làm rõ vụ sàn giao dịch Bitcoin hoạt động trái phép, có dấu hiệu lừa đảo, chiếm đoạt hàng chục tỉ đồng của nhiều nhà đầu tư.",
-      "guid": "https://thanhnien.vn/cong-an-tphcm-dieu-tra-san-bitcoin-ma-chiem-doat-hang-chuc-ti-dong-185260112173456419.htm"
+      "title": "Nghi phạm sát hại 2 người ở Hưng Yên bị khởi tố 2 tội danh",
+      "link": "https://thanhnien.vn/nghi-pham-sat-hai-2-nguoi-o-hung-yen-bi-khoi-to-2-toi-danh-185260117211857647.htm",
+      "pubDate": "Sat, 17 Jan 26 21:48:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/img4913-17686593746091987732938-24-0-1223-1919-crop-176865946091875875123.jpeg",
+      "imgClass": "img-resize",
+      "description": "Công an tỉnh Hưng Yên đã khởi tố, bắt tạm giam Kiều Ngọc Anh về tội giết người và cướp tài sản. Bị can này đã ra tay sát hại 2 phụ nữ ở Hưng Yên vào ngày 14.1.",
+      "guid": "https://thanhnien.vn/nghi-pham-sat-hai-2-nguoi-o-hung-yen-bi-khoi-to-2-toi-danh-185260117211857647.htm",
+      "categoryName": "Pháp luật"
     },
     {
-      "title": "6 cựu chiến binh kêu oan khi ra tù: Vì sao vụ án bị kéo dài?",
-      "link": "https://thanhnien.vn/6-cuu-chien-binh-keu-oan-khi-ra-tu-vi-sao-vu-an-bi-keo-dai-185260112160433107.htm",
-      "pubDate": "Mon, 12 Jan 26 17:04:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/6-cuu-chien-binh-1-1768207999919989667909-0-70-1472-2425-crop-17682083238651506023832.jpg",
-      "description": "Sau khi bị giám đốc thẩm hủy bản án suốt 6 năm qua, TAND khu vực 6, tỉnh Lâm Đồng loay hoay với nhiều lý do, dẫn đến vụ án 6 cựu chiến binh kêu oan bị kéo dài.",
-      "guid": "https://thanhnien.vn/6-cuu-chien-binh-keu-oan-khi-ra-tu-vi-sao-vu-an-bi-keo-dai-185260112160433107.htm"
+      "title": "Quảng Trị: Bắt 2 vụ đánh bạc với tổng giao dịch 9 tỉ đồng",
+      "link": "https://thanhnien.vn/quang-tri-bat-2-vu-danh-bac-voi-tong-giao-dich-9-ti-dong-185260117181454814.htm",
+      "pubDate": "Sat, 17 Jan 26 19:41:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/base64-17686482266521898180815-0-0-378-605-crop-17686484508081103829422.jpeg",
+      "imgClass": "img-resize",
+      "description": "Công an tỉnh Quảng Trị vừa triệt phá 2 vụ đánh bạc và tổ chức đánh bạc bằng hình thức số lô, số đề với tổng giao dịch ước tính 9 tỉ đồng.",
+      "guid": "https://thanhnien.vn/quang-tri-bat-2-vu-danh-bac-voi-tong-giao-dich-9-ti-dong-185260117181454814.htm",
+      "categoryName": "Thời sự"
     },
     {
-      "title": "Công an TP.HCM tìm chủ sở hữu 81 phương tiện quá hạn tạm giữ",
-      "link": "https://thanhnien.vn/cong-an-tphcm-tim-chu-so-huu-81-phuong-tien-qua-han-tam-giu-185260112145647991.htm",
-      "pubDate": "Mon, 12 Jan 26 15:42:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/6e9dd96179d2f58cacc3-17644915956161873747795-99-264-977-1668-crop-1768204570147716098666.jpg",
-      "description": "Công an phường Tam Thắng (Công an TP.HCM) phát hiện và lập biên bản tạm giữ 81 phương tiện vi phạm hành chính. Chủ các phương tiện liên quan cần nhanh chóng liên hệ công an phường để giải quyết vụ việc.",
-      "guid": "https://thanhnien.vn/cong-an-tphcm-tim-chu-so-huu-81-phuong-tien-qua-han-tam-giu-185260112145647991.htm"
+      "title": "Phú Quốc: Bắt giữ tàu vận chuyển trái phép 100.000 lít dầu D.O",
+      "link": "https://thanhnien.vn/phu-quoc-bat-giu-tau-van-chuyen-trai-phep-100000-lit-dau-do-185260117170741427.htm",
+      "pubDate": "Sat, 17 Jan 26 19:40:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/batdau-1768643414257256904828-0-0-1425-2280-crop-17686443525271262513620.jpg",
+      "imgClass": "img-resize",
+      "description": "Vùng Cảnh sát biển 4 (đặc khu Phú Quốc, An Giang) phát hiện, bắt giữ một tàu vận chuyển trái phép khoảng 100.000 lít dầu D.O.",
+      "guid": "https://thanhnien.vn/phu-quoc-bat-giu-tau-van-chuyen-trai-phep-100000-lit-dau-do-185260117170741427.htm",
+      "categoryName": "Thời sự"
     },
     {
-      "title": "Công an TP.HCM bắt chủ lò sản xuất mì tươi 'ngậm' hàn the, tuồn ra thị trường 800 tấn",
-      "link": "https://thanhnien.vn/cong-an-tphcm-bat-chu-lo-san-xuat-mi-tuoi-ngam-han-the-tuon-ra-thi-truong-800-tan-185260112145615504.htm",
-      "pubDate": "Mon, 12 Jan 26 15:11:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/z7422737345878-1ab54d36cee0b1187398c24b3ed3884b-17682042996931965327878-160-0-960-1280-crop-1768204305842154600139.jpg",
-      "description": "Công an TP.HCM triệt phá cơ sở sản xuất mì tươi sử dụng hàn the, soda công nghiệp và dung dịch silicate trong chế biến thực phẩm, tuồn ra thị trường khoảng 800 tấn mì tươi trong vòng 3 năm qua.",
-      "guid": "https://thanhnien.vn/cong-an-tphcm-bat-chu-lo-san-xuat-mi-tuoi-ngam-han-the-tuon-ra-thi-truong-800-tan-185260112145615504.htm"
+      "title": "Triệt phá đường dây lừa đảo đầu tư tiền ảo chiếm đoạt khoảng 14 tỉ đồng",
+      "link": "https://thanhnien.vn/triet-pha-duong-day-lua-dao-dau-tu-tien-ao-chiem-doat-khoang-14-ti-dong-185260117155318213.htm",
+      "pubDate": "Sat, 17 Jan 26 19:35:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/img4579-17686395994472113426352-0-56-722-1211-crop-17686399258212009839800.jpeg",
+      "imgClass": "img-resize",
+      "description": "Dưới vỏ bọc sàn giao dịch tiền ảo mang tên Nasdaq, một đường dây lừa đảo có tổ chức xuyên quốc gia đã dụ hàng loạt nạn nhân nạp tiền đầu tư, chiếm đoạt khoảng 14 tỉ đồng.",
+      "guid": "https://thanhnien.vn/triet-pha-duong-day-lua-dao-dau-tu-tien-ao-chiem-doat-khoang-14-ti-dong-185260117155318213.htm",
+      "categoryName": "Thời sự"
     },
     {
-      "title": "Mang hung khí rượt đuổi, chém người tới tấp vì nhầm đó là 'đối thủ'",
-      "link": "https://thanhnien.vn/mang-hung-khi-ruot-duoi-chem-nguoi-toi-tap-vi-nham-do-la-doi-thu-185260112124439808.htm",
-      "pubDate": "Mon, 12 Jan 26 13:33:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/1000017111-1768196020984179323173-0-0-1212-1939-crop-1768196324472475845432.jpg",
-      "description": "Hai thiếu niên đi xe máy mang theo hung khí rượt đuổi, chém người đi đường tới tấp chỉ vì nhầm đó là 'đối thủ', khiến nạn nhân trọng thương.",
-      "guid": "https://thanhnien.vn/mang-hung-khi-ruot-duoi-chem-nguoi-toi-tap-vi-nham-do-la-doi-thu-185260112124439808.htm"
+      "title": "CSGT Tây Ninh bắt quả tang vụ vận chuyển thuốc lá lậu trong đêm",
+      "link": "https://thanhnien.vn/csgt-tay-ninh-bat-qua-tang-vu-van-chuyen-thuoc-la-lau-trong-dem-185260117110456581.htm",
+      "pubDate": "Sat, 17 Jan 26 15:12:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/edit-thuoc-la-lau-2-1768622309721584196277-97-0-822-1160-crop-17686224950731256612740.jpeg",
+      "imgClass": "img-resize",
+      "description": "Trong lúc tuần tra, lực lượng CSGT Công an tỉnh Tây Ninh đã phát hiện và phối hợp Công an P.Gò Dầu xử lý vụ vận chuyển thuốc lá lậu.",
+      "guid": "https://thanhnien.vn/csgt-tay-ninh-bat-qua-tang-vu-van-chuyen-thuoc-la-lau-trong-dem-185260117110456581.htm",
+      "categoryName": "Thời sự"
     },
     {
-      "title": "Tàng trữ ma túy và vũ khí quân dụng",
-      "link": "https://thanhnien.vn/tang-tru-ma-tuy-va-vu-khi-quan-dung-185260111164639444.htm",
-      "pubDate": "Mon, 12 Jan 26 10:40:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/base64-17681835226211262791250-35-0-635-960-crop-17681836811061413390222.jpeg",
-      "description": "Công an P.Nam Đông Hà (Quảng Trị) vừa bắt giữ 2 nghi phạm có hành vi tàng trữ trái phép chất ma túy và vũ khí quân dụng.",
-      "guid": "https://thanhnien.vn/tang-tru-ma-tuy-va-vu-khi-quan-dung-185260111164639444.htm"
+      "title": "Sắp xét xử cựu thành viên Ban Quản trị chung cư Miếu Nổi chiếm đoạt quỹ",
+      "link": "https://thanhnien.vn/sap-xet-xu-cuu-thanh-vien-ban-quan-tri-chung-cu-mieu-noi-chiem-doat-quy-185260117140238802.htm",
+      "pubDate": "Sat, 17 Jan 26 14:02:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/edit-chung-cu-mieu-noi-1768633284738607250797-0-0-735-1176-crop-17686333117791320950293.jpeg",
+      "imgClass": "img-resize",
+      "description": "Các bị cáo là cựu thành viên Ban Quản trị chung cư Miếu Nổi bị cáo buộc gây thiệt hại hơn 637 triệu đồng, đồng thời chiếm đoạt gần 961 triệu đồng tiền quỹ do cư dân đóng.",
+      "guid": "https://thanhnien.vn/sap-xet-xu-cuu-thanh-vien-ban-quan-tri-chung-cu-mieu-noi-chiem-doat-quy-185260117140238802.htm",
+      "categoryName": "Thời sự"
     },
     {
-      "title": "TP.HCM: Điều tra vụ tử thi lõa thể, khô hóa cạnh trạm thu phí",
-      "link": "https://thanhnien.vn/tphcm-dieu-tra-vu-tu-thi-loa-the-kho-hoa-canh-tram-thu-phi-185260112082612904.htm",
-      "pubDate": "Mon, 12 Jan 26 08:38:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/edit-edit-edit-3535078094747536072-17681810245401055709522-85-0-760-1080-crop-17681811393261458685733.jpeg",
-      "description": "Người dân phát hiện một tử thi lõa thể, tử vong nhiều ngày cạnh trạm thu phí cầu Phú Mỹ (TP.HCM) và đã bị khô hóa.",
-      "guid": "https://thanhnien.vn/tphcm-dieu-tra-vu-tu-thi-loa-the-kho-hoa-canh-tram-thu-phi-185260112082612904.htm"
+      "title": "Đường dây bán tài khoản ngân hàng tiếp tay lừa đảo bị triệt phá",
+      "link": "https://thanhnien.vn/duong-day-ban-tai-khoan-ngan-hang-tiep-tay-lua-dao-bi-triet-pha-185260117114623787.htm",
+      "pubDate": "Sat, 17 Jan 26 13:56:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/img4577-176862485297464212097-0-30-1142-1857-crop-1768625145935691803075.jpeg",
+      "imgClass": "img-resize",
+      "description": "Công an TP.Đà Nẵng đã khởi tố, bắt giữ 35 bị can trong đường dây mua bán trái phép tài khoản ngân hàng, cung cấp cho các ổ nhóm tội phạm tại Campuchia để thực hiện hành vi lừa đảo chiếm đoạt tài sản, với dòng tiền giao dịch lên đến hàng nghìn tỉ đồng.",
+      "guid": "https://thanhnien.vn/duong-day-ban-tai-khoan-ngan-hang-tiep-tay-lua-dao-bi-triet-pha-185260117114623787.htm",
+      "categoryName": "Thời sự"
     },
     {
-      "title": "Công an TP.HCM đột kích 4 cơ sở spa, massage hoạt động mại dâm ở trung tâm",
-      "link": "https://thanhnien.vn/cong-an-tphcm-dot-kich-4-co-so-spa-nup-bong-mai-dam-o-trung-tam-185260111210048648.htm",
-      "pubDate": "Sun, 11 Jan 26 21:05:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/4401138426880770436-1768139921103883644681-0-125-1187-2024-crop-17681400024282052604545.jpg",
-      "description": "4 cơ sở spa, massage hoạt động mại dâm trên đường Đề Thám, Bùi Viện, Phạm Ngũ Lão vừa bị Công an TP.HCM triệt phá.",
-      "guid": "https://thanhnien.vn/cong-an-tphcm-dot-kich-4-co-so-spa-nup-bong-mai-dam-o-trung-tam-185260111210048648.htm"
+      "title": "Vụ cầm hung khí chém người náo loạn bờ sông Hương: Truy bắt nghi phạm trong đêm",
+      "link": "https://thanhnien.vn/vu-cam-hung-khi-chem-nguoi-nao-loan-bo-song-huong-truy-bat-nghi-pham-trong-dem-18526011708494356.htm",
+      "pubDate": "Sat, 17 Jan 26 12:20:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/3668245920367144083-1768614398609244115583-481-0-1283-1284-crop-17686144410421089902904.jpg",
+      "imgClass": "img-resize",
+      "description": "Ngay sau khi tiếp nhận thông tin về một nghi phạm cầm hung khí, chém người gây náo loạn bờ sông Hương (TP.Huế), Công an P.Thuận Hóa đã khẩn trương xác minh, truy bắt nghi phạm ngay trong đêm.",
+      "guid": "https://thanhnien.vn/vu-cam-hung-khi-chem-nguoi-nao-loan-bo-song-huong-truy-bat-nghi-pham-trong-dem-18526011708494356.htm",
+      "categoryName": "Thời sự"
     },
     {
-      "title": "Đường dây ghi số đề qua Zalo: Màn 'đấu trí' gay go trên không gian mạng",
-      "link": "https://thanhnien.vn/duong-day-ghi-so-de-qua-zalo-man-dau-tri-gay-go-tren-khong-gian-mang-185260111153548203.htm",
-      "pubDate": "Sun, 11 Jan 26 17:45:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/base64-176812132941831674190-62-102-740-1187-crop-1768121442252364720293.jpeg",
-      "description": "Đường dây ghi số đề qua Zalo giao dịch hơn 10 tỉ đồng vừa bị Công an TP.Đà Nẵng triệt phá, qua đó phơi bày thủ đoạn tinh vi của tội phạm cờ bạc và màn 'đấu trí' gay go trên không gian mạng.",
-      "guid": "https://thanhnien.vn/duong-day-ghi-so-de-qua-zalo-man-dau-tri-gay-go-tren-khong-gian-mang-185260111153548203.htm"
+      "title": "Công an TP.HCM triệt phá đường dây chế tạo, mua bán vũ khí quân dụng ‘khủng’",
+      "link": "https://thanhnien.vn/cong-an-tphcm-triet-pha-duong-day-che-tao-mua-ban-vu-khi-quan-dung-khung-185260117091512287.htm",
+      "pubDate": "Sat, 17 Jan 26 09:52:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/sung-176861568694775317970-288-0-1888-2560-crop-17686157304241180426404.jpg",
+      "imgClass": "img-resize",
+      "description": "Ngày 17.1, Phòng Cảnh sát hình sự (PC02) Công an TP.HCM cho biết vừa triệt phá đường dây chế tạo, tàng trữ và mua bán vũ khí quân dụng quy mô lớn, thu giữ hàng chục khẩu súng cùng 4.227 viên đạn các loại.",
+      "guid": "https://thanhnien.vn/cong-an-tphcm-triet-pha-duong-day-che-tao-mua-ban-vu-khi-quan-dung-khung-185260117091512287.htm",
+      "categoryName": "Thời sự"
     }
   ]
 }

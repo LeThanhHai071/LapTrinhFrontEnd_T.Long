@@ -11,7 +11,7 @@ const MainLayout = () => {
   return (
     <div className="app-container">
       <header className="header-main">
-        <TopHeader onOpenMenu={() => setIsMenuOpen(true)} />
+        <TopHeader onOpen Menu={() => setIsMenuOpen(true)} />
       </header>
       <Navbar isOpen={isMenuOpen} onCloseMenu={() => setIsMenuOpen(false)} />
       <main className="content">

@@ -1,0 +1,33 @@
+{
+  "title": "Tán cây mất an toàn",
+  "categories": [
+    "Bạn đọc",
+    "Từ đơn thư bạn đọc"
+  ],
+  "sapo": "",
+  "publishDate": "14/01/2026 12:34 GMT+7",
+  "author": {
+    "name": "Trung Nguyễn",
+    "avatar": "https://static.thanhnien.com.vn/thanhnien.vn/image/ava_inter.png",
+    "email": "Tin, ảnh:"
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Bạn đọc phản ảnh qua Báo Thanh Niên, tại tuyến đường nhựa chưa có tên, thuộc ấp 2, xã Định Quán, tỉnh Đồng Nai (trước đây thuộc xã Phú Ngọc, H.Định Quán) có nhiều khúc cua, nhiều tán cây chỉa ra đường làm mất tầm nhìn của người tham gia giao thông."
+    },
+    {
+      "type": "text",
+      "content": "Người dân tại đây cho biết đã có một số trường hợp va chạm giao thông giữa các xe máy. Đề nghị cơ quan chủ quản kiểm tra, xử lý để đảm bảo an toàn."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/13/tu-phan-anh-ban-doc-17683010290831183319191.jpg"
+      ],
+      "caption": "Tán cây chỉa ra đường làm mất tầm nhìn của người tham gia giao thông"
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/tan-cay-mat-an-toan-185260113174203564.htm",
+  "id": "185260113174203564"
+}

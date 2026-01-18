@@ -3,87 +3,107 @@
   "categoryName": "Phim",
   "fullSlug": "giai-tri-phim",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:03:36.141Z",
+  "lastUpdate": "2026-01-18T04:53:09.418Z",
   "articles": [
+    {
+      "title": "Netflix nói lời chia tay 'Kung Fu Panda'",
+      "link": "https://thanhnien.vn/netflix-noi-loi-chia-tay-kung-fu-panda-185260117162058383.htm",
+      "pubDate": "Sat, 17 Jan 26 16:21:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/kf1-17686411926601603210310-17-0-435-669-crop-17686415834322109263879.jpg",
+      "imgClass": "img-resize",
+      "description": "Việc Netflix xác nhận gỡ bỏ ba phần đầu tiên của 'Kung Fu Panda' khỏi nền tảng từ đầu 2026 không chỉ là tin buồn với người hâm mộ hoạt hình, mà còn phản ánh rõ nét những chuyển động sâu hơn của thị trường truyền hình trả phí.",
+      "guid": "https://thanhnien.vn/netflix-noi-loi-chia-tay-kung-fu-panda-185260117162058383.htm",
+      "categoryName": "Phim"
+    },
+    {
+      "title": "Phương Anh Đào nói về tin đồn tình cảm với Tuấn Trần",
+      "link": "https://thanhnien.vn/phuong-anh-dao-noi-ve-tin-don-tinh-cam-voi-tuan-tran-185260116214126834.htm",
+      "pubDate": "Sat, 17 Jan 26 00:31:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/img2366-1768573515498941590912-115-162-807-1270-crop-17685743682281430648298.jpeg",
+      "imgClass": "img-resize",
+      "description": "Cặp sao Phương Anh Đào - Tuấn Trần tái xuất điện ảnh với dự án 'Báu vật trời cho' sau thành công của 'Mai' do Trấn Thành đạo diễn. Tại sự kiện ra mắt dự án, nữ diễn viên đã có chia sẻ về mối quan hệ của mình và Tuấn Trần.",
+      "guid": "https://thanhnien.vn/phuong-anh-dao-noi-ve-tin-don-tinh-cam-voi-tuan-tran-185260116214126834.htm",
+      "categoryName": "Phim"
+    },
+    {
+      "title": "Lalamove bất ngờ tham gia cuộc đua làm phim Tết",
+      "link": "https://thanhnien.vn/lalamove-bat-ngo-tham-gia-cuoc-dua-lam-phim-tet-185260115213708892.htm",
+      "pubDate": "Fri, 16 Jan 26 09:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/anh-1-1768487582155254911564-0-0-733-1173-crop-17684877255571490077543.jpg",
+      "imgClass": "img-resize",
+      "description": "Lalamove, nền tảng giao hàng và di chuyển 24/7, ra mắt người xem series phim '10 giây bắt kịp, Trúng nhịp yêu' dự kiến sẽ gây sốt khi xoáy sâu vào tâm lý của những người con xa quê, luôn cố gắng làm việc chăm chỉ để kịp có một cái Tết đầm ấm.",
+      "guid": "https://thanhnien.vn/lalamove-bat-ngo-tham-gia-cuoc-dua-lam-phim-tet-185260115213708892.htm",
+      "categoryName": "Phim"
+    },
+    {
+      "title": "Phim có Khả Ngân chỉ thu 72 triệu đồng, đứng trước nguy cơ lỗ nặng",
+      "link": "https://thanhnien.vn/phim-co-kha-ngan-chi-thu-72-trieu-dong-dung-truoc-nguy-co-lo-nang-185260115192829376.htm",
+      "pubDate": "Thu, 15 Jan 26 21:14:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/kha-ngan-9-17684798081511072993070-75-0-1328-2005-crop-17684844167431415638870.jpg",
+      "imgClass": "img-resize",
+      "description": "Chỉ thu hơn 72 triệu đồng sau gần một tuần ra rạp, phim 'Vạn dặm yêu em' có Khả Ngân tham gia đứng trước nguy cơ thua lỗ.",
+      "guid": "https://thanhnien.vn/phim-co-kha-ngan-chi-thu-72-trieu-dong-dung-truoc-nguy-co-lo-nang-185260115192829376.htm",
+      "categoryName": "Phim"
+    },
+    {
+      "title": "Cuộc sống và khối tài sản khổng lồ của dàn sao 'Fast & Furious'",
+      "link": "https://thanhnien.vn/cuoc-song-va-khoi-tai-san-khong-lo-cua-dan-sao-fast-furious-18526011415535077.htm",
+      "pubDate": "Wed, 14 Jan 26 16:46:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/vin-diesel-1768380475647161553351-0-0-675-1080-crop-17683804912392108149034.jpg",
+      "imgClass": "img-resize",
+      "description": "Ra mắt năm 2001 với quy mô khiêm tốn, đến nay 'Fast & Furious' đã trở thành thương hiệu phim ăn khách hàng đầu Hollywood, đưa dàn diễn viên thành các ngôi sao toàn cầu, sở hữu khối tài sản khổng lồ.",
+      "guid": "https://thanhnien.vn/cuoc-song-va-khoi-tai-san-khong-lo-cua-dan-sao-fast-furious-18526011415535077.htm",
+      "categoryName": "Phim"
+    },
+    {
+      "title": "'Không giới hạn' - lát cắt mới về người lính cứu hộ, cứu nạn trong thời bình",
+      "link": "https://thanhnien.vn/khong-gioi-han-lat-cat-moi-ve-nguoi-linh-cuu-ho-cuu-nan-trong-thoi-binh-185260113215201258.htm",
+      "pubDate": "Wed, 14 Jan 26 11:15:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/19b-online-1768313958787908914437-0-251-427-934-crop-1768315742128978784830.jpg",
+      "imgClass": "img-resize",
+      "description": "Không giới hạn - bộ phim truyền hình mới dự kiến lên sóng VTV1 lúc 21 giờ từ ngày 15.1 - mang đến một lát cắt mới mẻ và giàu cảm xúc về hình ảnh người lính Quân đội nhân dân VN trong thời bình.",
+      "guid": "https://thanhnien.vn/khong-gioi-han-lat-cat-moi-ve-nguoi-linh-cuu-ho-cuu-nan-trong-thoi-binh-185260113215201258.htm",
+      "categoryName": "Phim"
+    },
+    {
+      "title": "Vì sao ‘Thiên đường máu’ gây tranh cãi vẫn vượt mốc doanh thu 100 tỉ đồng?",
+      "link": "https://thanhnien.vn/vi-sao-thien-duong-mau-gay-tranh-cai-van-vuot-moc-doanh-thu-100-ti-dong-185260113114009135.htm",
+      "pubDate": "Tue, 13 Jan 26 12:16:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/6033-17682789399866212164-0-0-677-1083-crop-17682790065491085084077.png",
+      "imgClass": "img-resize",
+      "description": "Việc phim 'Thiên đường máu' chính thức vượt mốc doanh thu 100 tỉ đồng chỉ sau thời gian ngắn ra rạp đã tạo nên một hiện tượng đáng chú ý của điện ảnh Việt đầu năm 2026.",
+      "guid": "https://thanhnien.vn/vi-sao-thien-duong-mau-gay-tranh-cai-van-vuot-moc-doanh-thu-100-ti-dong-185260113114009135.htm",
+      "categoryName": "Phim"
+    },
+    {
+      "title": "Ngọc Trinh gợi cảm trên thảm đỏ ra mắt phim",
+      "link": "https://thanhnien.vn/ngoc-trinh-goi-cam-tren-tham-do-ra-mat-phim-185260112222644206.htm",
+      "pubDate": "Tue, 13 Jan 26 05:25:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/cus03137-17682304042221775330915-160-0-997-1340-crop-17682315464881207896837.jpg",
+      "imgClass": "img-resize",
+      "description": "Tại thảm đỏ ra mắt phim 'Con kể ba nghe', sự xuất hiện của dàn nghệ sĩ gồm NSND Kim Xuân, nghệ sĩ Phi Phụng, nghệ sĩ Lê Giang, người mẫu Ngọc Trinh... được nhiều người quan tâm.",
+      "guid": "https://thanhnien.vn/ngoc-trinh-goi-cam-tren-tham-do-ra-mat-phim-185260112222644206.htm",
+      "categoryName": "Phim"
+    },
     {
       "title": "Phim truyền hình đề tài siêu thực lên sóng",
       "link": "https://thanhnien.vn/phim-truyen-hinh-de-tai-sieu-thuc-len-song-185260111215221176.htm",
       "pubDate": "Mon, 12 Jan 26 07:50:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/19b-17681421448451871907693-56-0-696-1024-crop-17681430324311267087974.jpg",
+      "imgClass": "img-resize",
       "description": "Sau loạt phim gia đình, tâm lý quen thuộc, khung giờ phim Việt trên VTV3 sắp ra mắt một dự án mang màu sắc mới: bộ phim truyền hình đề tài siêu thực Đồng hồ đếm ngược do đạo diễn Bùi Tiến Huy thực hiện. Phim dự kiến phát sóng vào 20 giờ thứ năm và thứ sáu hằng tuần, từ cuối tháng 1.2026.",
-      "guid": "https://thanhnien.vn/phim-truyen-hinh-de-tai-sieu-thuc-len-song-185260111215221176.htm"
+      "guid": "https://thanhnien.vn/phim-truyen-hinh-de-tai-sieu-thuc-len-song-185260111215221176.htm",
+      "categoryName": "Phim"
     },
     {
       "title": "Phim 'Thiên đường máu' có Quang Tuấn, Thanh Hương... vượt mốc 100 tỉ đồng",
       "link": "https://thanhnien.vn/phim-thien-duong-mau-co-quang-tuan-thanh-huong-vuot-moc-100-ti-dong-185260112043959306.htm",
       "pubDate": "Mon, 12 Jan 26 07:41:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/edit-z74211536426096d4beee97af30147981159c62a09ccda-1768174899079533685216-0-60-925-1540-crop-17681752805551689603187.jpeg",
+      "imgClass": "img-resize",
       "description": "'Thiên đường máu' chính thức trở thành phim Việt đầu tiên vượt mốc doanh thu 100 tỉ đồng trong năm 2026. Trong nhiều ngày qua, phim do Hoàng Tuấn Cường đạo diễn liên tiếp dẫn đầu phòng vé, bỏ xa nhiều đối thủ.",
-      "guid": "https://thanhnien.vn/phim-thien-duong-mau-co-quang-tuan-thanh-huong-vuot-moc-100-ti-dong-185260112043959306.htm"
-    },
-    {
-      "title": "Phim 'Mưa đỏ' đại thắng tại Ngôi sao xanh",
-      "link": "https://thanhnien.vn/phim-mua-do-dai-thang-tai-ngoi-sao-xanh-185260111022304618.htm",
-      "pubDate": "Sun, 11 Jan 26 09:42:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/can19788-1768070853327271562510-108-0-1708-2560-crop-1768071918408875259779.jpg",
-      "description": "Bộ phim điện ảnh 'Mưa đỏ' đã giúp đạo diễn Đặng Thái Huyền cùng dàn diễn viên và ê kíp giành nhiều giải thưởng tại lễ trao giải Ngôi sao xanh 2025.",
-      "guid": "https://thanhnien.vn/phim-mua-do-dai-thang-tai-ngoi-sao-xanh-185260111022304618.htm"
-    },
-    {
-      "title": "Phát sóng Bác sĩ tha hương, phim giúp Liên Bỉnh Phát giành giải Thị đế Kim Chung",
-      "link": "https://thanhnien.vn/phat-song-bac-si-tha-huong-phim-giup-lien-binh-phat-gianh-giai-thi-de-kim-chung-18526010922473682.htm",
-      "pubDate": "Sat, 10 Jan 26 06:28:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/anh-192-1767973489692283936521-0-0-900-1440-crop-17679734965471347196741.jpg",
-      "description": "Sau thời gian được khán giả quốc tế đón nhận tích cực, bộ phim truyền hình Đài Loan Bác sĩ tha hương chính thức phát sóng trọn bộ tại VN. Tác phẩm đánh dấu cột mốc quan trọng trong sự nghiệp của Liên Bỉnh Phát, nam diễn viên VN hiếm hoi giành giải Thị đế Kim Chung, giải thưởng truyền hình danh giá bậc nhất Đài Loan.",
-      "guid": "https://thanhnien.vn/phat-song-bac-si-tha-huong-phim-giup-lien-binh-phat-gianh-giai-thi-de-kim-chung-18526010922473682.htm"
-    },
-    {
-      "title": "Cơ hội nào cho diễn viên nhí trên màn ảnh rộng?",
-      "link": "https://thanhnien.vn/co-hoi-nao-cho-dien-vien-nhi-tren-man-anh-rong-185260108205252444.htm",
-      "pubDate": "Fri, 09 Jan 26 06:06:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/11c-17678764495111133845448-0-0-1125-1800-crop-1767880241866801042451.jpg",
-      "description": "Sau Đất rừng phương Nam, diễn viên nhí Hạo Khang tái xuất màn ảnh rộng với Con kể ba nghe. Trong phim, Khang vào vai con của ông Thái (Kiều Minh Tuấn), một cậu bé sống khép kín, từng chịu nhiều tổn thương trong quá khứ.",
-      "guid": "https://thanhnien.vn/co-hoi-nao-cho-dien-vien-nhi-tren-man-anh-rong-185260108205252444.htm"
-    },
-    {
-      "title": "Hồng Diễm nói gì về vai diễn gây tranh cãi trong ‘Lằn ranh’?",
-      "link": "https://thanhnien.vn/hong-diem-noi-gi-ve-vai-dien-gay-tranh-cai-trong-lan-ranh-185260108202643777.htm",
-      "pubDate": "Thu, 08 Jan 26 21:12:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/img2792-1767878590406615894124-0-108-871-1502-crop-1767879196538574694061.jpeg",
-      "description": "Vai diễn Phó viện trưởng Viện Kiểm sát nhân dân tỉnh Việt Đông của Hồng Diễm trong phim 'Lằn ranh' đang phát sóng giờ vàng nhận về nhiều ý kiến trái chiều. Trong đó, có ý kiến cho rằng diễn xuất và tạo hình của nữ diễn viên chưa phù hợp với nhân vật.",
-      "guid": "https://thanhnien.vn/hong-diem-noi-gi-ve-vai-dien-gay-tranh-cai-trong-lan-ranh-185260108202643777.htm"
-    },
-    {
-      "title": "Kristen Stewart sẵn sàng hồi sinh 'Twilight' với phiên bản làm lại",
-      "link": "https://thanhnien.vn/kristen-stewart-san-sang-hoi-sinh-twilight-voi-phien-ban-lam-lai-185260107165333998.htm",
-      "pubDate": "Wed, 07 Jan 26 18:07:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/anh-2-1-17677794175721571152238-48-0-498-720-crop-1767784056527717518890.jpg",
-      "description": "Kristen Stewart - người đẹp nổi danh toàn cầu với loạt phim 'Twilight' đình đám, mới đây cho biết cô sẵn sàng nhận vai trò đạo diễn nếu dự án làm lại của bộ phim hội tụ đủ điều kiện về nguồn lực và sự ủng hộ.",
-      "guid": "https://thanhnien.vn/kristen-stewart-san-sang-hoi-sinh-twilight-voi-phien-ban-lam-lai-185260107165333998.htm"
-    },
-    {
-      "title": "Siêu mẫu Thanh Hằng tái xuất điện ảnh sau 7 năm",
-      "link": "https://thanhnien.vn/sieu-mau-thanh-hang-tai-xuat-dien-anh-sau-7-nam-185260107121743039.htm",
-      "pubDate": "Wed, 07 Jan 26 12:49:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/7-2-1767762648864699907301-386-341-1557-2214-crop-17677629719081209041545.jpg",
-      "description": "Siêu mẫu Thanh Hằng chính thức trở lại màn ảnh rộng sau 7 năm vắng bóng, hóa thân vũ nữ nổi tiếng ở Sài Gòn thập niên 1960. Trong phim, cô có màn tái hợp với nghệ sĩ Hồng Ánh sau 8 năm kể từ 'Tháng năm rực rỡ'.",
-      "guid": "https://thanhnien.vn/sieu-mau-thanh-hang-tai-xuat-dien-anh-sau-7-nam-185260107121743039.htm"
-    },
-    {
-      "title": "Tình huống 'khó xử' của mỹ nam Hầu Minh Hạo",
-      "link": "https://thanhnien.vn/tinh-huong-kho-xu-cua-my-nam-hau-minh-hao-185260107103018808.htm",
-      "pubDate": "Wed, 07 Jan 26 10:58:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/minh-hao-2-1767756133617394129253-0-0-1080-1728-crop-17677562699872054884583.jpg",
-      "description": "Đầu năm 2026, mỹ nam Hầu Minh Hạo bỗng rơi vào tình thế 'chạy đua với chính mình' khi góp mặt trong hai bộ phim 'hot' có lịch lên sóng gần như cùng thời điểm. Sự kiện này không chỉ gây sốt tại thị trường nội địa mà còn thu hút sự chú ý lớn từ truyền thông Hoa ngữ.",
-      "guid": "https://thanhnien.vn/tinh-huong-kho-xu-cua-my-nam-hau-minh-hao-185260107103018808.htm"
-    },
-    {
-      "title": "Phim mới của Triệu Lệ Dĩnh và Huỳnh Hiểu Minh chưa chiếu đã gây tranh cãi",
-      "link": "https://thanhnien.vn/phim-moi-cua-trieu-le-dinh-va-huynh-hieu-minh-chua-chieu-da-gay-tranh-cai-185260106164023853.htm",
-      "pubDate": "Tue, 06 Jan 26 18:27:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/6/anh-4-1-1767692318395205170968-0-0-675-1080-crop-1767692362542304309504.jpg",
-      "description": "Giữa lúc thị trường phim ảnh Trung Quốc trầm lắng, không ít ê kíp tìm cách gây chú ý bằng chiến lược quảng bá gây tranh cãi nhưng lại phản tác dụng. Phim mới do Triệu Lệ Dĩnh và Huỳnh Hiểu Minh đóng chính cũng không nằm ngoài vòng xoáy này.",
-      "guid": "https://thanhnien.vn/phim-moi-cua-trieu-le-dinh-va-huynh-hieu-minh-chua-chieu-da-gay-tranh-cai-185260106164023853.htm"
+      "guid": "https://thanhnien.vn/phim-thien-duong-mau-co-quang-tuan-thanh-huong-vuot-moc-100-ti-dong-185260112043959306.htm",
+      "categoryName": "Phim"
     }
   ]
 }

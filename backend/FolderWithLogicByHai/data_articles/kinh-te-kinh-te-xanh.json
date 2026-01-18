@@ -3,87 +3,107 @@
   "categoryName": "Kinh tế xanh",
   "fullSlug": "kinh-te-kinh-te-xanh",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:02:00.126Z",
+  "lastUpdate": "2026-01-18T04:51:17.265Z",
   "articles": [
+    {
+      "title": "Vì sao 2025 là một trong 3 năm nóng nhất lịch sử dù có La Nina?",
+      "link": "https://thanhnien.vn/vi-sao-2025-la-mot-trong-3-nam-nong-nhat-lich-su-du-co-la-nina-185260116080020144.htm",
+      "pubDate": "Fri, 16 Jan 26 08:48:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/screen-shot-2026-01-16-at-073236-17685235898391256988029-0-0-975-1560-crop-1768525123085772210843.png",
+      "imgClass": "img-resize",
+      "description": "Dù pha lạnh La Nina xuất hiện nhưng năm 2025 vẫn là một trong 3 năm nóng nhất lịch sử với mức nhiệt độ trung bình toàn cầu tăng 1,44 °C so với thời kỳ tiền công nghiệp.",
+      "guid": "https://thanhnien.vn/vi-sao-2025-la-mot-trong-3-nam-nong-nhat-lich-su-du-co-la-nina-185260116080020144.htm",
+      "categoryName": "Kinh tế xanh"
+    },
+    {
+      "title": "Vì sao tháng 2 còn băng giá và mưa tuyết?",
+      "link": "https://thanhnien.vn/vi-sao-thang-2-con-bang-gia-va-mua-tuyet-185260115150127025.htm",
+      "pubDate": "Thu, 15 Jan 26 15:18:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/screen-shot-2025-12-28-at-165312-17669158514891018734902-61-0-1036-1560-crop-17684639792061250854981.png",
+      "imgClass": "img-resize",
+      "description": "Trong 15 ngày đầu tháng 1.2026, nhiệt độ trung bình cả nước có nơi thấp hơn cùng kỳ đến 20C. Vì vậy, vẫn còn khả năng xuất hiện các đợt rét đậm rét hại ở miền Bắc, khu vực núi cao có thể kèm theo hiện tượng băng giá, mưa tuyết.",
+      "guid": "https://thanhnien.vn/vi-sao-thang-2-con-bang-gia-va-mua-tuyet-185260115150127025.htm",
+      "categoryName": "Kinh tế xanh"
+    },
+    {
+      "title": "15.000 ha dừa hữu cơ: Betrimex và cách giải bài toán khó của ngành dừa toàn cầu",
+      "link": "https://thanhnien.vn/15000-ha-dua-huu-co-betrimex-va-cach-giai-bai-toan-kho-cua-nganh-dua-toan-cau-185260115100255129.htm",
+      "pubDate": "Thu, 15 Jan 26 11:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/1-1768445921472300307759-122-0-997-1400-crop-17684460911361566277437.jpg",
+      "imgClass": "img-resize",
+      "description": "Sau hơn một thập kỷ kiên trì và âm thầm hành động, Betrimex đang mang lại những 'trái ngọt' rõ nét cho ngành dừa Việt Nam.",
+      "guid": "https://thanhnien.vn/15000-ha-dua-huu-co-betrimex-va-cach-giai-bai-toan-kho-cua-nganh-dua-toan-cau-185260115100255129.htm",
+      "categoryName": "Kinh tế xanh"
+    },
+    {
+      "title": "CropLife Việt Nam thúc đẩy sử dụng thuốc BVTV sinh học, công nghệ phun thuốc bằng drone",
+      "link": "https://thanhnien.vn/croplife-viet-nam-thuc-day-su-dung-thuoc-bvtv-sinh-hoc-cong-nghe-phun-thuoc-bang-drone-185260115103718536.htm",
+      "pubDate": "Thu, 15 Jan 26 10:28:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/1-17684479682891525500424-0-33-783-1286-crop-1768448007840328655257.jpg",
+      "imgClass": "img-resize",
+      "description": "Cục Trồng trọt và Bảo vệ thực vật (TT-BVTV), Hiệp hội CropLife Việt Nam ký kết hợp tác năm 2026 tiếp tục thúc đẩy sử dụng thuốc bảo vệ thực vật (BVTV) an toàn, hiệu quả và có trách nhiệm bảo vệ sức khỏe con người, môi trường và nâng cao chất lượng, năng lực cạnh tranh cho nông sản Việt Nam.",
+      "guid": "https://thanhnien.vn/croplife-viet-nam-thuc-day-su-dung-thuoc-bvtv-sinh-hoc-cong-nghe-phun-thuoc-bang-drone-185260115103718536.htm",
+      "categoryName": "Kinh tế xanh"
+    },
+    {
+      "title": "Điện khí đang bị cản đường bởi 'tư duy lối mòn'",
+      "link": "https://thanhnien.vn/dien-khi-dang-bi-can-duong-boi-tu-duy-loi-mon-185260114134510834.htm",
+      "pubDate": "Wed, 14 Jan 26 14:18:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/photo-1768372004395-1768372005308736385239-70-136-818-1332-crop-1768372339422922745391.jpeg",
+      "imgClass": "img-resize",
+      "description": "Khí thiên nhiên hóa lỏng (LNG) là nguồn năng lượng chuyển tiếp quan trọng, giảm phát thải so với nhiệt điện đảm bảo tính ổn định, linh hoạt cho hệ thống điện. Việt Nam đặt ra tham vọng lớn nhưng điện khí đang bị cản đường bởi tư duy lối mòn.",
+      "guid": "https://thanhnien.vn/dien-khi-dang-bi-can-duong-boi-tu-duy-loi-mon-185260114134510834.htm",
+      "categoryName": "Kinh tế xanh"
+    },
     {
       "title": "Giữa trưa, TP.HCM vẫn mịt mù vì ô nhiễm, không khí vượt 'cảnh báo đỏ'",
       "link": "https://thanhnien.vn/giua-trua-troi-tphcm-van-mit-mu-vi-o-nhiem-khong-khi-vuot-canh-bao-do-185260111125022685.htm",
       "pubDate": "Sun, 11 Jan 26 12:55:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/b95628f4027f8d21d46e-17681102309431040733690-105-96-845-1280-crop-1768110565977142494016.jpg",
+      "imgClass": "img-resize",
       "description": "Từ sáng sớm đến giữa trưa, bầu trời TP.HCM bị một lớp màng ngầu đục bao phủ. Mức độ ô nhiễm không khí nhiều nơi chuyển từ đỏ sang tím.",
-      "guid": "https://thanhnien.vn/giua-trua-troi-tphcm-van-mit-mu-vi-o-nhiem-khong-khi-vuot-canh-bao-do-185260111125022685.htm"
+      "guid": "https://thanhnien.vn/giua-trua-troi-tphcm-van-mit-mu-vi-o-nhiem-khong-khi-vuot-canh-bao-do-185260111125022685.htm",
+      "categoryName": "Kinh tế xanh"
     },
     {
       "title": "Yến sào Khánh Hòa vào Top 20 'Doanh nghiệp Văn hóa, Uy tín năm 2025'",
       "link": "https://thanhnien.vn/yen-sao-khanh-hoa-vao-top-20-doanh-nghiep-van-hoa-uy-tin-nam-2025-185260111100257408.htm",
       "pubDate": "Sun, 11 Jan 26 10:06:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/hai03427-1768100185877877927473-0-0-1242-1987-crop-17681001958171214602067.jpeg",
+      "imgClass": "img-resize",
       "description": "Ngày 10.1, tại Hà Nội, Công ty Yến sào Khánh Hòa đã xuất sắc được vinh danh Top 20 'Doanh nghiệp Văn hóa, Uy tín năm 2025'. Giải thưởng do Liên đoàn Thương mại và Công nghiệp Việt Nam (VCCI) tổ chức.",
-      "guid": "https://thanhnien.vn/yen-sao-khanh-hoa-vao-top-20-doanh-nghiep-van-hoa-uy-tin-nam-2025-185260111100257408.htm"
+      "guid": "https://thanhnien.vn/yen-sao-khanh-hoa-vao-top-20-doanh-nghiep-van-hoa-uy-tin-nam-2025-185260111100257408.htm",
+      "categoryName": "Kinh tế xanh"
     },
     {
       "title": "TP.HCM vẫn se lạnh, ô nhiễm không khí quay trở lại",
       "link": "https://thanhnien.vn/tphcm-van-se-lanh-o-nhiem-khong-khi-quay-tro-lai-185260111074125781.htm",
       "pubDate": "Sun, 11 Jan 26 07:50:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1ab870727cfaf3a4aaeb-17680916054191153067191-92-0-892-1280-crop-1768091942944984100326.jpg",
+      "imgClass": "img-resize",
       "description": "Sáng (11.1), thời tiết TP.HCM tiếp tục trạng thái se lạnh. Đáng chú ý, so với những ngày trước đó, chất lượng không khí chuyển sang mức kém. Còn Hà Nội và nhiều nơi khác rơi xuống mức rất kém.",
-      "guid": "https://thanhnien.vn/tphcm-van-se-lanh-o-nhiem-khong-khi-quay-tro-lai-185260111074125781.htm"
+      "guid": "https://thanhnien.vn/tphcm-van-se-lanh-o-nhiem-khong-khi-quay-tro-lai-185260111074125781.htm",
+      "categoryName": "Kinh tế xanh"
     },
     {
       "title": "Gỡ nút thắt đưa thuốc bảo vệ thực vật sinh học vào đồng ruộng",
       "link": "https://thanhnien.vn/go-nut-that-dua-thuoc-bao-ve-thuc-vat-sinh-hoc-vao-dong-ruong-185260110134252624.htm",
       "pubDate": "Sat, 10 Jan 26 13:44:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/nqh-17680269257101377041362-33-0-1633-2560-crop-17680272714401158770831.jpg",
+      "imgClass": "img-resize",
       "description": "Ngày 8.1, tại Hà Nội, Cục Trồng trọt và Bảo vệ thực vật (Bộ Nông nghiệp và Môi trường) phối hợp với Hiệp hội CropLife châu Á tổ chức hội nghị quốc tế về quản lý và đăng ký thuốc bảo vệ thực vật sinh học.",
-      "guid": "https://thanhnien.vn/go-nut-that-dua-thuoc-bao-ve-thuc-vat-sinh-hoc-vao-dong-ruong-185260110134252624.htm"
+      "guid": "https://thanhnien.vn/go-nut-that-dua-thuoc-bao-ve-thuc-vat-sinh-hoc-vao-dong-ruong-185260110134252624.htm",
+      "categoryName": "Kinh tế xanh"
     },
     {
       "title": "Người dân thích thú trong ngày TP.HCM lạnh như Đà Lạt",
       "link": "https://thanhnien.vn/nguoi-dan-thich-thu-trong-ngay-tphcm-lanh-nhu-da-lat-185260109220733447.htm",
       "pubDate": "Sat, 10 Jan 26 04:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/photo-1767971141818-17679711428411431929062-87-0-998-1458-crop-1767971192907544259156.png",
+      "imgClass": "img-resize",
       "description": "Trong ngày tiết trời bất ngờ lạnh như Đà Lạt, nhiều người dân TP.HCM thích thú \"check-in\" mức nhiệt độ thấp lịch sử trên mạng xã hội với nhiều dòng cảm xúc.",
-      "guid": "https://thanhnien.vn/nguoi-dan-thich-thu-trong-ngay-tphcm-lanh-nhu-da-lat-185260109220733447.htm"
-    },
-    {
-      "title": "Hai nhà đầu tư quan tâm 3 dự án điện gió 19.354 tỉ đồng tại Gia Lai",
-      "link": "https://thanhnien.vn/hai-nha-dau-tu-quan-tam-3-du-an-dien-gio-19354-ti-dong-tai-gia-lai-1852601091816031.htm",
-      "pubDate": "Fri, 09 Jan 26 19:30:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/dien-gio-2-17679566740111592417513-0-200-1125-2000-crop-1767956815080829185828.jpg",
-      "description": "Ngày 9.1, Trung tâm Xúc tiến đầu tư tỉnh Gia Lai cho biết, UBND tỉnh Gia Lai đã phê duyệt kết quả mời quan tâm đối với 3 dự án điện gió, có tổng vốn đầu tư dự kiến 19.354 tỉ đồng.",
-      "guid": "https://thanhnien.vn/hai-nha-dau-tu-quan-tam-3-du-an-dien-gio-19354-ti-dong-tai-gia-lai-1852601091816031.htm"
-    },
-    {
-      "title": "Đêm nay nhiệt độ tiếp tục giảm, TP.HCM và Nam bộ lạnh sâu",
-      "link": "https://thanhnien.vn/dem-nay-nhiet-do-tiep-tuc-giam-tphcm-va-nam-bo-lanh-sau-185260109165017059.htm",
-      "pubDate": "Fri, 09 Jan 26 17:39:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/e605b39a251caa42f30d-1767948673284108224651-0-0-1600-2560-crop-1767951554787797507148.jpg",
-      "description": "Đêm 9.1, dự báo TP.HCM và Nam bộ lạnh sâu hơn khi không khí lạnh và hiệu ứng quang mây khiến nhiệt độ tiếp tục giảm thêm 1 - 2 độ C.",
-      "guid": "https://thanhnien.vn/dem-nay-nhiet-do-tiep-tuc-giam-tphcm-va-nam-bo-lanh-sau-185260109165017059.htm"
-    },
-    {
-      "title": "Ba nơi ở Nam bộ ghi nhận nhiệt độ thấp lịch sử",
-      "link": "https://thanhnien.vn/ba-noi-o-nam-bo-ghi-nhan-nhiet-do-thap-lich-su-185260109113233587.htm",
-      "pubDate": "Fri, 09 Jan 26 12:13:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/img7616-17679332477931920222-0-0-1250-2000-crop-1767934882811460244145.jpeg",
-      "description": "TP.HCM có 2 nơi ghi nhận nhiệt độ thấp lịch sử, địa điểm còn lại ở Tây Ninh. Mức nhiệt thấp nhất ở Nam bộ là 14,3 độ C.",
-      "guid": "https://thanhnien.vn/ba-noi-o-nam-bo-ghi-nhan-nhiet-do-thap-lich-su-185260109113233587.htm"
-    },
-    {
-      "title": "Người Sài Gòn áo ấm, khăn choàng xuất hiện khắp phố",
-      "link": "https://thanhnien.vn/nguoi-sai-gon-ao-am-khan-choang-xuat-hien-khap-pho-185260109093002539.htm",
-      "pubDate": "Fri, 09 Jan 26 10:54:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/nd-12-1767924241806133197966-0-0-1600-2560-crop-17679289255951919001739.jpg",
-      "description": "TP.HCM xuống 17 độ C vào sáng sớm, mức nhiệt hiếm thấy nhiều năm qua khiến người dân Sài Gòn co ro trong cái lạnh bất thường. Từ sáng sớm, nhiều người phải mang áo khoác, choàng khăn kín cổ ra đường giữa tiết trời se lạnh.",
-      "guid": "https://thanhnien.vn/nguoi-sai-gon-ao-am-khan-choang-xuat-hien-khap-pho-185260109093002539.htm"
-    },
-    {
-      "title": "Sáng nay, nhiệt độ ở TP.HCM xuống 17 độ C",
-      "link": "https://thanhnien.vn/sang-nay-nhiet-do-o-tphcm-xuong-17-do-c-185260109063749057.htm",
-      "pubDate": "Fri, 09 Jan 26 06:43:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/img7595-17679155074851341326420-269-0-1075-1290-crop-17679156941191558546545.jpeg",
-      "description": "Sáng sớm nay (9.1), người dân TP.HCM cảm nhận rõ trời lạnh sâu hơn thường ngày. Trên các thiết bị di động hiển thị nhiệt độ chỉ 17 độ C.",
-      "guid": "https://thanhnien.vn/sang-nay-nhiet-do-o-tphcm-xuong-17-do-c-185260109063749057.htm"
+      "guid": "https://thanhnien.vn/nguoi-dan-thich-thu-trong-ngay-tphcm-lanh-nhu-da-lat-185260109220733447.htm",
+      "categoryName": "Kinh tế xanh"
     }
   ]
 }

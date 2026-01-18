@@ -3,87 +3,107 @@
   "categoryName": "Thủ thuật",
   "fullSlug": "cong-nghe-thu-thuat",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:05:08.750Z",
+  "lastUpdate": "2026-01-18T04:53:43.793Z",
   "articles": [
+    {
+      "title": "Vì sao smartphone không dùng vẫn hao pin?",
+      "link": "https://thanhnien.vn/vi-sao-smartphone-khong-dung-van-hao-pin-185260117153952066.htm",
+      "pubDate": "Sun, 18 Jan 26 10:48:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/1-1768638785556211447509-0-53-675-1133-crop-17686387894531239174980.jpg",
+      "imgClass": "img-resize",
+      "description": "Việc pin smartphone hao nhanh trong quá trình sử dụng là điều bình thường, đặc biệt là do màn hình tiêu tốn nhiều năng lượng.",
+      "guid": "https://thanhnien.vn/vi-sao-smartphone-khong-dung-van-hao-pin-185260117153952066.htm",
+      "categoryName": "Thủ thuật"
+    },
+    {
+      "title": "Thao tác 'chạm và giữ' thay đổi cách xem YouTube",
+      "link": "https://thanhnien.vn/thao-tac-cham-va-giu-thay-doi-cach-xem-youtube-185260116160516998.htm",
+      "pubDate": "Fri, 16 Jan 26 16:56:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/youtube-shopping-17685544520731102560870-0-125-1440-2429-crop-17685559389121607657818.jpg",
+      "imgClass": "img-resize",
+      "description": "Nhiều người đang xem YouTube sai cách suốt thời gian qua cho đến khi biết thao tác này.",
+      "guid": "https://thanhnien.vn/thao-tac-cham-va-giu-thay-doi-cach-xem-youtube-185260116160516998.htm",
+      "categoryName": "Thủ thuật"
+    },
+    {
+      "title": "Khi nào nên tắt 5G và sử dụng LTE trên smartphone",
+      "link": "https://thanhnien.vn/khi-nao-nen-tat-5g-va-su-dung-lte-tren-smartphone-185260115200344188.htm",
+      "pubDate": "Fri, 16 Jan 26 11:55:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/1-17684820228201354693342-83-0-1333-2000-crop-17684820295371208899140.jpg",
+      "imgClass": "img-resize",
+      "description": "Kể từ khi ra mắt hơn nửa thập kỷ trước, công nghệ smartphone 5G đã tạo ra một làn sóng hào hứng lớn.",
+      "guid": "https://thanhnien.vn/khi-nao-nen-tat-5g-va-su-dung-lte-tren-smartphone-185260115200344188.htm",
+      "categoryName": "Thủ thuật"
+    },
+    {
+      "title": "3 lý do khiến iPhone giá rẻ 'ăn đứt' điện thoại Android cùng phân khúc",
+      "link": "https://thanhnien.vn/3-ly-do-khien-iphone-gia-re-an-dut-dien-thoai-android-cung-phan-khuc-185260115145946384.htm",
+      "pubDate": "Thu, 15 Jan 26 15:16:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/phone-17684641053051442759039-0-98-1125-1898-crop-1768464245570665756265.jpg",
+      "imgClass": "img-resize",
+      "description": "Đừng vội mua Android giá rẻ, đây là lý do tại sao một chiếc iPhone cũ lại là khoản đầu tư khôn ngoan hơn.",
+      "guid": "https://thanhnien.vn/3-ly-do-khien-iphone-gia-re-an-dut-dien-thoai-android-cung-phan-khuc-185260115145946384.htm",
+      "categoryName": "Thủ thuật"
+    },
+    {
+      "title": "Vì sao nên ngừng kết nối Smart TV với Wi-Fi?",
+      "link": "https://thanhnien.vn/vi-sao-nen-ngung-ket-noi-smart-tv-voi-wi-fi-185260114152911357.htm",
+      "pubDate": "Wed, 14 Jan 26 15:44:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/1-176837923788749861063-0-2-784-1256-crop-1768379258737510277561.jpg",
+      "imgClass": "img-resize",
+      "description": "Kết nối Smart TV bằng Wi-Fi tiện lợi, tuy nhiên giải pháp này không phải lúc nào cũng mang lại trải nghiệm xem tốt nhất.",
+      "guid": "https://thanhnien.vn/vi-sao-nen-ngung-ket-noi-smart-tv-voi-wi-fi-185260114152911357.htm",
+      "categoryName": "Thủ thuật"
+    },
+    {
+      "title": "Cách tận dụng ổ cứng HDD cũ thay vì vứt bỏ",
+      "link": "https://thanhnien.vn/cach-tan-dung-o-cung-hdd-cu-thay-vi-vut-bo-185260114104633036.htm",
+      "pubDate": "Wed, 14 Jan 26 11:47:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/editphotouybdkkkfgk-1768363102-0-0-1440-2304-crop-1768363970826744745850.jpg",
+      "imgClass": "img-resize",
+      "description": "Những lý do không nên vứt bỏ chiếc ổ cứng HDD cũ đi trong thời điểm bão giá SSD.",
+      "guid": "https://thanhnien.vn/cach-tan-dung-o-cung-hdd-cu-thay-vi-vut-bo-185260114104633036.htm",
+      "categoryName": "Thủ thuật"
+    },
+    {
+      "title": "5 lầm tưởng thường thấy về iPhone",
+      "link": "https://thanhnien.vn/5-lam-tuong-thuong-thay-ve-iphone-18526011311480422.htm",
+      "pubDate": "Wed, 14 Jan 26 08:37:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/poster-17682797739051919027585-0-26-404-672-crop-1768280094409796576899.jpg",
+      "imgClass": "img-resize",
+      "description": "Những thói quen khiến iPhone 'xuống cấp' không phanh mà Apple muốn người dùng ngừng lại.",
+      "guid": "https://thanhnien.vn/5-lam-tuong-thuong-thay-ve-iphone-18526011311480422.htm",
+      "categoryName": "Thủ thuật"
+    },
+    {
+      "title": "Miếng dán màn hình iPhone đang bị thổi phồng công dụng",
+      "link": "https://thanhnien.vn/mieng-dan-man-hinh-iphone-dang-bi-thoi-phong-cong-dung-1852601131333059.htm",
+      "pubDate": "Tue, 13 Jan 26 18:49:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/1-1768285746650514735002-0-124-1125-1924-crop-1768285761435148786163.jpg",
+      "imgClass": "img-resize",
+      "description": "Mỗi khi mua một iPhone mới, nhiều người thường chi tiền thêm cho miếng dán màn hình cùng với ốp lưng để bảo vệ thiết bị khỏi hư hại.",
+      "guid": "https://thanhnien.vn/mieng-dan-man-hinh-iphone-dang-bi-thoi-phong-cong-dung-1852601131333059.htm",
+      "categoryName": "Thủ thuật"
+    },
     {
       "title": "Những yếu tố quyết định thời lượng pin smartphone",
       "link": "https://thanhnien.vn/nhung-yeu-to-quyet-dinh-thoi-luong-pin-smartphone-18526010913034881.htm",
       "pubDate": "Mon, 12 Jan 26 11:06:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/1-1767938480627746805673-158-0-1408-2000-crop-17679384905241843767963.jpg",
+      "imgClass": "img-resize",
       "description": "Thời lượng pin vẫn là một trong những mối quan tâm hàng đầu của người dùng khi lựa chọn smartphone mới.",
-      "guid": "https://thanhnien.vn/nhung-yeu-to-quyet-dinh-thoi-luong-pin-smartphone-18526010913034881.htm"
+      "guid": "https://thanhnien.vn/nhung-yeu-to-quyet-dinh-thoi-luong-pin-smartphone-18526010913034881.htm",
+      "categoryName": "Thủ thuật"
     },
     {
       "title": "Cách tối ưu hóa trải nghiệm sạc không dây",
       "link": "https://thanhnien.vn/cach-toi-uu-hoa-trai-nghiem-sac-khong-day-185260111132227151.htm",
       "pubDate": "Sun, 11 Jan 26 14:17:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1-17681124059311406990352-0-77-1080-1805-crop-1768112503105297187467.jpg",
+      "imgClass": "img-resize",
       "description": "Sạc không dây đã trở thành một tiêu chuẩn phổ biến cho nhiều người dùng smartphone, những người trước đây phải phụ thuộc vào kết nối có dây.",
-      "guid": "https://thanhnien.vn/cach-toi-uu-hoa-trai-nghiem-sac-khong-day-185260111132227151.htm"
-    },
-    {
-      "title": "Hướng dẫn chọn dung lượng RAM phù hợp khi giá bộ nhớ tăng mạnh",
-      "link": "https://thanhnien.vn/huong-dan-chon-dung-luong-ram-phu-hop-khi-gia-bo-nho-tang-manh-185260111082712185.htm",
-      "pubDate": "Sun, 11 Jan 26 09:02:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/screenshot-2026-01-11-081652-17680942294121950497574-0-3-781-1253-crop-17680942359421337390946.png",
-      "description": "Tình trạng giá DRAM leo thang buộc người dùng phải cân nhắc kỹ giữa hiệu năng và chi phí khi chọn dung lượng RAM.",
-      "guid": "https://thanhnien.vn/huong-dan-chon-dung-luong-ram-phu-hop-khi-gia-bo-nho-tang-manh-185260111082712185.htm"
-    },
-    {
-      "title": "Tính năng Wi-Fi ẩn trên điện thoại Samsung nhiều người chưa từng mở",
-      "link": "https://thanhnien.vn/tinh-nang-wi-fi-an-tren-dien-thoai-samsung-nhieu-nguoi-chua-tung-mo-185260109065541101.htm",
-      "pubDate": "Fri, 09 Jan 26 16:53:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/1-17679162219832072436772-0-0-563-901-crop-176791622507225653163.jpg",
-      "description": "Nhiều người dùng điện thoại Samsung chỉ mở cài đặt Wi-Fi khi cần kết nối với mạng mới, tuy nhiên nó còn ẩn chứa một bí ẩn thú vị.",
-      "guid": "https://thanhnien.vn/tinh-nang-wi-fi-an-tren-dien-thoai-samsung-nhieu-nguoi-chua-tung-mo-185260109065541101.htm"
-    },
-    {
-      "title": "Những ứng dụng Google thêm phần mạnh mẽ nhờ Gemini",
-      "link": "https://thanhnien.vn/nhung-ung-dung-google-them-phan-manh-me-nho-gemini-1852601081416243.htm",
-      "pubDate": "Fri, 09 Jan 26 13:51:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/1-1767856036259914649278-0-0-400-640-crop-1767856441459496619128.jpg",
-      "description": "Việc tích hợp trí tuệ nhân tạo (AI) vào các ứng dụng đúng cách sẽ mang lại lợi ích đáng kể cho người dùng và loạt ứng dụng Google là một ví dụ.",
-      "guid": "https://thanhnien.vn/nhung-ung-dung-google-them-phan-manh-me-nho-gemini-1852601081416243.htm"
-    },
-    {
-      "title": "Sai lầm thường gặp của nhiều người khi đổi điện thoại mới",
-      "link": "https://thanhnien.vn/sai-lam-thuong-gap-cua-nhieu-nguoi-khi-doi-dien-thoai-moi-185260107095208927.htm",
-      "pubDate": "Thu, 08 Jan 26 20:24:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/phone-1767754420134546855732-7-0-647-1024-crop-17677547201851432616521.jpg",
-      "description": "Có những thao tác sai lầm thường thấy của nhiều người khiến chiếc điện thoại mới biến thành 'cục gạch' đời cũ.",
-      "guid": "https://thanhnien.vn/sai-lam-thuong-gap-cua-nhieu-nguoi-khi-doi-dien-thoai-moi-185260107095208927.htm"
-    },
-    {
-      "title": "Đừng để lãng phí tiền bạc chỉ vì mua iPhone 17 'theo thói quen'",
-      "link": "https://thanhnien.vn/dung-de-lang-phi-tien-bac-chi-vi-mua-iphone-17-theo-thoi-quen-185260106154015941.htm",
-      "pubDate": "Thu, 08 Jan 26 14:58:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/6/edit_photo_nsrkihxzsm-1767688481.jpg",
-      "description": "Việc chọn một chiếc iPhone giờ đây không chỉ đơn thuần là tìm kiếm mẫu mạnh nhất mà còn bao gồm tìm ra sản phẩm phù hợp với lối sống, ưu tiên và ngân sách.",
-      "guid": "https://thanhnien.vn/dung-de-lang-phi-tien-bac-chi-vi-mua-iphone-17-theo-thoi-quen-185260106154015941.htm"
-    },
-    {
-      "title": "5 cài đặt khiến màn hình cao cấp hiển thị như 'hàng chợ'",
-      "link": "https://thanhnien.vn/5-cai-dat-khien-man-hinh-cao-cap-hien-thi-nhu-hang-cho-18526010710275039.htm",
-      "pubDate": "Thu, 08 Jan 26 06:25:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/dual-monitors-1767758301664827273830-19-0-573-886-crop-1767758307215253120807.jpg",
-      "description": "5 thiết lập thừa thãi đang âm thầm phá hoại trải nghiệm hình ảnh trên màn hình máy tính.",
-      "guid": "https://thanhnien.vn/5-cai-dat-khien-man-hinh-cao-cap-hien-thi-nhu-hang-cho-18526010710275039.htm"
-    },
-    {
-      "title": "Những đánh đổi ít được nhắc đến khi mua laptop chơi game",
-      "link": "https://thanhnien.vn/nhung-danh-doi-it-duoc-nhac-den-khi-mua-laptop-choi-game-185260105130001536.htm",
-      "pubDate": "Wed, 07 Jan 26 20:05:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/5/1-17675925895581513749516-0-67-624-1065-crop-17675926868602019651622.jpg",
-      "description": "Laptop chơi game đang trở thành lựa chọn phổ biến cho những ai tìm kiếm thiết bị hiệu năng cao mà vẫn đảm bảo tính di động.",
-      "guid": "https://thanhnien.vn/nhung-danh-doi-it-duoc-nhac-den-khi-mua-laptop-choi-game-185260105130001536.htm"
-    },
-    {
-      "title": "5 lỗi thường gặp âm thầm làm hao pin laptop",
-      "link": "https://thanhnien.vn/5-loi-thuong-gap-am-tham-lam-hao-pin-laptop-18526010613051806.htm",
-      "pubDate": "Tue, 06 Jan 26 13:29:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/6/2-17675086932081937306894-0-0-765-1224-crop-17676792863121630101841.jpg",
-      "description": "Pin của laptop là một phần quan trọng, nhưng theo thời gian, nó sẽ dần xuống cấp do một số thói quen của người dùng.",
-      "guid": "https://thanhnien.vn/5-loi-thuong-gap-am-tham-lam-hao-pin-laptop-18526010613051806.htm"
+      "guid": "https://thanhnien.vn/cach-toi-uu-hoa-trai-nghiem-sac-khong-day-185260111132227151.htm",
+      "categoryName": "Thủ thuật"
     }
   ]
 }

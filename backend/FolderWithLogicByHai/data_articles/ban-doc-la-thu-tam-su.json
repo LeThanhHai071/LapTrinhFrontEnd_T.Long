@@ -3,87 +3,107 @@
   "categoryName": "Lá thư tâm sự",
   "fullSlug": "ban-doc-la-thu-tam-su",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:05:40.662Z",
+  "lastUpdate": "2026-01-18T04:54:15.526Z",
   "articles": [
     {
       "title": "Trao tiền bạn đọc giúp các hoàn cảnh khó khăn",
       "link": "https://thanhnien.vn/trao-tien-ban-doc-giup-cac-hoan-canh-kho-khan-185240813161419861.htm",
       "pubDate": "Wed, 14 Aug 24 08:53:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2024/8/13/trao-tien-k-tum-1a-17235401986571530896857-62-0-583-835-crop-1723546093270702280547.jpg",
+      "imgClass": "img-resize",
       "description": "Ngày 12.8, đại diện Báo Thanh Niên đã trao hơn 56,7 triệu đồng do bạn đọc hỗ trợ (đợt 2) cho 6 hoàn cảnh khó khăn trên địa bàn tỉnh Kon Tum.",
-      "guid": "https://thanhnien.vn/trao-tien-ban-doc-giup-cac-hoan-canh-kho-khan-185240813161419861.htm"
+      "guid": "https://thanhnien.vn/trao-tien-ban-doc-giup-cac-hoan-canh-kho-khan-185240813161419861.htm",
+      "categoryName": "Lá thư tâm sự"
     },
     {
       "title": "Mãi nhớ về bố nuôi của em!",
       "link": "https://thanhnien.vn/mai-nho-ve-bo-nuoi-cua-em-185231201144623947.htm",
       "pubDate": "Mon, 04 Dec 23 10:46:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2023/12/1/pham-the-ngoc-17014158162441844146721-219-0-669-720-crop-1701416626971284800599.jpg",
+      "imgClass": "img-resize",
       "description": "Tuy là bố nuôi nhưng bố là chỗ dựa vững chắc về tinh thần của mẹ con em. Bố mất rồi, mẹ và em như chới với.",
-      "guid": "https://thanhnien.vn/mai-nho-ve-bo-nuoi-cua-em-185231201144623947.htm"
+      "guid": "https://thanhnien.vn/mai-nho-ve-bo-nuoi-cua-em-185231201144623947.htm",
+      "categoryName": "Lá thư tâm sự"
     },
     {
       "title": "Bức tranh thay lời cảm ơn đến chương trình",
       "link": "https://thanhnien.vn/buc-tranh-thay-loi-cam-on-den-chuong-trinh-185231201114638988.htm",
       "pubDate": "Sat, 02 Dec 23 09:59:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2023/12/1/4007008638500378804591754018728578920978701n-17014181342781105508031-111-0-842-1170-crop-1701418376322755843873.jpg",
+      "imgClass": "img-resize",
       "description": "\"Con xin gửi tặng chương trình bức vẽ này thay lời cảm ơn của con đến chương trình. Con luôn muốn và ao ước sau này mình có thể tiến xa hơn trên con đường mỹ thuật, dùng kiến thức và sự đam mê của mình sáng tác, vẽ nên những bức tranh đầy màu sắc, tươi vui cho cuộc đời\". Đó là lời của em Trần Ngọc Kim Ngân, học lớp 6, Trường THCS Bình Tây, Q.6, TP.HCM.",
-      "guid": "https://thanhnien.vn/buc-tranh-thay-loi-cam-on-den-chuong-trinh-185231201114638988.htm"
+      "guid": "https://thanhnien.vn/buc-tranh-thay-loi-cam-on-den-chuong-trinh-185231201114638988.htm",
+      "categoryName": "Lá thư tâm sự"
     },
     {
       "title": "Mong ước lớn nhất của em là thành công trong lĩnh vực mình chọn",
       "link": "https://thanhnien.vn/mong-uoc-lon-nhat-cua-em-la-thanh-cong-trong-linh-vuc-minh-chon-185231201120609738.htm",
       "pubDate": "Fri, 01 Dec 23 12:37:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2023/12/1/nguyen-cao-lam-1701406862859529552996-119-0-652-853-crop-170140688733527429249.jpg",
+      "imgClass": "img-resize",
       "description": "Ba em khi còn sống luôn đặt kỳ vọng rằng em sẽ tiếp tục con đường học vấn, sẽ tiếp tục học đại học nhưng khi ba mất em rất phân vân về quyết định sẽ tiếp tục con đường học tập hay không, phần lớn em nghĩ đến gánh nặng kinh tế. Nhưng rồi chương trình Cùng con đi tiếp cuộc đời đã hỗ trợ, động viên em tiếp tục học đại học cũng như thực hiện kỳ vọng của ba em.",
-      "guid": "https://thanhnien.vn/mong-uoc-lon-nhat-cua-em-la-thanh-cong-trong-linh-vuc-minh-chon-185231201120609738.htm"
+      "guid": "https://thanhnien.vn/mong-uoc-lon-nhat-cua-em-la-thanh-cong-trong-linh-vuc-minh-chon-185231201120609738.htm",
+      "categoryName": "Lá thư tâm sự"
     },
     {
       "title": "‘Đây là cách mình đối mặt với biến cố sao?’",
       "link": "https://thanhnien.vn/day-la-cach-minh-doi-mat-voi-bien-co-sao-185231130103021993.htm",
       "pubDate": "Fri, 01 Dec 23 09:44:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2023/11/30/tran-hoang-thinh-2-1701317237840649647935-106-0-1066-1536-crop-1701317285462569082573.jpg",
+      "imgClass": "img-resize",
       "description": "Thịnh tự hỏi, và tự trả lời: \"Từ lúc đó, vẫn còn chút buồn nhưng nhờ sự quan tâm, những lần tâm sự với người thân, bạn bè và những người quen biết khác, con hối lỗi và muốn mình phấn đấu hơn vì con thật ích kỉ, khi mẹ vẫn còn đó để cố gắng nuôi con đi học\".",
-      "guid": "https://thanhnien.vn/day-la-cach-minh-doi-mat-voi-bien-co-sao-185231130103021993.htm"
+      "guid": "https://thanhnien.vn/day-la-cach-minh-doi-mat-voi-bien-co-sao-185231130103021993.htm",
+      "categoryName": "Lá thư tâm sự"
     },
     {
       "title": "‘Dù có đau lòng đến mấy, con vẫn phải cố gắng mạnh mẽ’",
       "link": "https://thanhnien.vn/du-co-dau-long-den-may-con-van-phai-co-gang-manh-me-185231129132915877.htm",
       "pubDate": "Thu, 30 Nov 23 08:24:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2023/11/29/le-tran-thanh-phong-1701238168776256318151-88-0-888-1280-crop-1701238187361648834040.jpg",
+      "imgClass": "img-resize",
       "description": "\"Hình ảnh người mẹ tảo tần luôn hiện hữu trong chúng con mỗi lần gặp khó khăn, và đó là điều làm con nhận ra rằng mẹ luôn tồn tại và dõi theo, nên chúng con không được bỏ cuộc\".",
-      "guid": "https://thanhnien.vn/du-co-dau-long-den-may-con-van-phai-co-gang-manh-me-185231129132915877.htm"
+      "guid": "https://thanhnien.vn/du-co-dau-long-den-may-con-van-phai-co-gang-manh-me-185231129132915877.htm",
+      "categoryName": "Lá thư tâm sự"
     },
     {
       "title": "Em sẽ mang những giá trị của lòng biết ơn để chia sẻ cho mọi người",
       "link": "https://thanhnien.vn/em-se-mang-nhung-gia-tri-cua-long-biet-on-de-chia-se-cho-moi-nguoi-185231129125151226.htm",
       "pubDate": "Thu, 30 Nov 23 08:24:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2023/11/29/thieu-nguyen-anh-khoi-17012376254761387471256-63-0-339-442-crop-1701237640275345006981.jpg",
+      "imgClass": "img-resize",
       "description": "\"Mẹ em cũng bớt đi được những lo toan, đó là niềm an ủi, niềm hạnh phúc lớn lao mà em xin tri ân trong suốt cuộc đời của mình\".",
-      "guid": "https://thanhnien.vn/em-se-mang-nhung-gia-tri-cua-long-biet-on-de-chia-se-cho-moi-nguoi-185231129125151226.htm"
+      "guid": "https://thanhnien.vn/em-se-mang-nhung-gia-tri-cua-long-biet-on-de-chia-se-cho-moi-nguoi-185231129125151226.htm",
+      "categoryName": "Lá thư tâm sự"
     },
     {
       "title": "Mi có vui khi ở trên đó và thấy em không?",
       "link": "https://thanhnien.vn/mi-co-vui-khi-o-tren-do-va-thay-em-khong-185231129135124008.htm",
       "pubDate": "Wed, 29 Nov 23 15:03:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2023/11/29/hinh-1-tang-huyen-anh-17012400170001438470235-236-0-1295-1694-crop-170124002972039489985.jpg",
+      "imgClass": "img-resize",
       "description": "Đó là câu hỏi ngây ngô của bé Tăng Huyền Anh (lớp 4/2, Trường tiểu học Cổ Loa, Q.Gò Vấp, TP.HCM - là một cháu được bảo trợ trong chương trình Cùng con đi tiếp cuộc đời ghi trong tấm thiệp gửi mẹ nhân ngày 20.10 vừa qua. Tấm thiệp được đính kèm cùng lá thư tâm sự viết tay mà Tăng Huyền Anh gửi về tòa soạn.",
-      "guid": "https://thanhnien.vn/mi-co-vui-khi-o-tren-do-va-thay-em-khong-185231129135124008.htm"
+      "guid": "https://thanhnien.vn/mi-co-vui-khi-o-tren-do-va-thay-em-khong-185231129135124008.htm",
+      "categoryName": "Lá thư tâm sự"
     },
     {
       "title": "'Ba là người cho con sự ấm áp và tình yêu mỗi ngày'",
       "link": "https://thanhnien.vn/ba-la-nguoi-cho-con-su-am-ap-va-tinh-yeu-moi-ngay-185231129111831035.htm",
       "pubDate": "Wed, 29 Nov 23 12:48:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2023/11/29/trinh-the-bao-1-1701230995673944921289-64-0-664-960-crop-17012310071971650762039.jpg",
+      "imgClass": "img-resize",
       "description": "\"Dù ba không còn ở bên cạnh con nữa nhưng con sẽ luôn cố gắng học tập tốt để không phụ lòng niềm tin yêu của ba và mọi người\".",
-      "guid": "https://thanhnien.vn/ba-la-nguoi-cho-con-su-am-ap-va-tinh-yeu-moi-ngay-185231129111831035.htm"
+      "guid": "https://thanhnien.vn/ba-la-nguoi-cho-con-su-am-ap-va-tinh-yeu-moi-ngay-185231129111831035.htm",
+      "categoryName": "Lá thư tâm sự"
     },
     {
       "title": "Con sẽ cố gắng học thật tốt",
       "link": "https://thanhnien.vn/con-se-co-gang-hoc-that-tot-185231127092846295.htm",
       "pubDate": "Tue, 28 Nov 23 08:16:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2023/11/27/nguyen-thi-hang-nga-17010519043411251425679-606-0-1506-1440-crop-17010519275701095602661.jpg",
+      "imgClass": "img-resize",
       "description": "Mười mấy năm ba ngược xuôi mưu sinh nuôi con, giờ đây con đã lớn nhưng chẳng còn ba nữa. Con chỉ mong bản thân mình có nhiều sức khỏe để có thể phụ giúp mẹ một phần nào đó. Con sẽ cố gắng học thật tốt để sau này thành người. Con sẽ luôn nhớ về người ba của con.",
-      "guid": "https://thanhnien.vn/con-se-co-gang-hoc-that-tot-185231127092846295.htm"
+      "guid": "https://thanhnien.vn/con-se-co-gang-hoc-that-tot-185231127092846295.htm",
+      "categoryName": "Lá thư tâm sự"
     }
   ]
 }

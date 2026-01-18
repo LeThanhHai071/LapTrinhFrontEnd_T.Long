@@ -19,13 +19,13 @@ const ShowWeather = () => {
         day: "2-digit",
         month: "2-digit",
         year: "numeric",
-      })
+      }),
     );
 
     const fetchWeather = async () => {
       try {
         const res = await fetch(
-          `https://api.openweathermap.org/data/2.5/weather?id=${CITY_ID}&appid=${API_KEY}&units=metric&lang=vi`
+          `https://api.openweathermap.org/data/2.5/weather?id=${CITY_ID}&appid=${API_KEY}&units=metric&lang=vi`,
         );
 
         const data = await res.json();
@@ -55,10 +55,17 @@ const ShowWeather = () => {
         <h2>{weather.name}</h2>
         <p>{today}</p>
 
-        <img
+        {/* <img
           src={`https://openweathermap.org/img/wn/${weather.weather[0].icon}@4x.png`}
           alt="weather"
-        />
+        /> */}
+        {weather && weather.weather && weather.weather.length > 0 && (
+          <img
+            src={`https://openweathermap.org/img/wn/${weather.weather[0].icon}@4x.png`}
+            alt={weather.weather[0].description || "Weather icon"}
+            className="weather-icon"
+          />
+        )}
 
         <h1>{Math.round(weather.main.temp)}°C</h1>
         <p>{weather.weather[0].description}</p>

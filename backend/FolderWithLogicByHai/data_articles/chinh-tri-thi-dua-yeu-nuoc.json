@@ -3,87 +3,107 @@
   "categoryName": "Thi đua yêu nước",
   "fullSlug": "chinh-tri-thi-dua-yeu-nuoc",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:01:37.876Z",
+  "lastUpdate": "2026-01-18T04:50:54.173Z",
   "articles": [
+    {
+      "title": "MTTQ và các đoàn thể T.Ư tập trung củng cố khối đại đoàn kết toàn dân tộc",
+      "link": "https://thanhnien.vn/mttq-va-cac-doan-the-tu-tap-trung-cung-co-khoi-dai-doan-ket-toan-dan-toc-185260112223448365.htm",
+      "pubDate": "Tue, 13 Jan 26 06:11:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/ong-tran-cam-tu-uy-vien-bo-chinh-tri-thuong-truc-ban-bi-thu-phat-bieu-tai-hoi-nghianh-thu-huong-17682319976561305289910-202-0-1551-2159-crop-176823201513039609530.jpeg",
+      "imgClass": "img-resize",
+      "description": "Ngày 12.1, Đảng bộ Mặt trận Tổ quốc (MTTQ) VN và các đoàn thể T.Ư tổ chức Hội nghị tổng kết công tác năm 2025, triển khai nhiệm vụ năm 2026.",
+      "guid": "https://thanhnien.vn/mttq-va-cac-doan-the-tu-tap-trung-cung-co-khoi-dai-doan-ket-toan-dan-toc-185260112223448365.htm",
+      "categoryName": "Chính trị"
+    },
     {
       "title": "Bứt phá thi đua, đưa đất nước vào kỷ nguyên phát triển giàu mạnh",
       "link": "https://thanhnien.vn/but-pha-thi-dua-dua-dat-nuoc-vao-ky-nguyen-phat-trien-giau-manh-1852512272334327.htm",
       "pubDate": "Sun, 28 Dec 25 08:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/27/4-thu-tuong-phat-dong-thi-duattxvn-online-17668522778541994088597-37-0-677-1024-crop-17668531666532138541170.jpg",
+      "imgClass": "img-resize",
       "description": "Thay mặt Hội đồng Thi đua - Khen thưởng T.Ư, tại đại hội, Thủ tướng Phạm Minh Chính đã phát động phong trào Thi đua yêu nước với chủ đề: 'Thi đua đổi mới, sáng tạo, tăng tốc, bứt phá đưa đất nước vào kỷ nguyên phát triển giàu mạnh, phồn vinh, văn minh, hạnh phúc'.",
-      "guid": "https://thanhnien.vn/but-pha-thi-dua-dua-dat-nuoc-vao-ky-nguyen-phat-trien-giau-manh-1852512272334327.htm"
+      "guid": "https://thanhnien.vn/but-pha-thi-dua-dua-dat-nuoc-vao-ky-nguyen-phat-trien-giau-manh-1852512272334327.htm",
+      "categoryName": "Thời sự"
     },
     {
       "title": "Khi mỗi người tốt lên, mỗi tổ chức mạnh lên, cả đất nước sẽ tiến lên",
       "link": "https://thanhnien.vn/khi-moi-nguoi-tot-len-moi-to-chuc-manh-len-ca-dat-nuoc-se-tien-len-185251227232935972.htm",
       "pubDate": "Sun, 28 Dec 25 06:54:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/27/tbt2anh-ttxvn-online-17668522778291236082593-43-0-683-1024-crop-1766852321511277928802.jpg",
+      "imgClass": "img-resize",
       "description": "Sáng 27.12, Đại hội Thi đua yêu nước toàn quốc lần thứ XI đã diễn ra tại Hà Nội.",
-      "guid": "https://thanhnien.vn/khi-moi-nguoi-tot-len-moi-to-chuc-manh-len-ca-dat-nuoc-se-tien-len-185251227232935972.htm"
+      "guid": "https://thanhnien.vn/khi-moi-nguoi-tot-len-moi-to-chuc-manh-len-ca-dat-nuoc-se-tien-len-185251227232935972.htm",
+      "categoryName": "Thời sự"
     },
     {
       "title": "Truy tặng Huân chương Bảo vệ Tổ quốc hạng ba cho thượng sĩ Vũ Văn Bình",
       "link": "https://thanhnien.vn/truy-tang-huan-chuong-bao-ve-to-quoc-hang-ba-cho-thuong-si-vu-van-binh-185251227150806479.htm",
       "pubDate": "Sat, 27 Dec 25 15:45:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/27/b843f57bb844371a6e55-17668226794142108400166-0-10-954-1536-crop-1766822820950262253044.jpg",
+      "imgClass": "img-resize",
       "description": "Chủ tịch nước Lương Cường đã ký quyết định truy tặng Huân chương Bảo vệ Tổ quốc hạng ba cho thượng sĩ Vũ Văn Bình, vì có thành tích xuất sắc đột xuất, hy sinh trong thực hiện nhiệm vụ xây dựng công trình quốc phòng.",
-      "guid": "https://thanhnien.vn/truy-tang-huan-chuong-bao-ve-to-quoc-hang-ba-cho-thuong-si-vu-van-binh-185251227150806479.htm"
+      "guid": "https://thanhnien.vn/truy-tang-huan-chuong-bao-ve-to-quoc-hang-ba-cho-thuong-si-vu-van-binh-185251227150806479.htm",
+      "categoryName": "Quốc phòng"
     },
     {
       "title": "Biến thi đua thành hành động, biến khát vọng thành hiện thực",
       "link": "https://thanhnien.vn/bien-thi-dua-thanh-hanh-dong-bien-khat-vong-thanh-hien-thuc-185251227140809789.htm",
       "pubDate": "Sat, 27 Dec 25 14:40:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/27/ba-ha-mttq-phat-dong-17668123750791114856722-0-0-1600-2560-crop-17668125469791328881417.jpg",
+      "imgClass": "img-resize",
       "description": "Đoàn Chủ tịch Ủy ban T.Ư Mặt trận Tổ quốc Việt Nam quyết tâm cùng toàn Đảng, toàn dân, toàn quân đoàn kết, chung sức đồng lòng, biến thi đua thành hành động, biến niềm tin thành sức mạnh, biến khát vọng thành hiện thực, vì cuộc sống ấm no, hạnh phúc của nhân dân và tương lai tươi sáng của dân tộc Việt Nam.",
-      "guid": "https://thanhnien.vn/bien-thi-dua-thanh-hanh-dong-bien-khat-vong-thanh-hien-thuc-185251227140809789.htm"
+      "guid": "https://thanhnien.vn/bien-thi-dua-thanh-hanh-dong-bien-khat-vong-thanh-hien-thuc-185251227140809789.htm",
+      "categoryName": "Chính trị"
     },
     {
       "title": "Trưởng công an xã kể chuyện bơi 2 km vượt lũ dữ cứu người trong đêm",
       "link": "https://thanhnien.vn/truong-cong-an-xa-ke-chuyen-boi-2-km-vuot-lu-du-cuu-nguoi-trong-dem-185251227121803286.htm",
       "pubDate": "Sat, 27 Dec 25 13:18:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/27/d528f3ef1bd2948ccdc3-17668125222551299941038-67-0-1667-2560-crop-1766812613482350964199-3-132-1039-1790-crop-1766816178805711089088.jpg",
+      "imgClass": "img-resize",
       "description": "Trên sân khấu tại Đại hội Thi đua yêu nước toàn quốc lần thứ 11, thượng tá Lê Văn Thọ, Trưởng công an xã Diên Khánh (Khánh Hòa), đã kể lại thời khắc bơi 2 km trong đêm, vượt lũ dữ để cứu người dân mắc kẹt.",
-      "guid": "https://thanhnien.vn/truong-cong-an-xa-ke-chuyen-boi-2-km-vuot-lu-du-cuu-nguoi-trong-dem-185251227121803286.htm"
+      "guid": "https://thanhnien.vn/truong-cong-an-xa-ke-chuyen-boi-2-km-vuot-lu-du-cuu-nguoi-trong-dem-185251227121803286.htm",
+      "categoryName": "Thời sự"
     },
     {
       "title": "Thủ tướng phát động phong trào Thi đua yêu nước giai đoạn 2026 - 2030",
       "link": "https://thanhnien.vn/thu-tuong-phat-dong-phong-trao-thi-dua-yeu-nuoc-giai-doan-2026-2030-185251227120819458.htm",
       "pubDate": "Sat, 27 Dec 25 12:50:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/27/thu-tuong-phat-dong-phong-trao-thi-dua-1766811826472753584366-0-0-1600-2560-crop-1766811942450165295127.jpg",
+      "imgClass": "img-resize",
       "description": "Mục tiêu xuyên suốt của phong trào Thi đua yêu nước giai đoạn 2026 - 2030 là vì nền độc lập, tự do của Tổ quốc; vì sự phát triển nhanh và bền vững của đất nước; vì cuộc sống ấm no, hạnh phúc của nhân dân.",
-      "guid": "https://thanhnien.vn/thu-tuong-phat-dong-phong-trao-thi-dua-yeu-nuoc-giai-doan-2026-2030-185251227120819458.htm"
+      "guid": "https://thanhnien.vn/thu-tuong-phat-dong-phong-trao-thi-dua-yeu-nuoc-giai-doan-2026-2030-185251227120819458.htm",
+      "categoryName": "Chính trị"
     },
     {
       "title": "Thi đua yêu nước để mọi người sống tốt lên, sống đẹp hơn, nghĩa tình hơn",
       "link": "https://thanhnien.vn/thi-dua-yeu-nuoc-de-moi-nguoi-song-tot-len-song-dep-hon-nghia-tinh-hon-185251227113705917.htm",
       "pubDate": "Sat, 27 Dec 25 12:38:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/27/tbt-to-lam-phat-bieu-1766806700087258498562-0-0-1600-2560-crop-1766806769857275872346.jpg",
+      "imgClass": "img-resize",
       "description": "Tổ chức thi đua yêu nước để làm cho mỗi cá nhân, mỗi tập thể, tất cả mọi người sống tốt lên, sống đẹp hơn, nghĩa tình hơn, nhân văn hơn.",
-      "guid": "https://thanhnien.vn/thi-dua-yeu-nuoc-de-moi-nguoi-song-tot-len-song-dep-hon-nghia-tinh-hon-185251227113705917.htm"
+      "guid": "https://thanhnien.vn/thi-dua-yeu-nuoc-de-moi-nguoi-song-tot-len-song-dep-hon-nghia-tinh-hon-185251227113705917.htm",
+      "categoryName": "Chính trị"
     },
     {
       "title": "Kỹ sư 90 tuổi gây xúc động tại Đại hội Thi đua yêu nước toàn quốc",
       "link": "https://thanhnien.vn/ky-su-90-tuoi-gay-xuc-dong-tai-dai-hoi-thi-dua-yeu-nuoc-toan-quoc-185251227110819378.htm",
       "pubDate": "Sat, 27 Dec 25 11:45:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/27/ebb543389605195b4014-1766808327670940143609-79-193-1502-2470-crop-17668084006751698362345.jpg",
+      "imgClass": "img-resize",
       "description": "Trên sân khấu giao lưu tại Đại hội Thi đua yêu nước toàn quốc lần thứ 11, ông Vũ Hữu Lê (90 tuổi, kỹ sư chế tạo máy) đã mang đến nhiều cảm xúc cho các đại biểu.",
-      "guid": "https://thanhnien.vn/ky-su-90-tuoi-gay-xuc-dong-tai-dai-hoi-thi-dua-yeu-nuoc-toan-quoc-185251227110819378.htm"
+      "guid": "https://thanhnien.vn/ky-su-90-tuoi-gay-xuc-dong-tai-dai-hoi-thi-dua-yeu-nuoc-toan-quoc-185251227110819378.htm",
+      "categoryName": "Thời sự"
     },
     {
       "title": "Thủ tướng: Chúng ta đã vượt qua 'những cơn gió ngược', đạt nhiều thành tựu quan trọng",
       "link": "https://thanhnien.vn/thu-tuong-chung-ta-da-vuot-qua-nhung-con-gio-nguoc-dat-nhieu-thanh-tuu-quan-trong-185251227094649467.htm",
       "pubDate": "Sat, 27 Dec 25 10:23:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/27/dh-thi-dua-thu-tuong-phat-bieu-1766802811922732969221-0-0-1600-2560-crop-17668035188771338165470.jpg",
+      "imgClass": "img-resize",
       "description": "Trong 5 năm qua, dưới sự lãnh đạo của Đảng và sự vào cuộc của cả hệ thống chính trị, đất nước ta đã vượt qua nhiều khó khăn, thách thức mang tính lịch sử, đạt được những thành tựu quan trọng. Phong trào thi đua yêu nước tiếp tục khẳng định vai trò động lực, tạo khí thế và niềm tin để Việt Nam bước vào kỷ nguyên phát triển mới.",
-      "guid": "https://thanhnien.vn/thu-tuong-chung-ta-da-vuot-qua-nhung-con-gio-nguoc-dat-nhieu-thanh-tuu-quan-trong-185251227094649467.htm"
-    },
-    {
-      "title": "Tổng Bí thư Tô Lâm dự Đại hội Thi đua yêu nước",
-      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-du-dai-hoi-thi-dua-yeu-nuoc-185251227080950392.htm",
-      "pubDate": "Sat, 27 Dec 25 09:13:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/27/base64-17668019228801371241781-0-0-1250-2000-crop-17668021179661006233537.jpeg",
-      "description": "Sáng nay 27.12, Tổng Bí thư Tô Lâm cùng các lãnh đạo, nguyên lãnh đạo Đảng và Nhà nước tham dự Đại hội Thi đua yêu nước toàn quốc lần thứ 11.",
-      "guid": "https://thanhnien.vn/tong-bi-thu-to-lam-du-dai-hoi-thi-dua-yeu-nuoc-185251227080950392.htm"
+      "guid": "https://thanhnien.vn/thu-tuong-chung-ta-da-vuot-qua-nhung-con-gio-nguoc-dat-nhieu-thanh-tuu-quan-trong-185251227094649467.htm",
+      "categoryName": "Chính trị"
     }
   ]
 }

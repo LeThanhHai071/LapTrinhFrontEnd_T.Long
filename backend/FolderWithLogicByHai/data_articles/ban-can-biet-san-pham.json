@@ -3,87 +3,107 @@
   "categoryName": "Sản phẩm",
   "fullSlug": "ban-can-biet-san-pham",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:06:06.088Z",
+  "lastUpdate": "2026-01-18T04:54:45.802Z",
   "articles": [
     {
       "title": "'Mãn nhãn bóng đá - Hòa nhịp Qatar' với khuyến mãi hấp dẫn khi mua TV Sony Bravia",
       "link": "https://thanhnien.vn/man-nhan-bong-da-hoa-nhip-qatar-voi-khuyen-mai-hap-dan-khi-mua-tv-sony-bravia-1851523082.htm",
       "pubDate": "Sat, 19 Nov 22 10:00:31 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/hongkyqc/2022_11_19/image1-9260.jpeg",
+      "imgClass": "img-resize",
       "description": "Sony Electronics VN ra mắt chương trình khuyến mãi “Mãn nhãn bóng đá - Hòa nhịp Qatar” cho các khách hàng mua TV Bravia sẽ nhận được ưu đãi lên đến 21 triệu đồng, giảm 30% cho loa thanh mua kèm và nhiều khuyến mãi hấp dẫn khác.",
-      "guid": "https://thanhnien.vn/man-nhan-bong-da-hoa-nhip-qatar-voi-khuyen-mai-hap-dan-khi-mua-tv-sony-bravia-1851523082.htm"
+      "guid": "https://thanhnien.vn/man-nhan-bong-da-hoa-nhip-qatar-voi-khuyen-mai-hap-dan-khi-mua-tv-sony-bravia-1851523082.htm",
+      "categoryName": "Sản phẩm"
     },
     {
       "title": "Phạt người trêu ghẹo, xúc phạm phóng viên 200.000 đồng",
       "link": "https://thanhnien.vn/phat-nguoi-treu-gheo-xuc-pham-phong-vien-200000-dong-1851500481.htm",
       "pubDate": "Fri, 16 Sep 22 11:27:40 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/cuongtm/2022_09_16/ht-693.jpg",
+      "imgClass": "img-resize",
       "description": "Công an Q.Cầu Giấy ( Hà Nội ) đã xử phạt 200.000 đồng đối với một người có lời nói thô bạo, khiêu khích, xúc phạm một phóng viên.",
-      "guid": "https://thanhnien.vn/phat-nguoi-treu-gheo-xuc-pham-phong-vien-200000-dong-1851500481.htm"
+      "guid": "https://thanhnien.vn/phat-nguoi-treu-gheo-xuc-pham-phong-vien-200000-dong-1851500481.htm",
+      "categoryName": "Thời sự"
     },
     {
       "title": "Đồng hồ hỗ trợ đo SpO2 thành ‘hàng hot’ vì Covid-19",
       "link": "https://thanhnien.vn/dong-ho-ho-tro-do-spo2-thanh-hang-hot-vi-covid-19-1851435445.htm",
       "pubDate": "Sat, 05 Mar 22 11:00:27 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/tamkc/2022_03_04/e2748b9b-ff52-44d0-970f-c408fe16238f-3233.jpeg",
+      "imgClass": "img-resize",
       "description": "Các mẫu thiết bị đo thông minh như đồng hồ, smartband hỗ trợ tính năng đo SpO2 được nhiều người săn đón.",
-      "guid": "https://thanhnien.vn/dong-ho-ho-tro-do-spo2-thanh-hang-hot-vi-covid-19-1851435445.htm"
+      "guid": "https://thanhnien.vn/dong-ho-ho-tro-do-spo2-thanh-hang-hot-vi-covid-19-1851435445.htm",
+      "categoryName": "Tin tức công nghệ"
     },
     {
       "title": "Tổ yến chưng Organest Kids - Người bạn đồng hành cùng mẹ chăm sóc cho con",
       "link": "https://thanhnien.vn/to-yen-chung-organest-kids-nguoi-ban-dong-hanh-cung-me-cham-soc-cho-con-1851083325.htm",
       "pubDate": "Mon, 28 Jun 21 15:30:25 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_06_28/organestkids_XMEN.jpg",
+      "imgClass": "img-resize",
       "description": "Tổ yến chưng Organest Kids là sản phẩm dành riêng cho trẻ, sản xuất từ yến sào thiên nhiên giàu dinh dưỡng, thơm ngon, bổ dưỡng tăng cường đề kháng.",
-      "guid": "https://thanhnien.vn/to-yen-chung-organest-kids-nguoi-ban-dong-hanh-cung-me-cham-soc-cho-con-1851083325.htm"
+      "guid": "https://thanhnien.vn/to-yen-chung-organest-kids-nguoi-ban-dong-hanh-cung-me-cham-soc-cho-con-1851083325.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Cùng ‘The 1970’ tìm hiểu về phong cách thời trang Vintage",
       "link": "https://thanhnien.vn/cung-the-1970-tim-hieu-ve-phong-cach-thoi-trang-vintage-1851046578.htm",
       "pubDate": "Tue, 16 Mar 21 10:13:44 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_03_16/the1970/avatar_EODA.jpg",
+      "imgClass": "img-resize",
       "description": "Nói về phong cách thời trang Vintage không thể không nhắc đến shop thời trang cho nam giới The 1970. Có những điều thú vị gì khiến The 1970 lại đi theo xu hướng thời trang khác biệt mang tính cổ điển như vậy?",
-      "guid": "https://thanhnien.vn/cung-the-1970-tim-hieu-ve-phong-cach-thoi-trang-vintage-1851046578.htm"
+      "guid": "https://thanhnien.vn/cung-the-1970-tim-hieu-ve-phong-cach-thoi-trang-vintage-1851046578.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Hà Mây - Shop thời trang nổi tiếng của giới trẻ Hà Nội",
       "link": "https://thanhnien.vn/ha-may-shop-thoi-trang-noi-tieng-cua-gioi-tre-da-nang-1851044408.htm",
       "pubDate": "Tue, 09 Mar 21 16:11:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_03_09/hamayshop_HVJD.png",
+      "imgClass": "img-resize",
       "description": "Với những video giới thiệu sản phẩm thời thượng và cửa hàng chật khách mua sắm, Hà Mây là cái tên hàng đầu cho các tín đồ muốn mua sắm thời trang.",
-      "guid": "https://thanhnien.vn/ha-may-shop-thoi-trang-noi-tieng-cua-gioi-tre-da-nang-1851044408.htm"
+      "guid": "https://thanhnien.vn/ha-may-shop-thoi-trang-noi-tieng-cua-gioi-tre-da-nang-1851044408.htm",
+      "categoryName": "Tiêu dùng thông minh"
     },
     {
       "title": "Phương pháp hỗ trợ giảm nguy cơ biến chứng do đái tháo đường",
       "link": "https://thanhnien.vn/phuong-phap-ho-tro-giam-nguy-co-bien-chung-do-dai-thao-duong-1851042655.htm",
       "pubDate": "Wed, 03 Mar 21 18:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_03_03/dhv/1_XDUH.jpg",
+      "imgClass": "img-resize",
       "description": "Đái tháo đường (hay còn được biết đến với tên gọi là tiểu đường) hiện nay đang là một trong những căn bệnh nguy hiểm và rất phổ biến tại Việt Nam.",
-      "guid": "https://thanhnien.vn/phuong-phap-ho-tro-giam-nguy-co-bien-chung-do-dai-thao-duong-1851042655.htm"
+      "guid": "https://thanhnien.vn/phuong-phap-ho-tro-giam-nguy-co-bien-chung-do-dai-thao-duong-1851042655.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Garmin giới thiệu đồng hồ thông minh dành riêng cho phái nữ tại Việt Nam",
       "link": "https://thanhnien.vn/garmin-gioi-thieu-dong-ho-thong-minh-danh-rieng-cho-phai-nu-tai-viet-nam-1851040590.htm",
       "pubDate": "Thu, 25 Feb 21 10:13:48 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_02_25/garmin_RSQR.jpg",
+      "imgClass": "img-resize",
       "description": "Hãng đồng hồ thể thao Garmin giới thiệu LiLy, chiếc đồng hồ nhỏ nhất của hãng, dành riêng cho nữ giới.",
-      "guid": "https://thanhnien.vn/garmin-gioi-thieu-dong-ho-thong-minh-danh-rieng-cho-phai-nu-tai-viet-nam-1851040590.htm"
+      "guid": "https://thanhnien.vn/garmin-gioi-thieu-dong-ho-thong-minh-danh-rieng-cho-phai-nu-tai-viet-nam-1851040590.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Các phương pháp chữa rụng tóc hiệu quả",
       "link": "https://thanhnien.vn/cac-phuong-phap-chua-rung-toc-hieu-qua-1851039964.htm",
       "pubDate": "Tue, 23 Feb 21 14:23:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_02_23/nhung-bi-quyet-chua-rung-toc-hieu-qua-3_YOTM.jpg",
+      "imgClass": "img-resize",
       "description": "Rụng tóc là tình trạng xảy ra khi số lượng tóc rụng đi nhiều hơn số tóc mọc hằng ngày. Để khắc phục tình trạng này, cùng tìm hiểu các phương pháp chữa rụng tóc sau đây:",
-      "guid": "https://thanhnien.vn/cac-phuong-phap-chua-rung-toc-hieu-qua-1851039964.htm"
+      "guid": "https://thanhnien.vn/cac-phuong-phap-chua-rung-toc-hieu-qua-1851039964.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Tút tát nhan sắc từ A - Z với Nguyễn Thư shop",
       "link": "https://thanhnien.vn/tut-tat-nhan-sac-tu-a-z-voi-nguyen-thu-shop-1851039093.htm",
       "pubDate": "Sat, 20 Feb 21 11:30:37 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_02_20/nts/nguyenthushopavatar_QHJU.jpg",
+      "imgClass": "img-resize",
       "description": "Nguyễn Thư shop ngày càng được lòng nhiều bạn trẻ ở An Giang bởi sản phẩm đa dạng và hợp túi tiền.",
-      "guid": "https://thanhnien.vn/tut-tat-nhan-sac-tu-a-z-voi-nguyen-thu-shop-1851039093.htm"
+      "guid": "https://thanhnien.vn/tut-tat-nhan-sac-tu-a-z-voi-nguyen-thu-shop-1851039093.htm",
+      "categoryName": "Bạn cần biết"
     }
   ]
 }
