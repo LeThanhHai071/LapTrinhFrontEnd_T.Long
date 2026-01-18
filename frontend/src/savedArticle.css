@@ -21,7 +21,7 @@
     height: 150px !important;
     min-width: 240px !important;
     overflow: hidden;
-    border-radius: 8px;
+    border-radius: 2px;
 }
 
 .saved-list-container img {
