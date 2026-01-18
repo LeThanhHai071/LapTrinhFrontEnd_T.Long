@@ -1,12 +1,12 @@
-import { useParams, Link } from "react-router-dom";
-import { useEffect, useState } from "react";
-import { fetchNewsDetail } from "./services/newsService";
+import {useParams, Link} from "react-router-dom";
+import {useEffect, useState} from "react";
+import {fetchNewsDetail} from "./services/newsService";
 import "./NewsDetail.css";
-import { getUserIdFromStorage } from "./utils/authUtils.js";
-import { articleService } from "./services/articleService";
+import {getUserIdFromStorage} from "./utils/authUtils.js";
+import {articleService} from "./services/articleService";
 
 const NewsDetail = () => {
-    const { id: articleId } = useParams();
+    const {id: articleId} = useParams();
 
     const [article, setArticle] = useState(null);
     const [loading, setLoading] = useState(true);
@@ -64,7 +64,9 @@ const NewsDetail = () => {
                 if (isMounted) setLoading(false);
             });
 
-        return () => { isMounted = false; };
+        return () => {
+            isMounted = false;
+        };
     }, [articleId]);
 
     /* ===== TEXT TO SPEECH ===== */
@@ -141,7 +143,7 @@ const NewsDetail = () => {
                 <span>{article.publishDate}</span>
                 <span>{article.author.name}</span>
 
-                <div style={{ marginLeft: "auto", display: "flex", gap: "10px" }}>
+                <div style={{marginLeft: "auto", display: "flex", gap: "10px"}}>
                     <button className="speak-btn" onClick={handleSpeak}>
                         {speaking ? "⏹ Dừng đọc" : "🔊 Đọc báo"}
                     </button>
@@ -149,8 +151,24 @@ const NewsDetail = () => {
                     <button
                         className={`save-btn ${isSaved ? "active" : ""}`}
                         onClick={handleToggleSave}
+                        aria-label="Save article"
                     >
-                        {isSaved ? "🔖 Đã lưu" : "🔖 Lưu bài"}
+                        <div className="inner-btn">
+                            <svg
+                                viewBox="0 0 24 24"
+                                width="20"
+                                height="20"
+                                stroke="currentColor"
+                                strokeWidth="2"
+                                fill="none"
+                                strokeLinecap="round"
+                                strokeLinejoin="round"
+                                className="bookmark-icon"
+                            >
+                                <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+                            </svg>
+                            <span>{isSaved ? "Đã lưu" : "Lưu bài"}</span>
+                        </div>
                     </button>
                 </div>
             </div>
@@ -198,7 +216,7 @@ const NewsDetail = () => {
             {/* ===== CONTENT ===== */}
             <div
                 className="content"
-                style={{ fontFamily, fontSize: `${fontSize}px`, lineHeight }}
+                style={{fontFamily, fontSize: `${fontSize}px`, lineHeight}}
             >
                 {article.content?.map((block, index) => {
                     if (block.type === "text") return <p key={index}>{block.content}</p>;
@@ -207,7 +225,7 @@ const NewsDetail = () => {
                     if (block.type === "image_block") {
                         return (
                             <figure key={index}>
-                                <img src={block.urls} alt={block.caption || ""} />
+                                <img src={block.urls} alt={block.caption || ""}/>
                                 {block.caption && <figcaption>{block.caption}</figcaption>}
                             </figure>
                         );

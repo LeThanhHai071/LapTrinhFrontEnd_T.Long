@@ -112,6 +112,57 @@ figcaption {
 }
 
 .login-warning a {
-  color: #007bff;
-  text-decoration: underline;
+    color: #007bff;
+    text-decoration: underline;
+}
+
+
+.save-btn {
+    padding: 8px 16px;
+    border-radius: 20px;
+    border: 1.5px solid #e0e0e0;
+    background-color: white;
+    color: #555;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+
+.inner-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+
+.bookmark-icon {
+    transition: all 0.3s ease;
+}
+
+
+.save-btn:hover {
+    border-color: #2563eb;
+    color: #2563eb;
+    background-color: #eff6ff;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.1);
+}
+
+
+.save-btn.active {
+    background-color: #2563eb;
+    border-color: #2563eb;
+    color: white;
+}
+
+.save-btn.active .bookmark-icon {
+    fill: white;
+}
+
+
+.save-btn:active {
+    transform: scale(0.95);
+}
 }
