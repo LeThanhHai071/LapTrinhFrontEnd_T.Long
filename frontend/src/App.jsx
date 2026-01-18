@@ -8,7 +8,7 @@ import Login from "./login";
 import Profile from "./profile";
 import Register from "./register";
 import NewsList from "./NewsList";
-import NewsDetail from "./newsDetail";
+import NewsDetail from "./NewsDetail";
 import Subscription from "./Subscription";
 import Advertise from "./Advertise";
 import ShowWeather from "./ShowWeather";
