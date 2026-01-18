@@ -72,7 +72,7 @@ async function crawlDetail(url) {
     const contentWrapper = main.find(".detail-content"); //.detail-cmain .detail-content
     contentWrapper
       .find(
-        'script, style, template, iframe, [class*="ads"], [id*="ads"], [id*="zone"], [class*="zone"], [id^="zone-"], [class^="zone-"], .clearfix'
+        'script, style, template, iframe, [class*="ads"], [id*="ads"], [id*="zone"], [class*="zone"], [id^="zone-"], [class^="zone-"], .clearfix',
       )
       .remove();
 
@@ -274,33 +274,56 @@ async function runStep3() {
     const jsonFiles = files.filter((f) => f.endsWith(".json"));
 
     for (const file of jsonFiles) {
-      const rawData = await fs.readFile(path.join(SOURCE_DIR, file), "utf-8");
-      const { articles } = JSON.parse(rawData);
+      const sourceFilePath = path.join(SOURCE_DIR, file);
+      const rawData = await fs.readFile(sourceFilePath, "utf-8");
+      const categoryContent = JSON.parse(rawData);
+      let isChanged = false;
 
-      for (const item of articles) {
+      for (const item of categoryContent.articles) {
         // Lấy ID từ link bài viết (Ví dụ: ...18525120918320004.htm -> 18525120918320004)
         const idMatch = item.link.match(/-(\d+)\.htm/);
         if (!idMatch) continue;
         const articleId = idMatch[1];
         const destFile = path.join(DEST_DIR, `${articleId}.json`);
 
-        // Kiểm tra xem bài này đã crawl chưa (tránh tốn tài nguyên)
+        let detailData = null;
+
         try {
-          await fs.access(destFile);
-          // console.log(`Bài ${articleId} đã tồn tại, bỏ qua.`);
-          continue;
+          // 1. Kiểm tra nếu file chi tiết đã tồn tại thì đọc từ ổ cứng
+          const existingDetail = await fs.readFile(destFile, "utf-8");
+          detailData = JSON.parse(existingDetail);
         } catch {
-          // File chưa tồn tại, bắt đầu crawl
+          // 2. Nếu chưa có thì mới tiến hành crawl
+          console.log(`   > Đang bóc tách bài mới: ${articleId}`);
+          detailData = await crawlDetail(item.link);
+          if (detailData) {
+            detailData.id = articleId;
+            await fs.writeFile(destFile, JSON.stringify(detailData, null, 2));
+            await sleep(1000);
+          }
         }
 
-        console.log(`Đang bóc tách bài: ${articleId}`);
-        const detailData = await crawlDetail(item.link);
+        if (
+          detailData &&
+          detailData.categories &&
+          detailData.categories.length > 0
+        ) {
+          // Lấy category cuối cùng trong mảng (thường là category con, chính xác nhất)
+          const exactCategory =
+            detailData.categories[detailData.categories.length - 1];
 
-        if (detailData) {
-          detailData.id = articleId;
-          await fs.writeFile(destFile, JSON.stringify(detailData, null, 2));
-          await sleep(1000);
+          if (item.categoryName !== exactCategory) {
+            item.categoryName = exactCategory;
+            isChanged = true;
+          }
         }
+      }
+      if (isChanged) {
+        await fs.writeFile(
+          sourceFilePath,
+          JSON.stringify(categoryContent, null, 2),
+        );
+        console.log(`=> Đã cập nhật categoryName cho file: ${file}`);
       }
     }
     console.log("\nHOÀN THÀNH TOÀN BỘ BƯỚC 3!");

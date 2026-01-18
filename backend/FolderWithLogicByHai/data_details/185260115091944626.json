@@ -1,0 +1,53 @@
+{
+  "title": "Cẩn trọng khi sử dụng Wi-Fi miễn phí tại khách sạn",
+  "categories": [
+    "Công nghệ",
+    "Tin tức công nghệ"
+  ],
+  "sapo": "Sau một ngày dài di chuyển, nhiều người thường có thói quen kiểm tra tin nhắn và mạng xã hội ngay khi về đến khách sạn.",
+  "publishDate": "18/01/2026 10:53 GMT+7",
+  "author": {
+    "name": "Kiến Văn",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/Uploaded/authors/CTV/kienvan_WULL.jpg",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Tuy nhiên, việc kết nối với Wi-Fi của khách sạn có thể tiềm ẩn nhiều rủi ro về bảo mật và quyền riêng tư mà nhiều người không hề hay biết. Lý do chính của việc này là vì Wi-Fi khách sạn thường thiếu các biện pháp bảo vệ cần thiết."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/15/1-17684434647871276533157.jpg"
+      ],
+      "caption": "Kết nối Wi-Fi khách sạn tưởng an toàn, thực tế có thể mở cửa cho tin tặc"
+    },
+    {
+      "type": "text",
+      "content": "Mặc dù mục đích chính của Wi-Fi khách sạn là cung cấp cho khách hàng một phương tiện truy cập internet nhanh chóng, nhưng điều đó thường đi kèm với việc bỏ qua các yếu tố quan trọng như bảo vệ thiết bị để chống lại các cuộc tấn công mạng. Tin tặc có thể dễ dàng tấn công thiết bị của khách thông qua các tín hiệu không được bảo mật, dẫn đến việc thông tin nhạy cảm như mật khẩu và chi tiết thanh toán bị đánh cắp."
+    },
+    {
+      "type": "text",
+      "content": "Hãy tưởng tượng về mạng Wi-Fi tại nhà: Nếu được thiết lập từ một thương hiệu uy tín, người dùng sẽ thấy nó hoạt động với phần cứng và phần mềm mới nhất, cùng với mật khẩu bảo vệ an toàn. Ngược lại, Wi-Fi khách sạn thường sử dụng phần cứng lỗi thời và có thể không có mật khẩu bảo vệ. Ngay cả khi có mật khẩu, nó cũng có thể dễ dàng bị tìm thấy hoặc đoán được."
+    },
+    {
+      "type": "h2",
+      "content": "Vấn đề ở Wi-Fi khách sạn"
+    },
+    {
+      "type": "text",
+      "content": "Khi kết nối với Wi-Fi khách sạn, người dùng có thể bị yêu cầu đồng ý với một thỏa thuận hoặc cung cấp địa chỉ email, nhưng đây không phải là các biện pháp bảo mật thực sự. Rủi ro khi sử dụng Wi-Fi khách sạn tương tự như khi kết nối với Wi-Fi công cộng tại sân bay, nơi tin tặc có thể chặn dữ liệu và đánh cắp thông tin cá nhân của người truy cập."
+    },
+    {
+      "type": "text",
+      "content": "Nếu buộc phải sử dụng Wi-Fi của khách sạn, người dùng nên thực hiện một số biện pháp phòng ngừa. Đầu tiên, hãy xác nhận với lễ tân khách sạn để đảm bảo mình đang kết nối với đúng mạng. Thứ hai, tăng cường bảo mật cho thiết bị bằng cách sử dụng tường lửa, phần mềm chống virus và VPN trả phí. Cuối cùng, hãy cẩn thận khi lướt web, tránh truy cập vào thông tin nhạy cảm như ngân hàng trực tuyến hoặc tài liệu công việc bí mật."
+    },
+    {
+      "type": "text",
+      "content": "Việc sử dụng Wi-Fi khách sạn có thể là cần thiết, nhưng hãy luôn cảnh giác và bảo vệ thông tin cá nhân của bản thân."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/can-trong-khi-su-dung-wi-fi-mien-phi-tai-khach-san-185260115091944626.htm",
+  "id": "185260115091944626"
+}

@@ -9,67 +9,58 @@ const CategoryList = ({ data }) => {
 
   return (
     <div className="list__stream-main list__main_check list__stream-checkhot">
-      {streamArticles.map((article, index) => {
-        return (
-          <div
-            key={article.id}
-            className="box-category-item"
-            data-id={article.id}
-          >
-            {/* Khối Ảnh */}
-            <Link
-              className="box-category-link-with-avatar img-resize"
-              to={`/article/${article.id}`}
-              title={article.title}
-            >
-              <img
-                data-type="avatar"
-                src={article.imageURL}
-                alt={article.title}
-                title={article.title}
-                className="box-category-avatar"
-                loading="lazy"
-              />
-            </Link>
-
-            {/* Khối Nội dung */}
-            <div className="box-category-content">
-              {/* Tên danh mục */}
-              <Link
-                to={`/category/${category.fullSlug}`}
-                className="box-category-category"
-                title={category.categoryName}
+      <div className="box-category box-border-top">
+        <div className="box-category-middle list__main_check">
+          {streamArticles.map((article, index) => {
+            return (
+              <div
+                key={article.id}
+                className="box-category-item"
+                data-id={article.id}
               >
-                {category.categoryName}
-              </Link>
-
-              {/* Tiêu đề bài viết */}
-              <h3 className="box-title-text">
+                {/* Khối Ảnh */}
                 <Link
+                  className="box-category-link-with-avatar img-resize"
                   to={`/article/${article.id}`}
-                  className="box-category-link-title"
                   title={article.title}
                 >
-                  {article.title}
+                  <img
+                    data-type="avatar"
+                    src={article.imageURL}
+                    alt={article.title}
+                    title={article.title}
+                    className="box-category-avatar"
+                    loading="lazy"
+                  />
                 </Link>
-              </h3>
 
-              {/* Bài liên quan (Nếu có dữ liệu liên quan từ API) */}
-              {/* {article.relatedArticle && (
-                <div className="item-related">
-                  <a
-                    className="box-category-related-link-title"
-                    href={article.relatedArticle.link}
-                    title={article.relatedArticle.title}
+                {/* Khối Nội dung */}
+                <div className="box-category-content">
+                  {/* Tên danh mục */}
+                  <Link
+                    to={`/category/${category.fullSlug}`}
+                    className="box-category-category"
+                    title={category.categoryName}
                   >
-                    {article.relatedArticle.title}
-                  </a>
+                    {category.categoryName}
+                  </Link>
+
+                  {/* Tiêu đề bài viết */}
+                  <h3 className="box-title-text">
+                    <Link
+                      to={`/article/${article.id}`}
+                      className="box-category-link-title"
+                      title={article.title}
+                    >
+                      {article.title}
+                    </Link>
+                  </h3>
                 </div>
-              )} */}
-            </div>
-          </div>
-        );
-      })}
+              </div>
+            );
+          })}
+        </div>
+      </div>
     </div>
   );
 };

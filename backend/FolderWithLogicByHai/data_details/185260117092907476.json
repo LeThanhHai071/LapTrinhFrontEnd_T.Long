@@ -1,0 +1,122 @@
+{
+  "title": "Tăng tốc xây dựng Big Data để mở học liệu số cho hàng triệu người học",
+  "categories": [
+    "Giáo dục"
+  ],
+  "sapo": "Số hóa sách giáo khoa không đơn thuần là chuyển từ bản in sang bản điện tử. Nhận thức rõ điều này, Nhà xuất bản Giáo dục Việt Nam đang tăng tốc xây dựng cơ sở dữ liệu Big Data đối với hệ thống sách giáo khoa, sách bài tập và sách tham khảo, nhằm thay đổi căn bản cách quản lý, biên soạn và phát hành học liệu.",
+  "publishDate": "17/01/2026 10:11 GMT+7",
+  "author": {
+    "name": "Nguồn: NXB Giáo dục Việt Nam",
+    "avatar": "https://static.thanhnien.com.vn/thanhnien.vn/image/ava_inter.png",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Trong bối cảnh tri thức liên tục được cập nhật, phương thức dạy - học truyền thống dựa hoàn toàn vào sách giấy đang bộc lộ nhiều giới hạn. Muốn đổi mới căn bản, giáo dục buộc phải dịch chuyển sang môi trường số, nơi học liệu số và dữ liệu lớn (Big Data) giữ vai trò trung tâm."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/17/img1882-17686165891671780725004.jpg"
+      ],
+      "caption": "NXB GDVN và Tổng công ty Giải pháp Doanh nghiệp Viettel trao đổi văn bản thỏa thuận hợp tác giữa hai đơn vị"
+    },
+    {
+      "type": "text",
+      "content": "Tại Việt Nam, định hướng này đã được cụ thể hóa bằng Quyết định số 131/QĐ-TTg của Thủ tướng Chính phủ về Chương trình chuyển đổi số ngành giáo dục đến năm 2025, tầm nhìn 2030. Trong bối cảnh thực hiện Nghị quyết 29-NQ/TW về đổi mới căn bản, toàn diện giáo dục và đào tạo, Bộ GD-ĐT đã liên tục chỉ đạo phát triển học liệu số phục vụ dạy học trực tuyến, dạy học kết hợp, đồng thời giảm tải cho giáo viên, hỗ trợ hiệu quả công tác kiểm tra, đánh giá."
+    },
+    {
+      "type": "h2",
+      "content": "Tăng tốc xây dựng Big Data"
+    },
+    {
+      "type": "text",
+      "content": "Với vị thế là đơn vị xuất bản sách giáo khoa chủ lực của cả nước, Nhà xuất bản Giáo dục Việt Nam (NXBGDVN) đang đứng trước một bài toán không hề nhỏ: Làm thế nào để biến khối di sản sách giáo dục đồ sộ suốt nhiều thập kỷ thành nguồn tài nguyên số sống động, có thể khai thác, chia sẻ và phục vụ xã hội."
+    },
+    {
+      "type": "text",
+      "content": "Số hóa sách không đơn thuần là quét giấy thành file PDF. Đó là quá trình chuẩn hóa, tái cấu trúc và kết nối dữ liệu, để mỗi cuốn sách không còn tồn tại đơn lẻ mà trở thành một phần của hệ sinh thái học liệu số."
+    },
+    {
+      "type": "text",
+      "content": "Thực tế cho thấy, hàng chục nghìn đầu sách giáo dục qua các thời kỳ tồn tại rải rác, thiếu bản lưu trữ hoàn chỉnh, càng thiếu dữ liệu số. Điều này không chỉ gây khó khăn cho công tác quản lý, mà còn khiến một khối tri thức khổng lồ gần như \"ngủ quên\" trước yêu cầu phát triển của giáo dục số."
+    },
+    {
+      "type": "text",
+      "content": "Nhận diện rõ khoảng trống này, NXBGDVN đã tăng tốc xây dựng Big Data sách giáo dục, coi đây là nền móng cho chiến lược chuyển đổi số dài hạn, đồng thời là chìa khóa để mở rộng khả năng phục vụ cộng đồng."
+    },
+    {
+      "type": "text",
+      "content": "Trong quá trình triển khai, NXBGDVN đã phối hợp với Thư viện Quốc gia Việt Nam thu thập danh mục sách lưu chiểu qua các thời kỳ; tổ chức rà soát, lọc bỏ trùng lặp… qua đó hình thành danh mục 33.786 tên sách có dữ liệu cơ bản tương đối đầy đủ. Trong số này, sách giáo khoa, sách bài tập, sách giáo viên và sách đọc thêm chiếm chủ đạo, còn lại là các loại sách giáo dục khác."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/17/img1883-17686165891981671508483.jpg"
+      ],
+      "caption": "Hệ thống tập huấn, bồi dưỡng giáo viên online của NXBGDVN"
+    },
+    {
+      "type": "text",
+      "content": "Đáng chú ý, toàn bộ 1.132 sách giáo khoa (SGK), sách giáo viên (SGV), sách bài tập (SBT) theo Chương trình giáo dục phổ thông 2018 đã được chuẩn hóa dữ liệu số ngay từ khâu bản thảo. Bên cạnh đó, các đơn vị thành viên đã gửi về hơn 4.360 file sách tham khảo cùng gần 200 file học liệu số đa phương tiện. Đây là nguồn dữ liệu quan trọng để hình thành kho học liệu số có bản quyền, phục vụ khai thác lâu dài."
+    },
+    {
+      "type": "text",
+      "content": "Từ những con số này có thể thấy, Big Data sách giáo dục tại NXBGDVN đang dần được \"lộ diện\"."
+    },
+    {
+      "type": "h2",
+      "content": "Nỗ lực hợp tác tạo \"trục lõi\" cho hệ sinh thái giáo dục số"
+    },
+    {
+      "type": "text",
+      "content": "Nhận thức rõ ràng không một đơn vị nào có thể tự mình hoàn thành chuyển đổi số, NXBGDVN đã chủ động hợp tác chiến lược với các doanh nghiệp công nghệ lớn để xây dựng hệ sinh thái học liệu số trên nền Big Data."
+    },
+    {
+      "type": "text",
+      "content": "Tiêu biểu là hợp tác với Tổng công ty Viễn thông Quân đội Viettel triển khai số hóa SGK theo mô hình 4 tầng, phát triển bộ sách AI và nền tảng dữ liệu giáo dục làm \"trục lõi\", hướng tới tích hợp AI vào các môn học, hình thành hệ sinh thái AI giáo dục dùng chung từ năm học 2026-2027."
+    },
+    {
+      "type": "text",
+      "content": "Song song đó, NXBGDVN phối hợp với VTC xây dựng Trục học liệu số NXBGDVN, quản lý tập trung học liệu chính thống, dữ liệu học tập và các công cụ dạy - học trên một nền tảng thống nhất. Trục học liệu không chỉ \"phủ rộng\" SGK lên môi trường số, mà còn \"đi sâu\" vào cá nhân hóa việc học, hỗ trợ giáo viên đánh giá, học sinh học chủ động, nhà trường quản lý dựa trên dữ liệu."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/17/img1884-1768616589234142306700.jpg"
+      ],
+      "caption": "Ông Phạm Quỳnh - Phó tổng biên tập NXBGDVN giới thiệu mô hình Chuyển đổi số trong một buổi tập huấn về phát triển khoa học, công nghệ"
+    },
+    {
+      "type": "text",
+      "content": "Bên cạnh đó, các hợp tác với Tri Thức Mới, AI EDU, Zodiac Clarity tiếp tục mở rộng hệ sinh thái học liệu số từ SGK điện tử, LMS, AI Tutor đến lớp học thông minh, kho học liệu K-12, từng bước hình thành môi trường giáo dục số đồng bộ, chuẩn hóa, có bản quyền."
+    },
+    {
+      "type": "h2",
+      "content": "Không chỉ lưu trữ, mà phải khai thác phục vụ xã hội"
+    },
+    {
+      "type": "text",
+      "content": "Điểm nhấn trong cách tiếp cận của NXBGDVN là: Xây dựng Big Data không phải để \"cất kho\", mà để khai thác, lan tỏa giá trị tri thức cho xã hội. Từ năm 2020, NXBGDVN đã đưa SGK và học liệu điện tử lên các nền tảng website phục vụ giới thiệu sách, bồi dưỡng, tập huấn giáo viên, hỗ trợ triển khai Chương trình GDPT 2018. Hàng nghìn buổi tập huấn, bồi dưỡng trực tuyến đã được tổ chức, mang lại hiệu quả rõ rệt, nhất là trong giai đoạn dịch bệnh."
+    },
+    {
+      "type": "text",
+      "content": "Song song đó, các đơn vị thành viên mở rộng kênh phát hành trên nền tảng thương mại điện tử, từng bước thích ứng với sự thay đổi thói quen tiếp cận sách của người học trong kỷ nguyên số."
+    },
+    {
+      "type": "text",
+      "content": "Hiện nay, NXBGDVN đang hoàn thiện Đề án số hóa sách qua các thời kỳ, chuẩn bị lựa chọn nhà cung cấp, tổ chức số hóa nguồn sách lưu trữ tại Thư viện Quốc gia và xây dựng phần mềm thư viện số để quản lý, khai thác dữ liệu. Các giải pháp công nghệ từ mã nguồn mở đến phần mềm thương mại đều đang được cân nhắc nhằm bảo đảm tính bền vững, an toàn và khả năng mở rộng."
+    },
+    {
+      "type": "text",
+      "content": "Đặc biệt, chiến lược hợp tác của NXBGDVN được xác định theo hướng lâu dài, kế thừa, lấy SGK điện tử làm nền tảng cốt lõi. Mục tiêu không chỉ là phát triển sản phẩm số, mà là xây dựng hệ sinh thái học liệu số phục vụ cộng đồng, trong đó SGK điện tử miễn phí từ lớp 1 đến lớp 12 được xem là bước đi mang tính đột phá, góp phần giảm gánh nặng chi phí học tập cho hàng triệu gia đình và từng bước hiện thực hóa chủ trương SGK miễn phí của Chính phủ."
+    },
+    {
+      "type": "text",
+      "content": "Với triết lý phát triển lấy người học làm trung tâm, cùng sự đầu tư bài bản về nội dung, công nghệ và dữ liệu, Big Data học liệu của NXBGDVN được kỳ vọng sẽ trở thành nền tảng tri thức số quan trọng, mở ra hướng tiếp cận mới cho giáo dục Việt Nam trong kỷ nguyên chuyển đổi số."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/tang-toc-xay-dung-big-data-de-mo-hoc-lieu-so-cho-hang-trieu-nguoi-hoc-185260117092907476.htm",
+  "id": "185260117092907476"
+}

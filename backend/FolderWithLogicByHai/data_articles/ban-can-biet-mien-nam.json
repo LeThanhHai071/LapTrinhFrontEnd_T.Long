@@ -3,87 +3,107 @@
   "categoryName": "Miền Nam",
   "fullSlug": "ban-can-biet-mien-nam",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:06:02.290Z",
+  "lastUpdate": "2026-01-18T04:54:41.238Z",
   "articles": [
     {
       "title": "Ruby Fashion Store - thương hiệu thời trang cao cấp",
       "link": "https://thanhnien.vn/ruby-fashion-store-thuong-hieu-thoi-trang-cao-cap-1851042121.htm",
       "pubDate": "Tue, 02 Mar 21 11:12:27 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_03_02/ruby/avatar_FBBO.jpg",
+      "imgClass": "img-resize",
       "description": "Thương hiệu luôn mang đến những sản phẩm thời trang cập nhật xu hướng với thiết kế tinh tế, hiện đại dành cho các cô nàng sành điệu.",
-      "guid": "https://thanhnien.vn/ruby-fashion-store-thuong-hieu-thoi-trang-cao-cap-1851042121.htm"
+      "guid": "https://thanhnien.vn/ruby-fashion-store-thuong-hieu-thoi-trang-cao-cap-1851042121.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Hot girl Du Nguyễn và hành trình xây dựng thương hiệu thời trang cá nhân",
       "link": "https://thanhnien.vn/hot-girl-du-nguyen-va-hanh-trinh-xay-dung-thuong-hieu-thoi-trang-ca-nhan-1851041732.htm",
       "pubDate": "Mon, 01 Mar 21 09:23:03 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_03_01/dunguyen/avatar_ADZU.png",
+      "imgClass": "img-resize",
       "description": "Shop Du Nguyễn là thương hiệu thời trang được dành cho những cô nàng trẻ trung, sành điệu. Qua nhiều năm xây dựng và phát triển, hiện nay Shop Du Nguyễn đang là địa điểm được nhiều người quan tâm nhất Cần Thơ.",
-      "guid": "https://thanhnien.vn/hot-girl-du-nguyen-va-hanh-trinh-xay-dung-thuong-hieu-thoi-trang-ca-nhan-1851041732.htm"
+      "guid": "https://thanhnien.vn/hot-girl-du-nguyen-va-hanh-trinh-xay-dung-thuong-hieu-thoi-trang-ca-nhan-1851041732.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Quản trị khách sạn - Ngành học thu hút giới trẻ",
       "link": "https://thanhnien.vn/quan-tri-khach-san-nganh-hoc-thu-hut-gioi-tre-185992793.htm",
       "pubDate": "Fri, 11 Sep 20 07:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2020_09_10/dhtaydo_DIOA.jpg",
+      "imgClass": "img-resize",
       "description": "Cùng với sự phát triển của du lịch Việt Nam, nhu cầu nhân lực ngành Quản trị khách sạn ngày càng tăng cao. Vì thế, sinh viên học ngành này tại Trường ĐH Tây Đô sẽ không phải lo lắng về việc làm sau khi ra trường.",
-      "guid": "https://thanhnien.vn/quan-tri-khach-san-nganh-hoc-thu-hut-gioi-tre-185992793.htm"
+      "guid": "https://thanhnien.vn/quan-tri-khach-san-nganh-hoc-thu-hut-gioi-tre-185992793.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Hàng nghìn hộ dân miền Tây được tặng bồn Plasman trữ nước sạch",
       "link": "https://thanhnien.vn/hang-nghin-ho-dan-mien-tay-duoc-tang-bon-plasman-tru-nuoc-sach-185992712.htm",
       "pubDate": "Thu, 10 Sep 20 14:21:19 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2020_09_10/tanadaithanh_WZRY.jpg",
+      "imgClass": "img-resize",
       "description": "Gần một nghìn chiếc bồn nhựa trị giá 1,2 tỉ đồng đã được Tập đoàn Tân Á Đại Thành dành tặng cho người dân nghèo 12 tỉnh miền Tây Nam bộ, những khu vực gặp khó khăn về nguồn nước sinh hoạt.",
-      "guid": "https://thanhnien.vn/hang-nghin-ho-dan-mien-tay-duoc-tang-bon-plasman-tru-nuoc-sach-185992712.htm"
+      "guid": "https://thanhnien.vn/hang-nghin-ho-dan-mien-tay-duoc-tang-bon-plasman-tru-nuoc-sach-185992712.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Mặt nạ, sản phẩm làm đẹp không thể thiếu của phụ nữ",
       "link": "https://thanhnien.vn/mat-na-san-pham-lam-dep-khong-the-thieu-cua-phu-nu-185957191.htm",
       "pubDate": "Wed, 20 May 20 09:30:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/minhchuong.qc/2020_05_20/titione/1_HUIW.gif",
+      "imgClass": "img-resize",
       "description": "Mặt nạ dưỡng da từ lâu đã được coi là liệu pháp chăm sóc da hiệu quả cho chị em phụ nữ.",
-      "guid": "https://thanhnien.vn/mat-na-san-pham-lam-dep-khong-the-thieu-cua-phu-nu-185957191.htm"
+      "guid": "https://thanhnien.vn/mat-na-san-pham-lam-dep-khong-the-thieu-cua-phu-nu-185957191.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Thương nhân tại vùng khó khăn muốn vay ưu đãi cần 20% vốn tự có",
       "link": "https://thanhnien.vn/thuong-nhan-tai-vung-kho-khan-muon-vay-uu-dai-can-20-von-tu-co-185952948.htm",
       "pubDate": "Wed, 06 May 20 08:00:00 +0700",
       "imageURL": "https://static.thanhnien.com.vn/thanhnien.vn/image/no-thumb.jpg",
+      "imgClass": "img-resize",
       "description": "Ngân hàng Chính sách xã hội (NHCSXH) đang triển khai chương trình cho vay thương nhân hoạt động thương mại tại vùng khó khăn.",
-      "guid": "https://thanhnien.vn/thuong-nhan-tai-vung-kho-khan-muon-vay-uu-dai-can-20-von-tu-co-185952948.htm"
+      "guid": "https://thanhnien.vn/thuong-nhan-tai-vung-kho-khan-muon-vay-uu-dai-can-20-von-tu-co-185952948.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Pacific Land Việt Nam tặng 3.000 suất quà cho người khó khăn vì Covid-19",
       "link": "https://thanhnien.vn/pacific-land-viet-nam-tang-3000-suat-qua-cho-nguoi-kho-khan-vi-covid-19-185950522.htm",
       "pubDate": "Mon, 27 Apr 20 09:36:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/minhchuong.qc/27-4/pacificland/1_QRHV.png",
+      "imgClass": "img-resize",
       "description": "Gần 3.000 suất quà đã được Công ty Pacific Land Việt Nam trao tới gia đình có công với cách mạng, người yếu thế nhằm chia sẻ khó khăn do ảnh hưởng của Covid-19.",
-      "guid": "https://thanhnien.vn/pacific-land-viet-nam-tang-3000-suat-qua-cho-nguoi-kho-khan-vi-covid-19-185950522.htm"
+      "guid": "https://thanhnien.vn/pacific-land-viet-nam-tang-3000-suat-qua-cho-nguoi-kho-khan-vi-covid-19-185950522.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Cơ hội đầu tư bất động sản",
       "link": "https://thanhnien.vn/co-hoi-dau-tu-bat-dong-san-185938810.htm",
       "pubDate": "Wed, 25 Mar 20 08:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/hongquan.qc/2020_03_24/pr253_LIKZ.jpg",
+      "imgClass": "img-resize",
       "description": "Chọn đầu tư vào đâu là hợp lý giữa mùa dịch Covid-19, khi bất động sản vẫn còn nhiều cơ hội mang lại lợi nhuận cho nhà đầu tư?",
-      "guid": "https://thanhnien.vn/co-hoi-dau-tu-bat-dong-san-185938810.htm"
+      "guid": "https://thanhnien.vn/co-hoi-dau-tu-bat-dong-san-185938810.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Khai mạc giải bóng đá hấp dẫn nhất đảo Phú Quốc",
       "link": "https://thanhnien.vn/khai-mac-giai-bong-da-hap-dan-nhat-dao-phu-quoc-185913350.htm",
       "pubDate": "Mon, 30 Dec 19 09:07:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2019_12_30/luk/anh1_RBDL.jpg",
+      "imgClass": "img-resize",
       "description": "Chiều 28.12, tại H.Phú Quốc (Kiên Giang), Giải bóng đá Corona Phu Quoc League mùa thứ 5 đã long trọng khai mạc, với sự có mặt của chính quyền địa phương, các nhà tài trợ và đông đảo người hâm mộ.",
-      "guid": "https://thanhnien.vn/khai-mac-giai-bong-da-hap-dan-nhat-dao-phu-quoc-185913350.htm"
+      "guid": "https://thanhnien.vn/khai-mac-giai-bong-da-hap-dan-nhat-dao-phu-quoc-185913350.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Nấu cháo cho bệnh nhân nghèo",
       "link": "https://thanhnien.vn/nau-chao-cho-benh-nhan-ngheo-185908072.htm",
       "pubDate": "Tue, 10 Dec 19 18:53:52 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2019_12_10/pcquangngai1_CMII.jpg",
+      "imgClass": "img-resize",
       "description": "Nằm trong khuôn khổ Tháng tri ân khách hàng năm 2019, Công ty Điện lực Quảng Ngãi đã tổ chức nhiều hoạt động an sinh xã hội.",
-      "guid": "https://thanhnien.vn/nau-chao-cho-benh-nhan-ngheo-185908072.htm"
+      "guid": "https://thanhnien.vn/nau-chao-cho-benh-nhan-ngheo-185908072.htm",
+      "categoryName": "Bạn cần biết"
     }
   ]
 }

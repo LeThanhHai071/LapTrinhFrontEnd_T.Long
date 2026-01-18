@@ -3,87 +3,107 @@
   "categoryName": "Chào ngày mới",
   "fullSlug": "chao-ngay-moi",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:01:42.119Z",
+  "lastUpdate": "2026-01-18T04:50:58.797Z",
   "articles": [
+    {
+      "title": "Mệnh lệnh thần tốc từ trái tim",
+      "link": "https://thanhnien.vn/menh-lenh-than-toc-tu-trai-tim-185260117203625693.htm",
+      "pubDate": "Sun, 18 Jan 26 06:33:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/avata-chao-ngay-moi-17686628177561895857539.jpg",
+      "imgClass": "img-resize",
+      "description": "Chỉ 45 ngày sau hiệu lệnh thần tốc từ Thủ tướng Chính phủ, 'Chiến dịch Quang Trung' đã thắng lợi giòn giã, hồi sinh những xóm làng tan hoang sau bão lũ, mang đến nụ cười cho trẻ thơ, mái nhà cho hàng nghìn người dân miền Trung an cư đón tết.",
+      "guid": "https://thanhnien.vn/menh-lenh-than-toc-tu-trai-tim-185260117203625693.htm",
+      "categoryName": "Chào ngày mới"
+    },
+    {
+      "title": "Chìa khóa nâng cao năng lực công nghệ",
+      "link": "https://thanhnien.vn/chia-khoa-nang-cao-nang-luc-cong-nghe-185260116230352057.htm",
+      "pubDate": "Sat, 17 Jan 26 05:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/avata-chao-ngay-moi-17685793018931976363131.jpg",
+      "imgClass": "img-resize",
+      "description": "Dự kiến ngay trong tháng 1 này, TP.HCM sẽ trang bị trợ lý ảo ChatGPT cho lãnh đạo thành phố, các xã, phường, đặc khu. Với sự bùng nổ của ứng dụng trí tuệ nhân tạo, giải pháp vừa nêu là rất cần thiết, đặc biệt có ý nghĩa khi khối lượng công việc hành chính ngày càng lớn và yêu cầu về chuyển đổi số ngày càng cao.",
+      "guid": "https://thanhnien.vn/chia-khoa-nang-cao-nang-luc-cong-nghe-185260116230352057.htm",
+      "categoryName": "Chào ngày mới"
+    },
+    {
+      "title": "Nâng cao chất lượng đời sống người dân",
+      "link": "https://thanhnien.vn/nang-cao-chat-luong-doi-song-nguoi-dan-185260115223510233.htm",
+      "pubDate": "Fri, 16 Jan 26 05:07:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/avata-chao-ngay-moi-17684911798371850472106.jpg",
+      "imgClass": "img-resize",
+      "description": "Không chỉ đột phá hạ tầng, mở rộng liên kết vùng để bứt phá tăng trưởng, đồng thời thiết thực chào mừng Đại hội đại biểu toàn quốc lần thứ XIV của Đảng, việc đồng loạt khởi công 4 dự án lớn hôm qua còn khẳng định một TP.HCM quyết liệt, quyết tâm thực hiện chủ trương, chính sách của Đảng, Nhà nước để tiến bước vào kỷ nguyên tăng trưởng mới.",
+      "guid": "https://thanhnien.vn/nang-cao-chat-luong-doi-song-nguoi-dan-185260115223510233.htm",
+      "categoryName": "Chào ngày mới"
+    },
+    {
+      "title": "Cơ chế phi thường cho sự kiện phi thường",
+      "link": "https://thanhnien.vn/co-che-phi-thuong-cho-su-kien-phi-thuong-185260114222447658.htm",
+      "pubDate": "Thu, 15 Jan 26 05:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/chaongaymoi-17446494305782038190517-0-0-288-461-crop-17684043129732015441621.jpg",
+      "imgClass": "img-resize",
+      "description": "Không chỉ mang về nhiều tỉ USD, lịch sử gần 4 thập niên kể từ khi được thành lập đến nay cho thấy APEC đã biến nhiều thành phố bình thường trở thành biểu tượng khu vực. Phú Quốc đang đứng trước cơ hội lịch sử để ghi tên VN trên bản đồ du lịch thế giới nói riêng và vị thế trên trường quốc tế nói chung.",
+      "guid": "https://thanhnien.vn/co-che-phi-thuong-cho-su-kien-phi-thuong-185260114222447658.htm",
+      "categoryName": "Chào ngày mới"
+    },
+    {
+      "title": "Tối ưu khai thác dữ liệu",
+      "link": "https://thanhnien.vn/toi-uu-khai-thac-du-lieu-185260113205012282.htm",
+      "pubDate": "Wed, 14 Jan 26 04:40:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/avata-chao-ngay-moi-17683119655061692455457.jpg",
+      "imgClass": "img-resize",
+      "description": "Nếu như trước đây, dữ liệu được xem như thành phần phụ trong cả nền kinh tế, thì nay, cuộc cách mạng công nghệ đã mở ra quá trình số hóa nền kinh tế và dữ liệu đang ngày càng đóng vai trò quan trọng, thậm chí có thể nói là chìa khóa then chốt.",
+      "guid": "https://thanhnien.vn/toi-uu-khai-thac-du-lieu-185260113205012282.htm",
+      "categoryName": "Chào ngày mới"
+    },
+    {
+      "title": "Cải thiện sử dụng hiệu quả nguồn lực tại TP.HCM",
+      "link": "https://thanhnien.vn/cai-thien-su-dung-hieu-qua-nguon-luc-tai-tphcm-185260112232021396.htm",
+      "pubDate": "Tue, 13 Jan 26 05:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/avata-chao-ngay-moi-1768234786311340406192.jpg",
+      "imgClass": "img-resize",
+      "description": "Những điều chỉnh theo hướng trao thêm quyền và không gian quyết định cho TP.HCM trong Nghị quyết 98 đã được Quốc hội thông qua. Chiếc áo cơ chế, ít nhất là đến năm 2030, đã được tháo gỡ.",
+      "guid": "https://thanhnien.vn/cai-thien-su-dung-hieu-qua-nguon-luc-tai-tphcm-185260112232021396.htm",
+      "categoryName": "Chào ngày mới"
+    },
     {
       "title": "Không sợ đóng thuế, chỉ sợ kê sai",
       "link": "https://thanhnien.vn/khong-so-dong-thue-chi-so-ke-sai-185260111215518362.htm",
       "pubDate": "Mon, 12 Jan 26 05:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/chaongaymoi-1696194815381982709104-17681432700111929652942.jpg",
+      "imgClass": "img-resize",
       "description": "Đó là tâm lý của hầu hết các hộ kinh doanh trong khoảng chục ngày đầu tiên chuyển qua kê khai đóng thuế theo doanh thu thực tế.",
-      "guid": "https://thanhnien.vn/khong-so-dong-thue-chi-so-ke-sai-185260111215518362.htm"
+      "guid": "https://thanhnien.vn/khong-so-dong-thue-chi-so-ke-sai-185260111215518362.htm",
+      "categoryName": "Chào ngày mới"
     },
     {
       "title": "Con voi chui lọt lỗ kim",
       "link": "https://thanhnien.vn/con-voi-chui-lot-lo-kim-185260110223958835.htm",
       "pubDate": "Sun, 11 Jan 26 07:01:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/avata-chao-ngay-moi-1768059558636731184166.jpg",
+      "imgClass": "img-resize",
       "description": "Việc Công an Hải Phòng bắt giữ khẩn cấp Tổng giám đốc Công ty CP Đồ hộp Hạ Long cùng ba nhân viên quản lý chất lượng trong vụ 130 tấn thịt lợn nhiễm dịch tả châu Phi chiều 10.1 không chỉ là một vụ án hình sự nghiêm trọng mà còn là cái 'bạt tai giữa chợ' vào niềm tin vốn đã mong manh của người tiêu dùng VN với an toàn thực phẩm.",
-      "guid": "https://thanhnien.vn/con-voi-chui-lot-lo-kim-185260110223958835.htm"
+      "guid": "https://thanhnien.vn/con-voi-chui-lot-lo-kim-185260110223958835.htm",
+      "categoryName": "Chào ngày mới"
     },
     {
       "title": "Những trụ cột chính sách đột phá",
       "link": "https://thanhnien.vn/nhung-tru-cot-chinh-sach-dot-pha-18526010922124218.htm",
       "pubDate": "Sat, 10 Jan 26 05:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/avata-chao-ngay-moi-1767971386840582778773.jpg",
+      "imgClass": "img-resize",
       "description": "Vừa qua, Bộ Chính trị đã ban hành Nghị quyết số 79-NQ/TW về phát triển kinh tế nhà nước. Như vậy, trong vòng hơn 1 năm, tính từ tháng 12.2024 đến nay, Bộ Chính trị đã ban hành nhiều nghị quyết quan trọng:",
-      "guid": "https://thanhnien.vn/nhung-tru-cot-chinh-sach-dot-pha-18526010922124218.htm"
+      "guid": "https://thanhnien.vn/nhung-tru-cot-chinh-sach-dot-pha-18526010922124218.htm",
+      "categoryName": "Chào ngày mới"
     },
     {
       "title": "Phản biện là để đi tới",
       "link": "https://thanhnien.vn/phan-bien-la-de-di-toi-185260108230219787.htm",
       "pubDate": "Fri, 09 Jan 26 06:25:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/avata-chao-ngay-moi-17678876360851772212844.jpg",
+      "imgClass": "img-resize",
       "description": "Chỉ cần một thông tin nhỏ liên quan đến giáo dục xuất hiện, chẳng hạn như điều chỉnh chương trình, thay đổi sách giáo khoa, cách đánh giá học sinh hay một cải tiến thi cử là lại dấy lên nhiều tranh luận với dày đặc ý kiến phản biện.",
-      "guid": "https://thanhnien.vn/phan-bien-la-de-di-toi-185260108230219787.htm"
-    },
-    {
-      "title": "Dừng tàu, dừng sự dễ dãi với nguy hiểm",
-      "link": "https://thanhnien.vn/dung-tau-dung-su-de-dai-voi-nguy-hiem-185260107215320954.htm",
-      "pubDate": "Thu, 08 Jan 26 05:25:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/chaongaymoi-1696194815381982709104-17677975696701725750885.jpg",
-      "description": "Việc UBND TP.Hà Nội vừa có văn bản gửi Bộ Xây dựng đề nghị dừng chạy tàu qua khu vực 'phố cà phê đường tàu' đoạn từ ga Hà Nội đến ga Gia Lâm không chỉ là một quyết định quản lý hạ tầng giao thông, mà đó còn một thông điệp 'đô thị văn minh không đánh đổi an toàn cộng đồng lấy lợi ích kinh doanh hay du lịch trải nghiệm'.",
-      "guid": "https://thanhnien.vn/dung-tau-dung-su-de-dai-voi-nguy-hiem-185260107215320954.htm"
-    },
-    {
-      "title": "Giảm chi phí, bớt thủ tục đất đai",
-      "link": "https://thanhnien.vn/giam-chi-phi-bot-thu-tuc-dat-dai-18526010622384426.htm",
-      "pubDate": "Wed, 07 Jan 26 06:14:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/6/avata-chao-ngay-moi-17677138170531185005386.jpg",
-      "description": "Từ năm 2026, thuế đất, thủ tục xây dựng, quy định tách hợp thửa… được giảm nghĩa vụ tài chính và thuận tiện hơn rất nhiều cho người dân. Thế nhưng, các chính sách này vẫn còn 'khoảng trống' chưa được lấp đầy so với thực tiễn cuộc sống.",
-      "guid": "https://thanhnien.vn/giam-chi-phi-bot-thu-tuc-dat-dai-18526010622384426.htm"
-    },
-    {
-      "title": "Phát huy bản lĩnh doanh nghiệp Việt",
-      "link": "https://thanhnien.vn/phat-huy-ban-linh-doanh-nghiep-viet-185260105211306681.htm",
-      "pubDate": "Tue, 06 Jan 26 05:34:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/5/chao-ngay-moi-17676220953592050518792-0-0-259-414-crop-1767622098112955807431.jpg",
-      "description": "Bất chấp thuế đối ứng và một loạt rào cản kỹ thuật ở thị trường thế giới, các doanh nghiệp Việt Nam đã đưa kim ngạch xuất khẩu gỗ, rau quả, thủy sản... không chỉ cán đích mà còn vượt mục tiêu đề ra.",
-      "guid": "https://thanhnien.vn/phat-huy-ban-linh-doanh-nghiep-viet-185260105211306681.htm"
-    },
-    {
-      "title": "Kỷ nguyên mới, vận hội mới",
-      "link": "https://thanhnien.vn/ky-nguyen-moi-van-hoi-moi-185260104224546965.htm",
-      "pubDate": "Mon, 05 Jan 26 05:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/4/avata-chao-ngay-moi-17675414215761237341861.jpg",
-      "description": "Hôm nay là thứ hai đầu tiên của 2026 - năm mở đầu cho kỷ nguyên mới, kỷ nguyên Việt Nam thực hiện mục tiêu tăng tốc để tiến đến phát triển thịnh vượng cho cả dân tộc vào năm 2045.",
-      "guid": "https://thanhnien.vn/ky-nguyen-moi-van-hoi-moi-185260104224546965.htm"
-    },
-    {
-      "title": "Giữ mãi ngọn lửa Hào hiệp - Tử tế - Nhân văn - Tin cậy",
-      "link": "https://thanhnien.vn/giu-mai-ngon-lua-hao-hiep-tu-te-nhan-van-tin-cay-185260102093211613.htm",
-      "pubDate": "Fri, 02 Jan 26 09:47:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/2/lts-bao-thanh-nien-40-nam-1767320763512136621724-0-0-346-554-crop-1767321568115713054158.jpg",
-      "description": "Năm 1985, đúng một thập niên sau ngày đất nước hoàn toàn thống nhất, nền báo chí cách mạng VN đang ở thời khắc bản lề, chuẩn bị cho cuộc chuyển mình lịch sử cùng cả dân tộc trong Đổi mới.",
-      "guid": "https://thanhnien.vn/giu-mai-ngon-lua-hao-hiep-tu-te-nhan-van-tin-cay-185260102093211613.htm"
-    },
-    {
-      "title": "Định hình nền tảng cho kỷ nguyên vươn mình",
-      "link": "https://thanhnien.vn/dinh-hinh-nen-tang-cho-ky-nguyen-vuon-minh-185251231231109387.htm",
-      "pubDate": "Thu, 01 Jan 26 05:11:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/31/chao-ngay-moi-17671974019661963838663-0-0-259-414-crop-1767197404697472065196.jpg",
-      "description": "Nhìn lại nhiệm kỳ Đại hội XIII của Đảng, điều đọng lại không chỉ là những con số tăng trưởng hay thứ hạng của nền kinh tế, mà là cách VN đã đi qua một giai đoạn \"gió ngược\" hiếm thấy.",
-      "guid": "https://thanhnien.vn/dinh-hinh-nen-tang-cho-ky-nguyen-vuon-minh-185251231231109387.htm"
+      "guid": "https://thanhnien.vn/phan-bien-la-de-di-toi-185260108230219787.htm",
+      "categoryName": "Chào ngày mới"
     }
   ]
 }

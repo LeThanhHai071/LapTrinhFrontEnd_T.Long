@@ -3,87 +3,107 @@
   "categoryName": "Miền Bắc",
   "fullSlug": "ban-can-biet-mien-bac",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:06:00.134Z",
+  "lastUpdate": "2026-01-18T04:54:38.006Z",
   "articles": [
     {
       "title": "Kiểm soát 'loạn' giá thiết bị y tế: Đơn vị phân phối phải kê khai giá gốc",
       "link": "https://thanhnien.vn/kiem-soat-loan-gia-thiet-bi-y-te-don-vi-phan-phoi-phai-ke-khai-gia-goc-1851399674.htm",
       "pubDate": "Tue, 09 Nov 21 21:21:50 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/lienchau/2021_11_09/tbyt-tno-8065.gif",
+      "imgClass": "img-resize",
       "description": "Cùng với quy định cắt giảm thủ tục cấp phép thiết bị y tế, lần đầu tiên trong nước có quy định chủ sở hữu, đơn vị phân phối phải kê khai giá vốn nhập khẩu trang thiết bị y tế.",
-      "guid": "https://thanhnien.vn/kiem-soat-loan-gia-thiet-bi-y-te-don-vi-phan-phoi-phai-ke-khai-gia-goc-1851399674.htm"
+      "guid": "https://thanhnien.vn/kiem-soat-loan-gia-thiet-bi-y-te-don-vi-phan-phoi-phai-ke-khai-gia-goc-1851399674.htm",
+      "categoryName": "Thời sự"
     },
     {
       "title": "Mặt nạ, sản phẩm làm đẹp không thể thiếu của phụ nữ",
       "link": "https://thanhnien.vn/mat-na-san-pham-lam-dep-khong-the-thieu-cua-phu-nu-185957191.htm",
       "pubDate": "Wed, 20 May 20 09:30:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/minhchuong.qc/2020_05_20/titione/1_HUIW.gif",
+      "imgClass": "img-resize",
       "description": "Mặt nạ dưỡng da từ lâu đã được coi là liệu pháp chăm sóc da hiệu quả cho chị em phụ nữ.",
-      "guid": "https://thanhnien.vn/mat-na-san-pham-lam-dep-khong-the-thieu-cua-phu-nu-185957191.htm"
+      "guid": "https://thanhnien.vn/mat-na-san-pham-lam-dep-khong-the-thieu-cua-phu-nu-185957191.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Thương nhân tại vùng khó khăn muốn vay ưu đãi cần 20% vốn tự có",
       "link": "https://thanhnien.vn/thuong-nhan-tai-vung-kho-khan-muon-vay-uu-dai-can-20-von-tu-co-185952948.htm",
       "pubDate": "Wed, 06 May 20 08:00:00 +0700",
       "imageURL": "https://static.thanhnien.com.vn/thanhnien.vn/image/no-thumb.jpg",
+      "imgClass": "img-resize",
       "description": "Ngân hàng Chính sách xã hội (NHCSXH) đang triển khai chương trình cho vay thương nhân hoạt động thương mại tại vùng khó khăn.",
-      "guid": "https://thanhnien.vn/thuong-nhan-tai-vung-kho-khan-muon-vay-uu-dai-can-20-von-tu-co-185952948.htm"
+      "guid": "https://thanhnien.vn/thuong-nhan-tai-vung-kho-khan-muon-vay-uu-dai-can-20-von-tu-co-185952948.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Pacific Land Việt Nam tặng 3.000 suất quà cho người khó khăn vì Covid-19",
       "link": "https://thanhnien.vn/pacific-land-viet-nam-tang-3000-suat-qua-cho-nguoi-kho-khan-vi-covid-19-185950522.htm",
       "pubDate": "Mon, 27 Apr 20 09:36:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/minhchuong.qc/27-4/pacificland/1_QRHV.png",
+      "imgClass": "img-resize",
       "description": "Gần 3.000 suất quà đã được Công ty Pacific Land Việt Nam trao tới gia đình có công với cách mạng, người yếu thế nhằm chia sẻ khó khăn do ảnh hưởng của Covid-19.",
-      "guid": "https://thanhnien.vn/pacific-land-viet-nam-tang-3000-suat-qua-cho-nguoi-kho-khan-vi-covid-19-185950522.htm"
+      "guid": "https://thanhnien.vn/pacific-land-viet-nam-tang-3000-suat-qua-cho-nguoi-kho-khan-vi-covid-19-185950522.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Cơ hội đầu tư bất động sản",
       "link": "https://thanhnien.vn/co-hoi-dau-tu-bat-dong-san-185938810.htm",
       "pubDate": "Wed, 25 Mar 20 08:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/hongquan.qc/2020_03_24/pr253_LIKZ.jpg",
+      "imgClass": "img-resize",
       "description": "Chọn đầu tư vào đâu là hợp lý giữa mùa dịch Covid-19, khi bất động sản vẫn còn nhiều cơ hội mang lại lợi nhuận cho nhà đầu tư?",
-      "guid": "https://thanhnien.vn/co-hoi-dau-tu-bat-dong-san-185938810.htm"
+      "guid": "https://thanhnien.vn/co-hoi-dau-tu-bat-dong-san-185938810.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Tiết kiệm hơn 16.000kWh từ hệ thống điện mặt trời",
       "link": "https://thanhnien.vn/tiet-kiem-hon-16000kwh-tu-he-thong-dien-mat-troi-185881581.htm",
       "pubDate": "Fri, 06 Sep 19 15:38:41 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/minhchuong.qc/2019_09_06/EVN%20Quang%20Ngai%201/1tietkiemhon16000kwh_XZEL.jpg",
+      "imgClass": "img-resize",
       "description": "Điện lực (PC) Phú Yên lắp đặt và vận hành hệ thống điện mặt trời áp mái tại 7 trạm biến áp 110kV trên địa bàn từ tháng 7.2019.",
-      "guid": "https://thanhnien.vn/tiet-kiem-hon-16000kwh-tu-he-thong-dien-mat-troi-185881581.htm"
+      "guid": "https://thanhnien.vn/tiet-kiem-hon-16000kwh-tu-he-thong-dien-mat-troi-185881581.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Tặng vở và xe đạp cho học sinh",
       "link": "https://thanhnien.vn/tang-vo-va-xe-dap-cho-hoc-sinh-185881578.htm",
       "pubDate": "Fri, 06 Sep 19 15:38:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/minhchuong.qc/2019_09_06/EVN%20Quang%20Ngai%202/225suatqua_RCGN.jpg",
+      "imgClass": "img-resize",
       "description": "Ngày 5.9, Công đoàn Điện lực Phú Yên đã trao tặng 500 quyển vở cho 25 học sinh có hoàn cảnh khó khăn tại Trường THCS Nguyễn Du (ở xã Xuân Lâm, TX.Sông Cầu).",
-      "guid": "https://thanhnien.vn/tang-vo-va-xe-dap-cho-hoc-sinh-185881578.htm"
+      "guid": "https://thanhnien.vn/tang-vo-va-xe-dap-cho-hoc-sinh-185881578.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Điện Quang được cấp chứng nhận Doanh nghiệp Khoa học và Công nghệ",
       "link": "https://thanhnien.vn/dien-quang-duoc-cap-chung-nhan-doanh-nghiep-khoa-hoc-va-cong-nghe-185881271.htm",
       "pubDate": "Thu, 05 Sep 19 19:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/minhchuong.qc/2019_09_05/Dien%20Quang/hinh1_FGFB.jpg",
+      "imgClass": "img-resize",
       "description": "Ngày 5.9.2019, Công ty CP Bóng đèn Điện Quang đã được Sở KH&CN TP.HCM trao giấy chứng nhận Doanh nghiệp KH&CN.",
-      "guid": "https://thanhnien.vn/dien-quang-duoc-cap-chung-nhan-doanh-nghiep-khoa-hoc-va-cong-nghe-185881271.htm"
+      "guid": "https://thanhnien.vn/dien-quang-duoc-cap-chung-nhan-doanh-nghiep-khoa-hoc-va-cong-nghe-185881271.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Honda Việt Nam tặng mũ bảo hiểm cho học sinh lớp một nhân ngày khai trường",
       "link": "https://thanhnien.vn/honda-viet-nam-tang-mu-bao-hiem-cho-hoc-sinh-lop-mot-nhan-ngay-khai-truong-185881266.htm",
       "pubDate": "Thu, 05 Sep 19 16:38:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/minhchuong.qc/2019_09_05/Honda/cnt_0580_POTY.jpg",
+      "imgClass": "img-resize",
       "description": "Sáng 5.9, trong dịp lễ khai giảng năm học 2019-2020, đại diện do Honda Việt Nam ủy nhiệm (Công ty TNHH Du lịch và Thương mại Sơn Tùng) đã tặng 270 mũ bảo hiểm cho học sinh cấp 1 Trường tiểu học thị trấn Trạm Trôi.",
-      "guid": "https://thanhnien.vn/honda-viet-nam-tang-mu-bao-hiem-cho-hoc-sinh-lop-mot-nhan-ngay-khai-truong-185881266.htm"
+      "guid": "https://thanhnien.vn/honda-viet-nam-tang-mu-bao-hiem-cho-hoc-sinh-lop-mot-nhan-ngay-khai-truong-185881266.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Fucoidan trong rong biển hỗ trợ thải độc gan",
       "link": "https://thanhnien.vn/fucoidan-trong-rong-bien-ho-tro-thai-doc-gan-185880983.htm",
       "pubDate": "Wed, 04 Sep 19 17:46:03 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/minhchuong.qc/2019_09_04/Fucoidan/2_AVEI.png",
+      "imgClass": "img-resize",
       "description": "Hoạt chất góp phần đẩy mạnh quá trình tự chết của tế bào ung thư gan, hỗ trợ làm chậm quá trình tự diệt của tế bào gan khoẻ mạnh.",
-      "guid": "https://thanhnien.vn/fucoidan-trong-rong-bien-ho-tro-thai-doc-gan-185880983.htm"
+      "guid": "https://thanhnien.vn/fucoidan-trong-rong-bien-ho-tro-thai-doc-gan-185880983.htm",
+      "categoryName": "Bạn cần biết"
     }
   ]
 }

@@ -3,87 +3,107 @@
   "categoryName": "Blockchain",
   "fullSlug": "cong-nghe-blockchain",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:05:02.159Z",
+  "lastUpdate": "2026-01-18T04:53:36.152Z",
   "articles": [
+    {
+      "title": "Giá Bitcoin hôm nay 18.1.2026: Kết thúc tuần giao dịch bùng nổ",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1812026-ket-thuc-tuan-giao-dich-bung-no-185260118085039468.htm",
+      "pubDate": "Sun, 18 Jan 26 09:40:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/18/gia-bitcoingia-vangthanh-nien-1768698656658652167466-55-0-1555-2400-crop-17687013180271676118022.jpg",
+      "imgClass": "img-resize",
+      "description": "Giá Bitcoin hôm nay được giao dịch quanh mốc 95.178 USD, thị trường gần như đi ngang sau tuần giao dịch nhiều biến động.",
+      "guid": "https://thanhnien.vn/gia-bitcoin-hom-nay-1812026-ket-thuc-tuan-giao-dich-bung-no-185260118085039468.htm",
+      "categoryName": "Blockchain"
+    },
+    {
+      "title": "Giá Bitcoin hôm nay 17.1.2026: BTC giảm, nhà đầu tư bán tháo",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1712026-btc-giam-nha-dau-tu-ban-thao-185260117082244457.htm",
+      "pubDate": "Sat, 17 Jan 26 09:38:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/bitcoin-00002-17686131683501354079415-736-1202-2750-4424-crop-1768613342370480440670.jpg",
+      "imgClass": "img-resize",
+      "description": "Giá Bitcoin hôm nay tiếp tục rung lắc mạnh khi nhà đầu tư bán tháo trong bối cảnh cả thị trường chứng khoán lẫn kim loại quý đều giảm, ảnh hưởng đến tâm lý chung.",
+      "guid": "https://thanhnien.vn/gia-bitcoin-hom-nay-1712026-btc-giam-nha-dau-tu-ban-thao-185260117082244457.htm",
+      "categoryName": "Công nghệ"
+    },
+    {
+      "title": "Giá Bitcoin hôm nay 16.1.2026: BTC đảo chiều giảm giá",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1612026-btc-dao-chieu-giam-gia-185260116080235347.htm",
+      "pubDate": "Fri, 16 Jan 26 09:18:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/gia-bitcoin-hom-nay-176852547637990884124-18-0-1291-2036-crop-1768525491663410140145.png",
+      "imgClass": "img-resize",
+      "description": "Giá Bitcoin hôm nay không duy trì được đà tăng, quay đầu giảm về vùng 95.000 USD khi các nhà đầu tư nhỏ lẻ vẫn đứng ngoài thị trường.",
+      "guid": "https://thanhnien.vn/gia-bitcoin-hom-nay-1612026-btc-dao-chieu-giam-gia-185260116080235347.htm",
+      "categoryName": "Blockchain"
+    },
+    {
+      "title": "Giá Bitcoin hôm nay 15.1.2026: Tăng mạnh lên sát ngưỡng 98.000 USD",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1512026-tang-manh-len-sat-nguong-98000-usd-185260115155311324.htm",
+      "pubDate": "Thu, 15 Jan 26 17:19:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/bitcoin-00019-1768469868292241604895-750-1153-3078-4877-crop-1768469894917465212442.jpg",
+      "imgClass": "img-resize",
+      "description": "Giá Bitcoin hôm nay tiếp tục tăng mạnh lên sát ngưỡng 98.000 USD, trong khi đó người dùng Việt Nam đang theo dõi thông tin về sàn giao dịch đầu tiên được cấp phép chính thức.",
+      "guid": "https://thanhnien.vn/gia-bitcoin-hom-nay-1512026-tang-manh-len-sat-nguong-98000-usd-185260115155311324.htm",
+      "categoryName": "Blockchain"
+    },
+    {
+      "title": "Cần chuẩn bị gì khi đầu tư tài sản số?",
+      "link": "https://thanhnien.vn/can-chuan-bi-gi-khi-dau-tu-tai-san-so-185260115141710964.htm",
+      "pubDate": "Thu, 15 Jan 26 16:29:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/91116d2e-31db-4959-9fa7-4ada129893da-17684671827271992052045-0-138-1502-2541-crop-1768467307902808106995.jpeg",
+      "imgClass": "img-resize",
+      "description": "Tài sản số là thị trường mới mẻ, hấp dẫn nhưng cũng chứa nhiều rủi ro cho các nhà đầu tư khi dễ bị cuốn theo tâm lý đám đông, cũng như các vấn đề tiềm ẩn về an ninh, an toàn dữ liệu cá nhân.",
+      "guid": "https://thanhnien.vn/can-chuan-bi-gi-khi-dau-tu-tai-san-so-185260115141710964.htm",
+      "categoryName": "Blockchain"
+    },
+    {
+      "title": "Giá Bitcoin hôm nay 14.1.2026: BTC vụt tăng nhưng người chơi mất hơn nửa tỉ USD",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1412026-btc-vut-tang-nhung-nguoi-choi-mat-hon-nua-ti-usd-185260114104807091.htm",
+      "pubDate": "Wed, 14 Jan 26 12:45:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/screenshot-2026-01-14-at-114543-17683659579321876681417-0-0-1209-1934-crop-17683659832191182879716.png",
+      "imgClass": "img-resize",
+      "description": "Giá Bitcoin hôm nay bất ngờ tăng mạnh lên 96.000 USD khiến 684 triệu USD của những người đặt cược vào đà giảm của tiền số bị thanh lý.",
+      "guid": "https://thanhnien.vn/gia-bitcoin-hom-nay-1412026-btc-vut-tang-nhung-nguoi-choi-mat-hon-nua-ti-usd-185260114104807091.htm",
+      "categoryName": "Blockchain"
+    },
+    {
+      "title": "Giá Bitcoin hôm nay 13.1.2026: BTC vụt tăng khi ông Trump gây áp lực lên Iran",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1312026-btc-vut-tang-khi-ong-trump-gay-ap-luc-len-iran-185260113073717783.htm",
+      "pubDate": "Tue, 13 Jan 26 08:31:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/bitcoin-donald-trump-thanh-nien-1768265121555979636284-0-0-1500-2400-crop-17682651275501034933007.jpg",
+      "imgClass": "img-resize",
+      "description": "Ngay khi Tổng thống Mỹ Donald Trump tuyên bố áp thuế 25% lên bất kỳ quốc gia nào giao thương với Iran, giá Bitcoin đã tăng vọt lên 92.000 USD sau đó điều chỉnh mạnh.",
+      "guid": "https://thanhnien.vn/gia-bitcoin-hom-nay-1312026-btc-vut-tang-khi-ong-trump-gay-ap-luc-len-iran-185260113073717783.htm",
+      "categoryName": "Blockchain"
+    },
     {
       "title": "Giá Bitcoin hôm nay 12.1.2026: BTC đối mặt mức sống còn 65.000 USD",
       "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1212026-btc-doi-mat-muc-song-con-65000-usd-185260112080325621.htm",
       "pubDate": "Mon, 12 Jan 26 09:54:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/gia-bitcoin-hom-nay-121-17681794554321108727125-166-223-1458-2290-crop-1768179737074737144156.jpg",
+      "imgClass": "img-resize",
       "description": "Bitcoin vẫn chưa thể phục hồi, các nhà phân tích cho rằng thị trường có thể bước vào \"mùa đông tiền mã hóa\" với đáy có thể chạm 65.000 USD.",
-      "guid": "https://thanhnien.vn/gia-bitcoin-hom-nay-1212026-btc-doi-mat-muc-song-con-65000-usd-185260112080325621.htm"
+      "guid": "https://thanhnien.vn/gia-bitcoin-hom-nay-1212026-btc-doi-mat-muc-song-con-65000-usd-185260112080325621.htm",
+      "categoryName": "Blockchain"
     },
     {
       "title": "Giá Bitcoin hôm nay 11.1.2026: BTC đảo chiều, các quỹ ETF Bitcoin mất hàng tỉ USD",
       "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1112026-btc-dao-chieu-cac-quy-etf-bitcoin-mat-hang-ti-usd-185260111093125404.htm",
       "pubDate": "Sun, 11 Jan 26 10:33:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/bitcoin-giam-gia-17680986184621007844396-64-0-1024-1536-crop-1768098625204626577144.png",
+      "imgClass": "img-resize",
       "description": "Bitcoin tiếp tục ngày thứ tư giảm giá khi \"cá voi\" đặt lệnh bán tháo, các quỹ ETF Bitcoin cũng kết thúc một tuần giao dịch tồi tệ với hàng tỉ USD bị rút ra.",
-      "guid": "https://thanhnien.vn/gia-bitcoin-hom-nay-1112026-btc-dao-chieu-cac-quy-etf-bitcoin-mat-hang-ti-usd-185260111093125404.htm"
+      "guid": "https://thanhnien.vn/gia-bitcoin-hom-nay-1112026-btc-dao-chieu-cac-quy-etf-bitcoin-mat-hang-ti-usd-185260111093125404.htm",
+      "categoryName": "Blockchain"
     },
     {
       "title": "Từ bất động sản đến Bitcoin: Sự dịch chuyển kỳ lạ của giới siêu giàu Trung Quốc",
       "link": "https://thanhnien.vn/tu-bat-dong-san-den-bitcoin-su-dich-chuyen-ky-la-cua-gioi-sieu-giau-trung-quoc-185260109145042725.htm",
       "pubDate": "Sat, 10 Jan 26 12:07:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/edit-img2131-17679516309901459035560-54-0-967-1460-crop-1767952157669832679035.jpeg",
+      "imgClass": "img-resize",
       "description": "Trên Weibo và Xiaohongshu, các cuộc thảo luận công khai, so sánh căn hộ hạng sang ở Vịnh Thâm Quyến có giá 60 - 66 triệu nhân dân tệ (8,3 - 9,1 triệu USD) với Bitcoin ngày càng được giới siêu giàu ở Trung Quốc thảo luận sôi nổi.",
-      "guid": "https://thanhnien.vn/tu-bat-dong-san-den-bitcoin-su-dich-chuyen-ky-la-cua-gioi-sieu-giau-trung-quoc-185260109145042725.htm"
-    },
-    {
-      "title": "Giá Bitcoin hôm nay 10.1.2026: Rung lắc dữ dội",
-      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1012026-rung-lac-du-doi-185260110072957189.htm",
-      "pubDate": "Sat, 10 Jan 26 07:42:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/gia-bitcoin-hom-nay-ngay-91-1768005381222331481562-0-0-960-1536-crop-1768005388367423165652.png",
-      "description": "Giá Bitcoin hôm nay được giao dịch quanh mốc 90.000 USD sau khi liên tục điều chỉnh mạnh trong bối cảnh dòng tiền chảy khỏi các ETF Bitcoin, cổ phiếu liên quan đến tài sản mã hóa giảm.",
-      "guid": "https://thanhnien.vn/gia-bitcoin-hom-nay-1012026-rung-lac-du-doi-185260110072957189.htm"
-    },
-    {
-      "title": "Giá Bitcoin hôm nay 9.1.2026: BTC phục hồi sau khi thủng đáy 90.000 USD",
-      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-912026-btc-phuc-hoi-sau-khi-thung-day-90000-usd-185260109062521722.htm",
-      "pubDate": "Fri, 09 Jan 26 07:24:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/gia-bitcoin-hom-nay-176791491837863972365-0-22-630-1030-crop-17679149262951934720863.jpeg",
-      "description": "Giá Bitcoin hôm nay tăng nhẹ, giao dịch quanh mốc 91.000 USD khi kỳ vọng về việc Cục Dự trữ liên bang Mỹ (Fed) cắt giảm lãi suất gây áp lực lên thị trường.",
-      "guid": "https://thanhnien.vn/gia-bitcoin-hom-nay-912026-btc-phuc-hoi-sau-khi-thung-day-90000-usd-185260109062521722.htm"
-    },
-    {
-      "title": "Giá Bitcoin hôm nay 8.1.2026: Tiếp tục lao dốc",
-      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-812026-tiep-tuc-lao-doc-giam-gia-sau-18526010807294272.htm",
-      "pubDate": "Thu, 08 Jan 26 09:06:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/gia-bitcoin-hom-nay-81-1767833118948341590928-68-0-1342-2038-crop-17678331273051942029820.png",
-      "description": "Giá Bitcoin hôm nay giảm mạnh xuống còn 91.000 USD, đánh dấu ngày thứ ba liên tiếp giảm giá bất chấp những tín hiệu tích cực từ thị trường.",
-      "guid": "https://thanhnien.vn/gia-bitcoin-hom-nay-812026-tiep-tuc-lao-doc-giam-gia-sau-18526010807294272.htm"
-    },
-    {
-      "title": "Trung Quốc tiếp tục siết chặt tài sản mã hóa",
-      "link": "https://thanhnien.vn/trung-quoc-tiep-tuc-siet-chat-tai-san-ma-hoa-185260107112405783.htm",
-      "pubDate": "Wed, 07 Jan 26 12:09:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/screenshot-2026-01-07-at-112249-1767759787967898350198-24-0-984-1536-crop-17677600205411679354126.png",
-      "description": "Hiệp hội Quản lý Tài sản Trung Quốc liệt kê việc mã hóa tài sản thực (Real World Asset tokenization - RWA), stablecoin, \"aircoin\" và khai thác tiền điện tử là những \"hoạt động bất hợp pháp\".",
-      "guid": "https://thanhnien.vn/trung-quoc-tiep-tuc-siet-chat-tai-san-ma-hoa-185260107112405783.htm"
-    },
-    {
-      "title": "Giá Bitcoin hôm nay 7.1.2026: BTC sập, Việt Nam thí điểm tài sản mã hóa",
-      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-712026-btc-sap-viet-nam-thi-diem-tai-san-ma-hoa-185260107072056022.htm",
-      "pubDate": "Wed, 07 Jan 26 09:06:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/bitcoin-00021-17677453137911139614780-207-287-1372-2151-crop-1767745729671230632885.jpg",
-      "description": "Giá Bitcoin bất ngờ sập mạnh từ 94.000 USD về 91.000 USD do lượng người bán tháo tăng, chặn đứng đà tăng của Bitcoin từ đầu năm đến nay.",
-      "guid": "https://thanhnien.vn/gia-bitcoin-hom-nay-712026-btc-sap-viet-nam-thi-diem-tai-san-ma-hoa-185260107072056022.htm"
-    },
-    {
-      "title": "Giá Bitcoin hôm nay 6.1.2026: Tiếp tục tăng mạnh bất chấp tín hiệu rủi ro",
-      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-612026-tiep-tuc-tang-manh-bat-chap-tin-hieu-rui-ro-185260106072811501.htm",
-      "pubDate": "Tue, 06 Jan 26 09:23:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/6/gia-bitcoin-hom-naythanh-nien-176765749168816624258-76-0-1576-2400-crop-17676603120711500905183.jpg",
-      "description": "Giá Bitcoin hôm nay đã tăng mạnh, tiến sát ngưỡng 95.000 USD. Nhiều chuyên gia dự báo giá Bitcoin có thể sớm đạt mốc 100.000 USD, bất chấp các tín hiệu rủi ro.",
-      "guid": "https://thanhnien.vn/gia-bitcoin-hom-nay-612026-tiep-tuc-tang-manh-bat-chap-tin-hieu-rui-ro-185260106072811501.htm"
-    },
-    {
-      "title": "Giá Bitcoin hôm nay 5.1.2026: Vì sao BTC tăng mạnh sau khi tổng thống Venezuela bị bắt?",
-      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-512026-vi-sao-btc-tang-manh-sau-khi-tong-thong-venezuela-bi-bat-185260105104529166.htm",
-      "pubDate": "Mon, 05 Jan 26 11:09:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/5/venezuela-bitcoin-1767585424258925906956-88-0-1361-2036-crop-1767585433049103059489.png",
-      "description": "Giá Bitcoin hôm nay bật tăng lên trên 93.000 USD khi thị trường phản ứng với vụ tấn công chớp nhoáng của Mỹ vào Venezuela và tin đồn về kho dự trữ Bitcoin khổng lồ của quốc gia này được tiết lộ.",
-      "guid": "https://thanhnien.vn/gia-bitcoin-hom-nay-512026-vi-sao-btc-tang-manh-sau-khi-tong-thong-venezuela-bi-bat-185260105104529166.htm"
+      "guid": "https://thanhnien.vn/tu-bat-dong-san-den-bitcoin-su-dich-chuyen-ky-la-cua-gioi-sieu-giau-trung-quoc-185260109145042725.htm",
+      "categoryName": "Blockchain"
     }
   ]
 }

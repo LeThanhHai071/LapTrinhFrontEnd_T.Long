@@ -2,6 +2,7 @@ const Parser = require("rss-parser");
 const cheerio = require("cheerio");
 const fs = require("fs").promises;
 const path = require("path");
+const probe = require("probe-image-size");
 
 const parser = new Parser();
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
@@ -11,12 +12,25 @@ const DEFAULT_ARTICLE_LIMIT = 10;
 const SPECIAL_ARTICLE_LIMIT = 30;
 const PRIORITY_SLUGS = ["home", "thoi-su", "the-gioi", "kinh-te"];
 
-function parseDescription(html) {
-  if (!html) return { thumbnail: null, summary: "" };
+async function parseDescription(html) {
+  if (!html) return { thumbnail: null, summary: "", imgClass: "img-resize" };
   const $ = cheerio.load(html);
   const thumbnail = $("img").attr("src") || null;
   const summary = $.text().trim();
-  return { thumbnail, summary };
+  let imgClass = "img-resize";
+
+  if (thumbnail) {
+    try {
+      const result = await probe(thumbnail);
+
+      if (result.height >= result.width) {
+        imgClass = "img-square";
+      }
+    } catch (error) {
+      console.log(`parseDescription is error: ${error.message}`);
+    }
+  }
+  return { thumbnail, summary, imgClass };
 }
 
 async function processCategory(cat, retries = 3) {
@@ -27,7 +41,7 @@ async function processCategory(cat, retries = 3) {
     : DEFAULT_ARTICLE_LIMIT;
 
   console.log(
-    `[Limit: ${currentLimit}] Đang lấy tin: ${cat.name} (${cat.fullSlug})`
+    `[Limit: ${currentLimit}] Đang lấy tin: ${cat.name} (${cat.fullSlug})`,
   );
 
   let success = false;
@@ -38,19 +52,22 @@ async function processCategory(cat, retries = 3) {
       const feed = await parser.parseURL(cat.rssUrl);
       const limitedItems = feed.items.slice(0, currentLimit);
 
-      const articles = limitedItems.map((item) => {
-        const { thumbnail, summary } = parseDescription(
-          item.description || item.content || ""
-        );
-        return {
-          title: cheerio.load(item.title).text(),
-          link: item.link,
-          pubDate: item.pubDate,
-          imageURL: thumbnail,
-          description: summary,
-          guid: item.guid,
-        };
-      });
+      const articles = await Promise.all(
+        limitedItems.map(async (item) => {
+          const { thumbnail, summary, imgClass } = await parseDescription(
+            item.description || item.content || "",
+          );
+          return {
+            title: cheerio.load(item.title).text(),
+            link: item.link,
+            pubDate: item.pubDate,
+            imageURL: thumbnail,
+            imgClass: imgClass,
+            description: summary,
+            guid: item.guid,
+          };
+        })
+      );
 
       // Cấu trúc file JSON chuẩn cho API
       const output = {
@@ -65,7 +82,7 @@ async function processCategory(cat, retries = 3) {
       // Lưu file theo fullSlug để KHÔNG bị trùng (xe-video.json vs video.json)
       await fs.writeFile(
         path.join(DATA_DIR, `${cat.fullSlug}.json`),
-        JSON.stringify(output, null, 2)
+        JSON.stringify(output, null, 2),
       );
 
       console.log(`[Lần ${attempt + 1}] Thành công: ${articles.length} bài.`);
@@ -91,7 +108,7 @@ async function processCategory(cat, retries = 3) {
     const limitedChildren = cat.children.slice(0, 5);
     if (cat.children.length > 5) {
       console.log(
-        `Thông báo: Mục "${cat.name}" có ${cat.children.length} con, chỉ crawl 5 con đầu tiên.`
+        `Thông báo: Mục "${cat.name}" có ${cat.children.length} con, chỉ crawl 5 con đầu tiên.`,
       );
     }
     for (const child of limitedChildren) {
@@ -103,9 +120,7 @@ async function processCategory(cat, retries = 3) {
 async function crawlCategoriesJSON() {
   try {
     await fs.mkdir(DATA_DIR, { recursive: true });
-    const categories = JSON.parse(
-      await fs.readFile(CATEGORY_PATH, "utf-8")
-    );
+    const categories = JSON.parse(await fs.readFile(CATEGORY_PATH, "utf-8"));
 
     for (const cat of categories) {
       await processCategory(cat);

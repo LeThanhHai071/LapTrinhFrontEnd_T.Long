@@ -3,31 +3,45 @@ import { Link } from "react-router-dom";
 
 const HomeFocusSub = ({ latestNews }) => {
   const getArticleId = (link) => {
-    if (!link) return Math.random(); 
+    if (!link) return Math.random();
     const match = link.match(/-(\d+)\.htm$/);
-    return match ? match[1] : link; 
+    return match ? match[1] : link;
   };
   return (
-    <aside className="home-sidebar">
-      <div className="sidebar-box">
-        <div className="sidebar-header">
-          <h2 className="sidebar-title">Tin mới</h2>
-        </div>
-        <ul className="sidebar-list">
-          {latestNews &&
-            latestNews.map((item) => (
-              <li key={getArticleId(item.link)} className="sidebar-item">
-                <Link to={`/article/${getArticleId(item.link)}`} className="sidebar-link">
-                  {item.title}
-                </Link>
-              </li>
-            ))}
-        </ul>
-        <div className="sidebar-footer">
-          <button className="btn-view-more">Xem thêm</button>
+    <div className="section__hf-box-news-read">
+      <div className="box-tab">
+        <Link to={"/category/lastestNews"} className="item">
+          Tin mới
+        </Link>
+      </div>
+      <div className="content-tab">
+        <div className="box-category box-border-top">
+          <div className="box-category-middle">
+            {latestNews &&
+              latestNews.slice(0, 4).map((item) => (
+                <div
+                  key={getArticleId(item.link)}
+                  className="box-category-item box-item-news"
+                >
+                  <h3 className="box-title-text">
+                    <Link
+                      to={`/article/${getArticleId(item.link)}`}
+                      className="box-category-link-title"
+                    >
+                      {item.title}
+                    </Link>
+                  </h3>
+                </div>
+              ))}
+          </div>
         </div>
       </div>
-    </aside>
+      <div className="sidebar-footer">
+        <Link to={"/category/lastestNews"} className="view-more">
+          Xem thêm
+        </Link>
+      </div>
+    </div>
   );
 };
 

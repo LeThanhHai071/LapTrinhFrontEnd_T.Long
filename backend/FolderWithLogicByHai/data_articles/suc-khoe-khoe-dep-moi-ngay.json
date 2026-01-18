@@ -3,87 +3,107 @@
   "categoryName": "Khỏe đẹp mỗi ngày",
   "fullSlug": "suc-khoe-khoe-dep-moi-ngay",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:02:25.967Z",
+  "lastUpdate": "2026-01-18T04:51:45.494Z",
   "articles": [
+    {
+      "title": "Doanh nghiệp Việt tham gia đối thoại chính sách AI toàn cầu về sức khỏe",
+      "link": "https://thanhnien.vn/doanh-nghiep-viet-tham-gia-doi-thoai-chinh-sach-ai-toan-cau-ve-suc-khoe-185260117154825072.htm",
+      "pubDate": "Sat, 17 Jan 26 16:14:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/hl1-17686393561731806441391-58-0-933-1400-crop-17686396916841052154420.png",
+      "imgClass": "img-resize",
+      "description": "Sau chuyến công du tại Việt Nam, Phó Tổng Thư ký Liên Hợp Quốc, Đặc phái viên của Tổng Thư ký Liên Hợp Quốc về công nghệ Amandeep Singh Gill đã có buổi tọa đàm và đối thoại chuyên sâu với cộng đồng doanh nghiệp Việt Nam.",
+      "guid": "https://thanhnien.vn/doanh-nghiep-viet-tham-gia-doi-thoai-chinh-sach-ai-toan-cau-ve-suc-khoe-185260117154825072.htm",
+      "categoryName": "Khỏe đẹp mỗi ngày"
+    },
+    {
+      "title": "Long Châu tăng cường hợp tác chăm sóc sức khỏe sinh sản, cải thiện hiếm muộn trong cộng đồng",
+      "link": "https://thanhnien.vn/long-chau-tang-cuong-hop-tac-cham-soc-suc-khoe-sinh-san-cai-thien-hiem-muon-trong-cong-dong-185260115154201565.htm",
+      "pubDate": "Thu, 15 Jan 26 15:29:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/1-1768466151631227447385-58-0-933-1400-crop-1768466340335828149246.jpg",
+      "imgClass": "img-resize",
+      "description": "Ngày 14.1, Long Châu đã ký kết hợp tác chiến lược với Bệnh viện Nam học và Hiếm muộn Hà Nội (AF HANOI) và Merck Healthcare Việt Nam khởi động dự án 'Nâng cao sức khỏe sinh sản và Cải thiện tình trạng vô sinh hiếm muộn trong cộng đồng'.",
+      "guid": "https://thanhnien.vn/long-chau-tang-cuong-hop-tac-cham-soc-suc-khoe-sinh-san-cai-thien-hiem-muon-trong-cong-dong-185260115154201565.htm",
+      "categoryName": "Khỏe đẹp mỗi ngày"
+    },
+    {
+      "title": "Ứng dụng AI trong y tế: Công nghệ cao phải song hành cùng y đức",
+      "link": "https://thanhnien.vn/ung-dung-ai-trong-y-te-cong-nghe-cao-phai-song-hanh-cung-y-duc-185260114203158057.htm",
+      "pubDate": "Wed, 14 Jan 26 20:16:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/ba-tran-thi-lam-cung-voi-cac-chuyen-gia-bao-cao-vien-tham-luan-tai-su-kien-17683971448111607179864-0-0-1600-2560-crop-176839738746682046938.jpg",
+      "imgClass": "img-resize",
+      "description": "Ngày 14.1.2026, tại Bệnh viện Gia An 115 (Khu Y tế kỹ thuật cao TP.HCM), đã diễn ra Hội nghị khoa học 'Ứng dụng công nghệ AI trong chăm sóc sức khỏe thể chất và tinh thần'. Hội nghị thu hút hơn 300 đại biểu là các chuyên gia, bác sĩ, nhà nghiên cứu trong lĩnh vực y tế và công nghệ.",
+      "guid": "https://thanhnien.vn/ung-dung-ai-trong-y-te-cong-nghe-cao-phai-song-hanh-cung-y-duc-185260114203158057.htm",
+      "categoryName": "Khỏe đẹp mỗi ngày"
+    },
     {
       "title": "Lần đầu tiên tại Nha Trang: Long Châu tổ chức giải đi bộ đồng hành dành cho gia đình ba thế hệ",
       "link": "https://thanhnien.vn/lan-dau-tien-tai-nha-trang-long-chau-to-chuc-giai-di-bo-dong-hanh-danh-cho-gia-dinh-ba-the-he-185260111172415816.htm",
       "pubDate": "Sun, 11 Jan 26 17:24:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/thumbnail-1768126826398813450131-0-0-810-1296-crop-17681270448611796001506.jpeg",
+      "imgClass": "img-resize",
       "description": "Trong hai ngày 10 - 11.1.2026, tại \"Ngày hội gia đình Long Châu\", gần 2.000 người từ các gia đình gồm ba thế hệ đã cùng nhau sải bước trên cung đường biển Nha Trang thơ mộng. Lần đầu tiên một giải đi bộ đồng hành dành riêng cho gia đình ba thế hệ được tổ chức tại đây, mở ra những khoảnh khắc gắn kết tình thân và chăm sóc sức khỏe đầy ấm áp.",
-      "guid": "https://thanhnien.vn/lan-dau-tien-tai-nha-trang-long-chau-to-chuc-giai-di-bo-dong-hanh-danh-cho-gia-dinh-ba-the-he-185260111172415816.htm"
+      "guid": "https://thanhnien.vn/lan-dau-tien-tai-nha-trang-long-chau-to-chuc-giai-di-bo-dong-hanh-danh-cho-gia-dinh-ba-the-he-185260111172415816.htm",
+      "categoryName": "Khỏe đẹp mỗi ngày"
     },
     {
       "title": "Làm đẹp thế hệ mới: Công nghệ không xâm lấn & sức khỏe tinh thần lên ngôi",
       "link": "https://thanhnien.vn/lam-dep-the-he-moi-cong-nghe-khong-xam-lan-suc-khoe-tinh-than-len-ngoi-185251225150340322.htm",
       "pubDate": "Fri, 26 Dec 25 08:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/25/1-17666494738851303530937-574-0-1449-1400-crop-1766649563410738397238.jpg",
+      "imgClass": "img-resize",
       "description": "Thế hệ trẻ ngày càng ưu tiên những giải pháp làm đẹp an toàn, không xâm lấn, có cơ sở khoa học để giúp cơ thể trông khỏe khoắn và tinh thần cân bằng hơn mà không làm gián đoạn nhịp sống bận rộn. Xu hướng này được các chuyên gia thẩm mỹ và sức khỏe tinh thần từ khu vực nhấn mạnh tại BTL Regional Summit & Awards Gala 2025.",
-      "guid": "https://thanhnien.vn/lam-dep-the-he-moi-cong-nghe-khong-xam-lan-suc-khoe-tinh-than-len-ngoi-185251225150340322.htm"
+      "guid": "https://thanhnien.vn/lam-dep-the-he-moi-cong-nghe-khong-xam-lan-suc-khoe-tinh-than-len-ngoi-185251225150340322.htm",
+      "categoryName": "Khỏe đẹp mỗi ngày"
     },
     {
       "title": "Long Châu đạt Huy hiệu EcoVadis Committed: Bước tiến lớn trong chiến lược phát triển bền vững ",
       "link": "https://thanhnien.vn/long-chau-dat-huy-hieu-ecovadis-committed-buoc-tien-lon-trong-chien-luoc-phat-trien-ben-vung-185251224174831781.htm",
       "pubDate": "Wed, 24 Dec 25 17:38:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/24/thum-17665729136351286854000-201-0-1801-2560-crop-17665732143781641423598.jpg",
+      "imgClass": "img-resize",
       "description": "Hệ thống Nhà thuốc và Trung tâm tiêm chủng Long Châu đã được Ecovadis, tổ chức xếp hạng phát triển bền vững doanh nghiệp uy tín hàng đầu thế giới, trao tặng Huy hiệu Committed (Committed Badge).",
-      "guid": "https://thanhnien.vn/long-chau-dat-huy-hieu-ecovadis-committed-buoc-tien-lon-trong-chien-luoc-phat-trien-ben-vung-185251224174831781.htm"
+      "guid": "https://thanhnien.vn/long-chau-dat-huy-hieu-ecovadis-committed-buoc-tien-lon-trong-chien-luoc-phat-trien-ben-vung-185251224174831781.htm",
+      "categoryName": "Khỏe đẹp mỗi ngày"
     },
     {
       "title": "Danone Việt Nam trao tặng 90.000 hộp sữa Aptamil KID UHT cho trẻ em vùng bão lũ",
       "link": "https://thanhnien.vn/danone-viet-nam-trao-tang-90000-hop-sua-aptamil-kid-uht-cho-tre-em-vung-bao-lu-185251223173203936.htm",
       "pubDate": "Tue, 23 Dec 25 18:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/23/danone-vn-trao-tang-2-17664860141151714349931-58-0-933-1400-crop-17664860533301607484904.jpg",
+      "imgClass": "img-resize",
       "description": "Tiếp nối thành công của sự kiện 'Vũ trụ dưỡng chất One Aptamil', Danone khẳng định cam kết đồng hành cùng trẻ em Việt Nam thông qua các giải pháp dinh dưỡng khoa học.",
-      "guid": "https://thanhnien.vn/danone-viet-nam-trao-tang-90000-hop-sua-aptamil-kid-uht-cho-tre-em-vung-bao-lu-185251223173203936.htm"
+      "guid": "https://thanhnien.vn/danone-viet-nam-trao-tang-90000-hop-sua-aptamil-kid-uht-cho-tre-em-vung-bao-lu-185251223173203936.htm",
+      "categoryName": "Khỏe đẹp mỗi ngày"
     },
     {
       "title": "Ngày hội gia đình Long Châu tại Nha Trang khám sức khỏe miễn phí",
       "link": "https://thanhnien.vn/ngay-hoi-gia-dinh-long-chau-tai-nha-trang-kham-suc-khoe-mien-phi-185251223100956528.htm",
       "pubDate": "Tue, 23 Dec 25 10:45:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/23/1-1766459181502344595393-79-0-882-1284-crop-17664593017741098008801.jpg",
+      "imgClass": "img-resize",
       "description": "Ngày hội gia đình Long Châu 2026, sự kiện đi bộ cho gia đình ba thế hệ, sẽ diễn ra ngày 10 - 11.1.2026, tại Quảng trường 2/4, Nha Trang, với hoạt động khám sức khỏe miễn phí và tặng quà cho người tham gia.",
-      "guid": "https://thanhnien.vn/ngay-hoi-gia-dinh-long-chau-tai-nha-trang-kham-suc-khoe-mien-phi-185251223100956528.htm"
+      "guid": "https://thanhnien.vn/ngay-hoi-gia-dinh-long-chau-tai-nha-trang-kham-suc-khoe-mien-phi-185251223100956528.htm",
+      "categoryName": "Khỏe đẹp mỗi ngày"
     },
     {
       "title": "Ấn tượng thiết kế sang, hiện đại của Bệnh viện Bạch Mai, Việt Đức cơ sở 2",
       "link": "https://thanhnien.vn/an-tuong-thiet-ke-sang-hien-dai-cua-benh-vien-bach-mai-viet-duc-co-so-2-185251222160939759.htm",
       "pubDate": "Mon, 22 Dec 25 15:58:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/22/1-1766394225223831967593-0-66-780-1314-crop-1766394423505695800422.jpg",
+      "imgClass": "img-resize",
       "description": "Bệnh viện Bạch Mai, Bệnh viện Hữu nghị Việt Đức cơ sở 2 (Ninh Bình) vừa được khánh thành sẽ được đưa vào sử dụng sau khi được Bộ Y tế cấp phép, đánh dấu mốc mới cho một hệ sinh thái bệnh viện chuẩn ngang tầm quốc tế cả về thiết kế hiện đại, tạo không gian, phòng ốc dành cho khám chữa bệnh.",
-      "guid": "https://thanhnien.vn/an-tuong-thiet-ke-sang-hien-dai-cua-benh-vien-bach-mai-viet-duc-co-so-2-185251222160939759.htm"
+      "guid": "https://thanhnien.vn/an-tuong-thiet-ke-sang-hien-dai-cua-benh-vien-bach-mai-viet-duc-co-so-2-185251222160939759.htm",
+      "categoryName": "Khỏe đẹp mỗi ngày"
     },
     {
       "title": "Cam kết từ ‘cha đẻ’ của thuốc ho Prospan về chất lượng sản phẩm chuẩn châu Âu",
       "link": "https://thanhnien.vn/cam-ket-tu-cha-de-cua-thuoc-ho-prospan-ve-chat-luong-san-pham-chuan-chau-au-185251218095935159.htm",
       "pubDate": "Thu, 18 Dec 25 10:30:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/18/1-17660264259922138577940-0-0-875-1400-crop-17660267550351282064452.jpg",
+      "imgClass": "img-resize",
       "description": "Trước những nghi ngại về sự khác nhau giữa 'hàng xách tay' và nhập khẩu, Prospan vẫn giữ vững niềm tin của hàng triệu người dùng nhờ cam kết: Mỗi hộp thuốc dù ở Việt Nam hay ở quốc gia khác đều đạt chuẩn chất lượng châu Âu nhờ quy trình sản xuất đồng nhất, minh bạch.",
-      "guid": "https://thanhnien.vn/cam-ket-tu-cha-de-cua-thuoc-ho-prospan-ve-chat-luong-san-pham-chuan-chau-au-185251218095935159.htm"
-    },
-    {
-      "title": "Vì sao khoa học là nền tảng của trẻ hóa hiện đại?",
-      "link": "https://thanhnien.vn/vi-sao-khoa-hoc-la-nen-tang-cua-tre-hoa-hien-dai-185251213114928408.htm",
-      "pubDate": "Sat, 13 Dec 25 12:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/13/3-1765600137353197058003-78-0-1541-2340-crop-1765600968226320502228.jpg",
-      "description": "Trong hơn một thập kỷ qua, ngành da liễu, thẩm mỹ thay đổi từ các biện pháp can thiệp xâm lấn sang những công nghệ dựa trên bằng chứng sinh học. Các phương pháp trẻ hóa hiện đại không còn dừng lại ở việc 'làm đẹp bề mặt', mà tập trung vào sửa chữa, tái tạo, nâng đỡ cấu trúc da theo đúng cơ chế y khoa.",
-      "guid": "https://thanhnien.vn/vi-sao-khoa-hoc-la-nen-tang-cua-tre-hoa-hien-dai-185251213114928408.htm"
-    },
-    {
-      "title": "BV Đa Khoa Quốc Tế Hạnh Phúc ra mắt diện mạo mới trung tâm khám sức khỏe",
-      "link": "https://thanhnien.vn/bv-da-khoa-quoc-te-hanh-phuc-ra-mat-dien-mao-moi-trung-tam-kham-suc-khoe-185251211180409566.htm",
-      "pubDate": "Fri, 12 Dec 25 08:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/15/hinh-1-17657833608791253462665-107-0-1707-2560-crop-17657833833251570461299.jpg",
-      "description": "Sáng ngày 1.12.2025, Bệnh viện Đa khoa Quốc tế Hạnh Phúc chính thức đưa vào vận hành Trung tâm Khám sức khỏe (Health Check-up Centre) rộng hơn 460m² với diện mạo hoàn toàn mới.",
-      "guid": "https://thanhnien.vn/bv-da-khoa-quoc-te-hanh-phuc-ra-mat-dien-mao-moi-trung-tam-kham-suc-khoe-185251211180409566.htm"
-    },
-    {
-      "title": "Giảm cân - ‘chìa khóa vàng’ cải thiện sức khỏe tim mạch và giấc ngủ",
-      "link": "https://thanhnien.vn/giam-can-chia-khoa-vang-cai-thien-suc-khoe-tim-mach-va-giac-ngu-185251211085513676.htm",
-      "pubDate": "Thu, 11 Dec 25 19:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/11/thumb-1-17654180067921324280068-1765418027752629381710.jpg",
-      "description": "Chỉ cần giảm 5 - 10% trọng lượng cơ thể, nguy cơ mắc các bệnh mạn tính như: đái tháo đường, tim mạch, gan nhiễm mỡ… sẽ giảm đáng kể. Đặc biệt, với bệnh nhân béo phì kèm hội chứng ngưng thở khi ngủ, giảm 10% cân nặng là điều cần thiết để cải thiện giấc ngủ và sức khỏe tổng thể.",
-      "guid": "https://thanhnien.vn/giam-can-chia-khoa-vang-cai-thien-suc-khoe-tim-mach-va-giac-ngu-185251211085513676.htm"
+      "guid": "https://thanhnien.vn/cam-ket-tu-cha-de-cua-thuoc-ho-prospan-ve-chat-luong-san-pham-chuan-chau-au-185251218095935159.htm",
+      "categoryName": "Khỏe đẹp mỗi ngày"
     }
   ]
 }

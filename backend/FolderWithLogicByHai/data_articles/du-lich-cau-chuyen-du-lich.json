@@ -3,87 +3,107 @@
   "categoryName": "Câu chuyện du lịch",
   "fullSlug": "du-lich-cau-chuyen-du-lich",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:03:16.969Z",
+  "lastUpdate": "2026-01-18T04:52:47.872Z",
   "articles": [
+    {
+      "title": "Việt Nam đang chuẩn bị gì cho 'giấc mơ' World Cup?",
+      "link": "https://thanhnien.vn/viet-nam-dang-chuan-bi-gi-cho-giac-mo-world-cup-185260117174137814.htm",
+      "pubDate": "Sat, 17 Jan 26 17:57:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/khu-lien-hop-the-duc-the-thao-quoc-gia-rach-chiec-1-176864635571028551144-0-26-900-1466-crop-17686464227491599716979.jpg",
+      "imgClass": "img-resize",
+      "description": "Thể thao Việt Nam đang bước vào giai đoạn phát triển mới, gắn chặt giữa thành tích thi đấu và chiến lược đầu tư dài hạn về hạ tầng. Cùng với sự trưởng thành rõ nét của các đội tuyển quốc gia, định hướng xây dựng các khu liên hợp thể thao quy mô lớn đang mở ra những tiền đề quan trọng để Việt Nam tiến gần hơn tới khả năng đăng cai những sự kiện thể thao lớn nhất hành tinh như World Cup hay Olympic.",
+      "guid": "https://thanhnien.vn/viet-nam-dang-chuan-bi-gi-cho-giac-mo-world-cup-185260117174137814.htm",
+      "categoryName": "Câu chuyện du lịch"
+    },
+    {
+      "title": "Bất ngờ với xếp hạng top 10 món ngon nhất Việt Nam",
+      "link": "https://thanhnien.vn/bat-ngo-voi-xep-hang-top-10-mon-ngon-nhat-viet-nam-185260116143357848.htm",
+      "pubDate": "Sat, 17 Jan 26 08:46:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/anh-9-17685490376551961429177-0-68-830-1396-crop-1768550146486125949755.jpg",
+      "imgClass": "img-resize",
+      "description": "Trang ẩm thực TasteAtlas vừa gây bất ngờ với bảng xếp hạng 100 món ngon nhất Việt Nam, đặc biệt ở danh sách top 10.",
+      "guid": "https://thanhnien.vn/bat-ngo-voi-xep-hang-top-10-mon-ngon-nhat-viet-nam-185260116143357848.htm",
+      "categoryName": "Câu chuyện du lịch"
+    },
+    {
+      "title": "Phố phường TP.HCM rực rỡ sắc xuân",
+      "link": "https://thanhnien.vn/pho-phuong-tphcm-ruc-ro-sac-xuan-185260116184034391.htm",
+      "pubDate": "Sat, 17 Jan 26 04:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/vuon-hoa-ba-son-thanh-diem-check-in-moi-sieu-hot-cua-nguoi-dan-tphcmanh-nhat-thinh-online-17685629854971532391841-41-0-681-1024-crop-1768563166777527841115.jpg",
+      "imgClass": "img-resize",
+      "description": "Còn 1 tháng nữa mới tới Tết Nguyên đán 2026 nhưng thời điểm này, TP.HCM đã khoác lên mình tấm áo xuân rực rỡ, tràn đầy khí thế bước vào kỷ nguyên mới.",
+      "guid": "https://thanhnien.vn/pho-phuong-tphcm-ruc-ro-sac-xuan-185260116184034391.htm",
+      "categoryName": "Câu chuyện du lịch"
+    },
+    {
+      "title": "Du thuyền hạng sang bất ngờ 'chỉ dành cho người lớn'",
+      "link": "https://thanhnien.vn/du-thuyen-hang-sang-bat-ngo-chi-danh-cho-nguoi-lon-185260112110505441.htm",
+      "pubDate": "Thu, 15 Jan 26 08:48:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/du-thuyen-1768190914384624644686-0-25-612-1004-crop-17681909271761362297077.jpg",
+      "imgClass": "img-resize",
+      "description": "Một hãng du thuyền quy mô lớn chính thức chuyển sang mô hình 'chỉ dành cho người lớn', gia nhập nhóm các thương hiệu đang ngày càng phát triển với xu hướng du khách tìm kiếm sự yên tĩnh hơn là các hoạt động thân thiện với trẻ em.",
+      "guid": "https://thanhnien.vn/du-thuyen-hang-sang-bat-ngo-chi-danh-cho-nguoi-lon-185260112110505441.htm",
+      "categoryName": "Câu chuyện du lịch"
+    },
     {
       "title": "Cậu bé đi du lịch nhiều nhất thế giới, 7 tuổi đặt chân đến 7 châu lục",
       "link": "https://thanhnien.vn/cau-be-di-du-lich-nhieu-nhat-the-gioi-7-tuoi-dat-chan-den-7-chau-luc-185260106220046613.htm",
       "pubDate": "Sat, 10 Jan 26 08:53:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/6/1000056676-17677118753591750465415-70-0-1320-2000-crop-17677119060611209942458.jpg",
+      "imgClass": "img-resize",
       "description": "Trong khi hầu hết trẻ em đang học bảng cửu chương, Wilder McGraw đã đặt chân đến cả 7 lục địa - bao gồm Nam Cực. Nhưng, hành trình của cậu cũng gây nhiều tranh cãi.",
-      "guid": "https://thanhnien.vn/cau-be-di-du-lich-nhieu-nhat-the-gioi-7-tuoi-dat-chan-den-7-chau-luc-185260106220046613.htm"
+      "guid": "https://thanhnien.vn/cau-be-di-du-lich-nhieu-nhat-the-gioi-7-tuoi-dat-chan-den-7-chau-luc-185260106220046613.htm",
+      "categoryName": "Câu chuyện du lịch"
     },
     {
       "title": "TP.HCM có thêm nhiều 'tọa độ xanh' đón xuân",
       "link": "https://thanhnien.vn/tphcm-co-them-nhieu-toa-do-xanh-don-xuan-185260109220141793.htm",
       "pubDate": "Sat, 10 Jan 26 06:29:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/photo-1767970669354-17679706697541445012687-22-0-422-640-crop-17679706913121472931893.jpeg",
+      "imgClass": "img-resize",
       "description": "Bên cạnh đường hoa Nguyễn Huệ hoành tráng và những điểm chơi xuân quen thuộc, năm nay người dân TP.HCM sẽ đón Tết Bính Ngọ 2026 rực rỡ với hàng chục điểm check-in mới ngập tràn sắc hoa.",
-      "guid": "https://thanhnien.vn/tphcm-co-them-nhieu-toa-do-xanh-don-xuan-185260109220141793.htm"
+      "guid": "https://thanhnien.vn/tphcm-co-them-nhieu-toa-do-xanh-don-xuan-185260109220141793.htm",
+      "categoryName": "Câu chuyện du lịch"
     },
     {
       "title": "Hàn Quốc thất bại trong việc xóa bỏ Tết Nguyên đán như thế nào?",
       "link": "https://thanhnien.vn/han-quoc-that-bai-trong-viec-xoa-bo-tet-nguyen-dan-nhu-the-nao-185260105212711547.htm",
       "pubDate": "Tue, 06 Jan 26 08:42:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/5/1000056611-17676235236431410196637-0-108-832-1439-crop-1767624065685925455044.jpg",
+      "imgClass": "img-resize",
       "description": "Từng đưa ra nhiều quy định và chính sách hà khắc nhằm xóa bỏ Tết Nguyên đán để chuyển qua ăn Tết Dương lịch như Nhật Bản, nhưng Hàn Quốc đã thất bại.",
-      "guid": "https://thanhnien.vn/han-quoc-that-bai-trong-viec-xoa-bo-tet-nguyen-dan-nhu-the-nao-185260105212711547.htm"
+      "guid": "https://thanhnien.vn/han-quoc-that-bai-trong-viec-xoa-bo-tet-nguyen-dan-nhu-the-nao-185260105212711547.htm",
+      "categoryName": "Câu chuyện du lịch"
     },
     {
       "title": "Tiết lộ lương 'khủng' của phi công Mỹ gây choáng",
       "link": "https://thanhnien.vn/tiet-lo-luong-khung-cua-phi-cong-my-gay-choang-18526010507552557.htm",
       "pubDate": "Mon, 05 Jan 26 12:47:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/5/1000055737-17675747512961562463841-0-0-640-1024-crop-1767575039457223839088.jpg",
+      "imgClass": "img-resize",
       "description": "Lương của phi công thay đổi tùy thuộc vào hãng hàng không họ làm việc và số giờ bay trong một năm.",
-      "guid": "https://thanhnien.vn/tiet-lo-luong-khung-cua-phi-cong-my-gay-choang-18526010507552557.htm"
+      "guid": "https://thanhnien.vn/tiet-lo-luong-khung-cua-phi-cong-my-gay-choang-18526010507552557.htm",
+      "categoryName": "Câu chuyện du lịch"
     },
     {
       "title": "Huy hoàng và sụp đổ của siêu du thuyền Mỹ nhanh nhất thế giới",
       "link": "https://thanhnien.vn/huy-hoang-va-sup-do-cua-sieu-du-thuyen-my-nhanh-nhat-the-gioi-185260101221221761.htm",
       "pubDate": "Sat, 03 Jan 26 08:30:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/1/1000055691-1767280703025295039496-0-0-1122-1795-crop-17672809128091192773685.jpg",
+      "imgClass": "img-resize",
       "description": "Siêu du thuyền SS United States di chuyển với tốc độ gần gấp đôi so với các tàu du lịch hiện đại, nhưng giờ đây nó đang hướng đến đáy đại dương nghiệt ngã.",
-      "guid": "https://thanhnien.vn/huy-hoang-va-sup-do-cua-sieu-du-thuyen-my-nhanh-nhat-the-gioi-185260101221221761.htm"
+      "guid": "https://thanhnien.vn/huy-hoang-va-sup-do-cua-sieu-du-thuyen-my-nhanh-nhat-the-gioi-185260101221221761.htm",
+      "categoryName": "Câu chuyện du lịch"
     },
     {
       "title": "Một phường ở Thanh Hóa đón 8,8 triệu lượt khách du lịch",
       "link": "https://thanhnien.vn/mot-phuong-o-thanh-hoa-don-88-trieu-luot-khach-du-lich-185251231124853149.htm",
       "pubDate": "Wed, 31 Dec 25 15:51:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/31/dsc08333-17671596708591245129841-0-42-1440-2346-crop-1767160082079974244147.jpg",
+      "imgClass": "img-resize",
       "description": "P.Sầm Sơn (Thanh Hóa) sẽ xử lý những vấn đề còn tồn tại, hạn chế, hướng đến mục tiêu đón hơn 9 triệu lượt khách du lịch trong năm 2026.",
-      "guid": "https://thanhnien.vn/mot-phuong-o-thanh-hoa-don-88-trieu-luot-khach-du-lich-185251231124853149.htm"
-    },
-    {
-      "title": "Vùng biển nơi tìm kiếm máy bay MH370 rơi khắc nghiệt cỡ nào?",
-      "link": "https://thanhnien.vn/vung-bien-noi-tim-kiem-may-bay-mh370-roi-khac-nghiet-co-nao-18525122915263479.htm",
-      "pubDate": "Wed, 31 Dec 25 08:45:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/29/mh370-b-1766997010388373106358-0-0-386-618-crop-1766997334516174372521.jpg",
-      "description": "Công ty thám hiểm đại dương Ocean Infinity nhắm mục tiêu vào một khu vực rộng 15.000 km vuông ở Ấn Độ Dương, nơi được cho là có khả năng tìm thấy chiếc máy bay mất tích MH370 cao nhất.",
-      "guid": "https://thanhnien.vn/vung-bien-noi-tim-kiem-may-bay-mh370-roi-khac-nghiet-co-nao-18525122915263479.htm"
-    },
-    {
-      "title": "Tết Dương lịch đang 'nóng' dần",
-      "link": "https://thanhnien.vn/tet-duong-lich-dang-nong-dan-185251230220142676.htm",
-      "pubDate": "Wed, 31 Dec 25 04:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/30/anh-2-1767106727046772165840-106-0-1706-2560-crop-176710677116194768465.jpg",
-      "description": "Mai là ngày chính thức bước vào kỳ nghỉ lễ đầu tiên của năm mới 2026, nhiều thủ phủ du lịch đã \"cháy\" phòng. Tuy nhiên, với nhiều điểm đến khác, vé máy bay và khách sạn vẫn còn dồi dào, chưa quá căng.",
-      "guid": "https://thanhnien.vn/tet-duong-lich-dang-nong-dan-185251230220142676.htm"
-    },
-    {
-      "title": "Cả nước tưng bừng đón kỷ nguyên mới",
-      "link": "https://thanhnien.vn/ca-nuoc-tung-bung-don-ky-nguyen-moi-185251229224120941.htm",
-      "pubDate": "Tue, 30 Dec 25 04:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/29/don-tet-taynhat-thinh-xu-ly-jpg-02-online-17670221136621562584081-22-0-662-1024-crop-17670221601411286560458.jpg",
-      "description": "Năm nay, tết Dương lịch không chỉ là thời khắc chuyển giao giữa năm cũ sang năm mới mà còn đánh dấu bước chuyển mình lịch sử của dân tộc - VN chính thức bước vào kỷ nguyên mới, kỷ nguyên tiến đến giàu có và thịnh vượng. Vì thế ngay từ lúc này, không khí lễ hội đã bắt đầu lan tỏa khắp mọi nơi, thổi lên niềm phấn khởi đưa cả nước vào vận hội mới.",
-      "guid": "https://thanhnien.vn/ca-nuoc-tung-bung-don-ky-nguyen-moi-185251229224120941.htm"
-    },
-    {
-      "title": "Người Nhật ăn Tết dương lịch như thế nào sau khi bỏ Tết âm lịch?",
-      "link": "https://thanhnien.vn/nguoi-nhat-an-tet-duong-lich-nhu-the-nao-sau-khi-bo-tet-am-lich-185251225112803408.htm",
-      "pubDate": "Mon, 29 Dec 25 08:41:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/29/nhat-3-1766637072570248692543-0-0-625-1000-crop-1766971021151663964077.jpg",
-      "description": "Năm 1873, Nhật Bản chính thức bỏ ăn Tết Nguyên đán theo lịch âm có từ hàng thế kỷ, chuyển qua ăn Tết dương lịch. Hơn 150 năm qua, liệu người Nhật có còn giữ các phong tục của Tết âm lịch trong những ngày đầu năm mới của lịch dương?",
-      "guid": "https://thanhnien.vn/nguoi-nhat-an-tet-duong-lich-nhu-the-nao-sau-khi-bo-tet-am-lich-185251225112803408.htm"
+      "guid": "https://thanhnien.vn/mot-phuong-o-thanh-hoa-don-88-trieu-luot-khach-du-lich-185251231124853149.htm",
+      "categoryName": "Câu chuyện du lịch"
     }
   ]
 }

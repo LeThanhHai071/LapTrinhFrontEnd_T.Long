@@ -1,0 +1,69 @@
+{
+  "title": "Windows 11 'dính' lỗi lạ khiến hàng loạt PC không thể tắt nguồn",
+  "categories": [
+    "Công nghệ",
+    "Tin tức công nghệ"
+  ],
+  "sapo": "Windows 11 sau cập nhật 'dính' lỗi mới khiến máy tính từ chối ngủ đông, nguy cơ mất dữ liệu.",
+  "publishDate": "17/01/2026 11:08 GMT+7",
+  "author": {
+    "name": "Phong Đỗ",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/528068263637045248/2023/4/25/edit-z4293920028403473eac0dba30cc3304cdff3ec25db916-1682410543320942271626.png",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Đầu tuần này, Microsoft phát hành các bản vá bảo mật định kỳ (Patch Tuesday) tháng 1.2026 cho Windows 10 và Windows 11. Tuy nhiên, niềm vui được cập nhật chưa lâu thì nỗi lo đã ập đến. Gã khổng lồ phần mềm vừa chính thức xác nhận một lỗi kỹ thuật khó chịu trên phiên bản Windows 11 23H2 (mã cập nhật KB5073455), khiến thiết bị mất khả năng tắt nguồn theo cách thông thường."
+    },
+    {
+      "type": "h2",
+      "content": "'Triệu chứng' lạ của Windows 11: Tắt máy thành... khởi động lại"
+    },
+    {
+      "type": "text",
+      "content": "Theo phản ánh của người dùng và xác nhận từ Microsoft, lỗi này cụ thể ảnh hưởng đến quy trình tắt máy (Shutdown). Khi người dùng chọn lệnh tắt máy, thay vì ngắt nguồn hoàn toàn, hệ thống lại tự động khởi động lại (Restart)."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/17/11-17686220105311109315124.jpg"
+      ],
+      "caption": "Nhiều máy tính Windows 11 không thể tắt máy sau khi cập nhật"
+    },
+    {
+      "type": "text",
+      "content": "Nguyên nhân được xác định nằm ở sự xung đột với tính năng Secure Launch trên các máy tính được cấu hình bảo mật cao. Secure Launch (một phần của dịch vụ bảo mật dựa trên ảo hóa - VBS) vốn được thiết kế để bảo vệ máy khỏi các mã độc cấp firmware khi khởi động, nay lại chính là 'thủ phạm' khiến máy tính không thể nghỉ ngơi."
+    },
+    {
+      "type": "text",
+      "content": "Trong khi chờ đợi một bản vá hoàn chỉnh, Microsoft đã hướng dẫn người dùng một thủ thuật nhỏ để ép máy tính tắt nguồn thông qua dòng lệnh (Command Prompt)."
+    },
+    {
+      "type": "text",
+      "content": "Người dùng gặp lỗi có thể thực hiện theo các bước sau:"
+    },
+    {
+      "type": "text",
+      "content": "Nhấn phím Windows, gõ cmd.Chọn mở Command Prompt.Nhập lệnh sau và nhấn Enter: shutdown /s /t 0"
+    },
+    {
+      "type": "text",
+      "content": "Lệnh này sẽ buộc hệ thống tắt nguồn ngay lập tức (tham số /t 0 nghĩa là thời gian chờ bằng 0 giây)."
+    },
+    {
+      "type": "text",
+      "content": "Nghiêm trọng hơn lỗi tắt máy, bản cập nhật này còn phá hỏng chức năng Hibernate (ngủ đông) trên một số hệ thống. Đáng lo ngại là Microsoft hiện chưa có giải pháp khắc phục tạm thời nào cho vấn đề này."
+    },
+    {
+      "type": "text",
+      "content": "Việc mất khả năng ngủ đông đặc biệt nguy hiểm với người dùng laptop thường xuyên gập máy để di chuyển. Nếu người dùng lầm tưởng máy đã ngủ đông trong khi thực tế máy vẫn chạy ngầm hoặc bị treo, thiết bị sẽ tiếp tục tiêu thụ năng lượng cho đến khi cạn kiệt pin. Hậu quả là toàn bộ dữ liệu, tài liệu đang làm dở chưa kịp lưu sẽ bị mất trắng khi sập nguồn."
+    },
+    {
+      "type": "text",
+      "content": "Microsoft cho biết họ đang khẩn trương điều tra nguyên nhân và khuyến cáo người dùng nên chủ động lưu lại mọi công việc (Save) trước khi rời máy để tránh rủi ro đáng tiếc trong thời gian này."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/windows-11-dinh-loi-la-khien-hang-loat-pc-khong-the-tat-nguon-185260117104850222.htm",
+  "id": "185260117104850222"
+}

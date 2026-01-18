@@ -1,0 +1,45 @@
+{
+  "title": "Microsoft ngừng hỗ trợ hệ điều hành Windows Server 2008",
+  "categories": [
+    "Công nghệ",
+    "Tin tức công nghệ"
+  ],
+  "sapo": "Hệ điều hành máy chủ Windows Server 2008 lâu đời chính thức kết thúc vòng đời sau nhiều năm được kéo dài hỗ trợ bảo mật.",
+  "publishDate": "17/01/2026 09:41 GMT+7",
+  "author": {
+    "name": "Khải Minh",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/528068263637045248/2024/10/18/4626390115090904687719222236269629751881947n-17292733914391350492811.jpg",
+    "email": "-  khaiminh.hm08@gmail.com"
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Theo TechRadar, Microsoft vừa chính thức kết thúc toàn bộ chương trình hỗ trợ cho Windows Server 2008 và 2008 R2, chấm dứt hành trình kéo dài gần 18 năm kể từ khi ra mắt. Đồng thời, công ty cũng đã ngừng hỗ trợ các bản cập nhật mở rộng cuối cùng (Extended Security Updates - ESU) dành cho hệ điều hành này, bao gồm cả các phiên bản chạy trên nền tảng Azure."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/17/windows-server-2008-datacenter-1768609607162547072628.jpg"
+      ],
+      "caption": "Windows Server 2008 từng chiếm hơn 60% thị phần máy chủ Windows năm 2019, cho thấy mức độ phổ biến trong doanh nghiệp toàn cầu"
+    },
+    {
+      "type": "text",
+      "content": "Windows Server 2008 từng là một trong những nền tảng được triển khai rộng rãi tại nhiều tổ chức nhờ tính ổn định và khả năng tương thích cao. Tuy nhiên, theo lộ trình ban đầu của Microsoft, hỗ trợ chính thức kết thúc từ năm 2015, tiếp đó là kết thúc hỗ trợ mở rộng vào năm 2020. Để giúp các doanh nghiệp chưa kịp nâng cấp hệ thống, hãng đã cung cấp chương trình ESU kéo dài ba năm và gia hạn thêm thông qua Azure."
+    },
+    {
+      "type": "text",
+      "content": "Việc chấm dứt hoàn toàn hỗ trợ đồng nghĩa hệ điều hành này sẽ không còn nhận được bất kỳ bản vá bảo mật hay cập nhật nào từ Microsoft. Điều này đặt ra rủi ro lớn về an toàn thông tin cho những hệ thống chưa chuyển sang phiên bản mới hơn như Windows Server 2016, 2019 hoặc 2022. Microsoft khuyến cáo người dùng cần gấp rút hoàn tất quá trình di chuyển sang nền tảng hiện đại để đảm bảo tính bảo mật và hiệu suất vận hành."
+    },
+    {
+      "type": "text",
+      "content": "Ngoài Windows Server 2008, Windows Vista - một sản phẩm khác cùng thời cũng bị xóa khỏi cơ sở dữ liệu cập nhật của Windows Update Catalog, đánh dấu sự kết thúc hoàn toàn của hai hệ điều hành này trong hệ sinh thái Microsoft."
+    },
+    {
+      "type": "text",
+      "content": "Microsoft hiện tiếp tục tập trung hỗ trợ các nền tảng mới, đồng thời thúc đẩy xu hướng chuyển dịch sang điện toán đám mây, đặc biệt là sử dụng Azure như một môi trường triển khai và lưu trữ chính cho doanh nghiệp. Trong khi phần lớn tổ chức đã hoàn tất việc nâng cấp, vẫn còn một số hệ thống phụ thuộc phần mềm cũ khiến việc chuyển đổi gặp khó khăn. Việc ngừng hỗ trợ lần này được xem là lời nhắc cuối cùng về tính cấp thiết của việc hiện đại hóa hạ tầng CNTT."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/microsoft-ngung-ho-tro-he-dieu-hanh-windows-server-2008-185260117073319126.htm",
+  "id": "185260117073319126"
+}
