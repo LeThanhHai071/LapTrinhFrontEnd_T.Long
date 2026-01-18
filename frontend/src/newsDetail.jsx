@@ -14,6 +14,11 @@ const NewsDetail = () => {
   const [commentText, setCommentText] = useState("");
   const [speaking, setSpeaking] = useState(false);
 
+  /* ===== READER SETTINGS ===== */
+  const [fontFamily, setFontFamily] = useState("Arial");
+  const [fontSize, setFontSize] = useState(16);
+  const [lineHeight, setLineHeight] = useState(1.75);
+
   /* ===== LOAD DETAIL ===== */
   useEffect(() => {
     setLoading(true);
@@ -22,15 +27,15 @@ const NewsDetail = () => {
         setArticle(data);
         setError(null);
       })
-      .catch(() => {
-        setError("Không tìm thấy bài viết");
-      })
+      .catch(() => setError("Không tìm thấy bài viết"))
       .finally(() => setLoading(false));
   }, [articleId]);
 
   /* ===== TEXT TO SPEECH ===== */
   const handleSpeak = () => {
-    if (!article || speaking) {
+    if (!article) return;
+
+    if (speaking) {
       window.speechSynthesis.cancel();
       setSpeaking(false);
       return;
@@ -41,11 +46,7 @@ const NewsDetail = () => {
       .map((b) => b.content)
       .join(" ");
 
-    const text = [
-      article.title,
-      article.sapo,
-      bodyText
-    ].join(". ");
+    const text = [article.title, article.sapo, bodyText].join(". ");
 
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = "vi-VN";
@@ -62,10 +63,7 @@ const NewsDetail = () => {
 
     setComments((prev) => [
       ...prev,
-      {
-        text: commentText,
-        time: new Date().toLocaleString("vi-VN"),
-      },
+      { text: commentText, time: new Date().toLocaleString("vi-VN") },
     ]);
     setCommentText("");
   };
@@ -87,18 +85,61 @@ const NewsDetail = () => {
         </button>
       </div>
 
+      {/* ===== READER SETTINGS ===== */}
+      <div className="reader-settings">
+        <label>
+          Phông chữ:
+          <select
+            value={fontFamily}
+            onChange={(e) => setFontFamily(e.target.value)}
+          >
+            <option value="Arial">Arial</option>
+            <option value="Times New Roman">Times New Roman</option>
+            <option value="Georgia">Georgia</option>
+            <option value="Tahoma">Tahoma</option>
+          </select>
+        </label>
+
+        <label>
+          Cỡ chữ:
+          <input
+            type="range"
+            min="14"
+            max="22"
+            value={fontSize}
+            onChange={(e) => setFontSize(e.target.value)}
+          />
+          <span>{fontSize}px</span>
+        </label>
+
+        <label>
+          Giãn dòng:
+          <input
+            type="range"
+            min="1.4"
+            max="2.2"
+            step="0.1"
+            value={lineHeight}
+            onChange={(e) => setLineHeight(e.target.value)}
+          />
+          <span>{lineHeight}</span>
+        </label>
+      </div>
+
       <p className="sapo">{article.sapo}</p>
 
       {/* ===== CONTENT ===== */}
-      <div className="content">
+      <div
+        className="content"
+        style={{
+          fontFamily,
+          fontSize: `${fontSize}px`,
+          lineHeight,
+        }}
+      >
         {article.content?.map((block, index) => {
-          if (block.type === "text") {
-            return <p key={index}>{block.content}</p>;
-          }
-
-          if(block.type === "h2") {
-            return <h2 key={index}>{block.content}</h2>
-          }
+          if (block.type === "text") return <p key={index}>{block.content}</p>;
+          if (block.type === "h2") return <h2 key={index}>{block.content}</h2>;
 
           if (block.type === "image_block") {
             return (
@@ -108,14 +149,13 @@ const NewsDetail = () => {
               </figure>
             );
           }
-
           return null;
         })}
       </div>
 
       {/* ===== COMMENT ===== */}
       <div className="comment-section">
-        <h3>💬 Bình luận</h3>
+        <h3>Bình luận</h3>
 
         <textarea
           placeholder="Nhập bình luận..."
