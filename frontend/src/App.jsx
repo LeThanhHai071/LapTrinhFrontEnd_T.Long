@@ -1,6 +1,7 @@
 import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "bootstrap-icons/font/bootstrap-icons.css";
+
 import MainLayout from "./components/MainLayout";
 import Home from "./home";
 import Login from "./login";
@@ -22,13 +23,14 @@ function App() {
       <Routes>
         <Route path="/" element={<MainLayout />}>
           <Route index element={<Home />} />
-          {/* <Route path="/category/:slug" element={<NewsList />} /> */}
-          <Route path="/category/:slug" element={<Category />} />
-          <Route path="/article/:id" element={<NewsDetail />} />
-          <Route path="/change-password" element={<ChangePassword />} />
-          <Route path="profile" element={<Profile />} />
+          <Route path="news/:id" element={<NewsDetail />} />
+          <Route path="news/:slug" element={<NewsList />} />
+          <Route path="article/:id" element={<NewsDetail />} />
+          <Route path="category/:slug" element={<Category />} />
           <Route path="login" element={<Login />} />
           <Route path="register" element={<Register />} />
+          <Route path="profile" element={<Profile />} />
+          <Route path="change-password" element={<ChangePassword />} />
           <Route path="subscription" element={<Subscription />} />
           <Route path="advertise" element={<Advertise />} />
           <Route path="weather" element={<ShowWeather />} />
