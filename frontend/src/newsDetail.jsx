@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { fetchNewsDetail } from "./services/newsService";
 import "./NewsDetail.css";
 import { getUserIdFromStorage } from "./utils/authUtils.js";
-import { articleService } from "../services/articleService";
+import { articleService } from "./services/articleService";
 
 const NewsDetail = () => {
     const { id: articleId } = useParams();
