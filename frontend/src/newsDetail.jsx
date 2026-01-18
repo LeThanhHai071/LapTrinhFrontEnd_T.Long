@@ -2,203 +2,252 @@ import { useParams, Link } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { fetchNewsDetail } from "./services/newsService";
 import "./NewsDetail.css";
+import { getUserIdFromStorage } from "./utils/authUtils.js";
+import { articleService } from "../services/articleService";
 
 const NewsDetail = () => {
-  const { id: articleId } = useParams();
+    const { id: articleId } = useParams();
 
-  const [article, setArticle] = useState(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+    const [article, setArticle] = useState(null);
+    const [loading, setLoading] = useState(true);
+    const [error, setError] = useState(null);
 
-  const [comments, setComments] = useState([]);
-  const [commentText, setCommentText] = useState("");
-  const [speaking, setSpeaking] = useState(false);
+    const [comments, setComments] = useState([]);
+    const [commentText, setCommentText] = useState("");
+    const [speaking, setSpeaking] = useState(false);
 
-  /* ===== USER LOGIN STATE ===== */
-  const [user, setUser] = useState(null);
+    /* ===== USER LOGIN STATE ===== */
+    const [user, setUser] = useState(null);
+    const [isSaved, setIsSaved] = useState(false);
 
-  /* ===== READER SETTINGS ===== */
-  const [fontFamily, setFontFamily] = useState("Arial");
-  const [fontSize, setFontSize] = useState(16);
-  const [lineHeight, setLineHeight] = useState(1.75);
+    /* ===== READER SETTINGS ===== */
+    const [fontFamily, setFontFamily] = useState("Arial");
+    const [fontSize, setFontSize] = useState(16);
+    const [lineHeight, setLineHeight] = useState(1.75);
 
-  /* ===== LOAD USER ===== */
-  useEffect(() => {
-    const storedUser = localStorage.getItem("user");
-    if (storedUser) {
-      setUser(JSON.parse(storedUser));
-    }
-  }, []);
+    /* ===== LOAD USER ===== */
+    useEffect(() => {
+        const storedUser = localStorage.getItem("user");
+        if (storedUser) {
+            setUser(JSON.parse(storedUser));
+        }
+    }, []);
 
-  /* ===== LOAD DETAIL ===== */
-  useEffect(() => {
-    setLoading(true);
-    fetchNewsDetail(articleId)
-      .then((data) => {
-        setArticle(data);
-        setError(null);
-      })
-      .catch(() => setError("Không tìm thấy bài viết"))
-      .finally(() => setLoading(false));
-  }, [articleId]);
+    /* ===== LOAD DETAIL ===== */
+    useEffect(() => {
+        let isMounted = true;
+        setLoading(true);
+        fetchNewsDetail(articleId)
+            .then((data) => {
+                if (!isMounted) return;
+                setArticle(data);
+                setError(null);
 
-  /* ===== TEXT TO SPEECH ===== */
-  const handleSpeak = () => {
-    if (!article) return;
+                /* check userid */
+                const userId = getUserIdFromStorage(); //
+                if (userId) {
+                    articleService.getSavedList(userId) //
+                        .then(res => {
+                            if (isMounted) {
+                                const alreadySaved = res.data.some(item => String(item.articleId) === String(articleId)); //
+                                setIsSaved(alreadySaved); //
+                            }
+                        })
+                        .catch(err => console.error("Lỗi đồng bộ:", err));
+                }
+                /* end check userid */
+            })
+            .catch(() => {
+                if (isMounted) setError("Không tìm thấy bài viết");
+            })
+            .finally(() => {
+                if (isMounted) setLoading(false);
+            });
 
-    if (speaking) {
-      window.speechSynthesis.cancel();
-      setSpeaking(false);
-      return;
-    }
+        return () => { isMounted = false; };
+    }, [articleId]);
 
-    const bodyText = article.content
-      ?.filter((b) => b.type === "text")
-      .map((b) => b.content)
-      .join(" ");
+    /* ===== TEXT TO SPEECH ===== */
+    const handleSpeak = () => {
+        if (!article) return;
 
-    const text = [article.title, article.sapo, bodyText].join(". ");
+        if (speaking) {
+            window.speechSynthesis.cancel();
+            setSpeaking(false);
+            return;
+        }
 
-    const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = "vi-VN";
-    utterance.rate = 1;
-    utterance.onend = () => setSpeaking(false);
+        const bodyText = article.content
+            ?.filter((b) => b.type === "text")
+            .map((b) => b.content)
+            .join(" ");
 
-    window.speechSynthesis.speak(utterance);
-    setSpeaking(true);
-  };
+        const text = [article.title, article.sapo, bodyText].join(". ");
 
-  /* ===== ADD COMMENT (LOGIN REQUIRED) ===== */
-  const handleAddComment = () => {
-    if (!user) {
-      alert("Vui lòng đăng nhập để bình luận!");
-      return;
-    }
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = "vi-VN";
+        utterance.rate = 1;
+        utterance.onend = () => setSpeaking(false);
 
-    if (!commentText.trim()) return;
+        window.speechSynthesis.speak(utterance);
+        setSpeaking(true);
+    };
 
-    setComments((prev) => [
-      ...prev,
-      {
-        userName: user.name || user.username,
-        text: commentText,
-        time: new Date().toLocaleString("vi-VN"),
-      },
-    ]);
+    /* ==== nút save bài báo ==== */
+    const handleToggleSave = async () => {
+        try {
+            const res = await articleService.smartToggleSave(article, articleId); //
+            setIsSaved(res.data.isSaved); //
+            alert(res.data.message);
+        } catch (err) {
+            if (err.message === "Chưa đăng nhập") {
+                alert("Vui lòng đăng nhập để lưu bài báo!");
+            } else {
+                console.error("Lỗi chức năng lưu bài:", err);
+            }
+        }
+    };
 
-    setCommentText("");
-  };
+    /* ===== ADD COMMENT (LOGIN REQUIRED) ===== */
+    const handleAddComment = () => {
+        if (!user) {
+            alert("Vui lòng đăng nhập để bình luận!");
+            return;
+        }
 
-  /* ===== UI STATE ===== */
-  if (loading) return <p>Đang tải bài viết...</p>;
-  if (error) return <p>{error}</p>;
+        if (!commentText.trim()) return;
 
-  return (
-    <div className="news-detail">
-      <h1 className="title">{article.title}</h1>
+        setComments((prev) => [
+            ...prev,
+            {
+                userName: user.name || user.username,
+                text: commentText,
+                time: new Date().toLocaleString("vi-VN"),
+            },
+        ]);
 
-      <div className="meta">
-        <span>{article.publishDate}</span>
-        <span>{article.author.name}</span>
+        setCommentText("");
+    };
 
-        <button className="speak-btn" onClick={handleSpeak}>
-          {speaking ? "⏹ Dừng đọc" : "🔊 Đọc báo"}
-        </button>
-      </div>
+    /* ===== UI STATE ===== */
+    if (loading) return <p>Đang tải bài viết...</p>;
+    if (error) return <p>{error}</p>;
 
-      {/* ===== READER SETTINGS ===== */}
-      <div className="reader-settings">
-        <label>
-          Phông chữ:
-          <select value={fontFamily} onChange={(e) => setFontFamily(e.target.value)}>
-            <option value="Arial">Arial</option>
-            <option value="Times New Roman">Times New Roman</option>
-            <option value="Georgia">Georgia</option>
-            <option value="Tahoma">Tahoma</option>
-          </select>
-        </label>
+    return (
+        <div className="news-detail">
+            <h1 className="title">{article.title}</h1>
 
-        <label>
-          Cỡ chữ:
-          <input
-            type="range"
-            min="14"
-            max="22"
-            value={fontSize}
-            onChange={(e) => setFontSize(e.target.value)}
-          />
-          <span>{fontSize}px</span>
-        </label>
+            <div className="meta">
+                <span>{article.publishDate}</span>
+                <span>{article.author.name}</span>
 
-        <label>
-          Giãn dòng:
-          <input
-            type="range"
-            min="1.4"
-            max="2.2"
-            step="0.1"
-            value={lineHeight}
-            onChange={(e) => setLineHeight(e.target.value)}
-          />
-          <span>{lineHeight}</span>
-        </label>
-      </div>
+                <div style={{ marginLeft: "auto", display: "flex", gap: "10px" }}>
+                    <button className="speak-btn" onClick={handleSpeak}>
+                        {speaking ? "⏹ Dừng đọc" : "🔊 Đọc báo"}
+                    </button>
 
-      <p className="sapo">{article.sapo}</p>
+                    <button
+                        className={`save-btn ${isSaved ? "active" : ""}`}
+                        onClick={handleToggleSave}
+                    >
+                        {isSaved ? "🔖 Đã lưu" : "🔖 Lưu bài"}
+                    </button>
+                </div>
+            </div>
 
-      {/* ===== CONTENT ===== */}
-      <div
-        className="content"
-        style={{ fontFamily, fontSize: `${fontSize}px`, lineHeight }}
-      >
-        {article.content?.map((block, index) => {
-          if (block.type === "text") return <p key={index}>{block.content}</p>;
-          if (block.type === "h2") return <h2 key={index}>{block.content}</h2>;
+            {/* ===== READER SETTINGS ===== */}
+            <div className="reader-settings">
+                <label>
+                    Phông chữ:
+                    <select value={fontFamily} onChange={(e) => setFontFamily(e.target.value)}>
+                        <option value="Arial">Arial</option>
+                        <option value="Times New Roman">Times New Roman</option>
+                        <option value="Georgia">Georgia</option>
+                        <option value="Tahoma">Tahoma</option>
+                    </select>
+                </label>
 
-          if (block.type === "image_block") {
-            return (
-              <figure key={index}>
-                <img src={block.urls} alt={block.caption || ""} />
-                {block.caption && <figcaption>{block.caption}</figcaption>}
-              </figure>
-            );
-          }
-          return null;
-        })}
-      </div>
+                <label>
+                    Cỡ chữ:
+                    <input
+                        type="range"
+                        min="14"
+                        max="22"
+                        value={fontSize}
+                        onChange={(e) => setFontSize(e.target.value)}
+                    />
+                    <span>{fontSize}px</span>
+                </label>
 
-      {/* ===== COMMENT ===== */}
-      <div className="comment-section">
-        <h3>Bình luận</h3>
+                <label>
+                    Giãn dòng:
+                    <input
+                        type="range"
+                        min="1.4"
+                        max="2.2"
+                        step="0.1"
+                        value={lineHeight}
+                        onChange={(e) => setLineHeight(e.target.value)}
+                    />
+                    <span>{lineHeight}</span>
+                </label>
+            </div>
 
-        {!user ? (
-          <p className="login-warning">
-            Bạn cần <Link to="/login">đăng nhập</Link> để bình luận
-          </p>
-        ) : (
-          <>
+            <p className="sapo">{article.sapo}</p>
+
+            {/* ===== CONTENT ===== */}
+            <div
+                className="content"
+                style={{ fontFamily, fontSize: `${fontSize}px`, lineHeight }}
+            >
+                {article.content?.map((block, index) => {
+                    if (block.type === "text") return <p key={index}>{block.content}</p>;
+                    if (block.type === "h2") return <h2 key={index}>{block.content}</h2>;
+
+                    if (block.type === "image_block") {
+                        return (
+                            <figure key={index}>
+                                <img src={block.urls} alt={block.caption || ""} />
+                                {block.caption && <figcaption>{block.caption}</figcaption>}
+                            </figure>
+                        );
+                    }
+                    return null;
+                })}
+            </div>
+
+            {/* ===== COMMENT ===== */}
+            <div className="comment-section">
+                <h3>Bình luận</h3>
+
+                {!user ? (
+                    <p className="login-warning">
+                        Bạn cần <Link to="/login">đăng nhập</Link> để bình luận
+                    </p>
+                ) : (
+                    <>
             <textarea
-              placeholder="Nhập bình luận..."
-              value={commentText}
-              onChange={(e) => setCommentText(e.target.value)}
+                placeholder="Nhập bình luận..."
+                value={commentText}
+                onChange={(e) => setCommentText(e.target.value)}
             />
-            <button onClick={handleAddComment}>Gửi bình luận</button>
-          </>
-        )}
+                        <button onClick={handleAddComment}>Gửi bình luận</button>
+                    </>
+                )}
 
-        <ul className="comment-list">
-          {comments.map((c, i) => (
-            <li key={i}>
-              <p>
-                <strong>{c.userName}</strong>: {c.text}
-              </p>
-              <small>{c.time}</small>
-            </li>
-          ))}
-        </ul>
-      </div>
-    </div>
-  );
+                <ul className="comment-list">
+                    {comments.map((c, i) => (
+                        <li key={i}>
+                            <p>
+                                <strong>{c.userName}</strong>: {c.text}
+                            </p>
+                            <small>{c.time}</small>
+                        </li>
+                    ))}
+                </ul>
+            </div>
+        </div>
+    );
 };
 
 export default NewsDetail;
