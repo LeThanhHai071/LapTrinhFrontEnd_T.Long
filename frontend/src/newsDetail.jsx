@@ -2,6 +2,8 @@ import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { fetchNewsDetail } from "./services/newsService";
 import "./NewsDetail.css";
+import { getUserIdFromStorage } from "./utils/authUtils.js";
+import { articleService } from "../services/articleService";
 
 const NewsDetail = () => {
   const { id: articleId } = useParams();
@@ -14,19 +16,41 @@ const NewsDetail = () => {
   const [commentText, setCommentText] = useState("");
   const [speaking, setSpeaking] = useState(false);
 
+  const [isSaved, setIsSaved] = useState(false);
+
   /* ===== LOAD DETAIL ===== */
-  useEffect(() => {
-    setLoading(true);
-    fetchNewsDetail(articleId)
-      .then((data) => {
-        setArticle(data);
-        setError(null);
-      })
-      .catch(() => {
-        setError("Không tìm thấy bài viết");
-      })
-      .finally(() => setLoading(false));
-  }, [articleId]);
+    useEffect(() => {
+        let isMounted = true;
+        setLoading(true);
+        fetchNewsDetail(articleId)
+            .then((data) => {
+                if (!isMounted) return;
+                setArticle(data);
+                setError(null);
+
+                /*check userid */
+                const userId = getUserIdFromStorage();
+                if (userId) {
+                    articleService.getSavedList(userId)
+                        .then(res => {
+                            if (isMounted) {
+                                const alreadySaved = res.data.some(item => String(item.articleId) === String(articleId));
+                                setIsSaved(alreadySaved);
+                            }
+                        })
+                        .catch(err => console.error("Lỗi đồng bộ Coder B:", err));
+                }
+                /* end check userid*/
+            })
+            .catch(() => {
+                if (isMounted) setError("Không tìm thấy bài viết");
+            })
+            .finally(() => {
+                if (isMounted) setLoading(false);
+            });
+
+        return () => { isMounted = false; };
+    }, [articleId]);
 
   /* ===== TEXT TO SPEECH ===== */
   const handleSpeak = () => {
@@ -56,6 +80,40 @@ const NewsDetail = () => {
     setSpeaking(true);
   };
 
+
+
+
+    /*====   nút save bài báo   ====*/
+    // eslint-disable-next-line no-unused-vars
+    const handleToggleSave = async () => {
+        const userId = getUserIdFromStorage();
+        if (!userId) {
+            alert("Vui lòng đăng nhập để lưu bài báo!");
+            return;
+        }
+
+        const payload = {
+            userId: userId,
+            articleId: articleId,
+            title: article?.title,
+            imageURL: article?.content?.find(b => b.type === "image_block")?.urls || "",
+            link: window.location.href,
+            sapo: article?.sapo
+        };
+
+        try {
+            const res = await articleService.toggleSave(payload);
+            setIsSaved(res.data.isSaved);
+            alert(res.data.message);
+        } catch (err) {
+            console.error("Lỗi chức năng lưu bài:", err);
+        }
+    };
+
+
+
+
+
   /* ===== COMMENT ===== */
   const handleAddComment = () => {
     if (!commentText.trim()) return;
@@ -73,6 +131,9 @@ const NewsDetail = () => {
   /* ===== UI STATE ===== */
   if (loading) return <p>Đang tải bài viết...</p>;
   if (error) return <p>{error}</p>;
+
+
+
 
   return (
     <div className="news-detail">
