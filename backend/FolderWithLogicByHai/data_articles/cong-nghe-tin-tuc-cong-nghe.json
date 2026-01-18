@@ -3,87 +3,107 @@
   "categoryName": "Tin tức công nghệ",
   "fullSlug": "cong-nghe-tin-tuc-cong-nghe",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:04:59.853Z",
+  "lastUpdate": "2026-01-18T04:53:33.446Z",
   "articles": [
     {
-      "title": "Ấn Độ lại ra yêu cầu lạ với Apple, Samsung",
-      "link": "https://thanhnien.vn/an-do-lai-ra-yeu-cau-la-voi-apple-samsung-185260112162727728.htm",
-      "pubDate": "Mon, 12 Jan 26 19:17:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/an-doapplesamsung-1768209004718968771427-22-0-910-1420-crop-17682099556751152068357.png",
-      "description": "Ấn Độ viện lý do an ninh, đề xuất yêu cầu các nhà sản xuất smartphone như Apple, Samsung phải chia sẻ mã nguồn với chính phủ và thực hiện một số thay đổi phần mềm.",
-      "guid": "https://thanhnien.vn/an-do-lai-ra-yeu-cau-la-voi-apple-samsung-185260112162727728.htm"
+      "title": "Cẩn trọng khi sử dụng Wi-Fi miễn phí tại khách sạn",
+      "link": "https://thanhnien.vn/can-trong-khi-su-dung-wi-fi-mien-phi-tai-khach-san-185260115091944626.htm",
+      "pubDate": "Sun, 18 Jan 26 10:53:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/1-17684434647871276533157-27-0-427-640-crop-1768443544811366130591.jpg",
+      "imgClass": "img-resize",
+      "description": "Sau một ngày dài di chuyển, nhiều người thường có thói quen kiểm tra tin nhắn và mạng xã hội ngay khi về đến khách sạn.",
+      "guid": "https://thanhnien.vn/can-trong-khi-su-dung-wi-fi-mien-phi-tai-khach-san-185260115091944626.htm",
+      "categoryName": "Tin tức công nghệ"
     },
     {
-      "title": "Hệ sinh thái Samsung đủ sức khiến người dùng không cần đến Apple?",
-      "link": "https://thanhnien.vn/he-sinh-thai-samsung-du-suc-khien-nguoi-dung-khong-can-den-apple-185260112151326868.htm",
-      "pubDate": "Mon, 12 Jan 26 16:01:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/2-17682054188801534118614-0-0-720-1152-crop-17682054240211775668723.jpg",
-      "description": "Nhiều người chọn sản phẩm của Apple vì nhiều lý do khác nhau, trong đó hệ sinh thái mà Apple xây dựng được xem là nổi bật nhất.",
-      "guid": "https://thanhnien.vn/he-sinh-thai-samsung-du-suc-khien-nguoi-dung-khong-can-den-apple-185260112151326868.htm"
+      "title": "Những điều được và mất khi mua smartwatch giá rẻ",
+      "link": "https://thanhnien.vn/nhung-dieu-duoc-va-mat-khi-mua-smartwatch-gia-re-185260118063833166.htm",
+      "pubDate": "Sun, 18 Jan 26 07:34:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/1-17686928948171218148293-0-38-900-1478-crop-17686929099611686418164.jpg",
+      "imgClass": "img-resize",
+      "description": "Smartwatch hiện nay không chỉ giúp theo dõi số bước đi, nhịp tim và lịch trình giấc ngủ, mà còn kết nối với điện thoại để nhận thông báo.",
+      "guid": "https://thanhnien.vn/nhung-dieu-duoc-va-mat-khi-mua-smartwatch-gia-re-185260118063833166.htm",
+      "categoryName": "Tin tức công nghệ"
     },
     {
-      "title": "Microsoft đưa tính năng độc quyền trên PC AI đến toàn bộ Windows 11",
-      "link": "https://thanhnien.vn/microsoft-dua-tinh-nang-doc-quyen-tren-pc-ai-den-toan-bo-windows-11-185260112143019853.htm",
-      "pubDate": "Mon, 12 Jan 26 14:34:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/2-176820284788471038867-0-76-720-1228-crop-17682028581801224830740.jpg",
-      "description": "Microsoft tích hợp Copilot vào Narrator trên Windows 11, cho phép mô tả hình ảnh bằng AI mà không cần phần cứng NPU chuyên dụng.",
-      "guid": "https://thanhnien.vn/microsoft-dua-tinh-nang-doc-quyen-tren-pc-ai-den-toan-bo-windows-11-185260112143019853.htm"
+      "title": "Galaxy S26 Ultra sẽ là 'quái vật' chụp đêm mới của Samsung",
+      "link": "https://thanhnien.vn/galaxy-s26-ultra-se-la-quai-vat-chup-dem-moi-cua-samsung-185260116152932015.htm",
+      "pubDate": "Sat, 17 Jan 26 15:51:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/s26-1768552535989422129025-0-51-675-1131-crop-17685526830591180084011.jpg",
+      "imgClass": "img-resize",
+      "description": "Samsung chơi lớn khi mở khẩu độ lên đến f/1.4 cho camera tele của Galaxy S26 Ultra.",
+      "guid": "https://thanhnien.vn/galaxy-s26-ultra-se-la-quai-vat-chup-dem-moi-cua-samsung-185260116152932015.htm",
+      "categoryName": "Tin tức công nghệ"
     },
     {
-      "title": "Dell thừa nhận điều nhiều hãng né tránh: PC AI chưa đủ thuyết phục",
-      "link": "https://thanhnien.vn/dell-thua-nhan-dieu-nhieu-hang-ne-tranh-pc-ai-chua-du-thuyet-phuc-185260112121201021.htm",
-      "pubDate": "Mon, 12 Jan 26 13:51:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/1-17681943547111552811329-67-0-1067-1600-crop-1768194362664245920936.jpg",
-      "description": "Dell mới đây đưa ra một thông điệp khác biệt giữa bối cảnh ngành công nghiệp công nghệ đang rầm rộ quảng bá \"máy tính được hỗ trợ bởi AI\".",
-      "guid": "https://thanhnien.vn/dell-thua-nhan-dieu-nhieu-hang-ne-tranh-pc-ai-chua-du-thuyet-phuc-185260112121201021.htm"
+      "title": "Mặt trái ít được nói tới khi sao lưu dữ liệu vào ổ USB",
+      "link": "https://thanhnien.vn/mat-trai-it-duoc-noi-toi-khi-sao-luu-du-lieu-vao-o-usb-185260116161811896.htm",
+      "pubDate": "Sat, 17 Jan 26 15:29:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/2-17685550217832037482620-0-0-800-1280-crop-17685550267951691951111.jpg",
+      "imgClass": "img-resize",
+      "description": "Ổ USB là một công cụ tiện lợi được nhiều người dùng để lưu trữ tạm thời và chuyển dữ liệu giữa các máy tính.",
+      "guid": "https://thanhnien.vn/mat-trai-it-duoc-noi-toi-khi-sao-luu-du-lieu-vao-o-usb-185260116161811896.htm",
+      "categoryName": "Tin tức công nghệ"
     },
     {
-      "title": "Rơi vào thế khó, HP 'cầu cứu' nhà sản xuất DRAM Trung Quốc",
-      "link": "https://thanhnien.vn/roi-vao-the-kho-hp-cau-cuu-nha-san-xuat-dram-trung-quoc-185260111230650894.htm",
-      "pubDate": "Mon, 12 Jan 26 10:09:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/2-17681473639831696511116-0-0-435-696-crop-17681473764911562465857.jpg",
-      "description": "HP đang xem xét khả năng hợp tác với các nhà cung cấp bộ nhớ Trung Quốc để đảm bảo nguồn cung DRAM khi các lựa chọn khác dường như đã cạn kiệt.",
-      "guid": "https://thanhnien.vn/roi-vao-the-kho-hp-cau-cuu-nha-san-xuat-dram-trung-quoc-185260111230650894.htm"
+      "title": "Bất chấp 'bão giá' linh kiện, Pixel 10a lộ diện với giá rẻ bất ngờ",
+      "link": "https://thanhnien.vn/bat-chap-bao-gia-linh-kien-pixel-10a-lo-dien-voi-gia-re-bat-ngo-185260117114856108.htm",
+      "pubDate": "Sat, 17 Jan 26 14:25:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/pixel-10a-17686254532531671544800-0-24-438-725-crop-17686255296022021359486.jpg",
+      "imgClass": "img-resize",
+      "description": "Google 'phả hơi nóng' vào gáy Samsung với Pixel 10a, giá rẻ đón đầu dòng Galaxy S26.",
+      "guid": "https://thanhnien.vn/bat-chap-bao-gia-linh-kien-pixel-10a-lo-dien-voi-gia-re-bat-ngo-185260117114856108.htm",
+      "categoryName": "Tin tức công nghệ"
     },
     {
-      "title": "Micro LED chưa kịp phổ cập, ngành TV bước vào kỷ nguyên Micro RGB",
-      "link": "https://thanhnien.vn/micro-led-chua-kip-pho-cap-nganh-tv-buoc-vao-ky-nguyen-micro-rgb-185260112000258871.htm",
-      "pubDate": "Mon, 12 Jan 26 10:04:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1-17681508597211090385752-105-0-1355-2000-crop-17681508675851153721040.jpg",
-      "description": "Micro LED đã và đang thu hút sự chú ý lớn từ người tiêu dùng, đặc biệt là với những tin đồn về việc iPhone và iPad sẽ áp dụng công nghệ này.",
-      "guid": "https://thanhnien.vn/micro-led-chua-kip-pho-cap-nganh-tv-buoc-vao-ky-nguyen-micro-rgb-185260112000258871.htm"
+      "title": "Apple điều chỉnh giá thu mua iPhone, người dùng chịu thiệt",
+      "link": "https://thanhnien.vn/apple-dieu-chinh-gia-thu-mua-iphone-nguoi-dung-chiu-thiet-185260117111025318.htm",
+      "pubDate": "Sat, 17 Jan 26 11:29:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/1-17686228158001904483098-0-163-1125-1963-crop-17686228330431850891771.jpg",
+      "imgClass": "img-resize",
+      "description": "Apple vừa công bố điều chỉnh giá trị ước tính trong chương trình thu cũ đổi mới cho iPhone với mức giảm lên đến 20 USD so với trước đó.",
+      "guid": "https://thanhnien.vn/apple-dieu-chinh-gia-thu-mua-iphone-nguoi-dung-chiu-thiet-185260117111025318.htm",
+      "categoryName": "Tin tức công nghệ"
     },
     {
-      "title": "Microsoft cảnh báo người dùng Windows Insider",
-      "link": "https://thanhnien.vn/microsoft-canh-bao-nguoi-dung-windows-insider-18526011201004895.htm",
-      "pubDate": "Mon, 12 Jan 26 07:15:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1-17681542999201299674340-40-0-790-1200-crop-1768154318272684371705.jpg",
-      "description": "Microsoft cảnh báo người dùng Windows Insider sớm chuyển kênh Dev sang Beta, trước khi các bản dựng tách biệt khiến việc hạ cấp buộc phải cài lại Windows.",
-      "guid": "https://thanhnien.vn/microsoft-canh-bao-nguoi-dung-windows-insider-18526011201004895.htm"
+      "title": "Windows 11 'dính' lỗi lạ khiến hàng loạt PC không thể tắt nguồn",
+      "link": "https://thanhnien.vn/windows-11-dinh-loi-la-khien-hang-loat-pc-khong-the-tat-nguon-185260117104850222.htm",
+      "pubDate": "Sat, 17 Jan 26 11:08:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/11-17686220105311109315124-59-0-800-1186-crop-17686221697491837151746.jpg",
+      "imgClass": "img-resize",
+      "description": "Windows 11 sau cập nhật 'dính' lỗi mới khiến máy tính từ chối ngủ đông, nguy cơ mất dữ liệu.",
+      "guid": "https://thanhnien.vn/windows-11-dinh-loi-la-khien-hang-loat-pc-khong-the-tat-nguon-185260117104850222.htm",
+      "categoryName": "Tin tức công nghệ"
     },
     {
-      "title": "Sau RAM và SSD, đến lượt TV bị cuốn vào cơn sốt giá linh kiện toàn cầu",
-      "link": "https://thanhnien.vn/sau-ram-va-ssd-den-luot-tv-bi-cuon-vao-con-sot-gia-linh-kien-toan-cau-185260111103230817.htm",
-      "pubDate": "Mon, 12 Jan 26 06:29:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/geminigeneratedimagec2dwq2c2dwq2c2dw-17681022715022013596787-158-428-1338-2316-crop-1768102283253365682156.png",
-      "description": "Khủng hoảng chuỗi cung ứng và nhu cầu bán dẫn tăng cao đang khiến ngày càng nhiều thiết bị công nghệ phải điều chỉnh giá.",
-      "guid": "https://thanhnien.vn/sau-ram-va-ssd-den-luot-tv-bi-cuon-vao-con-sot-gia-linh-kien-toan-cau-185260111103230817.htm"
+      "title": "Công cụ đổi địa chỉ Gmail chính thức ra mắt",
+      "link": "https://thanhnien.vn/cong-cu-doi-dia-chi-gmail-chinh-thuc-ra-mat-185260117095140088.htm",
+      "pubDate": "Sat, 17 Jan 26 10:55:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/gmail-1749699382201723839435-0-88-1152-1931-crop-1768618535235848066943.jpg",
+      "imgClass": "img-resize",
+      "description": "Tính năng được mong chờ nhất thập kỷ của Gmail đã chính thức được xác nhận, Google hé lộ thời điểm triển khai.",
+      "guid": "https://thanhnien.vn/cong-cu-doi-dia-chi-gmail-chinh-thuc-ra-mat-185260117095140088.htm",
+      "categoryName": "Tin tức công nghệ"
     },
     {
-      "title": "Những điểm gây khó chịu khi sử dụng Google Gemini",
-      "link": "https://thanhnien.vn/nhung-diem-gay-kho-chiu-khi-su-dung-google-gemini-185260111123224099.htm",
-      "pubDate": "Sun, 11 Jan 26 17:55:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1-17681093800721009212282-0-60-675-1140-crop-17681093849122000529940.jpg",
-      "description": "Trợ lý AI (trí tuệ nhân tạo) Google Gemini hỗ trợ nhiều tác vụ phức tạp, nhưng người dùng không nên bỏ qua các rủi ro tiềm ẩn.",
-      "guid": "https://thanhnien.vn/nhung-diem-gay-kho-chiu-khi-su-dung-google-gemini-185260111123224099.htm"
+      "title": "Microsoft ngừng hỗ trợ hệ điều hành Windows Server 2008",
+      "link": "https://thanhnien.vn/microsoft-ngung-ho-tro-he-dieu-hanh-windows-server-2008-185260117073319126.htm",
+      "pubDate": "Sat, 17 Jan 26 09:41:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/microsoft-windows-server-2008-installation-screen-tinologicom-1768609413199714672754-0-65-414-728-crop-1768609443630383408680.jpg",
+      "imgClass": "img-resize",
+      "description": "Hệ điều hành máy chủ Windows Server 2008 lâu đời chính thức kết thúc vòng đời sau nhiều năm được kéo dài hỗ trợ bảo mật.",
+      "guid": "https://thanhnien.vn/microsoft-ngung-ho-tro-he-dieu-hanh-windows-server-2008-185260117073319126.htm",
+      "categoryName": "Tin tức công nghệ"
     },
     {
-      "title": "Cuộc phát triển 5G 'thần tốc' tại Việt Nam",
-      "link": "https://thanhnien.vn/cuoc-phat-trien-5g-than-toc-tai-viet-nam-185260111085409727.htm",
-      "pubDate": "Sun, 11 Jan 26 10:19:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1c073876a7fe28a071ef-1768099387352540793274-14-0-740-1162-crop-17680994221431603358373.jpg",
-      "description": "Việt Nam bắt đầu thương mại hóa 5G vào cuối năm 2024. Theo báo cáo của Bộ Khoa học và Công nghệ, tính đến tháng 10.2025 đã có hơn 16.700 trạm 5G phủ sóng gần 40% dân số. Đến cuối năm 2025 số trạm 5G tăng mạnh, đã phủ sóng khoảng 90% dân số.",
-      "guid": "https://thanhnien.vn/cuoc-phat-trien-5g-than-toc-tai-viet-nam-185260111085409727.htm"
+      "title": "Nvidia giảm 20% nguồn cung GPU, không có sản phẩm mới trong năm 2026",
+      "link": "https://thanhnien.vn/nvidia-giam-20-nguon-cung-gpu-khong-co-san-pham-moi-trong-nam-2026-185260117071336659.htm",
+      "pubDate": "Sat, 17 Jan 26 07:41:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/screenshot-2026-01-17-070515-17686083381701592768658-0-101-560-997-crop-17686083504031258929968.png",
+      "imgClass": "img-resize",
+      "description": "Việc giảm nguồn cung ảnh hưởng đến toàn bộ dòng sản phẩm Nvidia RTX 50, trong khi khả năng ra mắt GPU mới trong năm 2026 gần như bằng không.",
+      "guid": "https://thanhnien.vn/nvidia-giam-20-nguon-cung-gpu-khong-co-san-pham-moi-trong-nam-2026-185260117071336659.htm",
+      "categoryName": "Tin tức công nghệ"
     }
   ]
 }

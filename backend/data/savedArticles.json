@@ -14,10 +14,17 @@
     "savedAt": "2026-01-18T11:17:05.057Z"
   },
   {
-    "userId": 1768732188439,
-    "articleId": "185260111173657978",
-    "title": "Hương vị quê hương: Đợi mùa cá cơm về",
-    "link": "http://localhost:5173/article/185260111173657978",
-    "savedAt": "2026-01-18T14:56:57.758Z"
+    "userId": 1768739476892,
+    "articleId": "185260118111917456",
+    "title": "Indonesia phát hiện mảnh vỡ máy bay mất tích, chưa tìm thấy người",
+    "link": "http://localhost:5173/article/185260118111917456",
+    "savedAt": "2026-01-18T12:31:32.421Z"
+  },
+  {
+    "userId": 1768739476892,
+    "articleId": "185260118113658072",
+    "title": "Háo hức gặp U.23 Trung Quốc, Việt Nam sẽ biết cách vượt qua 'Vạn lý trường thành'",
+    "link": "http://localhost:5173/article/185260118113658072",
+    "savedAt": "2026-01-18T14:37:04.569Z"
   }
 ]

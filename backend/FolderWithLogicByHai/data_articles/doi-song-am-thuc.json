@@ -3,87 +3,107 @@
   "categoryName": "Ẩm thực",
   "fullSlug": "doi-song-am-thuc",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:02:21.580Z",
+  "lastUpdate": "2026-01-18T04:51:40.450Z",
   "articles": [
+    {
+      "title": "Hương Tết xưa trong vị bánh của Mường Thanh",
+      "link": "https://thanhnien.vn/huong-tet-xua-trong-vi-banh-cua-muong-thanh-185260115170856122.htm",
+      "pubDate": "Thu, 15 Jan 26 16:47:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/tap-doan-muong-thanh-mong-muon-mang-den-nhung-trai-nghiem-am-thuc-thu-vi-day-huong-vi-ngay-xuan-17684712996251277948502-108-0-983-1400-crop-1768471787241615275723.jpg",
+      "imgClass": "img-resize",
+      "description": "Giữa nhịp sống hối hả, \"Tết xưa\" hiện về như một miền ký ức thiêng liêng và ấm áp - nơi bao người đã từng đếm từng ngày chờ Tết, chắt chiu từ đôi bàn tay lao động suốt 12 tháng chỉ để có một cái tết đủ đầy. Với người Việt, Tết chính là hành trình trở về với những giá trị văn hóa trường tồn của dân tộc.",
+      "guid": "https://thanhnien.vn/huong-tet-xua-trong-vi-banh-cua-muong-thanh-185260115170856122.htm",
+      "categoryName": "Ẩm thực"
+    },
+    {
+      "title": "Bánh tráng nhúng nước: Món ăn vặt gây bão mạng đầu năm 2026, đáng thử hay… bỏ qua?",
+      "link": "https://thanhnien.vn/banh-trang-nhung-nuoc-mon-an-vat-gay-bao-mang-dau-nam-2026-dang-thu-hay-bo-qua-185260113200223269.htm",
+      "pubDate": "Thu, 15 Jan 26 13:13:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/anh-man-hinh-2026-01-13-luc-195431-17683088831791487579025-0-0-1000-1600-crop-1768309023629650855914.png",
+      "imgClass": "img-resize",
+      "description": "Những ngày qua, nhiều clip ăn món bánh tráng nhúng nước bất ngờ đạt 'triệu view' trên mạng xã hội, trở thành món ăn hot trend ẩm thực đầu năm 2026. Món ăn này có gì thú vị và vì sao gây tranh cãi?",
+      "guid": "https://thanhnien.vn/banh-trang-nhung-nuoc-mon-an-vat-gay-bao-mang-dau-nam-2026-dang-thu-hay-bo-qua-185260113200223269.htm",
+      "categoryName": "Ẩm thực"
+    },
+    {
+      "title": "Quán bánh canh không tên giá 15.000 đồng ở Huế: Vài giờ bán hết 3 nồi lớn",
+      "link": "https://thanhnien.vn/quan-banh-canh-khong-ten-gia-15000-dong-o-hue-vai-gio-ban-het-3-noi-lon-185260107103621909.htm",
+      "pubDate": "Tue, 13 Jan 26 13:45:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/3182482289657554945-176775645116948809952-80-0-1680-2560-crop-17677568743701263049498.jpg",
+      "imgClass": "img-resize",
+      "description": "Nằm trên một góc đường tại TP.Huế, quán bánh canh chị Tý không biển hiệu, không quảng cáo nhưng hơn 30 năm qua là quán ruột của nhiều người lao động và sinh viên ở cố đô.",
+      "guid": "https://thanhnien.vn/quan-banh-canh-khong-ten-gia-15000-dong-o-hue-vai-gio-ban-het-3-noi-lon-185260107103621909.htm",
+      "categoryName": "Ẩm thực"
+    },
+    {
+      "title": "Hiệp hội Ẩm thực TP.HCM năm 2026 có hoạt động gì mới?",
+      "link": "https://thanhnien.vn/hiep-hoi-am-thuc-tphcm-nam-2026-co-hoat-dong-gi-moi-185260112123618877.htm",
+      "pubDate": "Tue, 13 Jan 26 05:34:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/2464494002230366452-17681958633101872103954-0-155-1440-2459-crop-1768196001967477441937.jpg",
+      "imgClass": "img-resize",
+      "description": "Hiệp hội Ẩm thực TP.HCM (FBA) vừa tổ chức Đại hội bất thường nhiệm kỳ I (2026 - 2031). Năm 2026, hoạt động của hiệp hội có gì mới?",
+      "guid": "https://thanhnien.vn/hiep-hoi-am-thuc-tphcm-nam-2026-co-hoat-dong-gi-moi-185260112123618877.htm",
+      "categoryName": "Ẩm thực"
+    },
     {
       "title": "Hương vị quê hương: Đợi mùa cá cơm về",
       "link": "https://thanhnien.vn/huong-vi-que-huong-doi-mua-ca-com-ve-185260111173657978.htm",
       "pubDate": "Mon, 12 Jan 26 20:20:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/mua-ca-com-1768127610885640903982-96-0-1696-2560-crop-1768127641067415614972.jpeg",
+      "imgClass": "img-resize",
       "description": "Nhà tôi ngay cửa biển Sa Huỳnh (Quảng Ngãi). Dân ở đây quen tính tháng tính năm bằng mùa cá. Mấy tuần gần đây biển ấm lại, mùa cá cơm về. Vậy là tết, là xuân không còn bao xa nữa.",
-      "guid": "https://thanhnien.vn/huong-vi-que-huong-doi-mua-ca-com-ve-185260111173657978.htm"
+      "guid": "https://thanhnien.vn/huong-vi-que-huong-doi-mua-ca-com-ve-185260111173657978.htm",
+      "categoryName": "Ẩm thực"
     },
     {
       "title": "Vụ Công ty Đồ hộp Hạ Long: The Coffee House ra thông báo mới",
       "link": "https://thanhnien.vn/vu-cong-ty-do-hop-ha-long-the-coffee-house-ra-thong-bao-moi-185260110140555255.htm",
       "pubDate": "Sat, 10 Jan 26 14:10:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/anh-man-hinh-2026-01-10-luc-134324-1768028442419613769116-0-0-760-1216-crop-1768028606337885710670.png",
+      "imgClass": "img-resize",
       "description": "The Coffee House vừa ra thông báo mới nhằm minh bạch thông tin và bảo vệ quyền lợi khách hàng sau những lùm xùm của Công ty Đồ hộp Hạ Long (Hạ Long Canfoco). Thông báo nói gì?",
-      "guid": "https://thanhnien.vn/vu-cong-ty-do-hop-ha-long-the-coffee-house-ra-thong-bao-moi-185260110140555255.htm"
+      "guid": "https://thanhnien.vn/vu-cong-ty-do-hop-ha-long-the-coffee-house-ra-thong-bao-moi-185260110140555255.htm",
+      "categoryName": "Ẩm thực"
     },
     {
       "title": "Mâm cỗ tết 3 miền trình làng tại TP.HCM: Thực khách hào hứng ăn tết sớm",
       "link": "https://thanhnien.vn/mam-co-tet-3-mien-trinh-lang-tai-tphcm-thuc-khach-hao-hung-an-tet-som-185260109074804683.htm",
       "pubDate": "Fri, 09 Jan 26 11:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/e920e06c6ce8e3b6baf9-1767918756329701212831-106-0-1706-2560-crop-1767922973505963759563.jpg",
+      "imgClass": "img-resize",
       "description": "Tết Nguyên đán Bính Ngọ 2026 gần kề, một nhà hàng ở khu Thảo Điền (TP.HCM) ra mắt mâm cỗ tết của cả 3 miền Bắc - Trung - Nam. Có gì thú vị khiến nhiều thực khách tìm đến để... ăn tết sớm?",
-      "guid": "https://thanhnien.vn/mam-co-tet-3-mien-trinh-lang-tai-tphcm-thuc-khach-hao-hung-an-tet-som-185260109074804683.htm"
+      "guid": "https://thanhnien.vn/mam-co-tet-3-mien-trinh-lang-tai-tphcm-thuc-khach-hao-hung-an-tet-som-185260109074804683.htm",
+      "categoryName": "Ẩm thực"
     },
     {
       "title": "Tôm khô móng chim Cà Mau hiếm cỡ nào mà giá hơn 1,5 triệu đồng/kg?",
       "link": "https://thanhnien.vn/tom-kho-mong-chim-ca-mau-hiem-co-nao-ma-gia-hon-15-trieu-dong-kg-185251229233730984.htm",
       "pubDate": "Thu, 08 Jan 26 12:12:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/29/e894eb8200448f1ad65513-1767024309495819921222-0-0-1798-2876-crop-1767024324332680311232.jpg",
+      "imgClass": "img-resize",
       "description": "Chỉ 1 - 2% tôm đất sau chế biến có dáng cong đẹp như móng chim. Từ chi tiết nhỏ ấy, một dòng tôm khô riêng biệt ra đời, được định giá hơn 1,5 triệu đồng/kg.",
-      "guid": "https://thanhnien.vn/tom-kho-mong-chim-ca-mau-hiem-co-nao-ma-gia-hon-15-trieu-dong-kg-185251229233730984.htm"
+      "guid": "https://thanhnien.vn/tom-kho-mong-chim-ca-mau-hiem-co-nao-ma-gia-hon-15-trieu-dong-kg-185251229233730984.htm",
+      "categoryName": "Ẩm thực"
     },
     {
       "title": "Độc lạ me ruột đỏ, dân mạng nhầm tưởng do AI tạo ra: Có khác me thường?",
       "link": "https://thanhnien.vn/doc-la-me-ruot-do-dan-mang-nham-tuong-do-ai-tao-ra-co-khac-me-thuong-185260107080701181.htm",
       "pubDate": "Wed, 07 Jan 26 11:25:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/anh-man-hinh-2026-01-07-luc-074508-1767747935112223685363-0-0-640-1024-crop-1767747946959695736512.png",
+      "imgClass": "img-resize",
       "description": "Mới đây, các clip ăn me ruột đỏ bất ngờ được mạng xã hội chia sẻ. Nhiều người bất ngờ khi lần đầu nhìn thấy loại me này, tìm mua ăn thử. Hương vị thế nào?",
-      "guid": "https://thanhnien.vn/doc-la-me-ruot-do-dan-mang-nham-tuong-do-ai-tao-ra-co-khac-me-thuong-185260107080701181.htm"
+      "guid": "https://thanhnien.vn/doc-la-me-ruot-do-dan-mang-nham-tuong-do-ai-tao-ra-co-khac-me-thuong-185260107080701181.htm",
+      "categoryName": "Ẩm thực"
     },
     {
       "title": "Xe bánh mì chay 'Vuông Tròn' của 2 cô gái Bắc - Nam",
       "link": "https://thanhnien.vn/xe-banh-mi-chay-vuong-tron-cua-2-co-gai-bac-nam-185260106224524607.htm",
       "pubDate": "Wed, 07 Jan 26 10:45:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/6/a1-1767714146951497121571-90-0-1690-2560-crop-1767714158581981438920.jpg",
+      "imgClass": "img-resize",
       "description": "Kể chuyện mở xe bánh mì chay giữa phố núi Lâm Đồng mộng mơ, hai cô gái đến từ hai miền Nam - Bắc nhận về 'mưa tim' trên mạng xã hội. Phía sau tên quán độc lạ là hành trình khởi nghiệp truyền cảm hứng.",
-      "guid": "https://thanhnien.vn/xe-banh-mi-chay-vuong-tron-cua-2-co-gai-bac-nam-185260106224524607.htm"
-    },
-    {
-      "title": "TP.HCM có hàng quán kỳ lạ: Cụ bà U.90 bán bánh kẹp lúc 0 giờ...",
-      "link": "https://thanhnien.vn/tphcm-co-hang-quan-ky-la-cu-ba-u90-ban-banh-kep-luc-0-gio-185251030152322406.htm",
-      "pubDate": "Tue, 06 Jan 26 12:32:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/10/30/img3956-1761811949416262020972-147-0-1747-2560-crop-1761812137852529717525.jpg",
-      "description": "Khi phố xá chìm vào giấc ngủ, cụ Năm (86 tuổi) lại nhóm bếp than, bắt đầu đổ bánh kẹp từ 0 giờ sáng ở TP.HCM, mưu sinh bằng món bánh tuổi thơ suốt nhiều năm qua.",
-      "guid": "https://thanhnien.vn/tphcm-co-hang-quan-ky-la-cu-ba-u90-ban-banh-kep-luc-0-gio-185251030152322406.htm"
-    },
-    {
-      "title": "Giao thừa 2026: Trào lưu ăn '12 trái nho ước nguyện' bắt nguồn từ đâu?",
-      "link": "https://thanhnien.vn/giao-thua-2026-trao-luu-an-12-trai-nho-uoc-nguyen-bat-nguon-tu-dau-18525123010102422.htm",
-      "pubDate": "Wed, 31 Dec 25 12:12:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/30/edit-anh-man-hinh-2025-12-30-luc-100350-17670638940701867015135-149-0-1095-1513-crop-17670641542828640056.png",
-      "description": "Mạng xã hội đang ào ạt chia sẻ các bài đăng tìm mua '12 trái nho ước nguyện' để ăn vào đêm giao thừa 2026. Trào lưu này có gì đặc biệt?",
-      "guid": "https://thanhnien.vn/giao-thua-2026-trao-luu-an-12-trai-nho-uoc-nguyen-bat-nguon-tu-dau-18525123010102422.htm"
-    },
-    {
-      "title": "Trước thềm 2026, điểm lại những quán ăn nổi tiếng đóng cửa vĩnh viễn gây tiếc nuối",
-      "link": "https://thanhnien.vn/truoc-them-2026-diem-lai-nhung-quan-an-noi-tieng-dong-cua-vinh-vien-gay-tiec-nuoi-185251228083846865.htm",
-      "pubDate": "Tue, 30 Dec 25 19:30:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/28/anh-man-hinh-2025-12-28-luc-082317-1766885667049754404117-81-0-886-1288-crop-17668857185621543845296.png",
-      "description": "Trước thềm 2026, nhiều quán ăn tại TP.HCM đóng cửa, trả mặt bằng nhận được nhiều sự quan tâm của thực khách. Có thể nói, 2025 là năm có nhiều thay đổi với ngành F&B khi nhiều quán ăn 'huyền thoại', nổi tiếng tại TP.HCM cũng như nhiều nơi nói lời tạm biệt thực khách, đóng cửa vĩnh viễn.",
-      "guid": "https://thanhnien.vn/truoc-them-2026-diem-lai-nhung-quan-an-noi-tieng-dong-cua-vinh-vien-gay-tiec-nuoi-185251228083846865.htm"
-    },
-    {
-      "title": "Bánh mì xốt gạch cua, bánh dép phô mai… khuấy đảo ẩm thực Việt năm 2025, còn gì nữa?",
-      "link": "https://thanhnien.vn/banh-mi-xot-gach-cua-banh-dep-pho-mai-khuay-dao-am-thuc-viet-nam-2025-con-gi-nua-185251222204432714.htm",
-      "pubDate": "Mon, 29 Dec 25 14:40:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/22/anh-man-hinh-2025-12-22-luc-202834-17664108433551016352687-38-0-1050-1620-crop-1766410939655501288764.png",
-      "description": "Bánh mì xốt gạch cua, khúc bạch vải thiều, bánh dép phô mai… là những món ăn từng được chia sẻ rầm rộ năm 2025. Trước thềm 2026, cùng nhìn lại loạt hot trend ẩm thực Việt khiến cộng đồng tò mò suốt năm qua.",
-      "guid": "https://thanhnien.vn/banh-mi-xot-gach-cua-banh-dep-pho-mai-khuay-dao-am-thuc-viet-nam-2025-con-gi-nua-185251222204432714.htm"
+      "guid": "https://thanhnien.vn/xe-banh-mi-chay-vuong-tron-cua-2-co-gai-bac-nam-185260106224524607.htm",
+      "categoryName": "Ẩm thực"
     }
   ]
 }

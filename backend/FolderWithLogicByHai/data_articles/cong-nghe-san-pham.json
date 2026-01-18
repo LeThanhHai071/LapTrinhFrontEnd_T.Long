@@ -3,87 +3,107 @@
   "categoryName": "Sản phẩm",
   "fullSlug": "cong-nghe-san-pham",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:05:04.366Z",
+  "lastUpdate": "2026-01-18T04:53:38.382Z",
   "articles": [
+    {
+      "title": "iPhone 18 Pro sắp có thiết kế chưa từng xuất hiện trên iPhone",
+      "link": "https://thanhnien.vn/iphone-18-pro-sap-co-thiet-ke-chua-tung-xuat-hien-tren-iphone-185260115110728716.htm",
+      "pubDate": "Thu, 15 Jan 26 11:22:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/1-17684498122261739546168-0-0-720-1152-crop-17684498155111433089381.jpg",
+      "imgClass": "img-resize",
+      "description": "Gần 4 tháng kể từ khi iPhone 17 ra mắt, những tin đồn về dòng iPhone 18 công bố vào mùa thu năm nay đã bắt đầu xuất hiện.",
+      "guid": "https://thanhnien.vn/iphone-18-pro-sap-co-thiet-ke-chua-tung-xuat-hien-tren-iphone-185260115110728716.htm",
+      "categoryName": "Sản phẩm"
+    },
+    {
+      "title": "CUKTECH mở rộng danh mục sản phẩm tại Việt Nam với trạm sạc để bàn 30 Ultra",
+      "link": "https://thanhnien.vn/cuktech-mo-rong-danh-muc-san-pham-tai-viet-nam-voi-tram-sac-de-ban-30-ultra-18526011408052876.htm",
+      "pubDate": "Wed, 14 Jan 26 08:01:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/a-1768352643802483783193-44-0-919-1400-crop-1768352664841630852479.jpg",
+      "imgClass": "img-resize",
+      "description": "CUKTECH - thương hiệu công nghệ thuộc hệ sinh thái Xiaomi, chuyên nghiên cứu và phát triển các giải pháp sạc nhanh - vừa chính thức giới thiệu CUKTECH 30 Ultra Charging Station tại thị trường Việt Nam. Đây là sản phẩm sạc để bàn đầu tiên của hãng, đánh dấu bước mở rộng quan trọng trong chiến lược phát triển danh mục sản phẩm cao cấp tại khu vực Đông Nam Á.",
+      "guid": "https://thanhnien.vn/cuktech-mo-rong-danh-muc-san-pham-tai-viet-nam-voi-tram-sac-de-ban-30-ultra-18526011408052876.htm",
+      "categoryName": "Sản phẩm"
+    },
+    {
+      "title": "Khi tai nghe giá rẻ không còn là 'tiền nào của nấy'",
+      "link": "https://thanhnien.vn/khi-tai-nghe-gia-re-khong-con-la-tien-nao-cua-nay-185260113110523928.htm",
+      "pubDate": "Wed, 14 Jan 26 07:28:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/1-176827681914039438931-0-101-562-1000-crop-17682768225251338317424.jpg",
+      "imgClass": "img-resize",
+      "description": "Khi tìm mua tai nghe để thưởng thức nhạc, sách nói, podcast và nhiều nội dung khác, người dùng thường cảm thấy choáng ngợp trước hàng loạt lựa chọn.",
+      "guid": "https://thanhnien.vn/khi-tai-nghe-gia-re-khong-con-la-tien-nao-cua-nay-185260113110523928.htm",
+      "categoryName": "Sản phẩm"
+    },
+    {
+      "title": "iPhone 17e sẽ thay đổi cách người dùng nhìn về iPhone tầm trung",
+      "link": "https://thanhnien.vn/iphone-17e-se-thay-doi-cach-nguoi-dung-nhin-ve-iphone-tam-trung-185260113140949714.htm",
+      "pubDate": "Tue, 13 Jan 26 14:50:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/1-1768287997390119431785-44-0-1294-2000-crop-1768288029030653089214.jpg",
+      "imgClass": "img-resize",
+      "description": "iPhone 17e mà Apple dự kiến ra mắt vào tháng 2 tới không được kỳ vọng sẽ mang đến những đột phá công nghệ, tuy nhiên sản phẩm vẫn rất hứa hẹn.",
+      "guid": "https://thanhnien.vn/iphone-17e-se-thay-doi-cach-nguoi-dung-nhin-ve-iphone-tam-trung-185260113140949714.htm",
+      "categoryName": "Sản phẩm"
+    },
+    {
+      "title": "Lô hàng điện thoại Nokia được chuyển đến người nhận sau 16 năm",
+      "link": "https://thanhnien.vn/lo-hang-dien-thoai-nokia-duoc-chuyen-den-nguoi-nhan-sau-16-nam-18526011311120293.htm",
+      "pubDate": "Tue, 13 Jan 26 11:33:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/dien-thoai-nokia-16-nam-17682778132051609312697-126-0-691-904-crop-17682778217801602432157.jpeg",
+      "imgClass": "img-resize",
+      "description": "Câu chuyện được chia sẻ trên nền tảng X khi người gửi và người nhận lô điện thoại Nokia ở cùng một thành phố nhưng đến 16 năm sau mới nhận được.",
+      "guid": "https://thanhnien.vn/lo-hang-dien-thoai-nokia-duoc-chuyen-den-nguoi-nhan-sau-16-nam-18526011311120293.htm",
+      "categoryName": "Tin tức công nghệ"
+    },
+    {
+      "title": "iPhone 18 có nguy cơ bị lu mờ bởi chính iPhone 17",
+      "link": "https://thanhnien.vn/iphone-18-co-nguy-co-bi-lu-mo-boi-chinh-iphone-17-185260113093515934.htm",
+      "pubDate": "Tue, 13 Jan 26 10:21:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/edit_photo_xzdosvyiaa-1768271672.jpg",
+      "imgClass": "img-resize",
+      "description": "Apple đang đứng trước một tình thế khó khăn khi iPhone 17 đã đáp ứng được kỳ vọng của người tiêu dùng.",
+      "guid": "https://thanhnien.vn/iphone-18-co-nguy-co-bi-lu-mo-boi-chinh-iphone-17-185260113093515934.htm",
+      "categoryName": "Sản phẩm"
+    },
     {
       "title": "Trải nghiệm Oppo Reno15 5G với AI Camera ưu việt và thiết kế đẳng cấp",
       "link": "https://thanhnien.vn/trai-nghiem-oppo-reno15-5g-voi-ai-camera-uu-viet-va-thiet-ke-dang-cap-185260110231615708.htm",
       "pubDate": "Sun, 11 Jan 26 13:30:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/img20260110131358-17680650175061813846711-32-0-1282-2000-crop-1768065787296274778141.jpg",
+      "imgClass": "img-resize",
       "description": "Oppo Reno15 5G là phiên bản tiêu chuẩn trong dòng Reno15 mới ra mắt, mức giá dễ tiếp cận nhưng vẫn chia sẻ ngôn ngữ thiết kế cao cấp, tập trung mạnh vào khả năng chụp hình chân dung và nền tảng ColorOS mới nhất.",
-      "guid": "https://thanhnien.vn/trai-nghiem-oppo-reno15-5g-voi-ai-camera-uu-viet-va-thiet-ke-dang-cap-185260110231615708.htm"
+      "guid": "https://thanhnien.vn/trai-nghiem-oppo-reno15-5g-voi-ai-camera-uu-viet-va-thiet-ke-dang-cap-185260110231615708.htm",
+      "categoryName": "Sản phẩm"
     },
     {
       "title": "Oppo ra mắt điện thoại 'mưa sao băng', giá từ 11,9 triệu đồng",
       "link": "https://thanhnien.vn/oppo-ra-mat-dien-thoai-mua-sao-bang-gia-tu-119-trieu-dong-185260111004642318.htm",
       "pubDate": "Sun, 11 Jan 26 11:46:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/oppo-reno-15-17680672606931623826176-29-0-1323-2070-crop-17680672677632019991303.png",
+      "imgClass": "img-resize",
       "description": "Oppo Reno15 series vừa chính thức ra mắt thị trường Việt Nam, gồm ba phiên bản Reno15 Pro 5G, Reno15 5G và Reno15F 5G với ngôn ngữ thiết kế \"mưa sao băng\", giá từ 11,9 triệu đồng.",
-      "guid": "https://thanhnien.vn/oppo-ra-mat-dien-thoai-mua-sao-bang-gia-tu-119-trieu-dong-185260111004642318.htm"
+      "guid": "https://thanhnien.vn/oppo-ra-mat-dien-thoai-mua-sao-bang-gia-tu-119-trieu-dong-185260111004642318.htm",
+      "categoryName": "Sản phẩm"
     },
     {
       "title": "Bộ đôi nubia V80 ra mắt, thiết kế trẻ trung, hỗ trợ AI",
       "link": "https://thanhnien.vn/bo-doi-nubia-v80-ra-mat-thiet-ke-tre-trung-ho-tro-ai-185260110235325181.htm",
       "pubDate": "Sun, 11 Jan 26 10:47:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/nubia-v80-1768065048242296301560-0-133-1267-2160-crop-1768065056515689195709.jpg",
+      "imgClass": "img-resize",
       "description": "nubia V80 Design và và V80 Max hướng đến nhóm khách hàng trẻ, cần thiết bị thời trang, thời lượng pin lâu, hỗ trợ AI với cấu hình tốt trong tầm giá.",
-      "guid": "https://thanhnien.vn/bo-doi-nubia-v80-ra-mat-thiet-ke-tre-trung-ho-tro-ai-185260110235325181.htm"
+      "guid": "https://thanhnien.vn/bo-doi-nubia-v80-ra-mat-thiet-ke-tre-trung-ho-tro-ai-185260110235325181.htm",
+      "categoryName": "Điện thoại"
     },
     {
       "title": "Tai nghe giá rẻ Trung Quốc chiếm lĩnh thị trường thiết bị âm thanh",
       "link": "https://thanhnien.vn/tai-nghe-gia-re-trung-quoc-chiem-linh-thi-truong-thiet-bi-am-thanh-185260108222618586.htm",
       "pubDate": "Fri, 09 Jan 26 14:59:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/1-17678858371411378692258-0-0-873-1397-crop-17678859082071137927185.jpg",
+      "imgClass": "img-resize",
       "description": "Khi nói đến thế giới âm thanh, hai từ \"giá rẻ\" và \"chất lượng cao\" dường như không bao giờ đi cùng nhau. Nhưng tai nghe giá rẻ Trung Quốc lại khác.",
-      "guid": "https://thanhnien.vn/tai-nghe-gia-re-trung-quoc-chiem-linh-thi-truong-thiet-bi-am-thanh-185260108222618586.htm"
-    },
-    {
-      "title": "vivo 'chiến' độ bền và pin dung lượng lớn với mẫu Y31d",
-      "link": "https://thanhnien.vn/vivo-chien-do-ben-va-pin-dung-luong-lon-voi-mau-y31d-18526010913202729.htm",
-      "pubDate": "Fri, 09 Jan 26 14:30:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/image3-1767939057537864395215-112-18-1223-1796-crop-17679390696121422668677.jpg",
-      "description": "Mẫu điện thoại mới trong dòng Y của vivo được thiết kế để đáp ứng nhu cầu sử dụng dài hạn và ổn định.",
-      "guid": "https://thanhnien.vn/vivo-chien-do-ben-va-pin-dung-luong-lon-voi-mau-y31d-18526010913202729.htm"
-    },
-    {
-      "title": "Những công nghệ đột phá vừa xuất hiện tại CES 2026",
-      "link": "https://thanhnien.vn/nhung-cong-nghe-dot-pha-vua-xuat-hien-tai-ces-2026-185260108113849918.htm",
-      "pubDate": "Thu, 08 Jan 26 19:11:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/ces-2026cong-nghe-1767847407014404407882-0-148-1080-1876-crop-17678474158851018396300.png",
-      "description": "Robot hút bụi leo cầu thang, tai nghe tích hợp camera AI, laptop cuộn hay TV không viền màn hình là những thiết bị công nghệ ấn tượng vừa trình diễn tại CES 2026.",
-      "guid": "https://thanhnien.vn/nhung-cong-nghe-dot-pha-vua-xuat-hien-tai-ces-2026-185260108113849918.htm"
-    },
-    {
-      "title": "Dell hồi sinh thương hiệu XPS cao cấp",
-      "link": "https://thanhnien.vn/dell-hoi-sinh-thuong-hieu-xps-cao-cap-185260108153813931.htm",
-      "pubDate": "Thu, 08 Jan 26 16:07:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/1-1767861230794242717240-0-41-438-742-crop-17678612349331871254126.jpg",
-      "description": "Một tin vui cho những người hâm mộ Dell và đam mê laptop khi công ty Mỹ đã đưa dòng sản phẩm XPS trở lại với hai mẫu XPS 14 và XPS 16.",
-      "guid": "https://thanhnien.vn/dell-hoi-sinh-thuong-hieu-xps-cao-cap-185260108153813931.htm"
-    },
-    {
-      "title": "Intel tham vọng dẫn dắt kỷ nguyên PC AI với chip Core Ultra Series 3",
-      "link": "https://thanhnien.vn/intel-tham-vong-dan-dat-ky-nguyen-pc-ai-voi-chip-core-ultra-series-3-185260107160624028.htm",
-      "pubDate": "Wed, 07 Jan 26 16:35:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/chip-intel-core-ultra-series-3thanh-nien00004-17677760619091740188041-293-0-1893-2560-crop-17677769458001209721673.jpg",
-      "description": "Dòng chip Core Ultra Series 3 của Intel có hiệu năng xử lý đồ họa vượt trội và thời lượng pin đột phá hứa hẹn sẽ mở ra chương mới của PC AI trong năm 2026.",
-      "guid": "https://thanhnien.vn/intel-tham-vong-dan-dat-ky-nguyen-pc-ai-voi-chip-core-ultra-series-3-185260107160624028.htm"
-    },
-    {
-      "title": "Motorola Signature trình làng với cấu hình khủng, hỗ trợ đến 7 năm",
-      "link": "https://thanhnien.vn/motorola-signature-trinh-lang-voi-cau-hinh-khung-ho-tro-den-7-nam-18526010713323583.htm",
-      "pubDate": "Wed, 07 Jan 26 15:27:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/1-1767767157436534197537-23-0-773-1200-crop-1767767166211415439265.jpg",
-      "description": "Sau nhiều tuần rò rỉ thông tin, Motorola đã chính thức giới thiệu chiếc điện thoại cao cấp mới mang tên Motorola Signature.",
-      "guid": "https://thanhnien.vn/motorola-signature-trinh-lang-voi-cau-hinh-khung-ho-tro-den-7-nam-18526010713323583.htm"
-    },
-    {
-      "title": "Honor Power 2 gây ấn tượng với pin siêu lớn trong thiết kế mảnh mai",
-      "link": "https://thanhnien.vn/honor-power-2-gay-an-tuong-voi-pin-sieu-lon-trong-thiet-ke-manh-mai-185260106001847572.htm",
-      "pubDate": "Tue, 06 Jan 26 07:19:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/5/1-17676332762761058493905-27-0-590-900-crop-17676332798401637512564.jpg",
-      "description": "Honor tiếp tục gây chú ý trên thị trường sau khi ra mắt mẫu smartphone Honor Power 2 nổi bật với pin lớn trong một kích thước mỏng bất ngờ.",
-      "guid": "https://thanhnien.vn/honor-power-2-gay-an-tuong-voi-pin-sieu-lon-trong-thiet-ke-manh-mai-185260106001847572.htm"
+      "guid": "https://thanhnien.vn/tai-nghe-gia-re-trung-quoc-chiem-linh-thi-truong-thiet-bi-am-thanh-185260108222618586.htm",
+      "categoryName": "Sản phẩm"
     }
   ]
 }

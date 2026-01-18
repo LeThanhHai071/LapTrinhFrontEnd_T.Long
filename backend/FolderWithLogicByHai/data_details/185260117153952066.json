@@ -1,0 +1,80 @@
+{
+  "title": "Vì sao smartphone không dùng vẫn hao pin?",
+  "categories": [
+    "Công nghệ",
+    "Thủ thuật"
+  ],
+  "sapo": "Việc pin smartphone hao nhanh trong quá trình sử dụng là điều bình thường, đặc biệt là do màn hình tiêu tốn nhiều năng lượng.",
+  "publishDate": "18/01/2026 10:48 GMT+7",
+  "author": {
+    "name": "Kiến Văn",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/Uploaded/authors/CTV/kienvan_WULL.jpg",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Tuy nhiên, nhiều người có thể đang thắc mắc tại sao pin smartphone lại tụt nhanh ngay cả khi không sử dụng, chẳng hạn như khi ngủ. Trong thực tế, smartphone vẫn thực hiện nhiều tác vụ tiêu hao pin ngay cả khi không được sử dụng. Dù một chút hao hụt là bình thường, nhưng nếu pin giảm mạnh, điều đó có thể là dấu hiệu của các vấn đề cần khắc phục."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/17/1-1768638785556211447509.jpg"
+      ],
+      "caption": "Có nhiều lý do khác nhau khiến pin smartphone bị tụt ngay cả khi không sử dụng"
+    },
+    {
+      "type": "h2",
+      "content": "Tín hiệu kém"
+    },
+    {
+      "type": "text",
+      "content": "Một trong những nguyên nhân chính gây hao pin là tín hiệu kém. Các bộ phận thu phát sóng bên trong điện thoại, đặc biệt là bộ thu phát sóng di động, tiêu tốn nhiều năng lượng. Khi kết nối ổn định, mức tiêu hao pin không đáng kể, nhưng khi tín hiệu yếu, điện thoại sẽ liên tục tìm kiếm kết nối tốt hơn và dẫn đến việc tiêu tốn nhiều năng lượng. Để tiết kiệm pin, người dùng nên bật chế độ máy bay khi ở nơi không có sóng di động."
+    },
+    {
+      "type": "h2",
+      "content": "Các ứng dụng chạy ngầm"
+    },
+    {
+      "type": "text",
+      "content": "Nhiều ứng dụng vẫn hoạt động trong nền ngay cả khi người dùng không sử dụng điện thoại. Chúng có nhiệm vụ đồng bộ dữ liệu, kiểm tra thông báo và thực hiện các tác vụ khác, điều này dẫn đến tiêu hao pin. Để kiểm soát vấn đề, người dùng nên kiểm tra các ứng dụng tiêu tốn nhiều pin và tắt tính năng làm mới nền cho những ứng dụng không cần thiết."
+    },
+    {
+      "type": "h2",
+      "content": "Thông báo làm sáng màn hình"
+    },
+    {
+      "type": "text",
+      "content": "Mỗi khi nhận thông báo, màn hình điện thoại sẽ tự động bật lên gây hao pin. Để giảm thiểu tình trạng này, người dùng có thể đặt điện thoại úp xuống hoặc thiết lập chế độ tập trung để tắt các thông báo không mong muốn."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/17/2-17686390225022012437994.jpg"
+      ],
+      "caption": "Việc nhận quá nhiều thông báo cũng khiến pin smartphone nhanh cạn"
+    },
+    {
+      "type": "h2",
+      "content": "Lỗi phần mềm smartphone"
+    },
+    {
+      "type": "text",
+      "content": "Các sự cố phần mềm cũng có thể gây hao pin. Việc khởi động lại điện thoại thường xuyên và cài đặt các bản cập nhật mới nhất được xem là cách hiệu quả để khắc phục vấn đề này."
+    },
+    {
+      "type": "h2",
+      "content": "Tình trạng pin"
+    },
+    {
+      "type": "text",
+      "content": "Cuối cùng, nếu pin điện thoại đã sử dụng lâu, khả năng giữ điện năng sẽ giảm. Khi pin còn 80% dung lượng, nó được coi là đã hỏng và cần thay thế. Người dùng nên kiểm tra tình trạng pin trong phần cài đặt để xác định xem có cần thay pin hay không."
+    },
+    {
+      "type": "text",
+      "content": "Bằng cách kiểm tra các nguyên nhân phổ biến và sử dụng menu về tình trạng sử dụng pin trên cả Android và iOS, người dùng có thể tìm ra lý do tại sao điện thoại của mình hao pin nhanh chóng. Nếu tình trạng này tiếp diễn, hãy thực hiện một số thử nghiệm để xác định nguyên nhân cụ thể và tìm ra giải pháp phù hợp."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/vi-sao-smartphone-khong-dung-van-hao-pin-185260117153952066.htm",
+  "id": "185260117153952066"
+}

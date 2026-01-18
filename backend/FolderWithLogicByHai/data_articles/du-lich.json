@@ -3,87 +3,107 @@
   "categoryName": "Du lịch",
   "fullSlug": "du-lich",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:03:09.218Z",
+  "lastUpdate": "2026-01-18T04:52:39.063Z",
   "articles": [
     {
-      "title": "Báo Thái: Hòn đảo này của Việt Nam đẹp như phim, đáng khám phá nhất Đông Nam Á",
-      "link": "https://thanhnien.vn/bao-thai-hon-dao-nay-cua-viet-nam-dep-nhu-phim-dang-kham-pha-nhat-dong-nama-185260112085122004.htm",
-      "pubDate": "Mon, 12 Jan 26 08:54:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/k71-175126270006681288445-1768182423244306555046-0-78-1410-2334-crop-17681826175171096472059.jpg",
-      "description": "Trong bối cảnh nhiều điểm nóng du lịch như Bangkok hay Bali đang quá tải khách, báo Khaosod English của Thái Lan vừa tổ chức bình chọn danh sách 'Top 10 điểm đến còn nguyên sơ, đáng khám phá nhất Đông Nam Á năm 2026'.",
-      "guid": "https://thanhnien.vn/bao-thai-hon-dao-nay-cua-viet-nam-dep-nhu-phim-dang-kham-pha-nhat-dong-nama-185260112085122004.htm"
+      "title": "Campuchia miễn thị thực cho du khách Trung Quốc",
+      "link": "https://thanhnien.vn/campuchia-mien-thi-thuc-cho-du-khach-trung-quoc-185260118074749127.htm",
+      "pubDate": "Sun, 18 Jan 26 08:07:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/18/1000056859-17686976089251652850357-0-0-408-653-crop-1768697680171841054315.jpg",
+      "imgClass": "img-resize",
+      "description": "Campuchia sẽ triển khai chương trình thí điểm miễn thị thực cho công dân Trung Quốc vào mùa hè này như một phần trong nỗ lực chiến lược nhằm khôi phục đà phát triển của ngành du lịch và khả năng cạnh tranh khu vực.",
+      "guid": "https://thanhnien.vn/campuchia-mien-thi-thuc-cho-du-khach-trung-quoc-185260118074749127.htm",
+      "categoryName": "Tin tức - Sự kiện"
     },
     {
-      "title": "Phát hiện 'bất thường' khi tìm kiếm máy bay mất tích MH370",
-      "link": "https://thanhnien.vn/phat-hien-bat-thuong-khi-tim-kiem-may-bay-mat-tich-mh370-185260112074152888.htm",
-      "pubDate": "Mon, 12 Jan 26 08:53:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/1000056802-17681786662681669192854-15-0-399-615-crop-17681788069521638549041.jpg",
-      "description": "Những người đang theo dõi cuộc tìm kiếm chuyến bay mất tích MH370 tin rằng các tàu đang rà soát Ấn Độ Dương có 'hành vi bất thường'.",
-      "guid": "https://thanhnien.vn/phat-hien-bat-thuong-khi-tim-kiem-may-bay-mat-tich-mh370-185260112074152888.htm"
+      "title": "Những cảnh đẹp thế giới có thật nhưng trông như do AI tạo ra",
+      "link": "https://thanhnien.vn/nhung-canh-dep-the-gioi-co-that-nhung-trong-nhu-do-ai-tao-ra-185260114120231694.htm",
+      "pubDate": "Sun, 18 Jan 26 07:40:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/anh-15-1768367189276893547474-17-0-454-700-crop-1768375023392142493487.jpg",
+      "imgClass": "img-resize",
+      "description": "Chưa bao giờ có nhiều hình ảnh giả mạo trên mạng như hiện nay. Các chuyên gia cảnh báo mọi người rằng \"hình ảnh do AI tạo ra\" sẽ ngày càng trở thành vấn đề lớn hơn trong những năm tới.",
+      "guid": "https://thanhnien.vn/nhung-canh-dep-the-gioi-co-that-nhung-trong-nhu-do-ai-tao-ra-185260114120231694.htm",
+      "categoryName": "Khám phá"
     },
     {
-      "title": "Vietravel chính thức vận hành Hué Plaza, điểm đến du lịch độc đáo",
-      "link": "https://thanhnien.vn/vietravel-chinh-thuc-van-hanh-hue-plaza-diem-den-du-lich-doc-dao-185260111120733454.htm",
-      "pubDate": "Sun, 11 Jan 26 15:09:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/edit-z7419201599311dbadfab4f0d13f9e13c3774fe32c78ad-1768109271567807888982-86-0-883-1275-crop-1768109289268969298972.jpeg",
-      "description": "Hué Plaza chính thức đi vào hoạt động, mang đến trải nghiệm du lịch, mua sắm và văn hóa đặc sắc tại cố đô Huế.",
-      "guid": "https://thanhnien.vn/vietravel-chinh-thuc-van-hanh-hue-plaza-diem-den-du-lich-doc-dao-185260111120733454.htm"
+      "title": "Việt Nam đang chuẩn bị gì cho 'giấc mơ' World Cup?",
+      "link": "https://thanhnien.vn/viet-nam-dang-chuan-bi-gi-cho-giac-mo-world-cup-185260117174137814.htm",
+      "pubDate": "Sat, 17 Jan 26 17:57:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/khu-lien-hop-the-duc-the-thao-quoc-gia-rach-chiec-1-176864635571028551144-0-26-900-1466-crop-17686464227491599716979.jpg",
+      "imgClass": "img-resize",
+      "description": "Thể thao Việt Nam đang bước vào giai đoạn phát triển mới, gắn chặt giữa thành tích thi đấu và chiến lược đầu tư dài hạn về hạ tầng. Cùng với sự trưởng thành rõ nét của các đội tuyển quốc gia, định hướng xây dựng các khu liên hợp thể thao quy mô lớn đang mở ra những tiền đề quan trọng để Việt Nam tiến gần hơn tới khả năng đăng cai những sự kiện thể thao lớn nhất hành tinh như World Cup hay Olympic.",
+      "guid": "https://thanhnien.vn/viet-nam-dang-chuan-bi-gi-cho-giac-mo-world-cup-185260117174137814.htm",
+      "categoryName": "Câu chuyện du lịch"
     },
     {
-      "title": "Nhiều người chọn 'xuân này không về' vì giá vé máy bay bằng cả tháng lương",
-      "link": "https://thanhnien.vn/nhieu-nguoi-chon-xuan-nay-khong-ve-vi-gia-ve-may-bay-bang-ca-thang-luong-185260111120648745.htm",
-      "pubDate": "Sun, 11 Jan 26 12:49:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/screenshot-2026-01-11-at-120054-1768107692997304389084-275-0-1372-1756-crop-17681077680621832000365.png",
-      "description": "Đến hẹn lại lên, mùa Tết Nguyên đán tới gần cũng là lúc người lao động đến 'mùa đau đầu' vì mua vé về quê. Năm nay, dù thị trường hàng không sôi động hơn nhiều khi số lượng tàu bay và tải cung ứng tăng lên, song giá vé máy bay vẫn cao ngất ngưởng.",
-      "guid": "https://thanhnien.vn/nhieu-nguoi-chon-xuan-nay-khong-ve-vi-gia-ve-may-bay-bang-ca-thang-luong-185260111120648745.htm"
+      "title": "Bất ngờ với xếp hạng top 10 món ngon nhất Việt Nam",
+      "link": "https://thanhnien.vn/bat-ngo-voi-xep-hang-top-10-mon-ngon-nhat-viet-nam-185260116143357848.htm",
+      "pubDate": "Sat, 17 Jan 26 08:46:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/anh-9-17685490376551961429177-0-68-830-1396-crop-1768550146486125949755.jpg",
+      "imgClass": "img-resize",
+      "description": "Trang ẩm thực TasteAtlas vừa gây bất ngờ với bảng xếp hạng 100 món ngon nhất Việt Nam, đặc biệt ở danh sách top 10.",
+      "guid": "https://thanhnien.vn/bat-ngo-voi-xep-hang-top-10-mon-ngon-nhat-viet-nam-185260116143357848.htm",
+      "categoryName": "Câu chuyện du lịch"
     },
     {
-      "title": "Lâm Đồng có thêm khu nghỉ dưỡng cao cấp",
-      "link": "https://thanhnien.vn/lam-dong-co-them-khu-nghi-duong-cao-cap-185260111092523126.htm",
-      "pubDate": "Sun, 11 Jan 26 10:10:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/anh-man-hinh-2026-01-11-luc-091415-176809802521497699138-223-0-1354-1810-crop-17680981334771993995326.png",
-      "description": "Cách TP.HCM khoảng 2 giờ 30 phút di chuyển, khu nghỉ dưỡng Costamigo do Best Western vận hành vừa chính thức ra mắt tại Lâm Đồng, mở thêm lựa chọn lưu trú cao cấp ven biển cho du khách phía Nam.",
-      "guid": "https://thanhnien.vn/lam-dong-co-them-khu-nghi-duong-cao-cap-185260111092523126.htm"
+      "title": "Phố phường TP.HCM rực rỡ sắc xuân",
+      "link": "https://thanhnien.vn/pho-phuong-tphcm-ruc-ro-sac-xuan-185260116184034391.htm",
+      "pubDate": "Sat, 17 Jan 26 04:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/vuon-hoa-ba-son-thanh-diem-check-in-moi-sieu-hot-cua-nguoi-dan-tphcmanh-nhat-thinh-online-17685629854971532391841-41-0-681-1024-crop-1768563166777527841115.jpg",
+      "imgClass": "img-resize",
+      "description": "Còn 1 tháng nữa mới tới Tết Nguyên đán 2026 nhưng thời điểm này, TP.HCM đã khoác lên mình tấm áo xuân rực rỡ, tràn đầy khí thế bước vào kỷ nguyên mới.",
+      "guid": "https://thanhnien.vn/pho-phuong-tphcm-ruc-ro-sac-xuan-185260116184034391.htm",
+      "categoryName": "Câu chuyện du lịch"
     },
     {
-      "title": "Chuỗi khách sạn 5 sao làm gì để đón khách Việt dịp Tết Nguyên đán?",
-      "link": "https://thanhnien.vn/chuoi-khach-san-5-sao-lam-gi-de-don-khach-viet-dip-tet-nguyen-dan-185260110084850257.htm",
-      "pubDate": "Sat, 10 Jan 26 11:30:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/anh-man-hinh-2026-01-10-luc-084348-1768009445403114938366-0-0-1149-1838-crop-17680094965761507978380.png",
-      "description": "Tết Nguyên đán 2026 chứng kiến sự dịch chuyển rõ rệt trong cách người Việt. Bên cạnh việc về quê truyền thống, du lịch nghỉ dưỡng và kỳ nghỉ ngắn trong nước đang trở thành xu hướng được nhiều gia đình ưu tiên nhằm kết hợp trải nghiệm và thời gian bên nhau.",
-      "guid": "https://thanhnien.vn/chuoi-khach-san-5-sao-lam-gi-de-don-khach-viet-dip-tet-nguyen-dan-185260110084850257.htm"
+      "title": "Báo Anh chọn Việt Nam vào top kỳ nghỉ tuyệt nhất thế giới năm 2026",
+      "link": "https://thanhnien.vn/bao-anh-chon-viet-nam-vao-top-ky-nghi-tuyet-nhat-the-gioi-nam-2026-1852601131445089.htm",
+      "pubDate": "Fri, 16 Jan 26 08:46:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/ha-noi-17682904435591819576260.jpg",
+      "imgClass": "img-resize",
+      "description": "Tờ báo hàng đầu nước Anh Telegraph bình chọn 50 kỳ nghỉ dành cho gia đình tốt nhất năm 2026, trong đó có Việt Nam.",
+      "guid": "https://thanhnien.vn/bao-anh-chon-viet-nam-vao-top-ky-nghi-tuyet-nhat-the-gioi-nam-2026-1852601131445089.htm",
+      "categoryName": "Khám phá"
     },
     {
-      "title": "Phá dỡ 5 bàn tay khổng lồ trên biển Hải Tiến",
-      "link": "https://thanhnien.vn/pha-do-5-ban-tay-khong-lo-tren-bien-hai-tien-185260110094813724.htm",
-      "pubDate": "Sat, 10 Jan 26 10:18:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/clt06308-1768012463843207774622-0-19-2400-3859-crop-1768013140359228688117.jpg",
-      "description": "5 bàn tay khổng lồ chới với trên bãi biển Hải Tiến (Thanh Hóa) từng gây nhiều tai tiếng đã được phá bỏ sau gần 3 năm xây dựng.",
-      "guid": "https://thanhnien.vn/pha-do-5-ban-tay-khong-lo-tren-bien-hai-tien-185260110094813724.htm"
+      "title": "Thay đổi logo để bắt nhịp xu thế nhận diện thương hiệu lữ hành quốc tế",
+      "link": "https://thanhnien.vn/thay-doi-logo-de-bat-nhip-xu-the-nhan-dien-thuong-hieu-lu-hanh-quoc-te-185260115154707372.htm",
+      "pubDate": "Thu, 15 Jan 26 20:12:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/logo-bst-17684668645761715149133-0-3-1165-1867-crop-17684670305261083868589.jpg",
+      "imgClass": "img-resize",
+      "description": "Công ty cổ phần Blue Sky Travel JSC - doanh nghiệp quản lý lữ hành, đã quyết định thay đổi logo, từ tên đầy đủ sang hình thức viết tắt, đơn giản hóa để bắt nhịp với xu thế nhận diện thương hiệu quốc tế, nơi các thương hiệu lớn hướng đến tính cô đọng, dễ nhớ, dễ nhận diện và linh hoạt trên đa nền tảng số.",
+      "guid": "https://thanhnien.vn/thay-doi-logo-de-bat-nhip-xu-the-nhan-dien-thuong-hieu-lu-hanh-quoc-te-185260115154707372.htm",
+      "categoryName": "Tin tức - Sự kiện"
     },
     {
-      "title": "Cậu bé đi du lịch nhiều nhất thế giới, 7 tuổi đặt chân đến 7 châu lục",
-      "link": "https://thanhnien.vn/cau-be-di-du-lich-nhieu-nhat-the-gioi-7-tuoi-dat-chan-den-7-chau-luc-185260106220046613.htm",
-      "pubDate": "Sat, 10 Jan 26 08:53:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/6/1000056676-17677118753591750465415-70-0-1320-2000-crop-17677119060611209942458.jpg",
-      "description": "Trong khi hầu hết trẻ em đang học bảng cửu chương, Wilder McGraw đã đặt chân đến cả 7 lục địa - bao gồm Nam Cực. Nhưng, hành trình của cậu cũng gây nhiều tranh cãi.",
-      "guid": "https://thanhnien.vn/cau-be-di-du-lich-nhieu-nhat-the-gioi-7-tuoi-dat-chan-den-7-chau-luc-185260106220046613.htm"
+      "title": "Bảo tàng Phở chính thức mở cửa đón khách, giá vé có thay đổi?",
+      "link": "https://thanhnien.vn/bao-tang-pho-chinh-thuc-mo-cua-don-khach-gia-ve-co-thay-doi-185260115121911952.htm",
+      "pubDate": "Thu, 15 Jan 26 13:55:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/anh-man-hinh-2026-01-15-luc-120755-17684537236421059876691-32-0-1183-1842-crop-1768454176310181594371.png",
+      "imgClass": "img-resize",
+      "description": "Sáng 15.1, Công ty cổ phần Điểm đến Du lịch Việt Nam chính thức khai trương Bảo tàng Phở (Phở Museum) tại số 211 Nguyễn Thái Học, P.Bến Thành, TP.HCM. Đây là bảo tàng ẩm thực ngoài công lập đầu tiên tại Việt Nam, do Sở Văn hóa và Thể thao TP.HCM cấp phép hoạt động.",
+      "guid": "https://thanhnien.vn/bao-tang-pho-chinh-thuc-mo-cua-don-khach-gia-ve-co-thay-doi-185260115121911952.htm",
+      "categoryName": "Du lịch"
     },
     {
-      "title": "TP.HCM có thêm nhiều 'tọa độ xanh' đón xuân",
-      "link": "https://thanhnien.vn/tphcm-co-them-nhieu-toa-do-xanh-don-xuan-185260109220141793.htm",
-      "pubDate": "Sat, 10 Jan 26 06:29:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/photo-1767970669354-17679706697541445012687-22-0-422-640-crop-17679706913121472931893.jpeg",
-      "description": "Bên cạnh đường hoa Nguyễn Huệ hoành tráng và những điểm chơi xuân quen thuộc, năm nay người dân TP.HCM sẽ đón Tết Bính Ngọ 2026 rực rỡ với hàng chục điểm check-in mới ngập tràn sắc hoa.",
-      "guid": "https://thanhnien.vn/tphcm-co-them-nhieu-toa-do-xanh-don-xuan-185260109220141793.htm"
+      "title": "Du thuyền hạng sang bất ngờ 'chỉ dành cho người lớn'",
+      "link": "https://thanhnien.vn/du-thuyen-hang-sang-bat-ngo-chi-danh-cho-nguoi-lon-185260112110505441.htm",
+      "pubDate": "Thu, 15 Jan 26 08:48:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/du-thuyen-1768190914384624644686-0-25-612-1004-crop-17681909271761362297077.jpg",
+      "imgClass": "img-resize",
+      "description": "Một hãng du thuyền quy mô lớn chính thức chuyển sang mô hình 'chỉ dành cho người lớn', gia nhập nhóm các thương hiệu đang ngày càng phát triển với xu hướng du khách tìm kiếm sự yên tĩnh hơn là các hoạt động thân thiện với trẻ em.",
+      "guid": "https://thanhnien.vn/du-thuyen-hang-sang-bat-ngo-chi-danh-cho-nguoi-lon-185260112110505441.htm",
+      "categoryName": "Câu chuyện du lịch"
     },
     {
-      "title": "New York Times: Việt Nam là cường quốc du lịch đang lên, top 52 điểm đến 2026",
-      "link": "https://thanhnien.vn/new-york-times-viet-nam-la-cuong-quoc-du-lich-dang-len-top-52-diem-den-2026-185260109111633521.htm",
-      "pubDate": "Fri, 09 Jan 26 11:21:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/cap-treo-hon-thom-1767931273842809343692-0-155-894-1585-crop-1767932150780811517443.jpg",
-      "description": "Việt Nam vừa được New York Times - một trong những tờ báo được đọc nhiều nhất thế giới - bình chọn là một trong 52 điểm đến cho năm 2026. Đáng chú ý, để minh họa cho du lịch Việt Nam, Ban biên tập của New York Times đã chọn cáp treo Hòn Thơm ở Phú Quốc thay vì những hình ảnh truyền thống.",
-      "guid": "https://thanhnien.vn/new-york-times-viet-nam-la-cuong-quoc-du-lich-dang-len-top-52-diem-den-2026-185260109111633521.htm"
+      "title": "Tây Ninh tổ chức 14 điểm bắn pháo hoa đêm giao thừa mừng năm mới",
+      "link": "https://thanhnien.vn/tay-ninh-to-chuc-14-diem-ban-phao-hoa-dem-giao-thua-mung-nam-moi-185260114153152459.htm",
+      "pubDate": "Wed, 14 Jan 26 15:55:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/tay-ninh-ban-phao-hoa-2-17683790773602090508111-0-23-371-617-crop-17683792283171602483987.jpg",
+      "imgClass": "img-resize",
+      "description": "Để chào mừng Tết Nguyên đán Bính Ngọ 2026, tỉnh Tây Ninh sẽ bắn pháo hoa ở 14 xã, phường trên địa bàn.",
+      "guid": "https://thanhnien.vn/tay-ninh-to-chuc-14-diem-ban-phao-hoa-dem-giao-thua-mung-nam-moi-185260114153152459.htm",
+      "categoryName": "Du lịch"
     }
   ]
 }

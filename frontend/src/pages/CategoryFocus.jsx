@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const CategoryFocus = ({ data }) => {
   // Kiểm tra nếu chưa có dữ liệu
@@ -29,24 +30,24 @@ const CategoryFocus = ({ data }) => {
                 className="item-first"
                 data-id={`/article/${getArticleId(mainArticle.link)}`}
               >
-                <a
+                <Link
                   className="box-category-link-with-avatar img-resize"
-                  href={`/article/${getArticleId(mainArticle.link)}`}
+                  to={`/article/${getArticleId(mainArticle.link)}`}
                 >
                   <img
                     src={mainArticle.imageURL}
                     alt={mainArticle.title}
                     className="box-category-avatar"
                   />
-                </a>
+                </Link>
                 <div className="box-category-content">
                   <h2 className="box-title-text">
-                    <a
+                    <Link
                       className="box-category-link-title"
-                      href={mainArticle.link}
+                      to={`/article/${getArticleId(mainArticle.link)}`}
                     >
                       {mainArticle.title}
-                    </a>
+                    </Link>
                   </h2>
                   <div className="box-category-sapo d-block">
                     {mainArticle.description}
@@ -59,25 +60,28 @@ const CategoryFocus = ({ data }) => {
             <div className="item-related">
               {sidebarArticles.map((item, index) => (
                 <div
-                  key={index}
+                  key={item.id}
                   className="box-category-item"
                   data-id={getArticleId(item.link)}
                 >
-                  <a
+                  <Link
                     className="box-category-link-with-avatar img-resize"
-                    href={item.link}
+                    to={`/article/${getArticleId(item.link)}`}
                   >
                     <img
                       src={item.imageURL}
                       alt={item.title}
                       className="box-category-avatar"
                     />
-                  </a>
+                  </Link>
                   <div className="box-category-content">
                     <h3 className="box-title-text">
-                      <a className="box-category-link-title" href={item.link}>
+                      <Link
+                        className="box-category-link-title"
+                        to={`/article/${getArticleId(item.link)}`}
+                      >
                         {item.title}
-                      </a>
+                      </Link>
                     </h3>
                   </div>
                 </div>
@@ -91,23 +95,23 @@ const CategoryFocus = ({ data }) => {
               <div
                 key={index}
                 className="box-category-item"
-                data-id={getArticleId(item.link)}
+                data-id={`/article/${getArticleId(item.link)}`}
               >
-                <a
+                <Link
                   className="box-category-link-with-avatar img-resize"
-                  href={item.link}
+                  to={`/article/${getArticleId(item.link)}`}
                 >
                   <img
                     src={item.imageURL}
                     alt={item.title}
                     className="box-category-avatar"
                   />
-                </a>
+                </Link>
                 <div className="box-category-content">
                   <h3 className="box-title-text">
-                    <a className="box-category-link-title" href={item.link}>
+                    <Link className="box-category-link-title" to={`/article/${getArticleId(item.link)}`}>
                       {item.title}
-                    </a>
+                    </Link>
                   </h3>
                 </div>
               </div>

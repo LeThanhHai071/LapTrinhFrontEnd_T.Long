@@ -3,87 +3,107 @@
   "categoryName": "Quân sự",
   "fullSlug": "the-gioi-quan-su",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:01:49.521Z",
+  "lastUpdate": "2026-01-18T04:51:06.314Z",
   "articles": [
+    {
+      "title": "Chiến sự Ukraine ngày 1.424: Ukraine đàm phán với Mỹ, tình báo dự đoán động thái Nga",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1424-ukraine-dam-phan-voi-my-tinh-bao-du-doan-dong-thai-nga-185260117210614499.htm",
+      "pubDate": "Sun, 18 Jan 26 05:49:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/2026-01-16t081053z-2141342036-rc282jafz6dq-rtrmadp-3-ukraine-crisis-chasiv-yar-17686607368371263947271-0-0-1250-2000-crop-17686607555622137920901.jpg",
+      "imgClass": "img-resize",
+      "description": "Giới chức Ukraine thông tin về những dự báo tình hình chiến sự sắp tới, trong khi tiếp tục hoạt động ngoại giao nhằm tìm giải pháp chấm dứt xung đột.",
+      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1424-ukraine-dam-phan-voi-my-tinh-bao-du-doan-dong-thai-nga-185260117210614499.htm",
+      "categoryName": "Quân sự"
+    },
+    {
+      "title": "Chiến sự Ukraine ngày 1.423: Kyiv sắp cạn năng lượng, ông Zelensky đáp trả ông Trump",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1423-kyiv-sap-can-nang-luong-ong-zelensky-dap-tra-ong-trump-185260116113325733.htm",
+      "pubDate": "Sat, 17 Jan 26 04:31:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/2026-01-16t081044z508732718rc282ja4f86wrtrmadp3ukraine-crisis-chasiv-yar-17685736833391374392522-58-0-1658-2560-crop-1768573862671230188909.jpg",
+      "imgClass": "img-resize",
+      "description": "Ukraine cho biết nguồn năng lượng dự trữ chỉ còn đủ dùng cho hơn 20 ngày trong khi các đợt tấn công hạ tầng tiếp diễn giữa mùa đông khắc nghiệt.",
+      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1423-kyiv-sap-can-nang-luong-ong-zelensky-dap-tra-ong-trump-185260116113325733.htm",
+      "categoryName": "Quân sự"
+    },
+    {
+      "title": "Chiến sự Ukraine ngày 1.421: Kyiv mất điện giữa mùa đông, diễn biến nóng ở biển Đen",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1421-kyiv-mat-dien-giua-mua-dong-dien-bien-nong-o-bien-den-185260114212024795.htm",
+      "pubDate": "Thu, 15 Jan 26 04:30:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/afp2026011492lz79ev2highresukrainerussiaconflictwar-17683829820641517147941-467-287-1312-1639-crop-17684004227371004984735.jpg",
+      "imgClass": "img-resize",
+      "description": "Nhiều khu vực tại Kyiv bị mất điện và sưởi ấm trong cái lạnh 14 độ C, trong khi hai tàu chở dầu bị tấn công trên biển Đen khi trên đường đến một cảng của Nga.",
+      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1421-kyiv-mat-dien-giua-mua-dong-dien-bien-nong-o-bien-den-185260114212024795.htm",
+      "categoryName": "Quân sự"
+    },
+    {
+      "title": "Căn cứ quân Mỹ ở Qatar sơ tán một phần sau lời đe dọa của Iran",
+      "link": "https://thanhnien.vn/can-cu-quan-my-o-qatar-so-tan-mot-phan-sau-loi-de-doa-cua-iran-185260114172303705.htm",
+      "pubDate": "Thu, 15 Jan 26 00:23:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/al-17683861223071566881952-0-143-1005-1751-crop-17683861508801330233629.jpg",
+      "imgClass": "img-resize",
+      "description": "Qatar xác nhận việc sơ tán một số nhân viên tại Căn cứ Không quân Al Udeid của Mỹ điều hành tại nước này, trong bối cảnh căng thẳng Mỹ - Iran leo thang.",
+      "guid": "https://thanhnien.vn/can-cu-quan-my-o-qatar-so-tan-mot-phan-sau-loi-de-doa-cua-iran-185260114172303705.htm",
+      "categoryName": "Quân sự"
+    },
+    {
+      "title": "Chiến sự Ukraine ngày 1.420: Hạ tầng năng lượng Kyiv hứng đòn nặng nhất từ đầu năm",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1420-ha-tang-nang-luong-kyiv-hung-don-nang-nhat-tu-dau-nam-185260113222229341.htm",
+      "pubDate": "Wed, 14 Jan 26 05:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/2026-01-13t090644z828243825rc200jap43onrtrmadp3ukraine-crisis-attack-kharkiv-17683164602672139606824-91-0-1691-2560-crop-17683165350261779280332.jpg",
+      "imgClass": "img-resize",
+      "description": "Ukraine cáo buộc Nga đã tiến hành một trong những đợt tấn công quy mô lớn nhất từ đầu năm 2026 khi phóng hàng loạt tên lửa và máy bay không người lái (UAV) nhằm vào nhiều thành phố trên khắp Ukraine trong đêm 12.1.",
+      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1420-ha-tang-nang-luong-kyiv-hung-don-nang-nhat-tu-dau-nam-185260113222229341.htm",
+      "categoryName": "Quân sự"
+    },
+    {
+      "title": "Chiến sự Ukraine ngày 1.419: Nga gây áp lực ở Chasiv Yar, đẩy mạnh xâm nhập Pokrovsk",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1419-nga-gay-ap-luc-o-chasiv-yar-day-manh-xam-nhap-pokrovsk-185260112205000715.htm",
+      "pubDate": "Tue, 13 Jan 26 04:31:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/hinh-2-176822965306152131200-2-0-679-1083-crop-1768229660718180680903.png",
+      "imgClass": "img-resize",
+      "description": "Theo quân đội Ukraine, lực lượng Nga đang đẩy mạnh chiến dịch tấn công vào thị trấn Chasiv Yar, tìm cách tăng cường quân số và triển khai thêm nhiều loại vũ khí, trong khi áp lực cũng tăng mạnh theo hướng Pokrovsk.",
+      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1419-nga-gay-ap-luc-o-chasiv-yar-day-manh-xam-nhap-pokrovsk-185260112205000715.htm",
+      "categoryName": "Quân sự"
+    },
     {
       "title": "Nga bắn hạ F-16, Ukraine đưa vũ khí Mỹ vào tác chiến?",
       "link": "https://thanhnien.vn/nga-ban-ha-f-16-ukraine-dua-vu-khi-my-vao-tac-chien-185260112074706349.htm",
       "pubDate": "Mon, 12 Jan 26 08:55:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/hai-chiec-f-16-bay-o-ukraine-176817786296714900496-0-17-546-891-crop-17681779331181406915891.jpg",
+      "imgClass": "img-resize",
       "description": "Một chỉ huy quân sự Nga tuyên bố khẩu đội phòng không S-300 của ông đã bắn hạ một chiến đấu cơ F-16 do Mỹ sản xuất và được Ukraine sử dụng, theo Đài RT tối 11.1.",
-      "guid": "https://thanhnien.vn/nga-ban-ha-f-16-ukraine-dua-vu-khi-my-vao-tac-chien-185260112074706349.htm"
+      "guid": "https://thanhnien.vn/nga-ban-ha-f-16-ukraine-dua-vu-khi-my-vao-tac-chien-185260112074706349.htm",
+      "categoryName": "Quân sự"
     },
     {
       "title": "Chiến sự Ukraine ngày 1.418: Nga lần đầu tung UAV Geran-5, mặt trận Sumy nóng trở lại?",
       "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1418-nga-lan-dau-tung-uav-geran-5-mat-tran-sumy-nong-tro-lai-185260111212732325.htm",
       "pubDate": "Mon, 12 Jan 26 05:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/a07696377e3c79cd-17681422255161895588390-31-207-645-1190-crop-176814223382664101923.jpg",
+      "imgClass": "img-resize",
       "description": "Quân đội Ukraine vừa tiết lộ lực lượng Nga vừa sử dụng loại UAV mới thuộc dòng Geran trong các cuộc tấn công gần đây.",
-      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1418-nga-lan-dau-tung-uav-geran-5-mat-tran-sumy-nong-tro-lai-185260111212732325.htm"
+      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1418-nga-lan-dau-tung-uav-geran-5-mat-tran-sumy-nong-tro-lai-185260111212732325.htm",
+      "categoryName": "Quân sự"
     },
     {
       "title": "Chiến sự Ukraine ngày 1.417: Điện, nhiệt bị cúp giữa thời tiết âm độ C",
       "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1417-dien-nhiet-bi-cup-giua-thoi-tiet-am-do-c-185260110185951772.htm",
       "pubDate": "Sun, 11 Jan 26 05:10:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/2026-01-10t142645z1965822896rc2eyia572ctrtrmadp3ukraine-crisis-cold-kyiv-1768056879639404276600-107-0-1707-2560-crop-1768057117211852963427.jpg",
+      "imgClass": "img-resize",
       "description": "Các đợt tấn công của Nga và Ukraine đã gây thiệt hại cơ sở hạ tầng điện, nước và sưởi ấm của hai bên giữa thời tiết mùa đông khắc nghiệt, khi nhiệt độ xuống dưới mức đóng băng.",
-      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1417-dien-nhiet-bi-cup-giua-thoi-tiet-am-do-c-185260110185951772.htm"
+      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1417-dien-nhiet-bi-cup-giua-thoi-tiet-am-do-c-185260110185951772.htm",
+      "categoryName": "Quân sự"
     },
     {
       "title": "Chiến sự Ukraine ngày 1.416: Nga trả đũa bằng tên lửa 'không thể đánh chặn'",
       "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1416-nga-tra-dua-bang-ten-lua-khong-the-danh-chan-185260109192647674.htm",
       "pubDate": "Sat, 10 Jan 26 04:30:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/ukraine-phong-roc-ket-1767969758415580655604-83-0-1333-2000-crop-17679698654861846373918.jpg",
+      "imgClass": "img-resize",
       "description": "Bộ Quốc phòng Nga tuyên bố quân đội nước này đã phát động cuộc tấn công quy mô lớn nhắm vào các mục tiêu trọng yếu của Ukraine nhằm đáp trả vụ tấn công vào dinh thự của Tổng thống Nga Vladimir Putin.",
-      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1416-nga-tra-dua-bang-ten-lua-khong-the-danh-chan-185260109192647674.htm"
-    },
-    {
-      "title": "Tàu chiến Nga, Trung Quốc, Iran tham gia tập trận ở Nam Phi",
-      "link": "https://thanhnien.vn/tau-chien-nga-trung-quoc-iran-tham-gia-tap-tran-o-nam-phi-185260109231939929.htm",
-      "pubDate": "Fri, 09 Jan 26 23:58:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/tau-khu-truc-trung-quoc-17679744906972093598937-74-0-1324-2000-crop-17679746036711568833280.jpg",
-      "description": "Một tàu chiến Nga đã đến gần căn cứ hải quân chính của Nam Phi ngày 9.1 để cùng các tàu chiến của Trung Quốc và Iran tham gia cuộc tập trận sắp tới.",
-      "guid": "https://thanhnien.vn/tau-chien-nga-trung-quoc-iran-tham-gia-tap-tran-o-nam-phi-185260109231939929.htm"
-    },
-    {
-      "title": "Chiến sự Ukraine ngày 1.415: Tấn công tiếp diễn giữa mùa đông khắc nghiệt",
-      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1415-tan-cong-tiep-dien-giua-mua-dong-khac-nghiet-185260108171911726.htm",
-      "pubDate": "Fri, 09 Jan 26 05:32:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/ukraine-17678675129731716438645-0-0-1200-1920-crop-1767867544396329938961.jpg",
-      "description": "Ukraine cáo buộc Nga tấn công gây mất điện diện rộng tại các tỉnh Dnipropetrovsk và Zaporizhzhia giữa thời tiết băng giá, trong khi Nga nói tấn công vào các cơ sở do quân đội Ukraine sử dụng.",
-      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1415-tan-cong-tiep-dien-giua-mua-dong-khac-nghiet-185260108171911726.htm"
-    },
-    {
-      "title": "Chiến sự Ukraine ngày 1.414: Mỹ - Ukraine bàn vấn đề lãnh thổ và nhà máy Zaporizhzhia",
-      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1414-my-ukraine-ban-van-de-lanh-tho-va-nha-may-zaporizhzhia-185260107220439029.htm",
-      "pubDate": "Thu, 08 Jan 26 04:30:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/trumpukraine25272-1767798129727968990633-0-26-468-775-crop-17677982132271298205960.jpg",
-      "description": "Tổng thống Ukraine Volodymyr Zelensky cho biết các phái đoàn đàm phán của Mỹ và Ukraine tại Paris dự kiến sẽ thảo luận những 'vấn đề khó khăn nhất' trong tiến trình tìm kiếm giải pháp chấm dứt xung đột.",
-      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1414-my-ukraine-ban-van-de-lanh-tho-va-nha-may-zaporizhzhia-185260107220439029.htm"
-    },
-    {
-      "title": "Trung Quốc khoe vũ khí vi sóng diệt UAV, vượt Mỹ về tầm bắn",
-      "link": "https://thanhnien.vn/trung-quoc-khoe-vu-khi-vi-song-diet-uav-vuot-my-ve-tam-ban-18526010711303179.htm",
-      "pubDate": "Wed, 07 Jan 26 14:19:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/1c0d371d-e7dc-48c4-ae1c-a8f40df6597f8e3d1a03-1767759856297866097674-16-0-654-1020-crop-17677598620562117722873.jpg",
-      "description": "Hệ thống vũ khí vi sóng công suất cao mới của Trung Quốc, được thiết kế để đối phó máy bay không người lái (UAV), được cho là có tầm tác chiến vượt trội so với các hệ thống tương đương của quân đội Mỹ.",
-      "guid": "https://thanhnien.vn/trung-quoc-khoe-vu-khi-vi-song-diet-uav-vuot-my-ve-tam-ban-18526010711303179.htm"
-    },
-    {
-      "title": "Chiến sự Ukraine ngày 1.413: Tấn công tiếp diễn, lại thêm trở ngại cho đàm phán",
-      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1413-tan-cong-tiep-dien-lai-them-tro-ngai-cho-dam-phan-185260106212537894.htm",
-      "pubDate": "Wed, 07 Jan 26 05:13:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/6/hinh-2-1767711111877457142760-32-0-672-1024-crop-1767711118736905113695.jpg",
-      "description": "Hôm 6.1, lãnh đạo các quốc gia đồng minh của Ukraine họp tại Paris (Pháp) với mục tiêu tiến tới định hình cấu trúc an ninh của Ukraine sau khi đạt được bất kỳ thỏa thuận hòa bình nào với Nga.",
-      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1413-tan-cong-tiep-dien-lai-them-tro-ngai-cho-dam-phan-185260106212537894.htm"
-    },
-    {
-      "title": "Chiến sự Ukraine ngày 1.412: Moscow bị tấn công ‘mỗi ngày’, ông Zelensky cải tổ nội các",
-      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1412-moscow-bi-tan-cong-moi-ngay-ong-zelensky-cai-to-noi-cac-185260105124537276.htm",
-      "pubDate": "Tue, 06 Jan 26 04:29:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/5/2026-01-05t051655z1703142259rc2tuiado66frtrmadp3ukraine-crisis-attack-kyiv-1767592484030891566328-160-0-960-1280-crop-17675926812981322289203.jpg",
-      "description": "Quân đội Ukraine ngày 5.1 cáo buộc lực lượng Nga tập kích vào thủ đô Kyiv gây thương vong, trong khi phía Nga tiết lộ thủ đô Moscow bị tấn công mỗi ngày kể từ đầu năm nay.",
-      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1412-moscow-bi-tan-cong-moi-ngay-ong-zelensky-cai-to-noi-cac-185260105124537276.htm"
+      "guid": "https://thanhnien.vn/chien-su-ukraine-ngay-1416-nga-tra-dua-bang-ten-lua-khong-the-danh-chan-185260109192647674.htm",
+      "categoryName": "Quân sự"
     }
   ]
 }

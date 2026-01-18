@@ -3,87 +3,107 @@
   "categoryName": "Tin tức",
   "fullSlug": "du-lich-tin-tuc",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:03:11.324Z",
+  "lastUpdate": "2026-01-18T04:52:41.353Z",
   "articles": [
     {
-      "title": "Báo Thái: Hòn đảo này của Việt Nam đẹp như phim, đáng khám phá nhất Đông Nam Á",
-      "link": "https://thanhnien.vn/bao-thai-hon-dao-nay-cua-viet-nam-dep-nhu-phim-dang-kham-pha-nhat-dong-nama-185260112085122004.htm",
-      "pubDate": "Mon, 12 Jan 26 08:54:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/k71-175126270006681288445-1768182423244306555046-0-78-1410-2334-crop-17681826175171096472059.jpg",
-      "description": "Trong bối cảnh nhiều điểm nóng du lịch như Bangkok hay Bali đang quá tải khách, báo Khaosod English của Thái Lan vừa tổ chức bình chọn danh sách 'Top 10 điểm đến còn nguyên sơ, đáng khám phá nhất Đông Nam Á năm 2026'.",
-      "guid": "https://thanhnien.vn/bao-thai-hon-dao-nay-cua-viet-nam-dep-nhu-phim-dang-kham-pha-nhat-dong-nama-185260112085122004.htm"
+      "title": "Campuchia miễn thị thực cho du khách Trung Quốc",
+      "link": "https://thanhnien.vn/campuchia-mien-thi-thuc-cho-du-khach-trung-quoc-185260118074749127.htm",
+      "pubDate": "Sun, 18 Jan 26 08:07:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/18/1000056859-17686976089251652850357-0-0-408-653-crop-1768697680171841054315.jpg",
+      "imgClass": "img-resize",
+      "description": "Campuchia sẽ triển khai chương trình thí điểm miễn thị thực cho công dân Trung Quốc vào mùa hè này như một phần trong nỗ lực chiến lược nhằm khôi phục đà phát triển của ngành du lịch và khả năng cạnh tranh khu vực.",
+      "guid": "https://thanhnien.vn/campuchia-mien-thi-thuc-cho-du-khach-trung-quoc-185260118074749127.htm",
+      "categoryName": "Tin tức - Sự kiện"
     },
     {
-      "title": "Phát hiện 'bất thường' khi tìm kiếm máy bay mất tích MH370",
-      "link": "https://thanhnien.vn/phat-hien-bat-thuong-khi-tim-kiem-may-bay-mat-tich-mh370-185260112074152888.htm",
-      "pubDate": "Mon, 12 Jan 26 08:53:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/1000056802-17681786662681669192854-15-0-399-615-crop-17681788069521638549041.jpg",
-      "description": "Những người đang theo dõi cuộc tìm kiếm chuyến bay mất tích MH370 tin rằng các tàu đang rà soát Ấn Độ Dương có 'hành vi bất thường'.",
-      "guid": "https://thanhnien.vn/phat-hien-bat-thuong-khi-tim-kiem-may-bay-mat-tich-mh370-185260112074152888.htm"
+      "title": "Thay đổi logo để bắt nhịp xu thế nhận diện thương hiệu lữ hành quốc tế",
+      "link": "https://thanhnien.vn/thay-doi-logo-de-bat-nhip-xu-the-nhan-dien-thuong-hieu-lu-hanh-quoc-te-185260115154707372.htm",
+      "pubDate": "Thu, 15 Jan 26 20:12:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/logo-bst-17684668645761715149133-0-3-1165-1867-crop-17684670305261083868589.jpg",
+      "imgClass": "img-resize",
+      "description": "Công ty cổ phần Blue Sky Travel JSC - doanh nghiệp quản lý lữ hành, đã quyết định thay đổi logo, từ tên đầy đủ sang hình thức viết tắt, đơn giản hóa để bắt nhịp với xu thế nhận diện thương hiệu quốc tế, nơi các thương hiệu lớn hướng đến tính cô đọng, dễ nhớ, dễ nhận diện và linh hoạt trên đa nền tảng số.",
+      "guid": "https://thanhnien.vn/thay-doi-logo-de-bat-nhip-xu-the-nhan-dien-thuong-hieu-lu-hanh-quoc-te-185260115154707372.htm",
+      "categoryName": "Tin tức - Sự kiện"
     },
     {
-      "title": "Vietravel chính thức vận hành Hué Plaza, điểm đến du lịch độc đáo",
-      "link": "https://thanhnien.vn/vietravel-chinh-thuc-van-hanh-hue-plaza-diem-den-du-lich-doc-dao-185260111120733454.htm",
-      "pubDate": "Sun, 11 Jan 26 15:09:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/edit-z7419201599311dbadfab4f0d13f9e13c3774fe32c78ad-1768109271567807888982-86-0-883-1275-crop-1768109289268969298972.jpeg",
-      "description": "Hué Plaza chính thức đi vào hoạt động, mang đến trải nghiệm du lịch, mua sắm và văn hóa đặc sắc tại cố đô Huế.",
-      "guid": "https://thanhnien.vn/vietravel-chinh-thuc-van-hanh-hue-plaza-diem-den-du-lich-doc-dao-185260111120733454.htm"
+      "title": "Tây Ninh tổ chức 14 điểm bắn pháo hoa đêm giao thừa mừng năm mới",
+      "link": "https://thanhnien.vn/tay-ninh-to-chuc-14-diem-ban-phao-hoa-dem-giao-thua-mung-nam-moi-185260114153152459.htm",
+      "pubDate": "Wed, 14 Jan 26 15:55:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/tay-ninh-ban-phao-hoa-2-17683790773602090508111-0-23-371-617-crop-17683792283171602483987.jpg",
+      "imgClass": "img-resize",
+      "description": "Để chào mừng Tết Nguyên đán Bính Ngọ 2026, tỉnh Tây Ninh sẽ bắn pháo hoa ở 14 xã, phường trên địa bàn.",
+      "guid": "https://thanhnien.vn/tay-ninh-to-chuc-14-diem-ban-phao-hoa-dem-giao-thua-mung-nam-moi-185260114153152459.htm",
+      "categoryName": "Du lịch"
     },
     {
-      "title": "Nhiều người chọn 'xuân này không về' vì giá vé máy bay bằng cả tháng lương",
-      "link": "https://thanhnien.vn/nhieu-nguoi-chon-xuan-nay-khong-ve-vi-gia-ve-may-bay-bang-ca-thang-luong-185260111120648745.htm",
-      "pubDate": "Sun, 11 Jan 26 12:49:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/screenshot-2026-01-11-at-120054-1768107692997304389084-275-0-1372-1756-crop-17681077680621832000365.png",
-      "description": "Đến hẹn lại lên, mùa Tết Nguyên đán tới gần cũng là lúc người lao động đến 'mùa đau đầu' vì mua vé về quê. Năm nay, dù thị trường hàng không sôi động hơn nhiều khi số lượng tàu bay và tải cung ứng tăng lên, song giá vé máy bay vẫn cao ngất ngưởng.",
-      "guid": "https://thanhnien.vn/nhieu-nguoi-chon-xuan-nay-khong-ve-vi-gia-ve-may-bay-bang-ca-thang-luong-185260111120648745.htm"
+      "title": "Vé tết 'sốt sình sịch', hãng bay tăng cường hàng trăm chuyến từ đầu TP.HCM",
+      "link": "https://thanhnien.vn/ve-may-bay-tet-sot-sinh-sich-hang-bay-tang-cuong-hang-tram-chuyen-tu-dau-tphcm-185260114115905452.htm",
+      "pubDate": "Wed, 14 Jan 26 12:03:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/anh-minh-hoa-1-17683666484391044791530-0-80-1440-2384-crop-17683667086511497508130.jpg",
+      "imgClass": "img-resize",
+      "description": "Nhằm đáp ứng nhu cầu đi lại tăng cao của người dân trong dịp Tết Nguyên đán Bính Ngọ 2026, hãng hàng không Vietnam Airlines tiếp tục triển khai tăng chuyến trên nhiều đường bay nội địa trọng điểm từ sân bay Tân Sơn Nhất.",
+      "guid": "https://thanhnien.vn/ve-may-bay-tet-sot-sinh-sich-hang-bay-tang-cuong-hang-tram-chuyen-tu-dau-tphcm-185260114115905452.htm",
+      "categoryName": "Tin tức - Sự kiện"
     },
     {
-      "title": "Lâm Đồng có thêm khu nghỉ dưỡng cao cấp",
-      "link": "https://thanhnien.vn/lam-dong-co-them-khu-nghi-duong-cao-cap-185260111092523126.htm",
-      "pubDate": "Sun, 11 Jan 26 10:10:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/anh-man-hinh-2026-01-11-luc-091415-176809802521497699138-223-0-1354-1810-crop-17680981334771993995326.png",
-      "description": "Cách TP.HCM khoảng 2 giờ 30 phút di chuyển, khu nghỉ dưỡng Costamigo do Best Western vận hành vừa chính thức ra mắt tại Lâm Đồng, mở thêm lựa chọn lưu trú cao cấp ven biển cho du khách phía Nam.",
-      "guid": "https://thanhnien.vn/lam-dong-co-them-khu-nghi-duong-cao-cap-185260111092523126.htm"
+      "title": "Ông chủ nhà hàng Bình Xuyên viết tâm thư trước ngày đóng cửa vĩnh viễn",
+      "link": "https://thanhnien.vn/ong-chu-nha-hang-binh-xuyen-viet-tam-thu-truoc-ngay-dong-cua-vinh-vien-185260113141206994.htm",
+      "pubDate": "Wed, 14 Jan 26 11:26:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/bx03-1768287354918613428393-68-0-1348-2048-crop-1768288237419811233971.jpeg",
+      "imgClass": "img-resize",
+      "description": "Nhà hàng sinh thái Bình Xuyên hoạt động 15 năm tại khu vực Bình Chánh sẽ chính thức đóng cửa, ngừng hoạt động để trả lại mặt bằng theo quyết định của UBND TP.HCM.",
+      "guid": "https://thanhnien.vn/ong-chu-nha-hang-binh-xuyen-viet-tam-thu-truoc-ngay-dong-cua-vinh-vien-185260113141206994.htm",
+      "categoryName": "Tin tức - Sự kiện"
     },
     {
-      "title": "Phá dỡ 5 bàn tay khổng lồ trên biển Hải Tiến",
-      "link": "https://thanhnien.vn/pha-do-5-ban-tay-khong-lo-tren-bien-hai-tien-185260110094813724.htm",
-      "pubDate": "Sat, 10 Jan 26 10:18:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/clt06308-1768012463843207774622-0-19-2400-3859-crop-1768013140359228688117.jpg",
-      "description": "5 bàn tay khổng lồ chới với trên bãi biển Hải Tiến (Thanh Hóa) từng gây nhiều tai tiếng đã được phá bỏ sau gần 3 năm xây dựng.",
-      "guid": "https://thanhnien.vn/pha-do-5-ban-tay-khong-lo-tren-bien-hai-tien-185260110094813724.htm"
+      "title": "Hộ chiếu Việt Nam tăng hạng trong danh sách quyền lực nhất thế giới",
+      "link": "https://thanhnien.vn/ho-chieu-viet-nam-tang-hang-trong-danh-sach-quyen-luc-nhat-the-gioi-185260114081326509.htm",
+      "pubDate": "Wed, 14 Jan 26 08:22:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/1000056825-1768353561174764839882-0-0-1018-1628-crop-1768353647764571100928.jpg",
+      "imgClass": "img-resize",
+      "description": "Theo báo cáo mới nhất của Chỉ số Hộ chiếu Henley, ba hộ chiếu quyền lực hàng đầu thế giới trong năm 2026 đều đến từ các quốc gia châu Á: Singapore ở vị trí số 1 và Nhật Bản cùng Hàn Quốc đồng hạng 2. Trong khi đó, hộ chiếu Việt Nam tăng hạng so với năm trước.",
+      "guid": "https://thanhnien.vn/ho-chieu-viet-nam-tang-hang-trong-danh-sach-quyen-luc-nhat-the-gioi-185260114081326509.htm",
+      "categoryName": "Tin tức - Sự kiện"
     },
     {
-      "title": "New York Times: Việt Nam là cường quốc du lịch đang lên, top 52 điểm đến 2026",
-      "link": "https://thanhnien.vn/new-york-times-viet-nam-la-cuong-quoc-du-lich-dang-len-top-52-diem-den-2026-185260109111633521.htm",
-      "pubDate": "Fri, 09 Jan 26 11:21:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/cap-treo-hon-thom-1767931273842809343692-0-155-894-1585-crop-1767932150780811517443.jpg",
-      "description": "Việt Nam vừa được New York Times - một trong những tờ báo được đọc nhiều nhất thế giới - bình chọn là một trong 52 điểm đến cho năm 2026. Đáng chú ý, để minh họa cho du lịch Việt Nam, Ban biên tập của New York Times đã chọn cáp treo Hòn Thơm ở Phú Quốc thay vì những hình ảnh truyền thống.",
-      "guid": "https://thanhnien.vn/new-york-times-viet-nam-la-cuong-quoc-du-lich-dang-len-top-52-diem-den-2026-185260109111633521.htm"
+      "title": "Sau nửa năm tu sửa, di tích Hiền Lương - Bến Hải hiện giờ ra sao?",
+      "link": "https://thanhnien.vn/sau-nua-nam-tu-sua-di-tich-hien-luong-ben-hai-hien-gio-ra-sao-185260113173508572.htm",
+      "pubDate": "Wed, 14 Jan 26 07:50:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/editphotocawpykrdtv-1768299843-107-0-1707-2560-crop-17683003507922096686490.jpg",
+      "imgClass": "img-resize",
+      "description": "Sau hơn nửa năm tu sửa với tổng mức đầu tư 80 tỉ đồng, công trình công viên Thống Nhất tại Khu di tích quốc gia đặc biệt Đôi bờ Hiền Lương - Bến Hải đang dần hoàn thiện, sớm mở cửa đón du khách trước Tết Nguyên đán Bính Ngọ 2026.",
+      "guid": "https://thanhnien.vn/sau-nua-nam-tu-sua-di-tich-hien-luong-ben-hai-hien-gio-ra-sao-185260113173508572.htm",
+      "categoryName": "Tin tức - Sự kiện"
     },
     {
-      "title": "Vừa ra mắt, Sun PhuQuoc Airways đã giành vị trí bay đúng giờ nhất \n",
-      "link": "https://thanhnien.vn/vua-ra-mat-sun-phuquoc-airways-da-gianh-vi-tri-bay-dung-gio-nhat-185260109085146815.htm",
-      "pubDate": "Fri, 09 Jan 26 09:04:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/sun-phuquoc-airways-6-176792341918573956322-0-0-1600-2560-crop-17679234508481561085825.jpg",
-      "description": "Với chỉ số đúng giờ (OTP) trong tháng 12.2025 đạt 93,5%, Sun PhuQuoc Airways (SPA) chính thức vươn lên vị trí dẫn đầu toàn ngành hàng không nội địa. Đây là mức rất cao so với tỷ lệ OTP trung bình toàn ngành chỉ 70,7%, đặc biệt trong mùa cao điểm cuối năm.",
-      "guid": "https://thanhnien.vn/vua-ra-mat-sun-phuquoc-airways-da-gianh-vi-tri-bay-dung-gio-nhat-185260109085146815.htm"
+      "title": "Hai hãng hàng không Việt Nam vào top an toàn nhất thế giới",
+      "link": "https://thanhnien.vn/hai-hang-hang-khong-viet-nam-vao-top-an-toan-nhat-the-gioi-18526011407230182.htm",
+      "pubDate": "Wed, 14 Jan 26 07:49:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/1000056821-17683508693731844005125-0-0-1250-2000-crop-1768351497864468042144.jpg",
+      "imgClass": "img-resize",
+      "description": "AirlineRatings vừa công bố bảng xếp hạng thường niên Top 25 hãng hàng không an toàn nhất thế giới, kết quả hai hãng của Việt Nam đều nằm ở vị trí cao.",
+      "guid": "https://thanhnien.vn/hai-hang-hang-khong-viet-nam-vao-top-an-toan-nhat-the-gioi-18526011407230182.htm",
+      "categoryName": "Tin tức - Sự kiện"
     },
     {
-      "title": "Làm gì để du khách chi tiêu nhiều hơn?: Việt Nam còn nhiều dư địa tăng doanh thu du lịch",
-      "link": "https://thanhnien.vn/lam-gi-de-du-khach-chi-tieu-nhieu-hon-viet-nam-con-nhieu-du-dia-tang-doanh-thu-du-lich-185260108222727608.htm",
-      "pubDate": "Fri, 09 Jan 26 04:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/a1-1767885866682606322773-0-0-1600-2560-crop-1767885888509254707703.jpg",
-      "description": "Nếu thành công tăng chi tiêu trung bình trên một du khách, với số lượng khách quốc tế đến VN ngày càng đông, doanh thu du lịch có thể cao hơn rất nhiều so với kế hoạch.",
-      "guid": "https://thanhnien.vn/lam-gi-de-du-khach-chi-tieu-nhieu-hon-viet-nam-con-nhieu-du-dia-tang-doanh-thu-du-lich-185260108222727608.htm"
+      "title": "Sự kiện giao thừa 2026 ở TP.HCM nhận 2 kỷ lục Việt Nam",
+      "link": "https://thanhnien.vn/su-kien-giao-thua-2026-o-tphcm-nhan-2-ky-luc-viet-nam-18526011314534994.htm",
+      "pubDate": "Tue, 13 Jan 26 16:34:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/anh-man-hinh-2026-01-13-luc-145058-1768290685063944743754-39-0-1064-1640-crop-17682907264191708091154.png",
+      "imgClass": "img-resize",
+      "description": "Chuỗi sự kiện đón năm mới 2026 tại nhiều địa phương, trong đó có phố đi bộ Nguyễn Huệ (TP.HCM) đã thu hút tổng cộng hơn 36.000 người tham gia, xác lập kỷ lục Việt Nam về quy mô người dự.",
+      "guid": "https://thanhnien.vn/su-kien-giao-thua-2026-o-tphcm-nhan-2-ky-luc-viet-nam-18526011314534994.htm",
+      "categoryName": "Tin tức - Sự kiện"
     },
     {
-      "title": "Lần đầu Việt Nam có khu du lịch đạt chứng nhận quốc tế phát triển bền vững",
-      "link": "https://thanhnien.vn/lan-dau-viet-nam-co-khu-du-lich-dat-chung-nhan-quoc-te-phat-trien-ben-vung-185260108171118511.htm",
-      "pubDate": "Thu, 08 Jan 26 17:13:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/thumb-z7410270717617da8c7d14203822c2b0c289ceb471f303-1767866405338713780444-1767866604415312902105.jpg",
-      "description": "Một khu du lịch sinh thái tại Khánh Hòa vừa trở thành đơn vị đầu tiên ở Việt Nam đạt chứng nhận quốc tế Good Travel Seal, đánh dấu bước tiến mới trong thực hành du lịch bền vững.",
-      "guid": "https://thanhnien.vn/lan-dau-viet-nam-co-khu-du-lich-dat-chung-nhan-quoc-te-phat-trien-ben-vung-185260108171118511.htm"
+      "title": "Tổng giám đốc Emirates Việt Nam: 'Long Thành sẽ là sân bay tốt nhất khu vực'",
+      "link": "https://thanhnien.vn/tong-giam-doc-emirates-viet-nam-long-thanh-se-la-san-bay-tot-nhat-khu-vuc-18526011312514915.htm",
+      "pubDate": "Tue, 13 Jan 26 14:02:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/anh-man-hinh-2026-01-13-luc-115356-1768280062001188273904-41-0-1181-1824-crop-17682801068861561791427.png",
+      "imgClass": "img-resize",
+      "description": "Ông Majid Al Falasi, Giám đốc quốc gia hãng hàng không Emirates tại Việt Nam cho biết, sau khi trực tiếp đến thăm sân bay Long Thành đã khẳng định cam kết phát triển lâu dài của Emirates tại thị trường Việt Nam.",
+      "guid": "https://thanhnien.vn/tong-giam-doc-emirates-viet-nam-long-thanh-se-la-san-bay-tot-nhat-khu-vuc-18526011312514915.htm",
+      "categoryName": "Tin tức - Sự kiện"
     }
   ]
 }

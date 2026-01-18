@@ -3,87 +3,107 @@
   "categoryName": "Xu hướng",
   "fullSlug": "cong-nghe-xu-huong",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:05:06.655Z",
+  "lastUpdate": "2026-01-18T04:53:41.318Z",
   "articles": [
+    {
+      "title": "Qualcomm bắt tay thúc đẩy AI và chuyển đổi số tại Việt Nam",
+      "link": "https://thanhnien.vn/qualcomm-bat-tay-thuc-day-ai-va-chuyen-doi-so-tai-viet-nam-18526011522503895.htm",
+      "pubDate": "Fri, 16 Jan 26 11:59:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/dna0283-17684923769942083351798-0-26-1115-1810-crop-1768492487945654759683.jpg",
+      "imgClass": "img-resize",
+      "description": "Bộ Giáo dục và Đào tạo (GD-ĐT) vừa ký kết biên bản ghi nhớ hợp tác chiến lược với tập đoàn công nghệ Qualcomm, tập trung vào ba trụ cột chính: Nghiên cứu khoa học, đào tạo trí tuệ nhân tạo (AI) và chuyển đổi số.",
+      "guid": "https://thanhnien.vn/qualcomm-bat-tay-thuc-day-ai-va-chuyen-doi-so-tai-viet-nam-18526011522503895.htm",
+      "categoryName": "Xu hướng - Chuyển đổi số"
+    },
+    {
+      "title": "Tấn công mạng Việt Nam 2025: Số vụ giảm, tổn hại tăng",
+      "link": "https://thanhnien.vn/tan-cong-mang-viet-nam-2025-so-vu-giam-ton-hai-tang-185260113140815902.htm",
+      "pubDate": "Tue, 13 Jan 26 14:56:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/6pm-sat-03082019-lh-1768290090291812403744-50-0-800-1200-crop-17682900980101221106521.jpg",
+      "imgClass": "img-resize",
+      "description": "Năm 2025, dữ liệu trở thành mục tiêu hàng đầu của tin tặc, với 552.000 cuộc tấn công mạng và có tới 52,3% tổ chức, doanh nghiệp xác nhận phải chịu tổn hại do tấn công mạng.",
+      "guid": "https://thanhnien.vn/tan-cong-mang-viet-nam-2025-so-vu-giam-ton-hai-tang-185260113140815902.htm",
+      "categoryName": "Tin tức công nghệ"
+    },
     {
       "title": "Cuộc phát triển 5G 'thần tốc' tại Việt Nam",
       "link": "https://thanhnien.vn/cuoc-phat-trien-5g-than-toc-tai-viet-nam-185260111085409727.htm",
       "pubDate": "Sun, 11 Jan 26 10:19:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1c073876a7fe28a071ef-1768099387352540793274-14-0-740-1162-crop-17680994221431603358373.jpg",
+      "imgClass": "img-resize",
       "description": "Việt Nam bắt đầu thương mại hóa 5G vào cuối năm 2024. Theo báo cáo của Bộ Khoa học và Công nghệ, tính đến tháng 10.2025 đã có hơn 16.700 trạm 5G phủ sóng gần 40% dân số. Đến cuối năm 2025 số trạm 5G tăng mạnh, đã phủ sóng khoảng 90% dân số.",
-      "guid": "https://thanhnien.vn/cuoc-phat-trien-5g-than-toc-tai-viet-nam-185260111085409727.htm"
+      "guid": "https://thanhnien.vn/cuoc-phat-trien-5g-than-toc-tai-viet-nam-185260111085409727.htm",
+      "categoryName": "Tin tức công nghệ"
     },
     {
       "title": "Việt Nam lập trung tâm quốc gia hỗ trợ sản xuất thử nghiệm chip",
       "link": "https://thanhnien.vn/viet-nam-lap-trung-tam-quoc-gia-ho-tro-san-xuat-thu-nghiem-chip-185260110100832795.htm",
       "pubDate": "Sat, 10 Jan 26 11:55:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/-gia-voi-viet-nam-viec-tu-chu-chip-can-mot-lo-trinh-thuc-te-va-co-chon-loc-1760872472855936570513-17680150106851629758349-0-136-1080-1864-crop-17680150914671530317988.jpg",
+      "imgClass": "img-resize",
       "description": "Đây được xem là bước đi then chốt nhằm hoàn thiện hệ sinh thái bán dẫn nội địa, giúp Việt Nam không chỉ dừng lại ở khâu thiết kế hay đóng gói mà tiến tới làm chủ quy trình sản xuất thử nghiệm và thương mại hóa.",
-      "guid": "https://thanhnien.vn/viet-nam-lap-trung-tam-quoc-gia-ho-tro-san-xuat-thu-nghiem-chip-185260110100832795.htm"
+      "guid": "https://thanhnien.vn/viet-nam-lap-trung-tam-quoc-gia-ho-tro-san-xuat-thu-nghiem-chip-185260110100832795.htm",
+      "categoryName": "Xu hướng - Chuyển đổi số"
     },
     {
       "title": "Ra mắt chuyên trang số hóa về Đại hội XIV của Đảng",
       "link": "https://thanhnien.vn/ra-mat-chuyen-trang-so-hoa-ve-dai-hoi-xiv-cua-dang-185260107131649861.htm",
       "pubDate": "Wed, 07 Jan 26 14:11:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/z74059086179538bb678614ec8176fcda386e3d56dc3d6-17677664429321175781031-172-0-1772-2560-crop-17677665252781851962750.jpg",
+      "imgClass": "img-resize",
       "description": "Sáng 7.1, Cục Truyền thông Công an nhân dân (CAND) chính thức vận hành chuyên trang \"Đại hội đại biểu toàn quốc lần thứ XIV của Đảng\", được xây dựng dựa trên công nghệ hiện đại, đảm bảo tính bảo mật cao và tối ưu trải nghiệm người dùng.",
-      "guid": "https://thanhnien.vn/ra-mat-chuyen-trang-so-hoa-ve-dai-hoi-xiv-cua-dang-185260107131649861.htm"
+      "guid": "https://thanhnien.vn/ra-mat-chuyen-trang-so-hoa-ve-dai-hoi-xiv-cua-dang-185260107131649861.htm",
+      "categoryName": "Xu hướng - Chuyển đổi số"
     },
     {
       "title": "Trung Quốc tiếp tục siết chặt tài sản mã hóa",
       "link": "https://thanhnien.vn/trung-quoc-tiep-tuc-siet-chat-tai-san-ma-hoa-185260107112405783.htm",
       "pubDate": "Wed, 07 Jan 26 12:09:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/screenshot-2026-01-07-at-112249-1767759787967898350198-24-0-984-1536-crop-17677600205411679354126.png",
+      "imgClass": "img-resize",
       "description": "Hiệp hội Quản lý Tài sản Trung Quốc liệt kê việc mã hóa tài sản thực (Real World Asset tokenization - RWA), stablecoin, \"aircoin\" và khai thác tiền điện tử là những \"hoạt động bất hợp pháp\".",
-      "guid": "https://thanhnien.vn/trung-quoc-tiep-tuc-siet-chat-tai-san-ma-hoa-185260107112405783.htm"
+      "guid": "https://thanhnien.vn/trung-quoc-tiep-tuc-siet-chat-tai-san-ma-hoa-185260107112405783.htm",
+      "categoryName": "Blockchain"
     },
     {
       "title": "DeepSeek của Trung Quốc vừa có tuyên bố gây sốc về tương lai AI",
       "link": "https://thanhnien.vn/deepseek-cua-trung-quoc-vua-co-tuyen-bo-gay-soc-ve-tuong-lai-ai-185260102180235308.htm",
       "pubDate": "Fri, 02 Jan 26 19:12:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/2/deepseektrung-quocmhc-17673522055431103835970-50-0-1326-2042-crop-17673522132182014723042.png",
+      "imgClass": "img-resize",
       "description": "Nhà sáng lập DeepSeek của Trung Quốc tuyên bố bất ngờ khi tìm cách giảm chi phí đào tạo AI (trí tuệ nhân tạo) thay vì cố gắng chạy đua về phần cứng như các đối thủ Mỹ.",
-      "guid": "https://thanhnien.vn/deepseek-cua-trung-quoc-vua-co-tuyen-bo-gay-soc-ve-tuong-lai-ai-185260102180235308.htm"
+      "guid": "https://thanhnien.vn/deepseek-cua-trung-quoc-vua-co-tuyen-bo-gay-soc-ve-tuong-lai-ai-185260102180235308.htm",
+      "categoryName": "Xu hướng - Chuyển đổi số"
     },
     {
       "title": "Luật Công nghiệp công nghệ số mở đường cho AI, chip, Bitcoin tại Việt Nam",
       "link": "https://thanhnien.vn/luat-cong-nghiep-cong-nghe-so-mo-duong-cho-ai-chip-bitcoin-tai-viet-nam-185260101131509047.htm",
       "pubDate": "Thu, 01 Jan 26 13:56:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/1/bitcoinaiban-dan-viet-namthanh-nien-1767249200170409018260-0-105-1536-2563-crop-1767249212438726735744.png",
+      "imgClass": "img-resize",
       "description": "Luật Công nghiệp công nghệ số chính thức có hiệu lực từ hôm nay 1.1.2026, sẽ góp phần định hình lại bộ mặt công nghệ Việt, lấy công nghiệp bán dẫn, trí tuệ nhân tạo (AI), tài sản số làm nền tảng phát triển cốt lõi.",
-      "guid": "https://thanhnien.vn/luat-cong-nghiep-cong-nghe-so-mo-duong-cho-ai-chip-bitcoin-tai-viet-nam-185260101131509047.htm"
+      "guid": "https://thanhnien.vn/luat-cong-nghiep-cong-nghe-so-mo-duong-cho-ai-chip-bitcoin-tai-viet-nam-185260101131509047.htm",
+      "categoryName": "Tin tức công nghệ"
     },
     {
       "title": "Bức tranh thị trường lao động IT Việt trong năm 2026",
       "link": "https://thanhnien.vn/buc-tranh-thi-truong-lao-dong-it-viet-trong-nam-2026-185251231154942235.htm",
       "pubDate": "Thu, 01 Jan 26 10:25:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/31/nhan-su-cong-nghe-viet-namthanh-nien-1767170682131751385394-0-0-1600-2560-crop-1767171046158314049152.jpg",
+      "imgClass": "img-resize",
       "description": "Nhân sự công nghệ Việt nằm trong nhóm được nhận đãi ngộ tốt nhưng vẫn thiếu hụt nhân tài, trong khi đó AI đang định hình lại thị trường, ảnh hưởng đến nhiều nhóm lao động.",
-      "guid": "https://thanhnien.vn/buc-tranh-thi-truong-lao-dong-it-viet-trong-nam-2026-185251231154942235.htm"
+      "guid": "https://thanhnien.vn/buc-tranh-thi-truong-lao-dong-it-viet-trong-nam-2026-185251231154942235.htm",
+      "categoryName": "Tin tức công nghệ"
     },
     {
       "title": "Vốn tỉ USD chảy vào hạ tầng máy bay không người lái",
       "link": "https://thanhnien.vn/von-ti-usd-chay-vao-ha-tang-may-bay-khong-nguoi-lai-185251230164810595.htm",
       "pubDate": "Tue, 30 Dec 25 21:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/30/hinh-1-1767088300331744900524-0-44-559-938-crop-17670883063421019727673.jpg",
+      "imgClass": "img-resize",
       "description": "Hai dự án công nghệ quy mô lớn tại TP.HCM và tỉnh Tây Ninh, tập trung vào lĩnh vực máy bay không người lái (UAV) và hạ tầng cho kinh tế tầm thấp vừa được công bố có tổng vốn đầu tư hơn 2,3 tỉ USD.",
-      "guid": "https://thanhnien.vn/von-ti-usd-chay-vao-ha-tang-may-bay-khong-nguoi-lai-185251230164810595.htm"
-    },
-    {
-      "title": "Tự triển khai hạ tầng và 'gánh nặng vận hành' kìm hãm SaaS, cách Cloud tháo gỡ",
-      "link": "https://thanhnien.vn/tu-trien-khai-ha-tang-va-ganh-nang-van-hanh-kim-ham-saas-cach-cloud-thao-go-185251230144002751.htm",
-      "pubDate": "Tue, 30 Dec 25 15:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/30/1-176708000838346848673-0-0-1267-2027-crop-1767080152986999573215.png",
-      "description": "Liên tục cải tiến để đáp ứng tối ưu nhu cầu người dùng, các ứng dụng SaaS ngày càng trở nên phức tạp và đa dạng hơn. Điều này dẫn đến tăng cường cạnh tranh trong ngành. Các doanh nghiệp SaaS do đó cũng tập trung nhiều hơn vào khả năng mở rộng thị trường.",
-      "guid": "https://thanhnien.vn/tu-trien-khai-ha-tang-va-ganh-nang-van-hanh-kim-ham-saas-cach-cloud-thao-go-185251230144002751.htm"
-    },
-    {
-      "title": "Zalo nhận 'bão 1 sao', người dùng kêu gọi xóa ứng dụng",
-      "link": "https://thanhnien.vn/zalo-nhan-bao-1-sao-nguoi-dung-keu-goi-xoa-ung-dung-185251229174327043.htm",
-      "pubDate": "Mon, 29 Dec 25 18:27:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/29/mang-xa-hoizaloung-dung-nhan-tinthanh-nien00003-1766977143857970170454-63-0-1563-2400-crop-1767005541081147079389.jpg",
-      "description": "Zalo đang nhận về bão đánh giá 1 sao trên cả kho ứng dụng Google và Apple, làn sóng tẩy chay, kêu gọi xóa ứng dụng lan rộng.",
-      "guid": "https://thanhnien.vn/zalo-nhan-bao-1-sao-nguoi-dung-keu-goi-xoa-ung-dung-185251229174327043.htm"
+      "guid": "https://thanhnien.vn/von-ti-usd-chay-vao-ha-tang-may-bay-khong-nguoi-lai-185251230164810595.htm",
+      "categoryName": "Xu hướng - Chuyển đổi số"
     }
   ]
 }

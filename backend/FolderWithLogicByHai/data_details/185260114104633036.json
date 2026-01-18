@@ -1,0 +1,84 @@
+{
+  "title": "Cách tận dụng ổ cứng HDD cũ thay vì vứt bỏ",
+  "categories": [
+    "Công nghệ",
+    "Thủ thuật"
+  ],
+  "sapo": "Những lý do không nên vứt bỏ chiếc ổ cứng HDD cũ đi trong thời điểm bão giá SSD.",
+  "publishDate": "14/01/2026 11:47 GMT+7",
+  "author": {
+    "name": "Phong Đỗ",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/528068263637045248/2023/4/25/edit-z4293920028403473eac0dba30cc3304cdff3ec25db916-1682410543320942271626.png",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Đã qua rồi cái thời người dùng máy tính phải ngồi chờ 5 - 10 phút để Windows khởi động hay tải một màn chơi game. Sự soán ngôi của ổ cứng thể rắn (SSD) với tốc độ đọc ghi lên tới 14.000 MB/giây (Gen 5) đã đẩy những chiếc HDD dùng đĩa từ vào dĩ vãng."
+    },
+    {
+      "type": "text",
+      "content": "Tuy nhiên, chậm không có nghĩa là vô dụng. Dưới đây là những lý do thuyết phục để bạn giữ lại chiếc ổ cứng cũ thay vì ném chúng vào thùng rác."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/528068263637045248/2026/1/14/edit_photo_uybdkkkfgk-1768363102.jpg"
+      ],
+      "caption": "Ổ cứng HDD cũ vẫn còn nhiều công dụng hữu ích"
+    },
+    {
+      "type": "h2",
+      "content": "'Sân chơi' an toàn cho các hệ điều hành mới"
+    },
+    {
+      "type": "text",
+      "content": "Windows vẫn là 'vua' của sự tiện lợi, nhưng không ai phủ nhận sự nặng nề và đôi khi thiếu ổn định của nó sau các bản cập nhật. Nếu bạn từng tò mò về sự mượt mà của SteamOS hay tính bảo mật của Linux nhưng sợ làm hỏng dữ liệu trên máy chính, ổ cứng cũ chính là giải pháp."
+    },
+    {
+      "type": "text",
+      "content": "Thay vì phân vùng lại chiếc SSD đắt tiền (vốn tiềm ẩn rủi ro mất dữ liệu), bạn có thể cài đặt các bản Linux như Lubuntu (siêu nhẹ), Manjaro (đơn giản) hay Bazzite (tối ưu chơi game) lên chiếc HDD cũ."
+    },
+    {
+      "type": "text",
+      "content": "Chỉ cần cài đặt OS lên HDD và ưu tiên khởi động trong BIOS, bạn đã có một môi trường độc lập để sử dụng. Nếu hệ điều hành mới bị lỗi? Không sao cả, SSD chứa Windows của bạn vẫn an toàn tuyệt đối."
+    },
+    {
+      "type": "h2",
+      "content": "Thiết bị lưu trữ dự phòng trong thời bão giá"
+    },
+    {
+      "type": "text",
+      "content": "Năm 2025 chứng kiến sự tăng giá chóng mặt của RAM và SSD do sự bùng nổ của trí tuệ nhân tạo (AI). Việc mua thêm dung lượng SSD tốc độ cao chỉ để lưu ảnh, phim hay tài liệu là một sự lãng phí."
+    },
+    {
+      "type": "text",
+      "content": "Đây là lúc HDD hữu dụng. Hãy di chuyển toàn bộ dữ liệu ít truy cập như kho phim, ảnh kỷ niệm, file cài đặt phần mềm hoặc các tựa game cũ không yêu cầu tốc độ tải nhanh sang ổ cứng cũ. Hành động này giúp giải phóng dung lượng quý giá trên SSD cho các tựa game AAA mới nhất hoặc các tác vụ AI nặng nề."
+    },
+    {
+      "type": "h2",
+      "content": "Biến hình thành HDD di động trong tích tắc"
+    },
+    {
+      "type": "text",
+      "content": "Tại sao phải bỏ vài triệu đồng mua ổ cứng di động trong khi bạn đang có sẵn nguyên liệu? Với một khoản chi phí nhỏ để mua cáp chuyển đổi (SATA sang USB 3.0 cho ổ laptop 2,5 inch) hoặc hộp đựng kèm nguồn (cho ổ PC 3,5 inch), bạn có thể biến ổ cứng cũ thành thiết bị lưu trữ di động."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/14/edit_photo_pzelnnejuk-1768363837.jpg"
+      ],
+      "caption": "Tận dụng ổ cứng HDD cũ với box 2,5 inch để làm ổ cứng di động"
+    },
+    {
+      "type": "text",
+      "content": "Giải pháp DIY (tự chế) này giúp bạn dễ dàng sao lưu dữ liệu, mang theo kho phim ảnh đi bất cứ đâu hoặc cứu hộ dữ liệu giữa các máy tính khác nhau."
+    },
+    {
+      "type": "text",
+      "content": "Dù công nghệ có phát triển đến đâu, việc tận dụng linh kiện cũ không chỉ là bài toán kinh tế thông minh mà còn là hành động thiết thực để giảm thiểu rác thải điện tử. Vì vậy, trước khi vứt chiếc ổ cứng cũ đi, hãy nghĩ đến những 'cơ hội thứ hai' mà bạn có thể trao cho nó."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/cach-tan-dung-o-cung-hdd-cu-thay-vi-vut-bo-185260114104633036.htm",
+  "id": "185260114104633036"
+}

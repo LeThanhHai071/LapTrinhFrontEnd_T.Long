@@ -67,7 +67,7 @@ const searchArticles = (keyword) => {
             // }
             const articleId =
               art.articleId ||
-              (art.link ? art.link.split("/").pop().replace(".htm", "") : null);
+              (art.link ? art.link.split("/").pop() : null);
 
             if (articleId && !resultsMap.has(articleId)) {
               resultsMap.set(articleId, {
