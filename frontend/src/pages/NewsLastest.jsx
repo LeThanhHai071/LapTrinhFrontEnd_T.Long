@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import BoxCategoryItem from "./BoxCategoryItem";
+import BoxCategoryItem from "./BoxCategoryItem.jsx";
 import axios from "axios";
 import "./NewsLastest.css";
 

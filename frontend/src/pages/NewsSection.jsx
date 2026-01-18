@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import BoxCategoryMiddle from "./BoxCategoryMiddle_col";
-import BoxCategoryItem from "./BoxCategoryItem";
+import BoxCategoryItem from "./BoxCategoryItem.jsx";
 import { data, Link } from "react-router-dom";
 import axios from "axios";
 

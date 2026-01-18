@@ -31,7 +31,7 @@ const writeSavedFile = (data) => {
 
 
 const toggleSave = (req, res) => {
-    const { userId, articleId, title, imageUrl, link } = req.body;
+    const { userId, articleId, title, imageURL, link } = req.body;
 
     if (!userId) {
         return res.status(401).json({
@@ -61,7 +61,7 @@ const toggleSave = (req, res) => {
             userId,
             articleId,
             title,
-            imageUrl,
+            imageURL,
             link,
             savedAt: new Date().toISOString()
         };

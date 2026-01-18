@@ -99,7 +99,7 @@ const NewsDetail = () => {
     const handleToggleSave = async () => {
         try {
             const res = await articleService.smartToggleSave(article, articleId); //
-            setIsSaved(res.data.isSaved); //
+            setIsSaved(res.data.isSaved);
             alert(res.data.message);
         } catch (err) {
             if (err.message === "Chưa đăng nhập") {

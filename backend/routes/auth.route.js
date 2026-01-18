@@ -100,7 +100,7 @@ router.put("/change-password/:userId", (req, res) => {
     return res.json({ message: "Đổi mật khẩu thành công" });
 });
 
-//== lưu bài báo
+//lưu bài báo
 router.post("/toggle-save", toggleSave);
 // lấy danh sách bài báo đã lưu
 router.get("/saved-list/:userId", getSavedList);
