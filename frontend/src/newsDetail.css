@@ -106,3 +106,12 @@ figcaption {
   padding: 0;
   margin-top: 15px;
 }
+.login-warning {
+  color: #c00;
+  font-size: 14px;
+}
+
+.login-warning a {
+  color: #007bff;
+  text-decoration: underline;
+}

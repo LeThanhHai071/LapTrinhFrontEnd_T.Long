@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { useParams, Link } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { fetchNewsDetail } from "./services/newsService";
 import "./NewsDetail.css";
@@ -14,12 +14,18 @@ const NewsDetail = () => {
   const [commentText, setCommentText] = useState("");
   const [speaking, setSpeaking] = useState(false);
 
-  /* ===== READER SETTINGS ===== */
-  const [fontFamily, setFontFamily] = useState("Arial");
-  const [fontSize, setFontSize] = useState(16);
-  const [lineHeight, setLineHeight] = useState(1.75);
+  /* ===== USER LOGIN STATE ===== */
+  const [user, setUser] = useState(null);
 
-  /* ===== LOAD DETAIL ===== */
+  /* ===== LOAD USER ===== */
+  useEffect(() => {
+    const storedUser = localStorage.getItem("user");
+    if (storedUser) {
+      setUser(JSON.parse(storedUser));
+    }
+  }, []);
+
+  /* ===== LOAD ARTICLE ===== */
   useEffect(() => {
     setLoading(true);
     fetchNewsDetail(articleId)
@@ -50,25 +56,33 @@ const NewsDetail = () => {
 
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = "vi-VN";
-    utterance.rate = 1;
     utterance.onend = () => setSpeaking(false);
 
     window.speechSynthesis.speak(utterance);
     setSpeaking(true);
   };
 
-  /* ===== COMMENT ===== */
+  /* ===== ADD COMMENT (LOGIN REQUIRED) ===== */
   const handleAddComment = () => {
+    if (!user) {
+      alert("Vui lòng đăng nhập để bình luận!");
+      return;
+    }
+
     if (!commentText.trim()) return;
 
     setComments((prev) => [
       ...prev,
-      { text: commentText, time: new Date().toLocaleString("vi-VN") },
+      {
+        user: user.name,
+        text: commentText,
+        time: new Date().toLocaleString("vi-VN"),
+      },
     ]);
+
     setCommentText("");
   };
 
-  /* ===== UI STATE ===== */
   if (loading) return <p>Đang tải bài viết...</p>;
   if (error) return <p>{error}</p>;
 
@@ -85,58 +99,10 @@ const NewsDetail = () => {
         </button>
       </div>
 
-      {/* ===== READER SETTINGS ===== */}
-      <div className="reader-settings">
-        <label>
-          Phông chữ:
-          <select
-            value={fontFamily}
-            onChange={(e) => setFontFamily(e.target.value)}
-          >
-            <option value="Arial">Arial</option>
-            <option value="Times New Roman">Times New Roman</option>
-            <option value="Georgia">Georgia</option>
-            <option value="Tahoma">Tahoma</option>
-          </select>
-        </label>
-
-        <label>
-          Cỡ chữ:
-          <input
-            type="range"
-            min="14"
-            max="22"
-            value={fontSize}
-            onChange={(e) => setFontSize(e.target.value)}
-          />
-          <span>{fontSize}px</span>
-        </label>
-
-        <label>
-          Giãn dòng:
-          <input
-            type="range"
-            min="1.4"
-            max="2.2"
-            step="0.1"
-            value={lineHeight}
-            onChange={(e) => setLineHeight(e.target.value)}
-          />
-          <span>{lineHeight}</span>
-        </label>
-      </div>
-
       <p className="sapo">{article.sapo}</p>
 
       {/* ===== CONTENT ===== */}
-      <div
-        className="content"
-        style={{
-          fontFamily,
-          fontSize: `${fontSize}px`,
-          lineHeight,
-        }}
-      >
+      <div className="content">
         {article.content?.map((block, index) => {
           if (block.type === "text") return <p key={index}>{block.content}</p>;
           if (block.type === "h2") return <h2 key={index}>{block.content}</h2>;
@@ -153,22 +119,31 @@ const NewsDetail = () => {
         })}
       </div>
 
-      {/* ===== COMMENT ===== */}
+      {/* ===== COMMENT SECTION ===== */}
       <div className="comment-section">
         <h3>Bình luận</h3>
 
-        <textarea
-          placeholder="Nhập bình luận..."
-          value={commentText}
-          onChange={(e) => setCommentText(e.target.value)}
-        />
-
-        <button onClick={handleAddComment}>Gửi bình luận</button>
+        {!user ? (
+          <p className="login-warning">
+            Bạn cần <Link to="/login">đăng nhập</Link> để bình luận
+          </p>
+        ) : (
+          <>
+            <textarea
+              placeholder="Nhập bình luận..."
+              value={commentText}
+              onChange={(e) => setCommentText(e.target.value)}
+            />
+            <button onClick={handleAddComment}>Gửi bình luận</button>
+          </>
+        )}
 
         <ul className="comment-list">
           {comments.map((c, i) => (
             <li key={i}>
-              <p>{c.text}</p>
+              <p>
+                <strong>{c.user}</strong>: {c.text}
+              </p>
               <small>{c.time}</small>
             </li>
           ))}
