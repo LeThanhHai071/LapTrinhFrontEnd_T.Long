@@ -9,12 +9,12 @@ const CategoryBox = ({ category }) => {
 
   return (
     <div className="box">
-      <a href={`/news/${category.fullSlug}`} className="title" title={category.name}>
+      <a href={`/category/${category.fullSlug}`} className="title" title={category.name}>
         {category.name}
       </a>
       <div className={`list ${isExpanded ? 'is-open' : ''}`}>
         {displayedItems.map((sub) => (
-          <a key={sub.id} href={`/news/${sub.fullSlug}`} className="item" title={sub.name}>
+          <a key={sub.id} href={`/category/${sub.fullSlug}`} className="item" title={sub.name}>
             {sub.name}
           </a>
         ))}

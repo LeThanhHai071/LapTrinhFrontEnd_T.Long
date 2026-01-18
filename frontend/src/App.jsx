@@ -8,7 +8,7 @@ import Login from "./login";
 import Profile from "./profile";
 import Register from "./register";
 import NewsList from "./NewsList";
-import NewsDetail from "./NewsDetail";
+import NewsDetail from "./newsDetail.jsx";
 import Subscription from "./Subscription";
 import Advertise from "./Advertise";
 import ShowWeather from "./ShowWeather";
@@ -16,6 +16,7 @@ import SearchPage from "./SearchPage.jsx";
 import SearchDetailResult from "./SearchDetailResult.jsx";
 import Category from "./pages/Category.jsx";
 import ChangePassword from "./ChangePassword";
+import NewsLastest from "./pages/NewsLastest.jsx";
 
 function App() {
   return (
@@ -35,7 +36,7 @@ function App() {
           <Route path="advertise" element={<Advertise />} />
           <Route path="weather" element={<ShowWeather />} />
           <Route path="search" element={<SearchPage />} />
-          <Route path="search-detail/:id" element={<SearchDetailResult />} />
+          <Route path="lastest" element={<NewsLastest />} />
         </Route>
       </Routes>
     </BrowserRouter>
