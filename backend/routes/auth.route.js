@@ -2,7 +2,7 @@ const express = require("express");
 const router = express.Router();
 const fs = require("fs");
 const path = require("path");
-
+const { toggleSave, getSavedList } = require("../utils/articleHandler");
 const authPath = path.join(__dirname, "../data/auth.json");
 
 function readData() {
@@ -99,5 +99,10 @@ router.put("/change-password/:userId", (req, res) => {
 
     return res.json({ message: "Đổi mật khẩu thành công" });
 });
+
+//== lưu bài báo
+router.post("/toggle-save", toggleSave);
+// lấy danh sách bài báo đã lưu
+router.get("/saved-list/:userId", getSavedList);
 
 module.exports = router;
