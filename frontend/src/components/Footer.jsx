@@ -68,7 +68,7 @@ const Footer = () => {
                   <a
                     key={cat.id}
                     className="item"
-                    href={`/news/${cat.fullSlug}`}
+                    href={`/category/${cat.fullSlug}`}
                     title={cat.name}
                   >
                     {cat.name}
@@ -83,7 +83,7 @@ const Footer = () => {
         <div className="container">
           <div className="footer__middle-flex">
             <a
-              href="https://thanhnien.vn/"
+              href="/"
               title="Báo Thanh niên"
               alt="Báo Thanh Niên"
               className="footer__logo"
@@ -99,48 +99,48 @@ const Footer = () => {
             <div className="footer__m-content">
               <div className="list">
                 <a
-                  href="https://datbao.thanhnien.vn/"
+                  href="/subscription"
                   title="Đặt báo"
                   className="item"
                   target="_blank"
                 >
-                  Đặt báo{" "}
+                  Đặt báo
                 </a>
                 <a
-                  href="https://banggia.thanhnien.vn/"
+                  href="/advertise"
                   title="Quảng cáo"
                   className="item"
                   target="_blank"
                 >
-                  Quảng cáo{" "}
+                  Quảng cáo
                 </a>
                 <a
-                  href="https://thanhnien.vn/rss.html"
+                  href="/"
                   title="RSS"
                   className="item"
                 >
-                  RSS{" "}
+                  RSS
                 </a>
                 <a
-                  href="https://thanhnien.vn/thong-tin-toa-soan.html"
+                  href="/"
                   title="Tòa soạn"
                   className="item"
                 >
-                  Tòa soạn{" "}
+                  Tòa soạn
                 </a>
                 <a
-                  href="https://thanhnien.vn/policy.html"
+                  href="/"
                   title="Chính sách bảo mật"
                   className="item"
                 >
-                  Chính sách bảo mật{" "}
+                  Chính sách bảo mật
                 </a>
               </div>
               <div className="social">
                 <span>Theo dõi báo trên</span>
                 <div className="list-sc">
                   <a
-                    href="https://www.facebook.com/thanhnien"
+                    href="/"
                     className="item"
                     rel="nofollow"
                     target="_blank"
@@ -149,7 +149,7 @@ const Footer = () => {
                     <FacebookIconCustom />
                   </a>
                   <a
-                    href="https://zalo.me/2431025964363015388"
+                    href="/"
                     className="item"
                     rel="nofollow"
                     target="_blank"
@@ -158,7 +158,7 @@ const Footer = () => {
                     <ZaloIconCustom />
                   </a>
                   <a
-                    href="https://www.youtube.com/channel/UCIW9cGgoRuGJnky3K3tbzNg"
+                    href="/"
                     className="item"
                     rel="nofollow"
                     target="_blank"
@@ -193,7 +193,7 @@ const Footer = () => {
               2003-2025 Bản quyền thuộc về Báo Thanh Niên. Cấm sao chép dưới mọi
               hình thức nếu không có sự chấp thuận bằng văn bản.
               <a
-                href="https://tinnhiemmang.vn/danh-ba-tin-nhiem/thanhnienvn-1625711824"
+                href="/"
                 title="Chứng nhận tín nhiệm mạng"
                 target="_blank"
               >

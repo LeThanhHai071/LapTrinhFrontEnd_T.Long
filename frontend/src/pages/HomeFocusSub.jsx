@@ -37,7 +37,7 @@ const HomeFocusSub = ({ latestNews }) => {
         </div>
       </div>
       <div className="sidebar-footer">
-        <Link to={"/category/lastestNews"} className="view-more">
+        <Link to={"/lastest"} className="view-more">
           Xem thêm
         </Link>
       </div>
