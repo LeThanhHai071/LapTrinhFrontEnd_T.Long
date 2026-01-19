@@ -1,0 +1,45 @@
+{
+  "title": "Nvidia giảm 20% nguồn cung GPU, không có sản phẩm mới trong năm 2026",
+  "categories": [
+    "Công nghệ",
+    "Tin tức công nghệ"
+  ],
+  "sapo": "Việc giảm nguồn cung ảnh hưởng đến toàn bộ dòng sản phẩm Nvidia RTX 50, trong khi khả năng ra mắt GPU mới trong năm 2026 gần như bằng không.",
+  "publishDate": "17/01/2026 07:41 GMT+7",
+  "author": {
+    "name": "Khải Minh",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/528068263637045248/2024/10/18/4626390115090904687719222236269629751881947n-17292733914391350492811.jpg",
+    "email": "-  khaiminh.hm08@gmail.com"
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Theo Wccftech, một thông tin gần được rò rỉ trên nền tảng X (trước đây là Twitter) cho biết Nvidia đã giảm từ 15 đến 20% nguồn cung GPU đến các đối tác sản xuất card đồ họa (AICs). Không chỉ ảnh hưởng đến một vài mẫu cụ thể, đợt cắt giảm lần này tác động đến toàn bộ dòng sản phẩm RTX 50, có thể khiến giá GPU tiếp tục tăng trong thời gian tới."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/17/object-1679955636261-1768608599921137125416.jpg"
+      ],
+      "caption": "Việc Nvidia giảm mạnh nguồn cung GPU RTX 50 có thể khiến giá card đồ họa tiếp tục leo thang, ảnh hưởng đến người dùng đang có dự định nâng cấp thiết bị"
+    },
+    {
+      "type": "text",
+      "content": "Ngoài ra, Nvidia cũng được cho là sẽ không ra mắt dòng GPU RTX 50 “SUPER” trong năm 2026. Dòng sản phẩm này vốn dự kiến sử dụng bộ nhớ đồ họa GDDR7 dung lượng 3 GB, vốn đang khan hiếm trên thị trường. Việc trì hoãn hoặc hủy bỏ dòng GPU mới đồng nghĩa người dùng sẽ không có thêm lựa chọn nâng cấp hệ thống trong năm nay."
+    },
+    {
+      "type": "text",
+      "content": "Trước đó, Nvidia ngừng cung cấp mẫu RTX 5070 Ti cùng một số GPU khác do thiếu hụt DRAM. Tuy nhiên, công ty vẫn duy trì việc tích hợp sẵn bộ nhớ VRAM khi giao GPU đến các đối tác, một phần do nguồn cung hiện tại đã giảm đáng kể, giúp giảm áp lực lên nhu cầu linh kiện bộ nhớ."
+    },
+    {
+      "type": "text",
+      "content": "Động thái cắt giảm nguồn cung và hoãn sản phẩm mới được cho là sẽ ảnh hưởng trực tiếp đến thị trường người tiêu dùng, đặc biệt là giới game thủ và những người cần cấu hình đồ họa cao cho công việc. Giá GPU đã có xu hướng tăng nhẹ trong vài tuần qua và có thể sẽ tiếp tục leo thang nếu tình trạng này kéo dài."
+    },
+    {
+      "type": "text",
+      "content": "Không chỉ Nvidia, AMD cũng đang đối mặt với thách thức tương tự. Mẫu Radeon RX 9070 XT đang tăng giá và dòng RDNA 4 hiện có ít lựa chọn. Dòng kế nhiệm RDNA 5 hoặc UDNA được dự đoán sẽ không xuất hiện trước năm 2027, làm dấy lên lo ngại về một giai đoạn khan hiếm sản phẩm đồ họa cao cấp trên toàn thị trường."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/nvidia-giam-20-nguon-cung-gpu-khong-co-san-pham-moi-trong-nam-2026-185260117071336659.htm",
+  "id": "185260117071336659"
+}

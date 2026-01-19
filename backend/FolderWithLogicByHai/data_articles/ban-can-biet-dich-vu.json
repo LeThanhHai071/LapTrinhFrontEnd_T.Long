@@ -3,87 +3,107 @@
   "categoryName": "Dịch vụ",
   "fullSlug": "ban-can-biet-dich-vu",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:06:07.912Z",
+  "lastUpdate": "2026-01-18T04:54:48.123Z",
   "articles": [
     {
       "title": "Những mô hình sử dụng điện tiết kiệm, hiệu quả",
       "link": "https://thanhnien.vn/nhung-mo-hinh-su-dung-dien-tiet-kiem-hieu-qua-1851511343.htm",
       "pubDate": "Mon, 17 Oct 22 10:30:18 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/dieutrangqc/2022_10_17/evnhanoi-1-1032.jpg",
+      "imgClass": "img-resize",
       "description": "Với những khó khăn trong bối cảnh khủng hoảng năng lượng toàn cầu thì việc nâng cao ý thức sử dụng điện tiết kiệm, hiệu quả là việc làm hết sức cần thiết. Thời gian qua, đã có nhiều mô hình sử dụng điện hiệu quả được các khách hàng trên địa bàn Thủ đô áp dụng, góp phần không nhỏ vào việc tiết kiệm chi phí và đảm bảo an ninh năng lượng quốc gia.",
-      "guid": "https://thanhnien.vn/nhung-mo-hinh-su-dung-dien-tiet-kiem-hieu-qua-1851511343.htm"
+      "guid": "https://thanhnien.vn/nhung-mo-hinh-su-dung-dien-tiet-kiem-hieu-qua-1851511343.htm",
+      "categoryName": "Đời sống"
     },
     {
       "title": "360 Clinic đặt mục tiêu bảo vệ cộng đồng không bị lây nhiễm Covid-19 lên hàng đầu",
       "link": "https://thanhnien.vn/360-clinic-dat-muc-tieu-bao-ve-cong-dong-khong-bi-lay-nhiem-covid-19-len-hang-dau-1851082387.htm",
       "pubDate": "Fri, 25 Jun 21 16:24:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_06_25/360clinic/nhanvien360clinic_UKNS.jpg",
+      "imgClass": "img-resize",
       "description": "Công ty 360 Clinic hiện đang hợp tác cùng nhiều thành phố trong tiểu bang California, Hoa Kỳ, để tăng xét nghiệm Covid-19 trên diện rộng và thuận tiện cho người dân tham gia xét nghiệm với kết quả nhanh chóng.",
-      "guid": "https://thanhnien.vn/360-clinic-dat-muc-tieu-bao-ve-cong-dong-khong-bi-lay-nhiem-covid-19-len-hang-dau-1851082387.htm"
+      "guid": "https://thanhnien.vn/360-clinic-dat-muc-tieu-bao-ve-cong-dong-khong-bi-lay-nhiem-covid-19-len-hang-dau-1851082387.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Hona-G Interior ghi dấu ấn tại các dự án nhà mẫu cao cấp",
       "link": "https://thanhnien.vn/hona-g-interior-ghi-dau-an-tai-cac-du-an-nha-mau-cao-cap-1851048930.htm",
       "pubDate": "Wed, 24 Mar 21 09:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_03_23/hona-g/3_CBGR.png",
+      "imgClass": "img-resize",
       "description": "Thấu hiểu tầm quan trọng của nhà mẫu đối với quá trình phát triển dự án, Hona-G Interior đã dồn toàn bộ tâm huyết để mang lại giá trị và cảm xúc cho các căn nhà mẫu mà mình thực hiện.",
-      "guid": "https://thanhnien.vn/hona-g-interior-ghi-dau-an-tai-cac-du-an-nha-mau-cao-cap-1851048930.htm"
+      "guid": "https://thanhnien.vn/hona-g-interior-ghi-dau-an-tai-cac-du-an-nha-mau-cao-cap-1851048930.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "ACB liên kết với AirPay dành 1 tỉ đồng ưu đãi khách hàng mua sắm online",
       "link": "https://thanhnien.vn/acb-lien-ket-voi-airpay-danh-1-ti-dong-uu-dai-khach-hang-mua-sam-online-1851044380.htm",
       "pubDate": "Tue, 09 Mar 21 14:46:55 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_03_09/acb/hinh1_FJTB.jpg",
+      "imgClass": "img-resize",
       "description": "ACB liên kết với ví điện tử AirPay đưa ra những ưu đãi hấp dẫn từ nay đến hết tháng 3 trị giá lên 1 tỉ đồng.",
-      "guid": "https://thanhnien.vn/acb-lien-ket-voi-airpay-danh-1-ti-dong-uu-dai-khach-hang-mua-sam-online-1851044380.htm"
+      "guid": "https://thanhnien.vn/acb-lien-ket-voi-airpay-danh-1-ti-dong-uu-dai-khach-hang-mua-sam-online-1851044380.htm",
+      "categoryName": "Kinh tế"
     },
     {
       "title": "Cấy ghép Implant All on 4, All on 6 cùng TS-BS Nguyễn Hiếu Tùng",
       "link": "https://thanhnien.vn/cay-ghep-implant-all-on-4-all-on-6-cung-ts-bs-nguyen-hieu-tung-1851038358.htm",
       "pubDate": "Thu, 18 Feb 21 14:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_02_17/i-dent2/1_GKJO.png",
+      "imgClass": "img-resize",
       "description": "Cấy ghép Implant All on 4, All on 6 là 2 kỹ thuật phức tạp nhất trong lĩnh vực nha khoa.",
-      "guid": "https://thanhnien.vn/cay-ghep-implant-all-on-4-all-on-6-cung-ts-bs-nguyen-hieu-tung-1851038358.htm"
+      "guid": "https://thanhnien.vn/cay-ghep-implant-all-on-4-all-on-6-cung-ts-bs-nguyen-hieu-tung-1851038358.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Nha khoa I-Dent - địa chỉ trồng răng Implant uy tín tại TP.HCM",
       "link": "https://thanhnien.vn/nha-khoa-i-dent-dia-chi-trong-rang-implant-uy-tin-tai-tphcm-1851038356.htm",
       "pubDate": "Thu, 18 Feb 21 10:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_02_17/i-dent1/2_WBAZ.jpg",
+      "imgClass": "img-resize",
       "description": "Tại TP.HCM có nhiều nha khoa thực hiện dịch vụ trồng răng Implant, nhưng không phải địa chỉ nào cũng đảm bảo kết quả trồng răng thành công và an toàn cho bệnh nhân.",
-      "guid": "https://thanhnien.vn/nha-khoa-i-dent-dia-chi-trong-rang-implant-uy-tin-tai-tphcm-1851038356.htm"
+      "guid": "https://thanhnien.vn/nha-khoa-i-dent-dia-chi-trong-rang-implant-uy-tin-tai-tphcm-1851038356.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "CEO Hậu Nguyễn - SexybrowGH xu hướng toàn cầu của ngành phun xăm thẩm mỹ",
       "link": "https://thanhnien.vn/ceo-hau-nguyen-sexybrowgh-xu-huong-toan-cau-cua-nganh-phun-xam-tham-my-1851034933.htm",
       "pubDate": "Wed, 03 Feb 21 14:38:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_02_03/sexybrowgh/2_PRQK.png",
+      "imgClass": "img-resize",
       "description": "Hơn 1 năm qua, CEO Hậu Nguyễn đã sáng tác một kỹ thuật phun xăm ưu Việt - thể hiện vẻ đẹp và gây ra sức ảnh hưởng lớn tới ngành phun xăm thẩm mỹ.",
-      "guid": "https://thanhnien.vn/ceo-hau-nguyen-sexybrowgh-xu-huong-toan-cau-cua-nganh-phun-xam-tham-my-1851034933.htm"
+      "guid": "https://thanhnien.vn/ceo-hau-nguyen-sexybrowgh-xu-huong-toan-cau-cua-nganh-phun-xam-tham-my-1851034933.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "VietinBank thể hiện tốt vai trò ngân hàng trụ cột, chủ lực của đất nước",
       "link": "https://thanhnien.vn/vietinbank-the-hien-tot-vai-tro-ngan-hang-tru-cot-chu-luc-cua-dat-nuoc-1851032306.htm",
       "pubDate": "Tue, 26 Jan 21 10:39:46 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_01_26/vietinbank/1_SRFV.jpg",
+      "imgClass": "img-resize",
       "description": "Với việc tái cấu trúc toàn diện hoạt động theo hướng nâng cao tiêu chuẩn hoạt động, chuyển đổi mạnh mẽ mô hình kinh doanh, VietinBank đã hoàn thành tốt Phương án cơ cấu lại gắn với xử lý nợ xấu giai đoạn 2016-2020.",
-      "guid": "https://thanhnien.vn/vietinbank-the-hien-tot-vai-tro-ngan-hang-tru-cot-chu-luc-cua-dat-nuoc-1851032306.htm"
+      "guid": "https://thanhnien.vn/vietinbank-the-hien-tot-vai-tro-ngan-hang-tru-cot-chu-luc-cua-dat-nuoc-1851032306.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Trung tâm tư vấn Dạy Lái An Toàn - uy tín, chất lượng tại TP.HCM",
       "link": "https://thanhnien.vn/trung-tam-tu-van-day-lai-an-toan-uy-tin-chat-luong-tai-tphcm-1851029534.htm",
       "pubDate": "Sat, 16 Jan 21 17:34:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_01_16/lxat/1_DOUW.jpg",
+      "imgClass": "img-resize",
       "description": "Học lái xe ô tô hiện nay rất phổ biến. Ngoài học lái xe an toàn, học viên còn quan tâm đến giảng viên cũng như khu vực thực hành.",
-      "guid": "https://thanhnien.vn/trung-tam-tu-van-day-lai-an-toan-uy-tin-chat-luong-tai-tphcm-1851029534.htm"
+      "guid": "https://thanhnien.vn/trung-tam-tu-van-day-lai-an-toan-uy-tin-chat-luong-tai-tphcm-1851029534.htm",
+      "categoryName": "Bạn cần biết"
     },
     {
       "title": "Bệnh viện Đa khoa Ninh Thuận: Chất lượng - chuyên nghiệp - thân thiện - hiệu quả",
       "link": "https://thanhnien.vn/benh-vien-da-khoa-ninh-thuan-chat-luong-chuyen-nghiep-than-thien-hieu-qua-1851027023.htm",
       "pubDate": "Fri, 08 Jan 21 07:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/Uploaded/quochung.qc/2021_01_07/bvdkninhthuan/benhvienninhthuan_h1_WHCZ.jpg",
+      "imgClass": "img-resize",
       "description": "Sáng 8.1, Bệnh viện Đa khoa Ninh Thuận (BV) long trọng tổ chức lễ công bố Quyết định của Chủ tịch UBND tỉnh Ninh Thuận công nhận BV đạt Bệnh viện hạng I.",
-      "guid": "https://thanhnien.vn/benh-vien-da-khoa-ninh-thuan-chat-luong-chuyen-nghiep-than-thien-hieu-qua-1851027023.htm"
+      "guid": "https://thanhnien.vn/benh-vien-da-khoa-ninh-thuan-chat-luong-chuyen-nghiep-than-thien-hieu-qua-1851027023.htm",
+      "categoryName": "Bạn cần biết"
     }
   ]
 }

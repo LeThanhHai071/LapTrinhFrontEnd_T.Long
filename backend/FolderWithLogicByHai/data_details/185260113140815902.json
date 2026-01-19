@@ -1,0 +1,93 @@
+{
+  "title": "Tấn công mạng Việt Nam 2025: Số vụ giảm, tổn hại tăng",
+  "categories": [
+    "Công nghệ",
+    "Tin tức công nghệ"
+  ],
+  "sapo": "Năm 2025, dữ liệu trở thành mục tiêu hàng đầu của tin tặc, với 552.000 cuộc tấn công mạng và có tới 52,3% tổ chức, doanh nghiệp xác nhận phải chịu tổn hại do tấn công mạng.",
+  "publishDate": "13/01/2026 14:56 GMT+7",
+  "author": {
+    "name": "Anh Quân",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/Uploaded/authors/CTV/cong-tam_AAKV.jpeg",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Đây là những nội dung nổi bật trong \"Báo cáo nghiên cứu, khảo sát an ninh mạng tại Việt Nam năm 2025\" đối với khối cơ quan, doanh nghiệp do Hiệp hội An ninh mạng Quốc gia (NCA) thực hiện dựa trên khảo sát hơn 5.300 đơn vị, tổ chức đang hoạt động trong nước, phần nào phác họa bức tranh về tình trạng tấn công mạng hiện nay."
+    },
+    {
+      "type": "h2",
+      "content": "Tấn công mạng ngày càng khó lường"
+    },
+    {
+      "type": "text",
+      "content": "Theo thống kê của NCA, trong năm 2025 các hệ thống thông tin tại Việt Nam phải đối mặt với khoảng 552.000 cuộc tấn công mạng, giảm 19,38% so với năm 2024, cho thấy những nỗ lực đầu tư cho an ninh mạng của các cơ quan, tổ chức bước đầu phát huy hiệu quả, khiến hình thức tấn công mạng không còn dễ dàng như trước."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2024/4/3/an-ninh-mang-569-17121512729551571298688.png"
+      ],
+      "caption": "Tấn công mạng năm 2025 tinh vi, nhiều kịch bản biến tấu nên gây tổn thất hơn so với 2024"
+    },
+    {
+      "type": "text",
+      "content": "Tuy nhiên, sự sụt giảm về số lượng không đồng nghĩa với mức độ rủi ro giảm đi. Khảo sát cho thấy 52,3% cơ quan, doanh nghiệp từng ghi nhận chịu tổn hại do tấn công mạng trong năm, tăng đáng kể so với mức 46,15% của năm 2024. \"Tin tặc đang chuyển sang chiến lược tấn công có chọn lọc, tập trung vào từng mục tiêu cụ thể, với sự chuẩn bị kỹ lưỡng và khả năng khai thác sâu hơn, làm gia tăng nguy cơ dù tổng số vụ tấn công giảm\", đại diện NCA bình luận."
+    },
+    {
+      "type": "text",
+      "content": "Báo cáo liệt kê 5 hình thức tấn công phổ biến nhất trong năm 2025 lần lượt gồm: Tấn công từ chối dịch vụ (DoS/DDoS); Chèn link quảng cáo cờ bạc, cá độ (backlink); Tấn công gián điệp có chủ đích (APT); Tấn công đánh cắp dữ liệu; Mã hóa dữ liệu tống tiền. Các hình thức này có dấu hiệu được tin tặc kết hợp, triển khai đan xen theo những kịch bản tính toán kỹ lưỡng."
+    },
+    {
+      "type": "text",
+      "content": "Cụ thể, tấn công bề nổi như DDoS gây gián đoạn hoạt động, thu hút sự chú ý và làm phân tán nguồn lực của đội ngũ vận hành an ninh mạng. Khi tổ chức tập trung xử lý sự cố, các lớp phòng vệ chiều sâu có thể bị lơ là trong một khoảng thời gian nhất định. Lợi dụng điều đó, tin tặc triển khai các chiến dịch tấn công có chủ đích, xâm nhập sâu vào hệ thống, cài cắm mã độc nằm vùng và duy trì sự hiện diện trong thời gian dài mà không bị phát hiện."
+    },
+    {
+      "type": "text",
+      "content": "Năm 2024, tấn công mã hóa dữ liệu tống tiền nổi lên như mối đe dọa chủ đạo nhưng sang năm 2025, những vụ việc gây ảnh hưởng lớn nhất lại tập trung vào các cuộc tấn công xâm phạm và đánh cắp dữ liệu. Sự dịch chuyển cho thấy tin tặc không chỉ nhắm tới gây tê liệt hệ thống để đòi tiền chuộc, mà ngày càng xem dữ liệu là tài sản có giá trị cao để khai thác lâu dài."
+    },
+    {
+      "type": "text",
+      "content": "Ông Vũ Ngọc Sơn, Trưởng ban công nghệ của NCA nhận định: \"Tin tặc có xu hướng tấn công kép, không vội mã hóa dữ liệu ngay khi xâm nhập mà sẽ nằm vùng lâu dài. Mục tiêu đánh cắp dữ liệu quan trọng nhằm bán, trao đổi hoặc khai thác trên các chợ đen. Khi không còn dữ liệu khai thác thì mã hóa dữ liệu để tống tiền nạn nhân\"."
+    },
+    {
+      "type": "text",
+      "content": "Cơ hội nghề nghiệp của ngành an ninh mạng"
+    },
+    {
+      "type": "h2",
+      "content": "Công tác phòng thủ còn nhiều khoảng trống"
+    },
+    {
+      "type": "text",
+      "content": "Năm 2025 ghi nhận những chuyển biến tích cực về nhận thức an ninh mạng. Tỷ lệ cơ quan, doanh nghiệp tổ chức đào tạo nâng cao nhận thức an ninh mạng đạt 75,93%. Khoảng 51,45% đơn vị có tổ chức diễn tập an ninh mạng, chủ động xây dựng kịch bản và quy trình ứng phó sự cố. 51,65% cơ quan, doanh nghiệp triển khai, vận hành Trung tâm giám sát an ninh mạng SOC. Tỷ lệ doanh nghiệp có hệ thống sao lưu dữ liệu dự phòng đạt 76,35%, cho thấy các tổ chức đã sẵn sàng hơn cho các kịch bản phục hồi sau thảm họa."
+    },
+    {
+      "type": "text",
+      "content": "Tuy nhiên, vẫn còn nhiều khoảng trống đáng lo ngại: 47,72% cơ quan, doanh nghiệp đang thiếu nhân sự an ninh mạng, kéo dài tình trạng đã được cảnh báo từ năm 2024. Nhiều đơn vị chưa triển khai bất kỳ tiêu chuẩn an ninh mạng nào trong nội bộ. Hơn một nửa (51,87%) số đơn vị vẫn chưa có phần mềm phòng chống mã độc quản lý tập trung, trong khi 8,71% hoàn toàn không sử dụng phần mềm diệt virus. Có 9,38% cơ quan, doanh nghiệp cho biết không có hình thức kiểm soát truy cập internet như tường lửa, khiến hệ thống luôn đứng trước nguy cơ bị xâm nhập từ bên ngoài."
+    },
+    {
+      "type": "text",
+      "content": "So với năm 2024, an ninh mạng năm 2025 có những bước tiến về nhận thức, song mức độ đầu tư giải pháp kỹ thuật và nhân lực vẫn chưa tương xứng với tốc độ và sự tinh vi của các cuộc tấn công."
+    },
+    {
+      "type": "h2",
+      "content": "An ninh dữ liệu và AI \"làm nóng\" 2026"
+    },
+    {
+      "type": "text",
+      "content": "Dự báo về xu hướng năm 2026, NCA nhận định an ninh dữ liệu sẽ trở thành \"mặt trận\" trọng tâm của các cơ quan, tổ chức, doanh nghiệp. Trong bối cảnh Việt Nam đang đẩy mạnh chuyển đổi số, các trung tâm dữ liệu và thông tin sẽ là tài sản giá trị nhất mà tin tặc nhắm tới."
+    },
+    {
+      "type": "text",
+      "content": "Tấn công mạng được dự báo ngày càng tinh vi, tự động hóa mạnh mẽ nhờ trí tuệ nhân tạo (AI). Tin tặc có thể sử dụng AI để nhanh chóng tạo ra các công cụ tự động rà quét, khai thác lỗ hổng, cũng như sinh biến thể mã độc mới, liên tục thay đổi nhằm né tránh hệ thống phòng thủ truyền thống. Bên cạnh đó, tấn công mã hóa dữ liệu tống tiền vẫn tiềm ẩn nguy cơ bùng phát trở lại với mức độ nguy hiểm hơn, đặc biệt nhắm vào hạ tầng trọng yếu."
+    },
+    {
+      "type": "text",
+      "content": "Các chuyên gia cho rằng việc tuân thủ luật An ninh mạng và luật Bảo vệ dữ liệu cá nhân không là lựa chọn, mà trở thành yêu cầu sống còn. Các doanh nghiệp cần chuyển dịch từ trang bị đối phó sang đầu tư bài bản, áp dụng tiêu chuẩn an ninh mạng quốc tế và coi dữ liệu là tài sản cần bảo vệ nghiêm ngặt nhất."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/tan-cong-mang-viet-nam-2025-so-vu-giam-ton-hai-tang-185260113140815902.htm",
+  "id": "185260113140815902"
+}

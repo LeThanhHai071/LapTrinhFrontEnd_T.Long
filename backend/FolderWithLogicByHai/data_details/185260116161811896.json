@@ -1,0 +1,61 @@
+{
+  "title": "Mặt trái ít được nói tới khi sao lưu dữ liệu vào ổ USB",
+  "categories": [
+    "Công nghệ",
+    "Tin tức công nghệ"
+  ],
+  "sapo": "Ổ USB là một công cụ tiện lợi được nhiều người dùng để lưu trữ tạm thời và chuyển dữ liệu giữa các máy tính.",
+  "publishDate": "17/01/2026 15:29 GMT+7",
+  "author": {
+    "name": "Kiến Văn",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/Uploaded/authors/CTV/kienvan_WULL.jpg",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Trong nhiều trường hợp, ổ USB nhanh hơn nhiều so với việc sử dụng internet để sao lưu dữ liệu, đặc biệt nếu người dùng không có đường truyền mạng ổn định. Tuy nhiên, nhiều người vẫn không biết rằng ổ USB không phải được thiết kế để lưu trữ dữ liệu lâu dài."
+    },
+    {
+      "type": "h2",
+      "content": "Cách hoạt động và độ tin cậy của ổ USB"
+    },
+    {
+      "type": "text",
+      "content": "Bên trong ổ USB có hàng tỉ bóng bán dẫn nhỏ có khả năng nhận điện tích. Một số loại bộ nhớ như SLC (single level cell) chỉ lưu trữ một bit thông tin trên mỗi ô, trong khi các loại khác như QLC (quad-layer cell) có thể lưu trữ nhiều bit hơn. Khi kết hợp các ô nhớ này, người dùng có thể lưu trữ dữ liệu như văn bản, âm thanh hoặc video."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/16/2-17685550217832037482620.jpg"
+      ],
+      "caption": "Ổ USB không phải là giải pháp tốt nhất khi muốn sao lưu dữ liệu lâu dài"
+    },
+    {
+      "type": "text",
+      "content": "Vấn đề là có một số nguyên nhân khác nhau khiến ổ USB không phải là lựa chọn phù hợp khi cần lưu trữ dữ liệu lâu dài. Thứ nhất, ổ USB không bền bằng ổ SSD, vốn được thiết kế để sử dụng liên tục và cần có các biện pháp bảo vệ để giảm thiểu hỏng hóc. Thứ hai, ổ USB sử dụng công nghệ bộ nhớ QLC dễ bị hỏng hơn so với các loại bộ nhớ khác dùng các công nghệ multiple-level cell (MLC) hoặc triple-level cell (TLC)."
+    },
+    {
+      "type": "text",
+      "content": "Một vấn đề vật lý khác là hiện tượng được gọi \"xuyên hầm lượng tử\" khiến electron có thể tự thoát ra khỏi ô nhớ và dẫn đến mất dữ liệu theo thời gian. Mặc dù một vài electron thoát ra không gây ảnh hưởng lớn, nhưng theo thời gian, điều này có thể dẫn đến hỏng hóc dữ liệu."
+    },
+    {
+      "type": "h2",
+      "content": "Giải pháp thay thế ổ USB"
+    },
+    {
+      "type": "text",
+      "content": "Mặc dù không có phương tiện lưu trữ dữ liệu nào được xem là hoàn hảo nhưng ổ cứng truyền thống (HDD) có thể trở thành tốt nhất cho việc lưu trữ lâu dài nhờ vào sự kết hợp giữa chi phí và tính tiện lợi. Tuy nhiên, ổ cứng HDD cũng có thể gặp vấn đề do hao mòn cơ học."
+    },
+    {
+      "type": "text",
+      "content": "Ngoài ra, một số loại đĩa lưu trữ như CD, DVD cao cấp và M-DISC cũng có thể tồn tại lâu dài nếu được bảo quản đúng cách. Chẳng hạn, M-DISC được kỳ vọng sẽ tồn tại khoảng 1.000 năm trong điều kiện lý tưởng."
+    },
+    {
+      "type": "text",
+      "content": "Cho dù chọn phương tiện lưu trữ nào, người dùng cũng nên bảo quản chúng ở nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp và va đập. Bên cạnh đó, việc in một số bức ảnh kỷ niệm quý giá để xem lại về sau cũng là một lựa chọn đáng cân nhắc, vì ảnh in có thể tồn tại hơn một thế kỷ."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/mat-trai-it-duoc-noi-toi-khi-sao-luu-du-lieu-vao-o-usb-185260116161811896.htm",
+  "id": "185260116161811896"
+}

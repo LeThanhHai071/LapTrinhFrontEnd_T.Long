@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import HomeFocus from "./pages/HomeFocus";
-import HomeSidebar from "./pages/HomeSidebar";
+import HomeFocusSub from "./pages/HomeFocusSub";
+import NewsSection from "./pages/NewsSection";
 import "./Home.css";
 
 const Home = () => {
@@ -33,13 +34,24 @@ const Home = () => {
 
   return (
     <main className="home-container">
-      <div className="home-main-content">
-        <div className="left-column">
-          <HomeFocus articles={focusArticles} />
-        </div>
+      <div className="section__home-focus">
+        <div className="container">
+          <div className="section__hf-flex">
+            <div className="section__hf-main left-column">
+              <div className="box-category-middle">
+                <HomeFocus articles={focusArticles} />
+              </div>
+            </div>
 
-        <div className="right-column">
-          <HomeSidebar latestNews={latestArticles} />
+            <div className="section__hf-sub right-column">
+              <HomeFocusSub latestNews={latestArticles} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="section__news-sp">
+        <div className="container">
+          <NewsSection />
         </div>
       </div>
     </main>

@@ -23,7 +23,7 @@ const HighlightText = ({ text, highlight }) => {
           </mark>
         ) : (
           part
-        )
+        ),
       )}
     </span>
   );
@@ -39,21 +39,11 @@ const SearchPage = () => {
   const [results, setResults] = useState([]);
   const [loading, setLoading] = useState(false);
 
-  //   const fetchSearch = useCallback(async (query) => {
-  //     if (!query || query.trim().length < 2) return;
-  //     setLoading(true);
-  //     try {
-  //       const response = await axios.get(
-  //         `http://localhost:5000/api/search?q=${encodeURIComponent(query)}`
-  //       );
-  //       setResults(response.data.data || []);
-  //     } catch (error) {
-  //       console.error("Lỗi API Search:", error);
-  //       setResults([]);
-  //     } finally {
-  //       setLoading(false);
-  //     }
-  //   }, []);
+  const getArticleId = (link) => {
+    if (!link) return Math.random();
+    const match = link.match(/-(\d+)\.htm$/);
+    return match ? match[1] : link;
+  };
 
   const fetchSearch = useCallback(async (query) => {
     const trimmedQuery = query?.trim();
@@ -62,7 +52,7 @@ const SearchPage = () => {
     setLoading(true);
     try {
       const response = await axios.get(
-        `http://localhost:5000/api/search?q=${encodeURIComponent(trimmedQuery)}`
+        `http://localhost:5000/api/search?q=${encodeURIComponent(trimmedQuery)}`,
       );
       setResults(response.data.data || []);
     } catch (error) {
@@ -172,7 +162,7 @@ const SearchPage = () => {
           results.map((item, index) => {
             const title = item.title || "Bản tin không tiêu đề";
             const description = item.description || item.sapo || "";
-            const linkPath = `/article/${item.articleId}`;
+            const linkPath = `/article/${getArticleId(item.articleId)}`;
 
             return (
               <div

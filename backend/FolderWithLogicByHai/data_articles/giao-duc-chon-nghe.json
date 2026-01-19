@@ -3,87 +3,106 @@
   "categoryName": "Chọn nghề",
   "fullSlug": "giao-duc-chon-nghe",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:03:00.773Z",
+  "lastUpdate": "2026-01-18T04:52:25.397Z",
   "articles": [
+    {
+      "title": "Khi giảng đường trở thành nhà hàng: Sinh viên F&B bước vào “cuộc thử nghề” thật",
+      "link": "https://thanhnien.vn/khi-giang-duong-tro-thanh-nha-hang-sinh-vien-fb-buoc-vao-cuoc-thu-nghe-that-185260117123049988.htm",
+      "pubDate": "Sat, 17 Jan 26 13:01:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/cover-des-17686274099121958160222-0-73-1055-1760-crop-17686278013651399463162.jpg",
+      "imgClass": "img-resize",
+      "description": "Có những buổi học không diễn ra trong lớp.Ở đó, sinh viên khoác lên mình đồng phục phục vụ, bếp nóng đỏ lửa, bàn tiệc sáng đèn, thực khách gọi món, từng khâu vận hành diễn ra nhịp nhàng như trong một nhà hàng đang hoạt động thật sự.",
+      "guid": "https://thanhnien.vn/khi-giang-duong-tro-thanh-nha-hang-sinh-vien-fb-buoc-vao-cuoc-thu-nghe-that-185260117123049988.htm"
+    },
+    {
+      "title": "TP.HCM bắt đầu dạy về trí tuệ nhân tạo: Thí điểm với học sinh trường nào?",
+      "link": "https://thanhnien.vn/tphcm-bat-dau-day-ve-tri-tue-nhan-tao-thi-diem-voi-hoc-sinh-truong-nao-185260116182232706.htm",
+      "pubDate": "Fri, 16 Jan 26 18:53:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/ttnt-17685620585441227435914-100-0-1350-2000-crop-1768562086100697880760.png",
+      "imgClass": "img-resize",
+      "description": "Học sinh các trường THPT chuyên, trường tiên tiến, chất lượng cao, trường học số của TPHCM sẽ bắt đầu học về trí tuệ nhân tạo từ năm học 2025-2026.",
+      "guid": "https://thanhnien.vn/tphcm-bat-dau-day-ve-tri-tue-nhan-tao-thi-diem-voi-hoc-sinh-truong-nao-185260116182232706.htm",
+      "categoryName": "Giáo dục"
+    },
     {
       "title": "Vượt nghịch cảnh, nam sinh công nghệ thông tin tốt nghiệp loại giỏi gây xúc động",
       "link": "https://thanhnien.vn/vuot-nghich-canh-nam-sinh-cong-nghe-thong-tin-tot-nghiep-loai-gioi-gay-xuc-dong-185260112143446754.htm",
       "pubDate": "Mon, 12 Jan 26 14:31:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/dsc03625-17682033544761633268515-54-0-1654-2560-crop-176820391969315886690.jpg",
+      "imgClass": "img-resize",
       "description": "Trần Nhật Phi, tân kỹ sư công nghệ thông tin đã khép lại hành trình đại học bằng tấm bằng loại giỏi cùng câu chuyện vượt lên nghịch cảnh khiến nhiều người không khỏi xúc động trong ngày tốt nghiệp.",
-      "guid": "https://thanhnien.vn/vuot-nghich-canh-nam-sinh-cong-nghe-thong-tin-tot-nghiep-loai-gioi-gay-xuc-dong-185260112143446754.htm"
+      "guid": "https://thanhnien.vn/vuot-nghich-canh-nam-sinh-cong-nghe-thong-tin-tot-nghiep-loai-gioi-gay-xuc-dong-185260112143446754.htm",
+      "categoryName": "Chọn nghề - Chọn trường"
     },
     {
       "title": "Trung học nghề: Làm thế nào để người học thấy là lựa chọn mở, có lối ra?",
       "link": "https://thanhnien.vn/trung-hoc-nghe-lam-the-nao-de-nguoi-hoc-thay-la-lua-chon-mo-co-loi-ra-185260108200807583.htm",
       "pubDate": "Fri, 09 Jan 26 10:04:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/trung-hoc-nghe-17678772338891519943547-51-0-1651-2560-crop-17678776736811748687274.jpg",
+      "imgClass": "img-resize",
       "description": "Khi luật Giáo dục và luật Giáo dục nghề nghiệp được Quốc hội thông qua, điều xã hội cần không chỉ là thêm lời kêu gọi 'phân luồng' mà là một cách giải thích rành mạch và cơ chế bảo đảm: tương đương giữa THPT và trung học nghề phải được hiểu là tương đương về quyền-quyền học lên, quyền cạnh tranh việc làm và quyền phát triển nghề nghiệp.",
-      "guid": "https://thanhnien.vn/trung-hoc-nghe-lam-the-nao-de-nguoi-hoc-thay-la-lua-chon-mo-co-loi-ra-185260108200807583.htm"
+      "guid": "https://thanhnien.vn/trung-hoc-nghe-lam-the-nao-de-nguoi-hoc-thay-la-lua-chon-mo-co-loi-ra-185260108200807583.htm",
+      "categoryName": "Giáo dục"
     },
     {
       "title": "Trung học nghề: Học sinh sau lớp 9 vẫn rộng cửa liên thông đại học",
       "link": "https://thanhnien.vn/trung-hoc-nghe-hoc-sinh-sau-lop-9-van-rong-cua-lien-thong-dai-hoc-18526010716055415.htm",
       "pubDate": "Wed, 07 Jan 26 19:15:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/a8fe65122af4a6aaffe5-176364751353319482468-91-0-1691-2560-crop-17677761154071367169169.jpg",
+      "imgClass": "img-resize",
       "description": "Việc bổ sung trung học nghề vào hệ thống giáo dục quốc dân đã mở thêm một lựa chọn học tập cho học sinh sau THCS, tạo hành lang pháp lý rõ ràng cho con đường liên thông từ trung học nghề lên cao đẳng, đại học.",
-      "guid": "https://thanhnien.vn/trung-hoc-nghe-hoc-sinh-sau-lop-9-van-rong-cua-lien-thong-dai-hoc-18526010716055415.htm"
+      "guid": "https://thanhnien.vn/trung-hoc-nghe-hoc-sinh-sau-lop-9-van-rong-cua-lien-thong-dai-hoc-18526010716055415.htm",
+      "categoryName": "Giáo dục"
     },
     {
       "title": "Trung học nghề: Đào tạo ngành nghề gì để có việc làm bền vững?",
       "link": "https://thanhnien.vn/trung-hoc-nghe-dao-tao-nganh-nghe-gi-de-co-viec-lam-ben-vung-185260104205936792.htm",
       "pubDate": "Mon, 05 Jan 26 06:26:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/4/anh6trunghocnghe-1767009524314663763072-123-0-1723-2560-crop-17675349851311520499210.jpg",
+      "imgClass": "img-resize",
       "description": "Mô hình trung học nghề được đưa trở lại vào hệ thống giáo dục quốc dân, mang theo kỳ vọng mở ra lộ trình học tập – nghề nghiệp linh hoạt, thực chất cho học sinh sau THCS. Tuy nhiên, câu hỏi then chốt đặt ra là: trung học nghề sẽ đào tạo những ngành nghề nào để vừa đáp ứng thị trường lao động, vừa tránh lặp lại những hạn chế của quá khứ?",
-      "guid": "https://thanhnien.vn/trung-hoc-nghe-dao-tao-nganh-nghe-gi-de-co-viec-lam-ben-vung-185260104205936792.htm"
+      "guid": "https://thanhnien.vn/trung-hoc-nghe-dao-tao-nganh-nghe-gi-de-co-viec-lam-ben-vung-185260104205936792.htm",
+      "categoryName": "Giáo dục"
     },
     {
       "title": "Tổ chức xếp hạng đại học QS: BUV là kiểu mẫu đảm bảo chất lượng giáo dục",
       "link": "https://thanhnien.vn/to-chuc-xep-hang-dai-hoc-qs-buv-la-kieu-mau-dam-bao-chat-luong-giao-duc-185251231140939287.htm",
       "pubDate": "Wed, 31 Dec 25 15:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/31/6-17671645686211811831885-57-0-932-1400-crop-1767164577537791874716.jpg",
+      "imgClass": "img-resize",
       "description": "Việc chủ động 'đối chuẩn' với các thước đo toàn cầu đã giúp Trường đại học Anh Quốc Việt Nam từng bước xây dựng uy tín, tăng trưởng quy mô và khẳng định vị thế tại châu Á, QS nhận định.",
-      "guid": "https://thanhnien.vn/to-chuc-xep-hang-dai-hoc-qs-buv-la-kieu-mau-dam-bao-chat-luong-giao-duc-185251231140939287.htm"
+      "guid": "https://thanhnien.vn/to-chuc-xep-hang-dai-hoc-qs-buv-la-kieu-mau-dam-bao-chat-luong-giao-duc-185251231140939287.htm",
+      "categoryName": "Chọn nghề - Chọn trường"
     },
     {
       "title": "Yếu tố then chốt để thực hiện trung học nghề",
       "link": "https://thanhnien.vn/yeu-to-then-chot-de-thuc-hien-trung-hoc-nghe-185251229190720948.htm",
       "pubDate": "Tue, 30 Dec 25 06:06:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/29/photo-1767009691515-17670096921901834108473-114-0-1364-2000-crop-17670097260571255998227.jpeg",
+      "imgClass": "img-resize",
       "description": "Một chương trình trung học nghề muốn đi đường dài không thể thiếu các điều kiện bảo đảm chất lượng tối thiểu.",
-      "guid": "https://thanhnien.vn/yeu-to-then-chot-de-thuc-hien-trung-hoc-nghe-185251229190720948.htm"
+      "guid": "https://thanhnien.vn/yeu-to-then-chot-de-thuc-hien-trung-hoc-nghe-185251229190720948.htm",
+      "categoryName": "Giáo dục"
     },
     {
       "title": "Xu hướng của giáo dục nghề nghiệp hiện đại",
       "link": "https://thanhnien.vn/xu-huong-cua-giao-duc-nghe-nghiep-hien-dai-185251229191335544.htm",
       "pubDate": "Tue, 30 Dec 25 05:45:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/29/photo-1767010161801-1767010162507709557942-70-0-1320-2000-crop-1767010232080974488208.jpeg",
+      "imgClass": "img-resize",
       "description": "Từ năm học 2026 - 2027, phân luồng sau THCS bước sang giai đoạn mới khi trung học nghề được xác lập là một cấp học tương đương THPT. Điều này khẳng định giáo dục nghề nghiệp không còn là lối rẽ phụ mà phải trở thành lựa chọn chính đáng, có chất lượng và triển vọng.",
-      "guid": "https://thanhnien.vn/xu-huong-cua-giao-duc-nghe-nghiep-hien-dai-185251229191335544.htm"
+      "guid": "https://thanhnien.vn/xu-huong-cua-giao-duc-nghe-nghiep-hien-dai-185251229191335544.htm",
+      "categoryName": "Giáo dục"
     },
     {
       "title": "Mô hình trung học nghề: Để tránh lặp lại 'vết xe đổ'",
       "link": "https://thanhnien.vn/mo-hinh-trung-hoc-nghe-de-tranh-lap-lai-vet-xe-do-185251229190024474.htm",
       "pubDate": "Tue, 30 Dec 25 05:26:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/29/photo-1767009292492-1767009293926728124031-17-0-1267-2000-crop-17670093185431239451491.jpeg",
+      "imgClass": "img-resize",
       "description": "Sau nhiều năm vắng bóng, mô hình trung học nghề chính thức được đưa lại vào hệ thống giáo dục quốc dân với kỳ vọng tạo cú hích cho phân luồng sau THCS, mở ra lộ trình học tập - nghề nghiệp linh hoạt, thực chất cho người học.",
-      "guid": "https://thanhnien.vn/mo-hinh-trung-hoc-nghe-de-tranh-lap-lai-vet-xe-do-185251229190024474.htm"
-    },
-    {
-      "title": "Trung học nghề: Hướng đi mới cho học sinh lớp 9 từ 2026, lộ trình ra sao?",
-      "link": "https://thanhnien.vn/trung-hoc-nghe-huong-di-moi-cho-hoc-sinh-lop-9-tu-2026-lo-trinh-ra-sao-185251224130424742.htm",
-      "pubDate": "Wed, 24 Dec 25 15:04:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/24/z68848033933783d280c58b4dc91fe7baba5de0c4bbfdc-1766555862539366347552-0-0-740-1184-crop-17665559640541065822117.jpg",
-      "description": "Từ năm 2026, cùng với THPT, học sinh tốt nghiệp THCS sẽ có thêm một lựa chọn chính thức là trung học nghề, mô hình đào tạo được thiết kế song song, bình đẳng và có giá trị pháp lý tương đương.",
-      "guid": "https://thanhnien.vn/trung-hoc-nghe-huong-di-moi-cho-hoc-sinh-lop-9-tu-2026-lo-trinh-ra-sao-185251224130424742.htm"
-    },
-    {
-      "title": "Ứng dụng AI trong giáo dục và bài toán chống ‘lười tư duy’",
-      "link": "https://thanhnien.vn/ung-dung-ai-trong-giao-duc-va-bai-toan-chong-luoi-tu-duy-185251223161639735.htm",
-      "pubDate": "Wed, 24 Dec 25 08:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/23/anh-4-sedbergh-vietnam-to-chuc-nhieu-hoat-dong-17664814216112116818052-25-0-900-1400-crop-17664815462511628077826.jpg",
-      "description": "Việt Nam thuộc top quốc gia sử dụng AI hàng đầu thế giới, nhưng giáo viên lại có nhiều băn khoăn về AI, học sinh sử dụng AI để trả lời nhưng không hiểu bản chất, hay còn gọi là hiện tượng lười tư duy bậc cao.",
-      "guid": "https://thanhnien.vn/ung-dung-ai-trong-giao-duc-va-bai-toan-chong-luoi-tu-duy-185251223161639735.htm"
+      "guid": "https://thanhnien.vn/mo-hinh-trung-hoc-nghe-de-tranh-lap-lai-vet-xe-do-185251229190024474.htm",
+      "categoryName": "Giáo dục"
     }
   ]
 }

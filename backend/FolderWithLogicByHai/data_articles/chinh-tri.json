@@ -3,87 +3,107 @@
   "categoryName": "Chính trị",
   "fullSlug": "chinh-tri",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:01:30.396Z",
+  "lastUpdate": "2026-01-18T04:50:45.606Z",
   "articles": [
     {
-      "title": "Điện mừng nhân dịp kỷ niệm 76 năm thiết lập quan hệ ngoại giao Việt Nam - Trung Quốc",
-      "link": "https://thanhnien.vn/dien-mung-nhan-dip-ky-niem-76-nam-thiet-lap-quan-he-ngoai-giao-viet-nam-trung-quoc-185260112185630522.htm",
-      "pubDate": "Mon, 12 Jan 26 19:17:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/bui-thi-minh-hoai-dien-mung-1768218505330666697595-15-0-420-648-crop-1768218595758546949938.jpg",
-      "description": "Nhân dịp kỷ niệm 76 năm thiết lập quan hệ ngoại giao Việt Nam - Trung Quốc (18.1.1950 - 18.1.2026), Ủy viên Bộ Chính trị, Bí thư T.Ư Đảng, Chủ tịch Ủy ban T.Ư MTTQ Việt Nam Bùi Thị Minh Hoài đã có điện mừng gửi ông Vương Hộ Ninh, Chủ tịch Ủy ban toàn quốc Hội nghị Hiệp thương Chính trị nhân dân Trung Quốc (Chính hiệp toàn quốc Trung Quốc).",
-      "guid": "https://thanhnien.vn/dien-mung-nhan-dip-ky-niem-76-nam-thiet-lap-quan-he-ngoai-giao-viet-nam-trung-quoc-185260112185630522.htm"
+      "title": "Một nhiệm kỳ 'nói cho dân hiểu, làm cho dân tin'",
+      "link": "https://thanhnien.vn/mot-nhiem-ky-noi-cho-dan-hieu-lam-cho-dan-tin-185260117214357213.htm",
+      "pubDate": "Sun, 18 Jan 26 10:29:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/1-trung-tam-hoi-nghi-quoc-gia-1768660803737896990964-107-0-1707-2560-crop-17686608265932105486714.jpg",
+      "imgClass": "img-resize",
+      "description": "Nhiệm kỳ Đại hội XIII là một nhiệm kỳ đặc biệt với ngành tuyên giáo và dân vận, không chỉ bởi khối lượng công việc rất lớn, mà bởi mức độ phức tạp, nhạy cảm và chưa từng có tiền lệ của bối cảnh trong nước và quốc tế.",
+      "guid": "https://thanhnien.vn/mot-nhiem-ky-noi-cho-dan-hieu-lam-cho-dan-tin-185260117214357213.htm",
+      "categoryName": "Chính trị"
     },
     {
-      "title": "Nhân sự Quảng Ngãi: Ông Nguyễn Văn Trọng giữ chức Giám đốc Sở Tài chính",
-      "link": "https://thanhnien.vn/nhan-su-quang-ngai-ong-nguyen-van-trong-giu-chuc-giam-doc-so-tai-chinh-185260112164033439.htm",
-      "pubDate": "Mon, 12 Jan 26 18:06:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/bo-nhiem-2-1768210415537794958468-22-0-822-1280-crop-17682106001681791028341.jpg",
-      "description": "Chiều 12.1, UBND tỉnh Quảng Ngãi tổ chức hội nghị công bố và trao quyết định bổ nhiệm Giám đốc Sở Tài chính tỉnh Quảng Ngãi.",
-      "guid": "https://thanhnien.vn/nhan-su-quang-ngai-ong-nguyen-van-trong-giu-chuc-giam-doc-so-tai-chinh-185260112164033439.htm"
+      "title": "Bí thư Nguyễn Hồng Thái: Bắc Ninh đặt mục tiêu lên thành phố trước 2030",
+      "link": "https://thanhnien.vn/bi-thu-nguyen-hong-thai-bac-ninh-dat-muc-tieu-len-thanh-pho-truoc-2030-185260118094415504.htm",
+      "pubDate": "Sun, 18 Jan 26 09:47:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/18/1-17687037737401263138273-414-0-1664-2000-crop-17687037976851925198216.jpg",
+      "imgClass": "img-resize",
+      "description": "Chia sẻ với báo chí về tầm nhìn, mục tiêu và những định hướng lớn của Bắc Ninh trong nhiệm kỳ mới, Bí thư Tỉnh ủy Bắc Ninh Nguyễn Hồng Thái nêu rõ, Bắc Ninh xác định rõ mục tiêu trở thành thành phố trực thuộc Trung ương trước năm 2030 là quá trình nâng tầm toàn diện về mô hình phát triển, năng lực quản trị và chất lượng sống của nhân dân.",
+      "guid": "https://thanhnien.vn/bi-thu-nguyen-hong-thai-bac-ninh-dat-muc-tieu-len-thanh-pho-truoc-2030-185260118094415504.htm",
+      "categoryName": "Chính trị"
     },
     {
-      "title": "Từ chủ động phòng bệnh đến y tế minh bạch",
-      "link": "https://thanhnien.vn/tu-chu-dong-phong-benh-den-y-te-minh-bach-185260111210602152.htm",
-      "pubDate": "Mon, 12 Jan 26 06:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/a1-176814016515747294209-2-0-642-1024-crop-1768140188613349308190.jpg",
-      "description": "Nhiệm kỳ 2021 - 2025 ghi nhận thay đổi lớn trong công tác y tế theo hướng chuyển trọng tâm từ điều trị sang phòng bệnh, chuyển đổi số mạnh mẽ để minh bạch hơn với bệnh viện không giấy tờ, tăng cơ hội tiếp cận thuốc mới.",
-      "guid": "https://thanhnien.vn/tu-chu-dong-phong-benh-den-y-te-minh-bach-185260111210602152.htm"
+      "title": "Bảo đảm Văn kiện Đại hội XIV trở thành động lực đổi mới tư duy và hành động, khơi dậy khát vọng phát triển",
+      "link": "https://thanhnien.vn/bao-dam-van-kien-dai-hoi-xiv-tro-thanh-dong-luc-doi-moi-tu-duy-va-hanh-dong-khoi-day-khat-vong-phat-trien-185260117232928243.htm",
+      "pubDate": "Sun, 18 Jan 26 07:30:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/1nguyen-van-nen-17512069748001617773078-0-0-1250-2000-crop-1768667289049966096507.jpg",
+      "imgClass": "img-resize",
+      "description": "Đại hội XIV của Đảng được xác định là một dấu mốc lịch sử của đất nước trong thời đại Hồ Chí Minh. Việc chuẩn bị và xây dựng văn kiện trình đại hội có ý nghĩa đặc biệt quan trọng, hoạch định tầm nhìn, định hướng chiến lược cho giai đoạn phát triển mới của đất nước.",
+      "guid": "https://thanhnien.vn/bao-dam-van-kien-dai-hoi-xiv-tro-thanh-dong-luc-doi-moi-tu-duy-va-hanh-dong-khoi-day-khat-vong-phat-trien-185260117232928243.htm",
+      "categoryName": "Chính trị"
     },
     {
-      "title": "Thủ tướng kể chuyện lớn lên ở miền núi, được Nhà nước chăm lo học hành",
-      "link": "https://thanhnien.vn/thu-tuong-ke-chuyen-lon-len-o-mien-nui-duoc-nha-nuoc-cham-lo-hoc-hanh-185260111192143004.htm",
-      "pubDate": "Sun, 11 Jan 26 19:58:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/img8718-17681285313591945327542-1768133966963734640994-164-102-1333-1972-crop-1768134018863683123030.jpg",
-      "description": "Chia sẻ với các em học sinh, Thủ tướng Phạm Minh Chính kể câu chuyện của chính bản thân khi sinh ra ở miền biển, lớn lên ở miền núi, nếu không được Đảng, Nhà nước quan tâm thì rất khó được học hành.",
-      "guid": "https://thanhnien.vn/thu-tuong-ke-chuyen-lon-len-o-mien-nui-duoc-nha-nuoc-cham-lo-hoc-hanh-185260111192143004.htm"
+      "title": "Bồi đắp niềm tin và khát vọng phát triển đất nước phồn vinh, văn minh, hạnh phúc",
+      "link": "https://thanhnien.vn/boi-dap-niem-tin-va-khat-vong-phat-trien-dat-nuoc-phon-vinh-van-minh-hanh-phuc-185260117225506919.htm",
+      "pubDate": "Sun, 18 Jan 26 07:30:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/z7441608044205df0b3068a885ddb9e8ca036cdb7349de-17686647814431141907700-107-0-1383-2042-crop-17686648024531559967029.jpg",
+      "imgClass": "img-resize",
+      "description": "Trong công tác chuẩn bị Đại hội đại biểu toàn quốc lần thứ XIV của Đảng, thông tin, tuyên truyền có vai trò đặc biệt quan trọng trong định hướng dư luận, củng cố niềm tin và lan tỏa tầm nhìn, khát vọng phát triển.",
+      "guid": "https://thanhnien.vn/boi-dap-niem-tin-va-khat-vong-phat-trien-dat-nuoc-phon-vinh-van-minh-hanh-phuc-185260117225506919.htm",
+      "categoryName": "Chính trị"
     },
     {
-      "title": "Tăng cường lãnh đạo toàn diện, trực tiếp của Đảng với Chính phủ",
-      "link": "https://thanhnien.vn/tang-cuong-lanh-dao-toan-dien-truc-tiep-cua-dang-voi-chinh-phu-185260111132514368.htm",
-      "pubDate": "Sun, 11 Jan 26 14:41:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/1ef4a85a-7b61-4502-8025-024253219e71-17681127676161311843185-38-50-361-567-crop-17681128744632042244418.jpeg",
-      "description": "Việc thành lập Đảng bộ Chính phủ tăng cường sự lãnh đạo toàn diện, trực tiếp của Đảng đối với công tác quản lý, điều hành của Chính phủ.",
-      "guid": "https://thanhnien.vn/tang-cuong-lanh-dao-toan-dien-truc-tiep-cua-dang-voi-chinh-phu-185260111132514368.htm"
+      "title": "Đại hội đại biểu toàn quốc lần thứ XIV của Đảng: Đón chờ mốc son mới",
+      "link": "https://thanhnien.vn/dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-don-cho-moc-son-moi-185260117220441894.htm",
+      "pubDate": "Sun, 18 Jan 26 06:26:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/logo-dai-hoi-dang-new-1768662110070932236814-0-0-229-367-crop-1768662138213731886401.jpg",
+      "imgClass": "img-resize",
+      "description": "Đại hội XIV của Đảng đang đến gần trong sự đón chờ của các tầng lớp nhân dân cả nước với niềm tin, kỳ vọng về một mốc son mới trên chặng đường phát triển của dân tộc.",
+      "guid": "https://thanhnien.vn/dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-don-cho-moc-son-moi-185260117220441894.htm",
+      "categoryName": "Chính trị"
     },
     {
-      "title": "Đàm phán Hiệp định thương mại đối ứng Việt Nam - Mỹ  công bằng và cân bằng",
-      "link": "https://thanhnien.vn/dam-phan-hiep-dinh-thuong-mai-doi-ung-viet-nam-my-cong-bang-va-can-bang-185260110230200078.htm",
-      "pubDate": "Sun, 11 Jan 26 07:37:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/thu-tuong-pham-minh-chinh-tiep-dai-su-my-tai-vn-marc-knapperanh-ttxvn-17680606414431606110067-70-0-1250-1888-crop-17680606487591076889279.jpg",
-      "description": "Ngày 10.1, Thủ tướng Phạm Minh Chính đã tiếp Đại sứ Mỹ tại VN Marc Knapper đến chào từ biệt nhân dịp kết thúc nhiệm kỳ công tác.",
-      "guid": "https://thanhnien.vn/dam-phan-hiep-dinh-thuong-mai-doi-ung-viet-nam-my-cong-bang-va-can-bang-185260110230200078.htm"
+      "title": "Đối ngoại của Quốc hội trong kỷ nguyên vươn mình của dân tộc",
+      "link": "https://thanhnien.vn/doi-ngoai-cua-quoc-hoi-trong-ky-nguyen-vuon-minh-cua-dan-toc-185260117173631642.htm",
+      "pubDate": "Sat, 17 Jan 26 18:18:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/edit-tran-thanh-man-1763170273140206403567-28-0-767-1182-crop-17686484408751623584019.jpeg",
+      "imgClass": "img-resize",
+      "description": "Hướng về Đại hội XIV của Đảng, Chủ tịch Quốc hội Trần Thanh Mẫn có bài viết 'Đối ngoại của Quốc hội trong kỷ nguyên vươn mình của dân tộc'.",
+      "guid": "https://thanhnien.vn/doi-ngoai-cua-quoc-hoi-trong-ky-nguyen-vuon-minh-cua-dan-toc-185260117173631642.htm",
+      "categoryName": "Chính trị"
     },
     {
-      "title": "Đảm bảo tuyệt đối an ninh, an toàn Đại hội XIV của Đảng",
-      "link": "https://thanhnien.vn/dam-bao-tuyet-doi-an-ninh-an-toan-dai-hoi-xiv-cua-dang-185260110104847866.htm",
-      "pubDate": "Sat, 10 Jan 26 11:09:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/tmc01160-1768016071778144532611-58-0-1658-2560-crop-1768016371766905069040.jpeg",
-      "description": "Chánh văn phòng Bộ Công an Nguyễn Quốc Toản khẳng định, lực lượng công an đã triển khai nhiều biện pháp với mục tiêu đảm bảo tuyệt đối an ninh, an toàn Đại hội XIV của Đảng.",
-      "guid": "https://thanhnien.vn/dam-bao-tuyet-doi-an-ninh-an-toan-dai-hoi-xiv-cua-dang-185260110104847866.htm"
+      "title": "Tổng Bí thư dự khởi công khu phức hợp y tế chăm sóc người cao tuổi",
+      "link": "https://thanhnien.vn/tong-bi-thu-du-khoi-cong-khu-phuc-hop-y-te-cham-soc-nguoi-cao-tuoi-185260117133737089.htm",
+      "pubDate": "Sat, 17 Jan 26 14:00:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/edit-tong-bi-thu-du-le-khoi-cong-du-an-phuc-hop-y-te-cham-soc-suc-khoe-nguoi-cao-tuoi-1701-1-176863197972235028885-45-138-369-657-crop-17686321275531792042578.jpeg",
+      "imgClass": "img-resize",
+      "description": "Khu phức hợp y tế chăm sóc người cao tuổi tại Hà Nội dự kiến hoàn thành giai đoạn 1 vào năm 2028, sẽ khám chữa bệnh chất lượng cao, đào tạo và thực hành, chăm sóc sức khỏe toàn diện cho người cao tuổi.",
+      "guid": "https://thanhnien.vn/tong-bi-thu-du-khoi-cong-khu-phuc-hop-y-te-cham-soc-nguoi-cao-tuoi-185260117133737089.htm",
+      "categoryName": "Chính trị"
     },
     {
-      "title": "Cuộc 'đại phẫu' lịch sử",
-      "link": "https://thanhnien.vn/cuoc-dai-phau-lich-su-185260109231815851.htm",
-      "pubDate": "Sat, 10 Jan 26 06:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/yet-cua-quoc-hoi-ve-viec-sap-xep-don-vi-hanh-chinh-cap-tinh-nam-2025-174969708813526924158-1767072369204272148454-17679752-84-0-1334-2000-crop-17679752370471262202554.jpg",
-      "description": "Với quyết tâm chính trị chưa từng có, một loạt đột phá mạnh mẽ về tổ chức và con người đã được triển khai, chuẩn bị nền tảng vững chắc để đất nước 'vươn mình' trong kỷ nguyên mới.",
-      "guid": "https://thanhnien.vn/cuoc-dai-phau-lich-su-185260109231815851.htm"
+      "title": "Khơi dậy tinh thần yêu nước, ý chí quyết tâm thực hiện thắng lợi mục tiêu chiến lược trong kỷ nguyên mới",
+      "link": "https://thanhnien.vn/khoi-day-tinh-than-yeu-nuoc-y-chi-quyet-tam-thuc-hien-thang-loi-muc-tieu-chien-luoc-trong-ky-nguyen-moi-185260117085811505.htm",
+      "pubDate": "Sat, 17 Jan 26 09:59:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/trinh-van-quyet-17654597056161361804538-27-0-1227-1920-crop-17686164784331167485489.jpg",
+      "imgClass": "img-resize",
+      "description": "Nhiệm kỳ Đại hội XIII, công tác Tuyên giáo và Dân vận đã hoàn thành xuất sắc nhiệm vụ với nhiều dấu ấn nổi bật, có tính đột phá trong tuyên truyền, vận động cán bộ, đảng viên và nhân dân đoàn kết thống nhất, thực hiện thắng lợi các quyết sách chiến lược của Đảng và Nhà nước.",
+      "guid": "https://thanhnien.vn/khoi-day-tinh-than-yeu-nuoc-y-chi-quyet-tam-thuc-hien-thang-loi-muc-tieu-chien-luoc-trong-ky-nguyen-moi-185260117085811505.htm",
+      "categoryName": "Chính trị"
     },
     {
-      "title": "Từ năm 2026 - 2030, không quá 3.000 dự án sử dụng ngân sách T.Ư",
-      "link": "https://thanhnien.vn/tu-nam-2026-2030-khong-qua-3000-du-an-su-dung-ngan-sach-tu-18526010922543967.htm",
-      "pubDate": "Sat, 10 Jan 26 05:54:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/photo-1767974035648-1767974036456765158715-87-0-1267-1888-crop-1767974044706222967032.jpeg",
-      "description": "Chiều 9.1, Thủ tướng Phạm Minh Chính chủ trì Hội nghị toàn quốc thúc đẩy đầu tư công năm 2025 và năm 2026. Hội nghị được tổ chức trực tiếp tại Trụ sở Chính phủ, trực tuyến với 34 tỉnh, thành phố.",
-      "guid": "https://thanhnien.vn/tu-nam-2026-2030-khong-qua-3000-du-an-su-dung-ngan-sach-tu-18526010922543967.htm"
+      "title": "Tái định vị vai trò của văn hóa",
+      "link": "https://thanhnien.vn/tai-dinh-vi-vai-tro-cua-van-hoa-185260116183355917.htm",
+      "pubDate": "Sat, 17 Jan 26 06:08:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/photo-1768562792522-1768562793358216792816-0-0-1250-2000-crop-17685629111181347110169.jpeg",
+      "imgClass": "img-resize",
+      "description": "Không còn bó hẹp trong khái niệm một lĩnh vực \"mềm\", văn hóa được xác định là một nguồn lực \"cứng\", một trụ cột ngang tầm với kinh tế, chính trị và xã hội để đưa đất nước bước vào kỷ nguyên mới.",
+      "guid": "https://thanhnien.vn/tai-dinh-vi-vai-tro-cua-van-hoa-185260116183355917.htm",
+      "categoryName": "Chính trị"
     },
     {
-      "title": "TP.HCM tập trung vận dụng các chính sách mới để tăng trưởng 2 con số",
-      "link": "https://thanhnien.vn/tphcm-tap-trung-van-dung-cac-chinh-sach-moi-de-tang-truong-2-con-so-185260109232352335.htm",
-      "pubDate": "Sat, 10 Jan 26 05:05:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/buoi-lam-viec-dien-ra-vao-chieu-91anh-dieu-mi-17679756398261196464948-0-67-750-1267-crop-17679756613291170677956.jpeg",
-      "description": "Ông Nguyễn Thanh Nghị, Trưởng ban Chính sách, chiến lược T.Ư, yêu cầu TP.HCM tập trung thực hiện những giải pháp chiến lược và các đề án, dự án đã đề ra để thúc đẩy tăng trưởng kinh tế 2 con số giai đoạn 2026 - 2030.",
-      "guid": "https://thanhnien.vn/tphcm-tap-trung-van-dung-cac-chinh-sach-moi-de-tang-truong-2-con-so-185260109232352335.htm"
+      "title": "Ra mắt Ứng dụng di động Tuyên giáo và Dân vận",
+      "link": "https://thanhnien.vn/ra-mat-ung-dung-di-dong-tuyen-giao-va-dan-van-185260116225727677.htm",
+      "pubDate": "Sat, 17 Jan 26 04:20:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/3b-online-1768578238302716206518-26-0-666-1024-crop-17685788689341611357055.jpg",
+      "imgClass": "img-resize",
+      "description": "Qua ứng dụng Tuyên giáo và Dân vận, người dân có thể tiếp cận thông tin chính thống nhanh, dễ hiểu, không phụ thuộc mạng xã hội; chủ động tra cứu chính sách, hỏi đáp, tự học phản ánh, gửi kiến nghị và theo dõi kết quả xử lý...",
+      "guid": "https://thanhnien.vn/ra-mat-ung-dung-di-dong-tuyen-giao-va-dan-van-185260116225727677.htm",
+      "categoryName": "Chính trị"
     }
   ]
 }

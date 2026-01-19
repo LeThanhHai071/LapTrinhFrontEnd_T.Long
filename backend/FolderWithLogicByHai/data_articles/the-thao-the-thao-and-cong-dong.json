@@ -3,87 +3,107 @@
   "categoryName": "Thể thao & Cộng đồng",
   "fullSlug": "the-thao-the-thao-and-cong-dong",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:03:53.674Z",
+  "lastUpdate": "2026-01-18T04:53:29.086Z",
   "articles": [
     {
       "title": "Lý Hoàng Nam cùng 700 VĐV tranh tài tại giải pickleball ở Đà Lạt",
       "link": "https://thanhnien.vn/ly-hoang-nam-cung-700-vdv-tranh-tai-tai-giai-pickleball-o-da-lat-185260109202622434.htm",
       "pubDate": "Fri, 09 Jan 26 21:23:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/nam-a-bank-pickerball-29-1767964604195109381935-0-0-1600-2560-crop-17679648854391157377.jpg",
+      "imgClass": "img-resize",
       "description": "Giải Pickleball tỉnh Lâm Đồng mở rộng 2026 quy tụ gần 700 VĐV, trong đó có Lý Hoàng Nam, góp phần khuấy động không khí thể thao - du lịch Đà Lạt dịp đầu năm mới.",
-      "guid": "https://thanhnien.vn/ly-hoang-nam-cung-700-vdv-tranh-tai-tai-giai-pickleball-o-da-lat-185260109202622434.htm"
+      "guid": "https://thanhnien.vn/ly-hoang-nam-cung-700-vdv-tranh-tai-tai-giai-pickleball-o-da-lat-185260109202622434.htm",
+      "categoryName": "Thể thao & Cộng đồng"
     },
     {
       "title": "Hoàng Nguyên Thanh lần thứ 10 chinh phục danh hiệu 'vua leo núi' Bà Rá",
       "link": "https://thanhnien.vn/hoang-nguyen-thanh-lan-thu-10-chinh-phuc-danh-hieu-vua-leo-nui-ba-ra-185260104101442007.htm",
       "pubDate": "Sun, 04 Jan 26 10:32:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/4/leo-nui-ba-ra-5-1767492665911998665946-54-0-854-1280-crop-1767493042658223024128.jpg",
+      "imgClass": "img-resize",
       "description": "'Ông hoàng marathon' Việt Nam Hoàng Nguyên Thanh có lần thứ 10 chinh phục danh hiệu 'vua leo núi' Bà Rá. Trong khi đó, Phạm Thị Hồng Lệ cũng xuất sắc trở thành 'nữ hoàng leo núi' năm thứ 2 liên tiếp.",
-      "guid": "https://thanhnien.vn/hoang-nguyen-thanh-lan-thu-10-chinh-phuc-danh-hieu-vua-leo-nui-ba-ra-185260104101442007.htm"
+      "guid": "https://thanhnien.vn/hoang-nguyen-thanh-lan-thu-10-chinh-phuc-danh-hieu-vua-leo-nui-ba-ra-185260104101442007.htm",
+      "categoryName": "Thể thao & Cộng đồng"
     },
     {
       "title": "Chạy bộ xuyên giao thừa đánh dấu lần đầu tiên có giải chạy đêm quy mô lớn",
       "link": "https://thanhnien.vn/chay-bo-xuyen-giao-thua-danh-dau-lan-dau-tien-co-giai-chay-dem-quy-mo-lon-185260101073200885.htm",
       "pubDate": "Thu, 01 Jan 26 08:24:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/1/anh-2-1767226415774953498061-49-0-1649-2560-crop-17672264660781643174229.jpg",
+      "imgClass": "img-resize",
       "description": "Đông đảo người dân và du khách Đà Nẵng tham gia giải chạy bộ xuyên giao thừa, trải nghiệm cung đường lung linh từ Bạch Đằng qua cầu Rồng. Không khí lễ hội sôi động, ánh sáng rực rỡ và âm nhạc náo nhiệt, mang đến khoảnh khắc chào năm mới 2026 ấm áp và tràn năng lượng.",
-      "guid": "https://thanhnien.vn/chay-bo-xuyen-giao-thua-danh-dau-lan-dau-tien-co-giai-chay-dem-quy-mo-lon-185260101073200885.htm"
+      "guid": "https://thanhnien.vn/chay-bo-xuyen-giao-thua-danh-dau-lan-dau-tien-co-giai-chay-dem-quy-mo-lon-185260101073200885.htm",
+      "categoryName": "Thể thao & Cộng đồng"
     },
     {
       "title": "TCP Việt Nam đồng hành cùng An Giang trong phong trào thể thao cộng đồng",
       "link": "https://thanhnien.vn/tcp-viet-nam-dong-hanh-cung-an-giang-trong-phong-trao-the-thao-cong-dong-185251229164545532.htm",
       "pubDate": "Mon, 29 Dec 25 18:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/29/1-17670013614301280797190-175-0-1050-1400-crop-1767001373876886044198.jpg",
+      "imgClass": "img-resize",
       "description": "Trong bối cảnh An Giang đang đẩy mạnh các phong trào thể dục thể thao cộng đồng, 'Không gian Thể thao Thanh niên - Tiếp năng lượng, bừng sức trẻ' do TCP Việt Nam hoàn thiện đã góp phần tạo thêm động lực để thanh thiếu niên trong tỉnh hăng say tập luyện, duy trì lối sống tích cực, lành mạnh.",
-      "guid": "https://thanhnien.vn/tcp-viet-nam-dong-hanh-cung-an-giang-trong-phong-trao-the-thao-cong-dong-185251229164545532.htm"
+      "guid": "https://thanhnien.vn/tcp-viet-nam-dong-hanh-cung-an-giang-trong-phong-trao-the-thao-cong-dong-185251229164545532.htm",
+      "categoryName": "Thể thao & Cộng đồng"
     },
     {
       "title": "Hào hứng ngày khai màn giải bóng đá nhi đồng TP.Cần Thơ 2025",
       "link": "https://thanhnien.vn/hao-hung-ngay-khai-man-giai-bong-da-nhi-dong-tpcan-tho-2025-185251227115757067.htm",
       "pubDate": "Sat, 27 Dec 25 12:11:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/27/cac-em-hao-huc-trong-ngay-khai-man-giai-vjss-nhi-dong-tp-can-tho-2025-1766811189153749156270-85-0-1365-2048-crop-1766811292343169671457.jpg",
+      "imgClass": "img-resize",
       "description": "Sáng 27.12, giải bóng đá VJSS nhi đồng TP.Cần Thơ - Yamaha Cup 2025 chính thức khai mạc tại sân vận động Cần Thơ.",
-      "guid": "https://thanhnien.vn/hao-hung-ngay-khai-man-giai-bong-da-nhi-dong-tpcan-tho-2025-185251227115757067.htm"
+      "guid": "https://thanhnien.vn/hao-hung-ngay-khai-man-giai-bong-da-nhi-dong-tpcan-tho-2025-185251227115757067.htm",
+      "categoryName": "Thể thao & Cộng đồng"
     },
     {
       "title": "Viện kế toán Việt Nam lan tỏa tinh thần quần vợt fair-play",
       "link": "https://thanhnien.vn/vien-ke-toan-viet-nam-lan-toa-tinh-than-quan-vot-fair-play-185251226152832257.htm",
       "pubDate": "Fri, 26 Dec 25 15:30:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/26/z736711897202155b96033c355e152d7439f76fa431d6f-1766737240654692521338-40-0-1640-2560-crop-17667374268781227921472.jpg",
+      "imgClass": "img-resize",
       "description": "Sau hai tuần thi đấu sôi nổi, giải quần vợt Vinh Infinity tranh Cúp Viện kế toán Việt Nam 2025 đã chính thức khép lại, để lại nhiều dấu ấn đẹp về chuyên môn, tinh thần thể thao và sự gắn kết cộng đồng.",
-      "guid": "https://thanhnien.vn/vien-ke-toan-viet-nam-lan-toa-tinh-than-quan-vot-fair-play-185251226152832257.htm"
+      "guid": "https://thanhnien.vn/vien-ke-toan-viet-nam-lan-toa-tinh-than-quan-vot-fair-play-185251226152832257.htm",
+      "categoryName": "Thể thao & Cộng đồng"
     },
     {
       "title": "Trao quà từ thiện cho học sinh Bắc Khánh Vĩnh từ giải Pickleball PPA Brothers",
       "link": "https://thanhnien.vn/trao-qua-tu-thien-cho-hoc-sinh-bac-khanh-vinh-tu-giai-pickleball-ppa-brothers-185251226103610942.htm",
       "pubDate": "Fri, 26 Dec 25 10:55:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/26/111-17667207057401106234997-0-80-650-1120-crop-1766720728586851512064.jpg",
+      "imgClass": "img-resize",
       "description": "Sáng 26.12, CLB Pickleball PPA Brothers tổ chức chương trình trao quà từ thiện 'Tấm áo xuân cho em – Xuân Bính Ngọ 2026' cho trẻ em có hoàn cảnh khó khăn tại xã Bắc Khánh Vĩnh, tỉnh Khánh Hòa.",
-      "guid": "https://thanhnien.vn/trao-qua-tu-thien-cho-hoc-sinh-bac-khanh-vinh-tu-giai-pickleball-ppa-brothers-185251226103610942.htm"
+      "guid": "https://thanhnien.vn/trao-qua-tu-thien-cho-hoc-sinh-bac-khanh-vinh-tu-giai-pickleball-ppa-brothers-185251226103610942.htm",
+      "categoryName": "Thể thao & Cộng đồng"
     },
     {
       "title": "Giải chạy liên tục 24 giờ không nghỉ, chinh phục 215 km với cự ly siêu dài",
       "link": "https://thanhnien.vn/giai-chay-lien-tuc-24-gio-khong-nghi-chinh-phuc-215-km-voi-cu-ly-sieu-dai-185251222123413246.htm",
       "pubDate": "Mon, 22 Dec 25 13:03:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/22/chay-nguyen-van-chung-17663814202772049498434-970-0-2570-2560-crop-1766381722858642020967.jpg",
+      "imgClass": "img-resize",
       "description": "Ultra Run Beyond Limits đúng là giải chạy chinh phục thử thách đặc biệt khi ngoài các cự ly dài và siêu dài trong 3 năm qua đã có thêm giải chạy liên tục 24 giờ không nghỉ.",
-      "guid": "https://thanhnien.vn/giai-chay-lien-tuc-24-gio-khong-nghi-chinh-phuc-215-km-voi-cu-ly-sieu-dai-185251222123413246.htm"
+      "guid": "https://thanhnien.vn/giai-chay-lien-tuc-24-gio-khong-nghi-chinh-phuc-215-km-voi-cu-ly-sieu-dai-185251222123413246.htm",
+      "categoryName": "Thể thao & Cộng đồng"
     },
     {
       "title": "Các nữ võ sĩ vô địch thế giới vovinam 'xung trận' tại pickleball Cúp Chiến binh Sao Vàng 2025",
       "link": "https://thanhnien.vn/cac-nu-vo-si-vo-dich-the-gioi-vovinam-xung-tran-tai-pickleball-cup-chien-binh-sao-vang-2025-18525121512003469.htm",
       "pubDate": "Mon, 15 Dec 25 16:05:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/15/z7322577387987c928d4a41dd2a4183c5ba7c399e23336-17657739156001387068770-37-0-837-1280-crop-17657747874501340741559.jpg",
+      "imgClass": "img-resize",
       "description": "Ngày 20.12, những VĐV nữ vô địch thế giới sẽ tranh tài tại giải pickleball Cúp Chiến binh Sao Vàng 2025.",
-      "guid": "https://thanhnien.vn/cac-nu-vo-si-vo-dich-the-gioi-vovinam-xung-tran-tai-pickleball-cup-chien-binh-sao-vang-2025-18525121512003469.htm"
+      "guid": "https://thanhnien.vn/cac-nu-vo-si-vo-dich-the-gioi-vovinam-xung-tran-tai-pickleball-cup-chien-binh-sao-vang-2025-18525121512003469.htm",
+      "categoryName": "Thể thao & Cộng đồng"
     },
     {
       "title": "Quy tụ anh tài tại một giải pickleball cựu sinh viên Trường ĐH Bách khoa",
       "link": "https://thanhnien.vn/quy-tu-anh-tai-tai-mot-giai-pickleball-cuu-sinh-vien-truong-dh-bach-khoa-185251214221129915.htm",
       "pubDate": "Sun, 14 Dec 25 22:56:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/14/fs-media-57-1765726958189287069169-14-0-1614-2560-crop-1765726989313408137873.jpg",
+      "imgClass": "img-resize",
       "description": "Qua một giải pickleball của cựu sinh viên Trường ĐH Bách khoa (ĐH Quốc gia TP.HCM), ban tổ chức phát hiện ra nhiều VĐV pickleball ở trình độ cao, nhiều kỹ thuật đánh khó và đẹp mắt đã được thể hiện.",
-      "guid": "https://thanhnien.vn/quy-tu-anh-tai-tai-mot-giai-pickleball-cuu-sinh-vien-truong-dh-bach-khoa-185251214221129915.htm"
+      "guid": "https://thanhnien.vn/quy-tu-anh-tai-tai-mot-giai-pickleball-cuu-sinh-vien-truong-dh-bach-khoa-185251214221129915.htm",
+      "categoryName": "Thể thao & Cộng đồng"
     }
   ]
 }

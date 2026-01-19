@@ -1,0 +1,108 @@
+{
+  "title": "5 lầm tưởng thường thấy về iPhone",
+  "categories": [
+    "Công nghệ",
+    "Thủ thuật"
+  ],
+  "sapo": "Những thói quen khiến iPhone 'xuống cấp' không phanh mà Apple muốn người dùng ngừng lại.",
+  "publishDate": "14/01/2026 08:37 GMT+7",
+  "author": {
+    "name": "Phong Đỗ",
+    "avatar": "https://images2.thanhnien.vn/zoom/80_80/528068263637045248/2023/4/25/edit-z4293920028403473eac0dba30cc3304cdff3ec25db916-1682410543320942271626.png",
+    "email": ""
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Chúng ta sử dụng iPhone hằng ngày, nhưng liệu bạn có thực sự hiểu chiếc điện thoại của mình? Nhiều 'mẹo' phổ biến được lan truyền trên mạng thực chất lại là những thói quen gây hại cho các thiết bị hiện đại. Từ lời khuyên bỏ điện thoại bị ướt vào thùng gạo cho đến thói quen tắt hết ứng dụng chạy ngầm để tiết kiệm pin, dưới đây là sự thật đằng sau 5 lầm tưởng phổ biến nhất đã được các chuyên gia và chính Apple làm rõ."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/13/poster-17682797739051919027585.jpg"
+      ],
+      "caption": "Nhiều người dùng vẫn có quan điểm sai lầm về iPhone"
+    },
+    {
+      "type": "h2",
+      "content": "Thùng gạo 'cứu' iPhone bị vào nước"
+    },
+    {
+      "type": "text",
+      "content": "Hầu như ai cũng từng nghe về lời khuyên nếu iPhone bị ướt, hãy vùi nó vào thùng gạo. Tuy nhiên, Apple đã cập nhật tài liệu hỗ trợ để cảnh báo người dùng không nên làm điều này."
+    },
+    {
+      "type": "text",
+      "content": "Trên thực tế, gạo hút ẩm rất thụ động và chậm chạp. Trong thời gian chờ gạo hút nước, các linh kiện bên trong đã kịp bị ăn mòn. Nguy hiểm hơn, bụi và tinh bột gạo có thể xâm nhập vào cổng sạc hoặc màng loa, gây tắc nghẽn và hư hỏng phần cứng vĩnh viễn."
+    },
+    {
+      "type": "text",
+      "content": "Vì vậy, khi iPhone vô tình rớt vào nước, hãy nhanh tay hướng cổng kết nối xuống dưới, vỗ nhẹ để nước thoát ra, sau đó nên tắt điện thoại và để ở nơi khô ráo, thoáng khí."
+    },
+    {
+      "type": "h2",
+      "content": "Đóng ứng dụng ngầm giúp tiết kiệm pin"
+    },
+    {
+      "type": "text",
+      "content": "Cảm giác vuốt tắt sạch sẽ các ứng dụng trong trình đa nhiệm có thể khiến bạn thấy thoải mái, và có cảm giác giúp máy nhanh hơn. Nhưng thực sự hành động này lại đang làm hại pin thiết bị."
+    },
+    {
+      "type": "text",
+      "content": "Cơ chế quản lý RAM của iOS rất thông minh, khi có thể 'đóng băng' các ứng dụng chạy nền để chúng không tiêu tốn năng lượng. Khi bạn đóng và mở lại, CPU phải hoạt động hết công suất để tải lại dữ liệu từ đầu. Quá trình này tiêu tốn năng lượng hơn nhiều so với việc đánh thức một ứng dụng đang 'ngủ đông'."
+    },
+    {
+      "type": "text",
+      "content": "Vì vậy, chỉ nên buộc đóng ứng dụng khi nó bị treo hoặc không phản hồi."
+    },
+    {
+      "type": "image_block",
+      "urls": [
+        "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/1/13/medium-1768280051691666520792.jpg"
+      ],
+      "caption": "Đóng ứng dụng trên iPhone không giúp tiết kiệm pin"
+    },
+    {
+      "type": "h2",
+      "content": "Tắt Wi-Fi/Bluetooth ở trung tâm điều khiển"
+    },
+    {
+      "type": "text",
+      "content": "Nhiều người dùng nghĩ rằng việc chạm vào biểu tượng Wi-Fi hoặc Bluetooth ở Control Center (Trung tâm điều khiển) cho đến khi nó chuyển sang màu xám là đã tắt toàn bộ các kết nối. Nhưng điều này là không đúng."
+    },
+    {
+      "type": "text",
+      "content": "Kể từ iOS 11, thao tác này chỉ ngắt kết nối với thiết bị/mạng hiện tại. Các sóng vô tuyến vẫn hoạt động ngầm để phục vụ các tính năng hệ sinh thái như AirDrop, Handoff, định vị hoặc kết nối với Apple Watch."
+    },
+    {
+      "type": "text",
+      "content": "Để tắt hoàn toàn và tiết kiệm pin thực sự, bạn bắt buộc phải vào Cài đặt (Settings) và gạt tắt thủ công."
+    },
+    {
+      "type": "h2",
+      "content": "Sạc qua đêm làm chai pin"
+    },
+    {
+      "type": "text",
+      "content": "Lầm tưởng này bắt nguồn từ công nghệ pin cũ (niken-cadmium). Với pin Lithium-ion hiện đại trên iPhone, chip quản lý năng lượng sẽ tự động ngắt dòng điện khi pin đạt 100%."
+    },
+    {
+      "type": "text",
+      "content": "Ngoài ra, tính năng 'Sạc pin được tối ưu hóa' (Optimized Battery Charging) của Apple sử dụng AI để 'học' thói quen ngủ của bạn. Máy sẽ sạc đến 80% rồi tạm ngừng và chỉ nạp đầy 20% còn lại ngay trước khi bạn thức dậy để giảm thiểu lão hóa hóa học cho pin."
+    },
+    {
+      "type": "h2",
+      "content": "Apple cố tình làm chậm máy cũ để ép người dùng nâng cấp"
+    },
+    {
+      "type": "text",
+      "content": "Dù scandal 'Batterygate' là có thật, nhưng mục đích của Apple thường bị hiểu sai. Khi pin bị chai theo thời gian, nó không thể cung cấp dòng điện đủ mạnh cho các tác vụ nặng, dẫn đến việc máy bị sập nguồn đột ngột để bảo vệ linh kiện."
+    },
+    {
+      "type": "text",
+      "content": "Tính năng quản lý hiệu suất (Performance Management) được sinh ra để giảm xung nhịp CPU, giúp máy hoạt động ổn định (dù chậm hơn một chút) thay vì liên tục tắt máy giữa chừng. Đây là giải pháp kỹ thuật để kéo dài tuổi thọ thiết bị, không đơn thuần là chiêu trò kinh doanh."
+    }
+  ],
+  "sourceUrl": "https://thanhnien.vn/5-lam-tuong-thuong-thay-ve-iphone-18526011311480422.htm",
+  "id": "18526011311480422"
+}

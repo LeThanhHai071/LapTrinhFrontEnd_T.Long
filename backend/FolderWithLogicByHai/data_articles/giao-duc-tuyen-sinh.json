@@ -3,87 +3,107 @@
   "categoryName": "Tuyển sinh",
   "fullSlug": "giao-duc-tuyen-sinh",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:02:58.716Z",
+  "lastUpdate": "2026-01-18T04:52:22.818Z",
   "articles": [
     {
-      "title": "Tuyển sinh ĐH 2026: Bỏ tổ hợp xét tuyển truyền thống tác động gì tới thí sinh?",
-      "link": "https://thanhnien.vn/tuyen-sinh-dh-2026-bo-to-hop-xet-tuyen-truyen-thong-tac-dong-gi-toi-thi-sinh-185260112111454074.htm",
-      "pubDate": "Mon, 12 Jan 26 18:42:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/img4665-17681914077951206458926-106-0-1706-2560-crop-176819143806218186143.jpg",
-      "description": "Năm 2026 nhiều trường đại học (ĐH) có điều chỉnh tổ hợp môn xét tuyển, đáng chú ý là loại bỏ một số tổ hợp môn xét tuyển truyền thống và thay thế bằng các tổ hợp môn mới. Sự điều chỉnh này tác động như thế nào đến thí sinh?",
-      "guid": "https://thanhnien.vn/tuyen-sinh-dh-2026-bo-to-hop-xet-tuyen-truyen-thong-tac-dong-gi-toi-thi-sinh-185260112111454074.htm"
+      "title": "Dày đặc kỳ thi năng lực vào đại học, học sinh nên chọn gì, ôn sao?",
+      "link": "https://thanhnien.vn/day-dac-ky-thi-nang-luc-vao-dai-hoc-hoc-sinh-nen-chon-gi-on-sao-185260117083558499.htm",
+      "pubDate": "Sat, 17 Jan 26 09:23:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/danh-gia-nang-luc-dot-2-2025-3-1748758330018149310862-0-0-1250-2000-crop-1768613588986107552798.jpg",
+      "imgClass": "img-resize",
+      "description": "Năm 2026, nhiều trường ĐH trên cả nước tiếp tục dùng kết quả những kỳ thi đánh giá năng lực để xét tuyển, yêu cầu học sinh lớp 12 phải có chiến lược ôn tập phù hợp để tăng cơ hội đậu nguyện vọng mơ ước.",
+      "guid": "https://thanhnien.vn/day-dac-ky-thi-nang-luc-vao-dai-hoc-hoc-sinh-nen-chon-gi-on-sao-185260117083558499.htm",
+      "categoryName": "Giáo dục"
     },
     {
-      "title": "Bắt đầu đăng ký tài khoản dự thi đánh giá năng lực chuyên biệt năm 2026",
-      "link": "https://thanhnien.vn/bat-dau-dang-ky-tai-khoan-du-thi-danh-gia-nang-luc-chuyen-biet-nam-2026-185260112175743792.htm",
-      "pubDate": "Mon, 12 Jan 26 18:16:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/img2126-1756565882707139713916-0-0-1440-2304-crop-17682165685341672402672.jpg",
-      "description": "Năm 2026, nhiều cơ sở giáo dục đại học (ĐH) tổ chức kỳ thi đánh giá năng lực phục vụ tuyển sinh. Trong đó, một kỳ thi đã mở cổng cho thí sinh đăng ký tài khoản dự thi đợt 1 năm nay.",
-      "guid": "https://thanhnien.vn/bat-dau-dang-ky-tai-khoan-du-thi-danh-gia-nang-luc-chuyen-biet-nam-2026-185260112175743792.htm"
+      "title": "Tuyển sinh ĐH 2026: Môn nào xuất hiện nhiều trong các tổ hợp xét tuyển?",
+      "link": "https://thanhnien.vn/tuyen-sinh-dh-2026-mon-nao-xuat-hien-nhieu-trong-cac-to-hop-xet-tuyen-18526011621024569.htm",
+      "pubDate": "Sat, 17 Jan 26 05:45:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/nt08747-1768585214497692156732-0-0-1600-2560-crop-17685852739901170164022.jpg",
+      "imgClass": "img-resize",
+      "description": "Một trong những điều chỉnh quan trọng của kỳ tuyển sinh đại học năm 2026 liên quan tới tổ hợp môn xét tuyển. Năm nay các trường có xu hướng tập trung xét tuyển những tổ hợp gồm các môn nào là vấn đề thí sinh cần quan tâm.",
+      "guid": "https://thanhnien.vn/tuyen-sinh-dh-2026-mon-nao-xuat-hien-nhieu-trong-cac-to-hop-xet-tuyen-18526011621024569.htm",
+      "categoryName": "Giáo dục"
     },
     {
-      "title": "Mốc thời gian tuyển sinh đầu cấp ở TP.HCM, phụ huynh học sinh cần chú ý",
-      "link": "https://thanhnien.vn/moc-thoi-gian-tuyen-sinh-dau-cap-o-tphcm-phu-huynh-hoc-sinh-can-chu-y-185260112104648447.htm",
-      "pubDate": "Mon, 12 Jan 26 11:28:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/tvtsdc-nth-17681893125762020504850-0-0-1280-2048-crop-1768189323256328357519.jpg",
-      "description": "Tuyển sinh đầu cấp năm học 2026-2027 là kỳ tuyển sinh đầu tiên của TP.HCM sau sáp nhập.  Sở GD-ĐT TP.HCM thông báo các mốc thời gian với những quy định cụ thể cho từng giai đoạn tuyển sinh đầu cấp để phụ huynh lưu ý thực hiện, tránh tối đa việc ảnh hưởng đến kết quả tuyển sinh của con em.",
-      "guid": "https://thanhnien.vn/moc-thoi-gian-tuyen-sinh-dau-cap-o-tphcm-phu-huynh-hoc-sinh-can-chu-y-185260112104648447.htm"
+      "title": "TP.HCM bắt đầu dạy về trí tuệ nhân tạo: Thí điểm với học sinh trường nào?",
+      "link": "https://thanhnien.vn/tphcm-bat-dau-day-ve-tri-tue-nhan-tao-thi-diem-voi-hoc-sinh-truong-nao-185260116182232706.htm",
+      "pubDate": "Fri, 16 Jan 26 18:53:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/ttnt-17685620585441227435914-100-0-1350-2000-crop-1768562086100697880760.png",
+      "imgClass": "img-resize",
+      "description": "Học sinh các trường THPT chuyên, trường tiên tiến, chất lượng cao, trường học số của TPHCM sẽ bắt đầu học về trí tuệ nhân tạo từ năm học 2025-2026.",
+      "guid": "https://thanhnien.vn/tphcm-bat-dau-day-ve-tri-tue-nhan-tao-thi-diem-voi-hoc-sinh-truong-nao-185260116182232706.htm",
+      "categoryName": "Giáo dục"
     },
     {
-      "title": "Khởi động tư vấn trực tuyến hướng nghiệp và tuyển sinh năm 2026",
-      "link": "https://thanhnien.vn/khoi-dong-tu-van-truc-tuyen-huong-nghiep-va-tuyen-sinh-nam-2026-185260111205606613.htm",
-      "pubDate": "Mon, 12 Jan 26 05:54:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/a-1-trang-17-012-17681395043161180130013-126-0-1726-2560-crop-1768139526595765148962.jpg",
-      "description": "Báo Thanh Niên chính thức khởi động nhiều hoạt động hỗ trợ hướng nghiệp và tuyển sinh năm 2026. Một trong các chương trình truyền thống, được nhiều thí sinh quan tâm là tư vấn truyền hình trực tuyến trên các nền tảng của báo.",
-      "guid": "https://thanhnien.vn/khoi-dong-tu-van-truc-tuyen-huong-nghiep-va-tuyen-sinh-nam-2026-185260111205606613.htm"
+      "title": "Trường ĐH Kiến trúc TP.HCM xét học bạ học sinh của 86 trường THPT",
+      "link": "https://thanhnien.vn/truong-dh-kien-truc-tphcm-xet-hoc-ba-hoc-sinh-cua-86-truong-thpt-185260116111641408.htm",
+      "pubDate": "Fri, 16 Jan 26 11:59:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/dnt9798-1768537378976330384429-249-0-1849-2560-crop-1768537432971261501633.jpg",
+      "imgClass": "img-resize",
+      "description": "Trong số 4 phương thức tuyển sinh năm 2026 của Trường ĐH Kiến trúc TP.HCM, có một phương thức xét thí sinh tốt nghiệp THPT tại các trường THPT đào tạo lớp chuyên, năng khiếu trong cả nước căn cứ vào học bạ THPT.",
+      "guid": "https://thanhnien.vn/truong-dh-kien-truc-tphcm-xet-hoc-ba-hoc-sinh-cua-86-truong-thpt-185260116111641408.htm",
+      "categoryName": "Giáo dục"
     },
     {
-      "title": "Ôn thi lớp 10 theo cách ra đề mới",
-      "link": "https://thanhnien.vn/on-thi-lop-10-theo-cach-ra-de-moi-185260111180636666.htm",
-      "pubDate": "Mon, 12 Jan 26 05:45:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/a-1-trang-16-012-1768129439086444349977-106-0-1706-2560-crop-1768129460765684128582.jpg",
-      "description": "Sở GD-ĐT TP.HCM đã có thông tin chính thức về kỳ thi tuyển sinh lớp 10 năm học 2026-2027. Dựa vào cấu trúc và phạm vi đánh giá của đề thi đã được công bố, giáo viên hướng dẫn học sinh chuẩn bị kiến thức, kỹ năng để đạt hiệu quả cao nhất.",
-      "guid": "https://thanhnien.vn/on-thi-lop-10-theo-cach-ra-de-moi-185260111180636666.htm"
+      "title": "Trường ĐH điều chỉnh tổ hợp xét tuyển, học sinh đổi môn tự chọn",
+      "link": "https://thanhnien.vn/truong-dh-dieu-chinh-to-hop-xet-tuyen-hoc-sinh-doi-mon-tu-chon-185260115161331555.htm",
+      "pubDate": "Fri, 16 Jan 26 05:54:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/hoc-sinh-17684683290471213914852-50-0-690-1024-crop-17684717377871545033865.jpg",
+      "imgClass": "img-resize",
+      "description": "Kỳ tuyển sinh năm 2026, nhiều trường ĐH dự kiến điều chỉnh hàng loạt tổ hợp môn xét tuyển, đáng chú ý là việc bỏ các tổ hợp môn truyền thống như A00 (toán - lý - hóa), C00 (văn - sử - địa)… Điều này tác động đến việc thay đổi tổ hợp môn tự chọn của học sinh các trường phổ thông hiện nay.",
+      "guid": "https://thanhnien.vn/truong-dh-dieu-chinh-to-hop-xet-tuyen-hoc-sinh-doi-mon-tu-chon-185260115161331555.htm",
+      "categoryName": "Giáo dục"
     },
     {
-      "title": "Quy định tuyển sinh đầu cấp năm học mới 2026-2027 của TP.HCM",
-      "link": "https://thanhnien.vn/quy-dinh-tuyen-sinh-dau-cap-nam-hoc-moi-2026-2027-cua-tphcm-185260109131428563.htm",
-      "pubDate": "Fri, 09 Jan 26 14:31:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/tts-1767939066579803979338-0-0-1353-2165-crop-17679391202261807173372.png",
-      "description": "Ngày 9.1, Sở GD-ĐT TP.HCM bắt đầu triển khai kế hoạch rà soát dữ liệu phục vụ công tác tuyển sinh đầu cấp năm học 2026-2027. Trong đó đưa ra các mốc thời gian để phụ huynh lưu ý cập nhật thông tin tuyển sinh cho học sinh.",
-      "guid": "https://thanhnien.vn/quy-dinh-tuyen-sinh-dau-cap-nam-hoc-moi-2026-2027-cua-tphcm-185260109131428563.htm"
+      "title": "Xu hướng tuyển sinh 2026: Siết xét tuyển học bạ, bùng nổ AI",
+      "link": "https://thanhnien.vn/xu-huong-tuyen-sinh-2026-siet-xet-tuyen-hoc-ba-bung-no-ai-185260115185721397.htm",
+      "pubDate": "Fri, 16 Jan 26 05:45:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/a-1-trang-17-016-1768478150861787480977-0-59-1253-2064-crop-1768478157109975357907.jpg",
+      "imgClass": "img-resize",
+      "description": "Tuyển sinh 2026 khu vực phía bắc cho thấy có sự mở rộng ngành mới theo hướng chuyển đổi số ở khối trường kinh tế và siết chặt xét tuyển học bạ ở khối trường kỹ thuật - công nghệ.",
+      "guid": "https://thanhnien.vn/xu-huong-tuyen-sinh-2026-siet-xet-tuyen-hoc-ba-bung-no-ai-185260115185721397.htm",
+      "categoryName": "Giáo dục"
     },
     {
-      "title": "Xu hướng thi tuyển sinh đại học trên máy tính",
-      "link": "https://thanhnien.vn/xu-huong-thi-tuyen-sinh-dai-hoc-tren-may-tinh-18526010821182071.htm",
-      "pubDate": "Fri, 09 Jan 26 05:45:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/a1-17678817628812122234114-58-0-698-1024-crop-17678817863541155515308.jpg",
-      "description": "Theo lộ trình của Bộ GD-ĐT, từ năm 2027 kỳ thi tốt nghiệp THPT được tổ chức thi trên máy tính tại các điểm có đủ điều kiện. Song song đó, hàng loạt kỳ thi phục vụ tuyển sinh đại học - cao đẳng cũng được triển khai trên máy tính thời gian tới.",
-      "guid": "https://thanhnien.vn/xu-huong-thi-tuyen-sinh-dai-hoc-tren-may-tinh-18526010821182071.htm"
+      "title": "Thanh Hóa chọn tiếng Anh là môn thi thứ 3 vào lớp 10",
+      "link": "https://thanhnien.vn/thanh-hoa-chon-tieng-anh-la-mon-thi-thu-3-vao-lop-10-185260115164846395.htm",
+      "pubDate": "Thu, 15 Jan 26 17:41:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/thi-sinh-thi-vao-lop-10-ngay-1-mon-van-07062025-8-1749296721412240941121-0-0-1600-2560-crop-1768473662253991193991.jpg",
+      "imgClass": "img-resize",
+      "description": "Sở GD-ĐT Thanh Hóa đã quyết định chọn tiếng Anh là môn thi thứ 3 trong kỳ thi tuyển sinh vào lớp 10 năm học 2026 - 2027.",
+      "guid": "https://thanhnien.vn/thanh-hoa-chon-tieng-anh-la-mon-thi-thu-3-vao-lop-10-185260115164846395.htm",
+      "categoryName": "Tuyển sinh"
     },
     {
-      "title": "Một trường đại học công lập quay lại xét tuyển bằng học bạ",
-      "link": "https://thanhnien.vn/mot-truong-dai-hoc-cong-lap-quay-lai-xet-tuyen-bang-hoc-ba-18526010715392565.htm",
-      "pubDate": "Wed, 07 Jan 26 16:13:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/img0774-1767775915743715873204-149-238-1401-2241-crop-1767775971824524310001.jpg",
-      "description": "Sau một năm dừng xét tuyển bằng học bạ, một trường đại học (ĐH) công lập tại TP.HCM quay trở lại sử dụng phương thức này.",
-      "guid": "https://thanhnien.vn/mot-truong-dai-hoc-cong-lap-quay-lai-xet-tuyen-bang-hoc-ba-18526010715392565.htm"
+      "title": "Các bước thực hiện tuyển sinh đầu cấp tại TP.HCM phụ huynh cần lưu ý",
+      "link": "https://thanhnien.vn/cac-buoc-thuc-hien-tuyen-sinh-dau-cap-tai-tphcm-phu-huynh-can-luu-y-185260114230510288.htm",
+      "pubDate": "Thu, 15 Jan 26 06:19:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/tieu-hoc-176843234677763795968-0-0-1600-2560-crop-17684323902761196041691.jpg",
+      "imgClass": "img-resize",
+      "description": "Để đảm bảo phân tuyến tuyển sinh đầu cấp năm học 2026-2027 của học sinh chính xác, Sở GD-ĐT TP.HCM hướng dẫn phụ huynh học sinh thực hiện việc rà soát, xác nhận hồ sơ tuyển sinh trực tuyến trên hệ thống tuyển sinh chung của TP.",
+      "guid": "https://thanhnien.vn/cac-buoc-thuc-hien-tuyen-sinh-dau-cap-tai-tphcm-phu-huynh-can-luu-y-185260114230510288.htm",
+      "categoryName": "Giáo dục"
     },
     {
-      "title": "Thông tin mới nhất về môn thi lớp 10 tại TP.HCM năm học 2026-2027",
-      "link": "https://thanhnien.vn/thong-tin-moi-nhat-ve-mon-thi-lop-10-tai-tphcm-nam-hoc-2026-2027-185260106155428202.htm",
-      "pubDate": "Tue, 06 Jan 26 16:09:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/6/hs-lop-9-17676901249181877889014-0-0-1600-2560-crop-17676902335241680407322.jpg",
-      "description": "Chiều 6.1, Sở GD-ĐT TP.HCM thông tin những nội dung về thi lớp 10 năm học 2026-2027 đến UBND 168 phường, xã, đặc khu và các trường phổ thông nhiều cấp học.",
-      "guid": "https://thanhnien.vn/thong-tin-moi-nhat-ve-mon-thi-lop-10-tai-tphcm-nam-hoc-2026-2027-185260106155428202.htm"
+      "title": "Đứng ngồi không yên với môn thi thứ 3 vào lớp 10",
+      "link": "https://thanhnien.vn/dung-ngoi-khong-yen-voi-mon-thi-thu-3-vao-lop-10-185260114185146622.htm",
+      "pubDate": "Thu, 15 Jan 26 05:45:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/a1-17683913710411430697274-34-0-674-1024-crop-1768391407081344410941.jpg",
+      "imgClass": "img-resize",
+      "description": "Môn thi thứ 3 vào lớp 10 lại tiếp tục khiến nhiều học sinh và phụ huynh đứng ngồi không yên. Nơi thì \"im lặng đáng sợ\", nơi thì dự kiến thi quá nhiều môn…",
+      "guid": "https://thanhnien.vn/dung-ngoi-khong-yen-voi-mon-thi-thu-3-vao-lop-10-185260114185146622.htm",
+      "categoryName": "Giáo dục"
     },
     {
-      "title": "Một trường xét học sinh 149 trường THPT diện ưu tiên xét tuyển ĐH Quốc gia TP.HCM",
-      "link": "https://thanhnien.vn/mot-truong-xet-hoc-sinh-149-truong-thpt-dien-uu-tien-xet-tuyen-dh-quoc-gia-tphcm-185260105121359632.htm",
-      "pubDate": "Mon, 05 Jan 26 12:39:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/5/img5647-17675900736132143713434-0-0-1600-2560-crop-176759056321312661489.jpg",
-      "description": "Năm 2026, một trường ĐH tại TP.HCM dự kiến xét tuyển học sinh 149 trường THPT thuộc diện ưu tiên xét tuyển năm 2025 của ĐH Quốc gia TP.HCM.",
-      "guid": "https://thanhnien.vn/mot-truong-xet-hoc-sinh-149-truong-thpt-dien-uu-tien-xet-tuyen-dh-quoc-gia-tphcm-185260105121359632.htm"
+      "title": "Trường ĐH Công nghệ kỹ thuật TP.HCM lần đầu tuyển sinh theo phương thức kết hợp",
+      "link": "https://thanhnien.vn/truong-dh-cong-nghe-ky-thuat-tphcm-lan-dau-tuyen-sinh-theo-phuong-thuc-ket-hop-185260114140902789.htm",
+      "pubDate": "Wed, 14 Jan 26 14:46:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/img9144-1768375170672172888142-213-0-1210-1595-crop-1768375432418206159483.jpg",
+      "imgClass": "img-resize",
+      "description": "Không chỉ đổi tên, Trường ĐH Công nghệ kỹ thuật TP.HCM (tên cũ Trường ĐH Sư phạm kỹ thuật TP.HCM) lần đầu tuyển sinh theo phương thức xét tuyển kết hợp trong năm 2026.",
+      "guid": "https://thanhnien.vn/truong-dh-cong-nghe-ky-thuat-tphcm-lan-dau-tuyen-sinh-theo-phuong-thuc-ket-hop-185260114140902789.htm",
+      "categoryName": "Giáo dục"
     }
   ]
 }

@@ -17,80 +17,29 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
   const [categories, setCategories] = useState([]);
   const [newsData, setNewsData] = useState({});
 
-  // useEffect(() => {
-  //   const getCategories = async () => {
-  //     try {
-  //       const response = await axios.get(
-  //         "http://localhost:5000/api/categories"
-  //       );
-  //       const allData = response.data;
-  //       const parents = allData.filter((cat) => cat.parent_id === null);
-  //       const EXCLUDED_SLUGS = ['video', 'podcast', 'dien-dan', 'ban-can-biet', 'tieu-dung-thong-minh'];
-
-  //       const treeData = parents
-  //       .filter(p => !EXCLUDED_SLUGS.includes(p.slug))
-  //       .map((parent) => {
-  //           const children = allData.filter(
-  //             (child) => child.parent_id === parent.id
-  //           );
-  //           return {
-  //             id: parent.id,
-  //             title: parent.name,
-  //             slug: parent.slug,
-  //             items: children.map((c) => ({
-  //               text: c.name,
-  //               href: `/news/${c.slug}`,
-  //             })),
-  //             childrenCount: children.length,
-  //           };
-  //         })
-  //         .filter((parent) => parent.items.length > 0);
-
-  //       setCategories(treeData);
-
-  //       const mainSlugs = treeData.map((cat) => cat.slug);
-  //       const newsPromises = mainSlugs.map(async (slug) => {
-  //         try {
-  //           const res = await axios.get(
-  //             `http://localhost:5000/api/news/${slug}`
-  //           );
-  //           return { slug, data: res.data };
-  //         } catch (err) {
-  //           console.warn(`Không tìm thấy tin cho slug: ${slug}`);
-  //           return { slug, data: [] };
-  //         }
-  //       });
-  //       const allNewsResults = await Promise.all(newsPromises);
-  //       const formattedNews = {};
-  //       allNewsResults.forEach((item) => {
-  //         formattedNews[item.slug] = item.data;
-  //       });
-
-  //       setNewsData(formattedNews);
-  //     } catch (error) {
-  //       console.error("Không lấy được danh mục", error);
-  //     }
-  //   };
-
-  //   getCategories();
-  // }, []);
-
   useEffect(() => {
     const fetchMenuData = async () => {
       try {
         // 1. Lấy danh mục (Backend đã trả về dạng cây)
         const response = await axios.get(
-          "http://localhost:5000/api/categories"
+          "http://localhost:5000/api/categories",
         );
         const rawTree = response.data;
 
         // 2. Lọc bỏ các mục không muốn hiển thị trên Navbar
-        const EXCLUDED_SLUGS = ["home", "ban-can-biet", "ban-doc", "tieu-dung-thong-minh", "dien-dan", "podcast"];
+        const EXCLUDED_SLUGS = [
+          "home",
+          "ban-can-biet",
+          "ban-doc",
+          "tieu-dung-thong-minh",
+          "dien-dan",
+          "podcast",
+        ];
         const filteredTree = rawTree.filter(
           (cat) =>
             !EXCLUDED_SLUGS.includes(cat.slug) &&
             cat.children &&
-            cat.children.length > 0
+            cat.children.length > 0,
         );
 
         setCategories(filteredTree);
@@ -99,7 +48,7 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
         const newsPromises = filteredTree.map(async (cat) => {
           try {
             const res = await axios.get(
-              `http://localhost:5000/api/category/${cat.fullSlug}`
+              `http://localhost:5000/api/category/${cat.fullSlug}`,
             );
             return { slug: cat.slug, data: res.data.articles || [] };
           } catch (err) {
@@ -179,7 +128,11 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
 
               <div className="header__mm-right">
                 <div className="box">
-                  <Link to="/weather" className="item" title="Chào ngày mới">
+                  <Link
+                    to={`/category/chao-ngay-moi`}
+                    className="item"
+                    title="Chào ngày mới"
+                  >
                     <span className="icon">
                       <div className="bootstrap__icon">
                         <i className="bi bi-cloud-sun-fill"></i>
@@ -187,17 +140,21 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                     </span>
                     Chào ngày mới
                   </Link>
-                  <a href="/tin-24h.htm" className="item" title="Tin 24h">
+                  <Link
+                    to={`/category/tin-24h`}
+                    className="item"
+                    title="Tin 24h"
+                  >
                     <span className="icon">
                       <div className="bootstrap__icon">
                         <i className="bi bi-clock-history"></i>
                       </div>
                     </span>
                     Tin 24h
-                  </a>
+                  </Link>
 
-                  <a
-                    href="/thi-truong.htm"
+                  <Link
+                    to={`/category/tin-thi-truong`}
                     className="item"
                     title="Tin thị trường"
                   >
@@ -207,20 +164,24 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                       </div>
                     </span>
                     Tin thị trường
-                  </a>
+                  </Link>
 
-                  <a href="/tin-nhanh-360.htm" className="item" title="Tin 360">
+                  <Link
+                    to={`/category/tin-nhanh-360`}
+                    className="item"
+                    title="Tin 360"
+                  >
                     <span className="icon">
                       <div className="bootstrap__icon">
                         <i className="bi bi-globe"></i>
                       </div>
                     </span>
                     Tin 360
-                  </a>
+                  </Link>
                 </div>
 
                 <div className="box">
-                  <a href="/video.htm" className="item" title="Video">
+                  <a href="" className="item" title="Video">
                     <span className="icon">
                       <div className="bootstrap__icon">
                         <i className="bi bi-play-circle"></i>
@@ -229,7 +190,7 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                     Video
                   </a>
 
-                  <a href="/magazine.htm" className="item" title="Magazine">
+                  <a href="" className="item" title="Magazine">
                     <span className="icon">
                       <div className="bootstrap__icon">
                         <i className="bi bi-journal-richtext"></i>
@@ -239,20 +200,16 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                   </a>
                 </div>
                 <div className="list-sub">
-                  <a
-                    href="/tien-ich/thoi-tiet.htm"
-                    className="item"
-                    title="Tiện ích"
-                  >
+                  <Link to={"/weather"} className="item" title="Tiện ích">
                     <span className="icon">
                       <div className="bootstrap__icon">
                         <i className="bi bi-grid-fill"></i>
                       </div>
                     </span>
                     Tiện ích
-                  </a>
-                  <a
-                    href="/ban-can-biet.htm"
+                  </Link>
+                  <Link
+                    to={`/category/ban-can-biet`}
                     className="item"
                     title="Bạn cần biết"
                   >
@@ -262,8 +219,8 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                       </div>
                     </span>
                     Bạn cần biết
-                  </a>
-                  <a href="/lien-he.htm" className="item" title="Liên hệ">
+                  </Link>
+                  <a href="" className="item" title="Liên hệ">
                     <span className="icon">
                       <div className="bootstrap__icon">
                         <i className="bi bi-telephone"></i>
@@ -271,11 +228,7 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                     </span>
                     Liên hệ
                   </a>
-                  <a
-                    href="/thong-tin-toa-soan.html"
-                    className="item"
-                    title="Thông tin toà soạn"
-                  >
+                  <a href="" className="item" title="Thông tin toà soạn">
                     <span className="icon">
                       <div className="bootstrap__icon">
                         <i className="bi bi-building"></i>
@@ -299,7 +252,7 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
 
                 <div className="social">
                   <a
-                    href="https://www.facebook.com/thanhnien"
+                    href=""
                     className="item"
                     rel="nofollow"
                     target="_blank"
@@ -308,7 +261,7 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                     <FacebookIconCustom />
                   </a>
                   <a
-                    href="https://zalo.me/2431025964363015388"
+                    href=""
                     className="item"
                     rel="nofollow"
                     target="_blank"
@@ -317,7 +270,7 @@ const Navbar = ({ isOpen, onCloseMenu }) => {
                     <ZaloIconCustom />
                   </a>
                   <a
-                    href="https://www.youtube.com/channel/UCIW9cGgoRuGJnky3K3tbzNg"
+                    href=""
                     className="item"
                     rel="nofollow"
                     target="_blank"

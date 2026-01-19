@@ -3,87 +3,107 @@
   "categoryName": "Phóng sự / Điều tra",
   "fullSlug": "thoi-su-phong-su-dieu-tra",
   "limitApplied": 10,
-  "lastUpdate": "2026-01-12T14:01:28.357Z",
+  "lastUpdate": "2026-01-18T04:50:43.142Z",
   "articles": [
+    {
+      "title": "Người già và dưỡng lão: Tình già",
+      "link": "https://thanhnien.vn/nguoi-gia-va-duong-lao-tinh-gia-185260117213941568.htm",
+      "pubDate": "Sun, 18 Jan 26 06:11:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/17/4-bua-an-tap-the-cua-cac-cu-tai-vdl-binh-myanh-nhu-lich-17686604284171348894094-0-0-832-1331-crop-17686605560751736063830.jpg",
+      "imgClass": "img-resize",
+      "description": "Đang ở một viện dưỡng lão tại TP.HCM, ông Đ. (77 tuổi) có nhu cầu tìm bạn đời. Gặp tôi, ông nhắn nhủ nếu thấy ai 'được được' thì giới thiệu cho ông.",
+      "guid": "https://thanhnien.vn/nguoi-gia-va-duong-lao-tinh-gia-185260117213941568.htm",
+      "categoryName": "Phóng sự / Điều tra"
+    },
+    {
+      "title": "Người già và dưỡng lão: Nương tựa người dưng",
+      "link": "https://thanhnien.vn/nguoi-gia-va-duong-lao-nuong-tua-nguoi-dung-185260116224722763.htm",
+      "pubDate": "Sat, 17 Jan 26 06:09:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/16/22a-yeu-nghe-chi-nguyen-thi-tu-anh-khang-dinh-bi-cu-la-cung-thay-vuianh-nhu-lich-17685780004821662727648-0-0-640-1024-crop-17685781155061358455429.jpg",
+      "imgClass": "img-resize",
+      "description": "Rời gia đình vào ở viện dưỡng lão, sinh hoạt hằng ngày của các cụ chủ yếu nương tựa sự chăm sóc của những \"người dưng\".",
+      "guid": "https://thanhnien.vn/nguoi-gia-va-duong-lao-nuong-tua-nguoi-dung-185260116224722763.htm",
+      "categoryName": "Phóng sự / Điều tra"
+    },
+    {
+      "title": "Người già và dưỡng lão: Ngăn ngừa bạo hành",
+      "link": "https://thanhnien.vn/nguoi-gia-va-duong-lao-ngan-ngua-bao-hanh-185260115160122534.htm",
+      "pubDate": "Fri, 16 Jan 26 05:17:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/15/anh-1-17684673729141463299161-66-0-791-1160-crop-17684673921921542200881.jpg",
+      "imgClass": "img-resize",
+      "description": "'Liệu các cụ có bị bạo hành?', đó là mối quan tâm hàng đầu của các gia đình khi gửi người thân vào viện dưỡng lão.",
+      "guid": "https://thanhnien.vn/nguoi-gia-va-duong-lao-ngan-ngua-bao-hanh-185260115160122534.htm",
+      "categoryName": "Phóng sự / Điều tra"
+    },
+    {
+      "title": "Người già và dưỡng lão: Tìm đâu dưỡng lão giá rẻ?",
+      "link": "https://thanhnien.vn/nguoi-gia-va-duong-lao-tim-dau-duong-lao-gia-re-185260114183444258.htm",
+      "pubDate": "Thu, 15 Jan 26 06:30:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/14/2-cac-cu-sinh-hoat-tai-trung-tam-duong-lao-dien-honganh-dldh-1768390222313643063194-0-0-1080-1728-crop-17683904009351814626082.jpg",
+      "imgClass": "img-resize",
+      "description": "Mức phí chăm sóc cơ bản tại nhiều viện dưỡng lão hiện nay từ 12 - 16 triệu đồng/tháng. Những cụ có thu nhập thấp sẽ tìm nơi đâu có dưỡng lão giá rẻ?",
+      "guid": "https://thanhnien.vn/nguoi-gia-va-duong-lao-tim-dau-duong-lao-gia-re-185260114183444258.htm",
+      "categoryName": "Phóng sự / Điều tra"
+    },
+    {
+      "title": "Người già và dưỡng lão: Chốn nương tựa cuối đời",
+      "link": "https://thanhnien.vn/nguoi-gia-va-duong-lao-chon-nuong-tua-cuoi-doi-185260113161610755.htm",
+      "pubDate": "Wed, 14 Jan 26 04:57:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/13/anh-1-online-1768295388339608471335-0-0-608-973-crop-17682954510221105585871.jpg",
+      "imgClass": "img-resize",
+      "description": "Không có con hoặc con làm ăn xa, định cư ở nước ngoài, những cụ già neo đơn chấp nhận vào viện dưỡng lão như nơi nương tựa cuối đời.",
+      "guid": "https://thanhnien.vn/nguoi-gia-va-duong-lao-chon-nuong-tua-cuoi-doi-185260113161610755.htm",
+      "categoryName": "Phóng sự / Điều tra"
+    },
+    {
+      "title": "Người già và dưỡng lão: Có tiền chưa chắc được vào an dưỡng",
+      "link": "https://thanhnien.vn/nguoi-gia-va-duong-lao-co-tien-chua-chac-duoc-vao-an-duong-185260112184010622.htm",
+      "pubDate": "Tue, 13 Jan 26 08:38:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/nguoi-cao-tuoi1-1768218004924153409277-0-0-640-1024-crop-176822519755210635976.jpg",
+      "imgClass": "img-resize",
+      "description": "Việt Nam thuộc nhóm những nước có tốc độ già hóa nhanh nhất thế giới. Tuy nhiên, hệ thống viện dưỡng lão vẫn chưa đáp ứng nhu cầu của người dân. Kể cả có điều kiện tài chính, không phải bất cứ người già nào cũng đều được nhận vào viện dưỡng lão.",
+      "guid": "https://thanhnien.vn/nguoi-gia-va-duong-lao-co-tien-chua-chac-duoc-vao-an-duong-185260112184010622.htm",
+      "categoryName": "Phóng sự / Điều tra"
+    },
+    {
+      "title": "Làng mai tết: Kẻ khóc người cười",
+      "link": "https://thanhnien.vn/lang-mai-tet-ke-khoc-nguoi-cuoi-185260112202157783.htm",
+      "pubDate": "Tue, 13 Jan 26 06:15:00 +0700",
+      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/12/-vuon-mai-cua-ong-le-van-tiep-voi-hon-800-cay-mai-chi-co-chung-200-cay-co-nu-choi-tetanh-tran-hieu-17682238467522014918748-119-0-759-1024-crop-17682238844941138080826.jpg",
+      "imgClass": "img-resize",
+      "description": "Chỉ còn hơn một tháng nữa là đến Tết Nguyên đán Bính Ngọ 2026, nhưng nhiều người trồng mai ở phía tây Gia Lai đang trĩu nặng nỗi lo bởi sương muối và thời tiết thất thường khiến hàng ngàn chậu mai héo lá, cháy nụ.",
+      "guid": "https://thanhnien.vn/lang-mai-tet-ke-khoc-nguoi-cuoi-185260112202157783.htm",
+      "categoryName": "Thời sự"
+    },
     {
       "title": "Gác tàu giữa lòng TP.HCM: Người thức cùng thành phố",
       "link": "https://thanhnien.vn/gac-tau-giua-long-tphcm-nguoi-thuc-cung-thanh-pho-185260111210437386.htm",
       "pubDate": "Mon, 12 Jan 26 06:17:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/11/photo-1768139382373-17681393834031108139723-84-0-1334-2000-crop-17681402354751086032765.jpeg",
+      "imgClass": "img-resize",
       "description": "Giữa những âm thanh quen thuộc của TP.HCM, giữa bao chuyến tàu ngày đêm băng qua, những người gác chắn tàu như chị Nguyễn Thị Tâm, anh Nguyễn Xuân Hoàng lặng lẽ thức cùng thành phố, giữ cho nhịp sống đô thị luôn an toàn, bền bỉ và đều đặn.",
-      "guid": "https://thanhnien.vn/gac-tau-giua-long-tphcm-nguoi-thuc-cung-thanh-pho-185260111210437386.htm"
+      "guid": "https://thanhnien.vn/gac-tau-giua-long-tphcm-nguoi-thuc-cung-thanh-pho-185260111210437386.htm",
+      "categoryName": "Phóng sự / Điều tra"
     },
     {
       "title": "Gác tàu giữa lòng TP.HCM: Đón giao thừa bên gác chắn",
       "link": "https://thanhnien.vn/gac-tau-giua-long-tphcm-don-giao-thua-ben-gac-chan-18526011018251547.htm",
       "pubDate": "Sun, 11 Jan 26 07:22:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/10/1-1768044047352963455858-107-0-1707-2560-crop-1768044054734412888797.jpg",
+      "imgClass": "img-resize",
       "description": "Giữa những đêm dài, khi TP.HCM đã chìm vào giấc ngủ, ánh đèn trong trạm gác của chị Tâm, anh Hoàng vẫn sáng. Tiếng còi tàu từ xa vọng lại, họ chỉnh lại bộ đồng phục màu xanh, cầm lá cờ, ngọn đèn bước ra ngoài.",
-      "guid": "https://thanhnien.vn/gac-tau-giua-long-tphcm-don-giao-thua-ben-gac-chan-18526011018251547.htm"
+      "guid": "https://thanhnien.vn/gac-tau-giua-long-tphcm-don-giao-thua-ben-gac-chan-18526011018251547.htm",
+      "categoryName": "Phóng sự / Điều tra"
     },
     {
       "title": "Gác tàu giữa lòng TP.HCM",
       "link": "https://thanhnien.vn/gac-tau-giua-long-tphcm-185260109224023601.htm",
       "pubDate": "Sat, 10 Jan 26 04:00:00 +0700",
       "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/9/photo-1767973107064-1767973107950853957765-82-0-1332-2000-crop-17679731657261579597962.jpeg",
+      "imgClass": "img-resize",
       "description": "Đoàn tàu SE lại hú còi chạy trong lòng thành phố. Bên ngoài, dòng xe lại cuồn cuộn tràn qua. Thanh chắn nâng lên, chị Tâm, anh Hoàng bước vào trạm chắn, lau mồ hôi, ghi chép giờ tàu; trên bàn, tách trà còn nghi ngút khói.",
-      "guid": "https://thanhnien.vn/gac-tau-giua-long-tphcm-185260109224023601.htm"
-    },
-    {
-      "title": "Về xứ Mường: Độc đáo gốm Mường",
-      "link": "https://thanhnien.vn/ve-xu-muong-doc-dao-gom-muong-185260108204436457.htm",
-      "pubDate": "Fri, 09 Jan 26 06:53:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/8/anh-1-17678791484731224759338-43-0-683-1024-crop-1767879886741183792743.jpg",
-      "description": "Người Mường vốn không làm gốm nhưng một họa sĩ đã dùng hơn 10 năm 'biến hóa' cùng đất tổ mối, men tro, nguyên liệu bản địa để khai sinh dòng nghệ thuật mới: gốm Mường.",
-      "guid": "https://thanhnien.vn/ve-xu-muong-doc-dao-gom-muong-185260108204436457.htm"
-    },
-    {
-      "title": "Về xứ Mường: Chuyện 'chiêng có hồn'",
-      "link": "https://thanhnien.vn/ve-xu-muong-chuyen-chieng-co-hon-185260107200206933.htm",
-      "pubDate": "Thu, 08 Jan 26 05:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/7/photo-1767790671819-17677906727582035486836-111-0-1361-2000-crop-1767790895650835294745.jpeg",
-      "description": "Chỉ bằng cái xoa nhẹ, chiếc chiêng cổ bỗng ngân lên thứ âm thanh lạnh sống lưng. Nhưng lạ thay, cũng chiếc chiêng ấy, người khác xoa mãi, chiêng vẫn im lặng.",
-      "guid": "https://thanhnien.vn/ve-xu-muong-chuyen-chieng-co-hon-185260107200206933.htm"
-    },
-    {
-      "title": "Về xứ Mường: Câu hò xin thần rừng và nhà lang cuối cùng",
-      "link": "https://thanhnien.vn/ve-xu-muong-cau-ho-xin-than-rung-va-nha-lang-cuoi-cung-185260106181328008.htm",
-      "pubDate": "Wed, 07 Jan 26 06:59:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/6/anh-2-17676977045812081844047-320-0-1920-2560-crop-17676978028062048343707.jpg",
-      "description": "Muốn lắng nghe hồn vía xứ Mường, phải về Hòa Bình (nay là tỉnh Phú Thọ) - vùng đất được xem là địa bàn cư trú cổ xưa nhất của người Mường (chiếm hơn 60% dân số).",
-      "guid": "https://thanhnien.vn/ve-xu-muong-cau-ho-xin-than-rung-va-nha-lang-cuoi-cung-185260106181328008.htm"
-    },
-    {
-      "title": "Về xứ Mường: 'Quái ngư' sông Đà trong cỗ lá Mường",
-      "link": "https://thanhnien.vn/ve-xu-muong-quai-ngu-song-da-trong-co-la-muong-1852601050949375.htm",
-      "pubDate": "Tue, 06 Jan 26 05:00:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/5/quai-ngu1-1767593239555183697446-97-0-737-1024-crop-176759406734243124701.jpg",
-      "description": "Tại sao dân sành ăn lại mê mẩn những loài \"quái ngư\" dưới sông Đà ? Bài viết hé lộ câu chuyện quái ngư và quy tắc \"người vào, ma ra\" trong ẩm thực xứ Mường.",
-      "guid": "https://thanhnien.vn/ve-xu-muong-quai-ngu-song-da-trong-co-la-muong-1852601050949375.htm"
-    },
-    {
-      "title": "Về xứ Mường: Thầy mo Mường và túi Khót bí ẩn",
-      "link": "https://thanhnien.vn/ve-xu-muong-thay-mo-muong-va-tui-khot-bi-an-185260104225803837.htm",
-      "pubDate": "Mon, 05 Jan 26 06:35:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/4/anh-1-1767541653609198809324-268-0-1868-2560-crop-1767541904942508988630.jpg",
-      "description": "Lên xứ Mường Chậm (tỉnh Phú Thọ) gặp thầy mo đời thứ 6, mở túi Khót chứa hơn 40 bảo bối và nghe những câu chuyện nằm giữa ranh giới hư - thực.",
-      "guid": "https://thanhnien.vn/ve-xu-muong-thay-mo-muong-va-tui-khot-bi-an-185260104225803837.htm"
-    },
-    {
-      "title": "'Con muốn sống': 3,9 tỉ đồng đến với 43 bệnh nhi ung thư",
-      "link": "https://thanhnien.vn/con-muon-song-39-ti-dong-den-voi-43-benh-nhi-ung-thu-18525122917041233.htm",
-      "pubDate": "Sun, 04 Jan 26 09:58:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/1/2/mai-am-benh-nhi-ung-thu-1767322032792276590250-94-0-1568-2358-crop-1767322591500780004472.jpg",
-      "description": "Những bài viết 'Con muốn sống' trên Báo Thanh Niên không chỉ dừng lại ở mặt giấy, mà chạm tới nhịp thở của sự sống và hy vọng.",
-      "guid": "https://thanhnien.vn/con-muon-song-39-ti-dong-den-voi-43-benh-nhi-ung-thu-18525122917041233.htm"
-    },
-    {
-      "title": "Câu chuyện tình báo: Những 'điệp vụ' của Thanh Niên",
-      "link": "https://thanhnien.vn/cau-chuyen-tinh-bao-nhung-diep-vu-cua-thanh-nien-185251212145805346.htm",
-      "pubDate": "Sat, 03 Jan 26 12:30:00 +0700",
-      "imageURL": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2025/12/26/diep-vien-tno-17667407212241398746774-0-79-501-881-crop-17667410794161712853996.jpg",
-      "description": "Để lần ra các mạng lưới tình báo trong chống Mỹ, Thanh Niên không lấy thông tin từ một nguồn mà tiếp cận cả một hệ thống những người đang sống cùng tất cả những tài liệu ghi chép của họ, rồi xác minh bởi chính nhân vật.",
-      "guid": "https://thanhnien.vn/cau-chuyen-tinh-bao-nhung-diep-vu-cua-thanh-nien-185251212145805346.htm"
+      "guid": "https://thanhnien.vn/gac-tau-giua-long-tphcm-185260109224023601.htm",
+      "categoryName": "Phóng sự / Điều tra"
     }
   ]
 }
